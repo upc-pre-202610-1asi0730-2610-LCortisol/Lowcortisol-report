@@ -586,37 +586,9 @@ Low Cortisol adoptará una estrategia de innovación continua, incorporando mejo
 
 #### Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
  
-1. ¿Ha tenido alguna fuga de agua o gas en su vivienda?
-2. ¿Con qué frecuencia ocurren estos problemas?
-3. ¿Cómo suele detectar una fuga o anomalía?
-4. ¿Cuánto tiempo tarda en darse cuenta del problema?
-5. ¿Qué consecuencias ha tenido (costos, daños, riesgos)?
-6. ¿Cómo soluciona actualmente estos incidentes?
-7. ¿Le resulta fácil encontrar técnicos confiables?
-8. ¿Qué tan importante es para usted la seguridad en su hogar?
-9. ¿Le preocupa el consumo de agua o gas mensual?
-10. ¿Usaría un sistema que le notifique en tiempo real sobre fugas?
-11. ¿Qué funcionalidades le gustaría que tenga este sistema?
-12. ¿Estaría dispuesto a pagar por un servicio de monitoreo?
 
 #### Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
-1. ¿Cómo gestionan actualmente el monitoreo de redes de agua o gas?
-2. ¿Existen pérdidas frecuentes en la infraestructura? ¿Cuáles son las principales causas?
-3. ¿Han tenido problemas relacionados con fugas de agua o gas? ¿Con qué frecuencia ocurren estos incidentes?
-4. ¿Cómo detectan actualmente las fugas o fallas?
-5. ¿Cuánto tiempo tarda el proceso de detección y reparación?
-6. ¿Cuentan con un sistema de monitoreo continuo? ¿Qué tecnologías utilizan?
-7. ¿Qué limitaciones presentan los sistemas actuales?
-8. ¿Qué impacto generan estas fallas en la comunidad o en la experiencia del cliente?
-9. ¿Qué medidas toman para prevenir fallas? ¿Cómo gestionan el mantenimiento de sus instalaciones?
-10. ¿Qué tan importante es evitar interrupciones en el servicio?
-11. ¿Qué tan importante es la optimización del consumo de recursos?
-12. ¿Les interesaría recibir alertas en tiempo real?
-13. ¿Considerarían implementar soluciones basadas en IoT?
-14. ¿Qué características y funcionalidades consideran clave en una solución de monitoreo?
-15. ¿Qué dificultades ven en la implementación de este tipo de sistemas?
-16. ¿Estarían dispuestos a invertir en este tipo de solución? ¿Qué beneficios esperan obtener?
 
 
 ### 2.2.2 Registro Entrevistas
@@ -626,53 +598,53 @@ Low Cortisol adoptará una estrategia de innovación continua, incorporando mejo
 ##### Entrevista 1 - Segmento: Hogares
 
 **Datos del Entrevistado:**
-- Edad: 19
-- Nombre: Yazid Dumet Isaac Pinto
-- Ocupación: Estudiante de Ingenieria  Mecatronica
-- Distrito: Molina
+- Edad: 
+- Nombre:
+- Ocupación: 
+- Distrito: 
 
 **Evidencia:**
-- URL: [Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQD7BHUGgfX-R6Oz1emzH8bFAQ5R1r1xMT7iyeOb6NyvI0c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TAg39Z)
-- Duración video: 4:24
+- URL: [Entrevista - 1]()
+- Duración video: 
 - Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+  ![Entrevistado-1]()
 
 
 **<u>Resumen de la entrevista:</u>**
-Yazid es un estudiante de Ingeniería Mecatrónica que habita en una vivienda con más de 40 años de antigüedad, factor que vuelve las fugas de agua un problema crónico debido al desgaste natural de la red. Describe que la detección actual es tardía y depende de señales visuales como hongos, caída de pintura, baja presión en los grifos o el impacto económico en los recibos mensuales. Para él, el impacto más fuerte es el desperdicio de recursos y el riesgo de seguridad que implican las fugas de gas. Su perfil académico lo hace especialmente receptivo a soluciones tecnológicas avanzadas; espera una herramienta que no solo envíe alertas al móvil e identifique la zona exacta del fallo, sino que también ofrezca la capacidad de cortar el suministro de forma remota (válvulas inteligentes). Yazid valora la eficiencia y la innovación, considerando que una solución así mejoraría drásticamente la seguridad del hogar y reduciría el gasto innecesario de agua.
+
 
 
 ##### Entrevista 2 - Segmento: Hogares
 
 **Datos del Entrevistado:**
-- Edad: 19
-- Nombre: Jesus Huaman
-- Ocupación: Estudiante de Ing de Software
-- Distrito: Ate
+- Edad: 
+- Nombre: 
+- Ocupación: 
+- Distrito: 
 
 **Evidencia:**
-- URL: [Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQDbk1DYJMu7TqQ7YVonCc7kAfORlvBeEqx0ePXhcOI9QBs?e=UhgedF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- Duración video: 8:41
-- Screenshot: ![Entrevistado-2](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQBFJzGW3bK0SoA2oyThe0AoAfVqaqoO0QSCJ9a8YOHuuWA?e=RVhzTc)
+- URL: [Entrevista - 2]()
+- Duración video: 
+- Screenshot: ![Entrevistado-2]()
 
 **<u>Resumen de la entrevista:</u>** 
-Jesús es un estudiante con conocimientos técnicos previos que vive en un entorno familiar donde se presentan fugas tanto de agua como de gas, estas últimas generalmente por el uso de mangueras de baja calidad. Explica que mientras la detección de gas es casi inmediata gracias al olfato (menos de 5 minutos), las fugas de agua son más engañosas y pueden tardar hasta una semana en manifestarse mediante salitre o manchas en las paredes. Dado su perfil técnico, él mismo asume el rol de mantenimiento en el hogar para evitar gastos externos. Sin embargo, reconoce las limitaciones de la inspección manual y se muestra muy a favor de implementar sistemas basados en sensores (IoT) que alerten sobre roturas internas no visibles. Propone que este tipo de tecnología debería comercializarse bajo un modelo de suscripción atractivo y destaca que su principal valor sería la tranquilidad y la respuesta inmediata ante emergencias que podrían escalar a desastres.
+
 
 ##### Entrevista 3 - Segmento: Hogares
 
 **Datos del Entrevistado:**
-- Edad: 20
-- Nombre: Frank Serrano
-- Ocupación: Estudiante Ing Software
-- Distrito: Santiago de Surco
+- Edad: 
+- Nombre: 
+- Ocupación: 
+- Distrito: 
 
 **Evidencia:**
-- URL: [Entrevista - 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQCzx8x7QA6FSruSB6l-3xysAbDrym3Es1cHPQIuMX99_28?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NNWf3P)
+- URL: [Entrevista - 3]()
 - Duración video: 6:56
-- Screenshot: ![Entrevistado - 3](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQAP2_9c0JH3R7nHQiJn_N7GAVdz2Hyrkc2ITo6BuXwAgs4?e=tkbRA8)
+- Screenshot: ![Entrevistado - 3]()
 
 **<u>Resumen de la entrevista:</u>**
-El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, que reside en un hogar donde las fugas de agua ocurren con una frecuencia de cada tres o cuatro meses. Durante la charla, menciona que suele notar el problema de manera reactiva, muchas veces ignorando las primeras señales hasta que el daño es evidente a través de charcos o humedad excesiva. Su gestión actual es mixta: intenta realizar reparaciones menores por cuenta propia, pero debe recurrir a técnicos especializados cuando el problema afecta la estructura interna, lo que ha derivado en costos elevados como el cambio de tuberías o pisos dañados. En cuanto a la tecnología, Frank se muestra muy interesado en una solución de monitoreo en tiempo real, siempre que el costo sea accesible y la interfaz permita personalizar o modelar el plano de su hogar para una mejor ubicación de las averías. Su actitud es pragmática, priorizando la prevención económica y la facilidad de uso de una aplicación móvil.
+
 
 
 ##### Entrevista 1 – Segmento: Profesionales de Infraestructura
@@ -802,25 +774,15 @@ Finalmente, muestra una actitud positiva hacia soluciones basadas en IoT, destac
 ## 2.4. Big Picture Event Storming
 
   #### Introducción:
-  Durante esta primera iteración del proyecto hemos logrado avanzar de una manera sólida identificando diversos usuarios y segmentos objetivos, así como posibles tácticas que usaremos con los competidores y cómo armaremos el Lean UX. Terminando por realizar el diseño de entrevistas y su posterior registro.
+
 
 
   #### Resumen del Proceso Realizado:
-  El proceso realizado (hasta ahora) por el equipo ha sido esencial para la creación del proyecto, pasando por iteraciones en los diferentes capítulos, logrando identificar partes clave como los competidores, los segmentos objetivos, los users, etc. Para esto hemos seguido frameworks y guías como los “Ubiquitous Language models”
-
 
 
 ## 2.5. Ubiquitous Language
 
-  A continuación, se presenta un glosario de términos clave del dominio que serán utilizados en el desarrollo de la plataforma Low-Cortisol, orientada a la gestión inteligente
-  del agua en hogares y negocios. Los términos están en inglés, con su equivalente en español entre paréntesis, acompañados de una definición clara en español
 
-  - Water Consumption (Consumo de agua): Cantidad total de agua utilizada en un hogar o negocio en un periodo determinado.
-  - Water Waste (Desperdicio de agua): Agua utilizada de manera ineficiente o pérdida por fugas, goteos o malos hábitos de uso.
-  - Critical Point (Punto crítico): Zona, dispositivo o instalación donde es necesario realizar un monitoreo constante del uso de agua para evitar pérdidas o exceso de consumo.
-  - Real-Time Monitoring (Monitoreo en tiempo real): Seguimiento instantáneo del consumo de agua y estado de los dispositivos a través de sensores IoT conectados a la plataforma.
-  - Water Optimization (Optimización del agua): Conjunto de acciones y recomendaciones destinadas a mejorar la eficiencia en el uso del recurso
- 
 
 # Capitulo III: Requirements Specification
 ## 3.1. User Stories
