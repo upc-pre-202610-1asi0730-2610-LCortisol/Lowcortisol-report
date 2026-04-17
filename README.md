@@ -759,23 +759,11 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 ## 2.4. Big Picture Event Storming
 
   #### Introducción:
-<<<<<<< HEAD
-=======
-
->>>>>>> develop
-
 
   #### Resumen del Proceso Realizado:
 
 
 ## 2.5. Ubiquitous Language
-
-
-<<<<<<< HEAD
- 
-=======
->>>>>>> develop
-
 # Capitulo III: Requirements Specification
 ## 3.1. User Stories
 ## 3.2. Impact Mapping
