@@ -804,6 +804,41 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 ### 4.2.3. SEO Tags and Meta Tags 
 ### 4.2.4. Searching Systems
 
+  El sistema de búsqueda de LowCortisol está diseñado para facilitar el acceso rápido a la información dentro de la plataforma, adaptándose a la complejidad de cada segmento y al volumen de datos generado por sensores, alertas y sedes.
+
+  Para el primer segmento, correspondiente a usuarios residenciales, el sistema de búsqueda se enfoca en la simplicidad y facilidad de uso, considerando que el usuario maneja una cantidad reducida de dispositivos y requiere una interacción intuitiva.
+
+  - **Búsqueda de alertas:**  
+    Se incluye una barra de búsqueda dentro del módulo de alertas, identificada como “Buscar alertas…”, que permite localizar incidencias mediante palabras clave, tipo de problema o sensor.
+
+  - **Filtros básicos:**  
+    El usuario puede filtrar alertas según su estado, ya sean activas o resueltas, así como por nivel de prioridad, como crítica o advertencia, facilitando la identificación de problemas importantes.
+
+  - **Historial de consumo:**  
+    Se permite seleccionar periodos de tiempo como últimas 24 horas, semanas o meses, mostrando los resultados mediante gráficos claros de consumo de agua y gas.
+
+  - **Ubicación de sensores:**  
+    Los dispositivos pueden identificarse fácilmente por nombre o ubicación, por ejemplo cocina, baño o jardín, evitando la necesidad de realizar búsquedas complejas.
+
+  Los resultados se presentan en tarjetas visuales, gráficos simples y listas organizadas de alertas, priorizando la claridad, rapidez y facilidad de uso para el usuario.
+
+  Para el segundo segmento, conformado por profesionales de infraestructura y gestión operativa, el sistema de búsqueda es más avanzado, ya que deben gestionar múltiples sedes, usuarios y dispositivos de manera simultánea.
+
+  - **Búsqueda y filtrado de alertas centralizadas:**  
+    Se permite filtrar alertas según su estado, como activas, en progreso o resueltas, además de su prioridad, sede y tipo de incidente, lo que facilita un control más preciso de las operaciones.
+
+  - **Filtrado por sedes y ubicaciones:**  
+    Los usuarios pueden buscar información específica según la sede, como hoteles, oficinas o sucursales, lo que permite un análisis detallado en entornos con múltiples ubicaciones.
+
+  - **Búsqueda en dashboards y métricas:**  
+    La información puede segmentarse según sede, periodo de tiempo o tipo de recurso, permitiendo visualizar comparativas, tendencias y patrones de consumo.
+
+  - **Búsqueda de sensores y dispositivos:**  
+    Los sensores pueden identificarse mediante códigos, ubicación o asignación, lo que agiliza la gestión técnica y la atención de incidencias.
+  - **Filtrado para reportes:**  
+    En el módulo de reportes ejecutivos, los usuarios pueden seleccionar sedes, rangos de fechas y métricas específicas para generar reportes personalizados según sus necesidades.
+
+    Los resultados se muestran mediante dashboards ejecutivos, tablas organizadas, gráficos comparativos y reportes descargables, facilitando la toma de decisiones informadas y en tiempo real.
 
 ### 4.2.5. Navigation Systems
 
