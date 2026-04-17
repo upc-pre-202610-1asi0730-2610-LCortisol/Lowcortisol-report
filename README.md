@@ -1,7 +1,7 @@
 # Low-cortisol
 <div align="center">
 
-  <img src="assets/md-images/md-front/upc_logo.png" width="150px" />
+  <img src="assets/md-images-front/upc_logo.png" width="150px" />
 
   <p>Universidad Peruana de Ciencias Aplicadas</p>
   <p>Facultad de Ingeniería</p>
@@ -423,7 +423,8 @@ text.
 ## 2.1 Competidores
 text. 
 ### 2.1.1 Análisis Competitivo
-text
+
+En esta sección se presenta el análisis del entorno competitivo del proyecto, con el objetivo de identificar las principales características, fortalezas y debilidades de las soluciones existentes en el mercado. A partir de este análisis, se busca comprender mejor la posición frente a sus competidores y detectar oportunidades de diferenciación que permitan fortalecer su propuesta de valor.
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -435,10 +436,10 @@ text
   </tr>
   <tr align= "center">
     <td colspan="2">Nombre y logo de competidor</td>
-    <td><b>LowCortisol <br> <img src="assets/md-images/md-chapter 2/LowCortisol_logo.png" width="120" height="120" /> </b></td>
-    <td><b>Aqara Smart Sensors</b> <br> <img src="assets/md-images/md-chapter 2/aqara_logo.png" width="120" height="120" /> </td>
-    <td><b>Honeywell Home</b> <br> <img src="assets/md-images/md-chapter 2/HoneywellHome_logo.png" width="120" height="120" /> </td>
-    <td><b>Fibaro Flood Sensor</b> <br> <img src="assets/md-images/md-chapter 2/HoneywellHome_logo.png" width="120" height="120" /> </td>
+    <td><b>LowCortisol <br> <img src="assets/md-images-chapter2/LowCortisol_logo.png" width="120" height="120" /> </b></td>
+    <td><b>Aqara Smart Sensors</b> <br> <img src="assets/md-images-chapter2/aqara_logo.png" width="120" height="120" /> </td>
+    <td><b>Honeywell Home</b> <br> <img src="assets/md-images-chapter2/HoneywellHome_logo.png" width="120" height="120" /> </td>
+    <td><b>Fibaro Flood Sensor</b> <br> <img src="assets/md-images-chapter2/FibaroFloodSensor_logo.png" width="120" height="120" /> </td>
   </tr>
   <tr>
     <td rowspan="2"><b>Perfil</b></td>
@@ -528,9 +529,12 @@ text
 </table>
 
 ### **2.1.2 Estrategias y tácticas frente a competidores**
-A partir del análisis competitivo realizado, se han definido las siguientes estrategias y tácticas para posicionar a LowCortisol en el mercado peruano y afrontar las fortalezas de la competencia.
 
-##### **Diferenciación y accesibilidad**
+A partir del análisis competitivo realizado, se han definido las siguientes estrategias y tácticas que permitirán a LowCortisol posicionarse de manera efectiva en el mercado peruano. Estas acciones buscan no solo competir frente a empresas ya establecidas, sino también aprovechar sus debilidades y responder a las oportunidades del entorno, como el crecimiento del IoT y la necesidad de soluciones preventivas en seguridad y consumo de recursos.
+
+Las estrategias planteadas están orientadas a ofrecer una propuesta de valor diferenciada, centrada en el usuario, accesible y adaptable a distintos segmentos, permitiendo así una adopción más rápida y efectiva del producto.
+
+##### **1. Diferenciación y accesibilidad**
 **Estrategia**
 
 La startup Low Cortisol adoptará una estrategia de diferenciación y accesibilidad, enfocándose en ofrecer una solución integral, fácil de usar y adaptada al contexto latinoamericano. A diferencia de competidores como Aqara, Fibaro y Honeywell, se centrará en el usuario común, brindando monitoreo en tiempo real, alertas inmediatas y control de acciones ante fugas de agua y gas.
@@ -549,7 +553,7 @@ Para enfrentar sus fortalezas, se apostará por la simplificación tecnológica 
 - Mayor accesibilidad para el usuario promedio
 - Solución práctica y fácil de implementar
 
-##### **2.  Enfoque en nichos y educación del usuario**
+##### **2. Enfoque en nichos y educación del usuario**
 **Estrategia**
 
 Low Cortisol adoptará una estrategia de enfoque en nichos específicos como hogares, hoteles y municipalidades, priorizando segmentos con alta necesidad de prevención de fugas. Además, se buscará educar al usuario sobre la importancia del monitoreo preventivo, generando confianza y facilitando la adopción tecnológica frente a la resistencia al cambio.
@@ -586,37 +590,11 @@ Low Cortisol adoptará una estrategia de innovación continua, incorporando mejo
 
 #### Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
  
-1. ¿Ha tenido alguna fuga de agua o gas en su vivienda?
-2. ¿Con qué frecuencia ocurren estos problemas?
-3. ¿Cómo suele detectar una fuga o anomalía?
-4. ¿Cuánto tiempo tarda en darse cuenta del problema?
-5. ¿Qué consecuencias ha tenido (costos, daños, riesgos)?
-6. ¿Cómo soluciona actualmente estos incidentes?
-7. ¿Le resulta fácil encontrar técnicos confiables?
-8. ¿Qué tan importante es para usted la seguridad en su hogar?
-9. ¿Le preocupa el consumo de agua o gas mensual?
-10. ¿Usaría un sistema que le notifique en tiempo real sobre fugas?
-11. ¿Qué funcionalidades le gustaría que tenga este sistema?
-12. ¿Estaría dispuesto a pagar por un servicio de monitoreo?
+
 
 #### Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
-1. ¿Cómo gestionan actualmente el monitoreo de redes de agua o gas?
-2. ¿Existen pérdidas frecuentes en la infraestructura? ¿Cuáles son las principales causas?
-3. ¿Han tenido problemas relacionados con fugas de agua o gas? ¿Con qué frecuencia ocurren estos incidentes?
-4. ¿Cómo detectan actualmente las fugas o fallas?
-5. ¿Cuánto tiempo tarda el proceso de detección y reparación?
-6. ¿Cuentan con un sistema de monitoreo continuo? ¿Qué tecnologías utilizan?
-7. ¿Qué limitaciones presentan los sistemas actuales?
-8. ¿Qué impacto generan estas fallas en la comunidad o en la experiencia del cliente?
-9. ¿Qué medidas toman para prevenir fallas? ¿Cómo gestionan el mantenimiento de sus instalaciones?
-10. ¿Qué tan importante es evitar interrupciones en el servicio?
-11. ¿Qué tan importante es la optimización del consumo de recursos?
-12. ¿Les interesaría recibir alertas en tiempo real?
-13. ¿Considerarían implementar soluciones basadas en IoT?
-14. ¿Qué características y funcionalidades consideran clave en una solución de monitoreo?
-15. ¿Qué dificultades ven en la implementación de este tipo de sistemas?
-16. ¿Estarían dispuestos a invertir en este tipo de solución? ¿Qué beneficios esperan obtener?
+
 
 
 ### 2.2.2 Registro Entrevistas
@@ -802,24 +780,14 @@ Finalmente, muestra una actitud positiva hacia soluciones basadas en IoT, destac
 ## 2.4. Big Picture Event Storming
 
   #### Introducción:
-  Durante esta primera iteración del proyecto hemos logrado avanzar de una manera sólida identificando diversos usuarios y segmentos objetivos, así como posibles tácticas que usaremos con los competidores y cómo armaremos el Lean UX. Terminando por realizar el diseño de entrevistas y su posterior registro.
 
 
   #### Resumen del Proceso Realizado:
-  El proceso realizado (hasta ahora) por el equipo ha sido esencial para la creación del proyecto, pasando por iteraciones en los diferentes capítulos, logrando identificar partes clave como los competidores, los segmentos objetivos, los users, etc. Para esto hemos seguido frameworks y guías como los “Ubiquitous Language models”
-
 
 
 ## 2.5. Ubiquitous Language
 
-  A continuación, se presenta un glosario de términos clave del dominio que serán utilizados en el desarrollo de la plataforma Low-Cortisol, orientada a la gestión inteligente
-  del agua en hogares y negocios. Los términos están en inglés, con su equivalente en español entre paréntesis, acompañados de una definición clara en español
 
-  - Water Consumption (Consumo de agua): Cantidad total de agua utilizada en un hogar o negocio en un periodo determinado.
-  - Water Waste (Desperdicio de agua): Agua utilizada de manera ineficiente o pérdida por fugas, goteos o malos hábitos de uso.
-  - Critical Point (Punto crítico): Zona, dispositivo o instalación donde es necesario realizar un monitoreo constante del uso de agua para evitar pérdidas o exceso de consumo.
-  - Real-Time Monitoring (Monitoreo en tiempo real): Seguimiento instantáneo del consumo de agua y estado de los dispositivos a través de sensores IoT conectados a la plataforma.
-  - Water Optimization (Optimización del agua): Conjunto de acciones y recomendaciones destinadas a mejorar la eficiencia en el uso del recurso
  
 
 # Capitulo III: Requirements Specification
@@ -832,43 +800,24 @@ Finalmente, muestra una actitud positiva hacia soluciones basadas en IoT, destac
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 
-  LowCortisol organiza la información de su plataforma web y aplicación móvil de manera clara e intuitiva, permitiendo a los usuarios monitorear en tiempo real el estado de sus redes de agua y gas. La arquitectura está diseñada para facilitar el acceso rápido a funciones clave como alertas, control de válvulas, historial de consumo y contacto con técnicos.
-
-  El sistema se estructura en módulos principales como: dashboard de monitoreo, donde se visualizan datos en tiempo real; alertas, que notifican incidencias de manera inmediata; historial, que permite analizar patrones de consumo; y configuración, donde el usuario gestiona dispositivos y preferencias.
-
-  En cuanto a los sistemas de organización, la información se agrupa por funcionalidades y tipo de servicio (agua y gas). El etiquetado utiliza términos simples y comprensibles para todo tipo de usuario. La navegación es jerárquica y accesible desde menús principales, facilitando una experiencia fluida. Además, se incluye un sistema de búsqueda para acceder rápidamente a información específica dentro de la plataforma.
-
-  A futuro, se busca integrar la plataforma con entidades como empresas de servicios y municipalidades, ampliando sus capacidades hacia una gestión más eficiente y preventiva de recursos.
+ 
 
 ### 4.2.1. Organization Systems
 
-  La plataforma de LowCortisol organiza la información de forma clara para facilitar el acceso a sus funciones principales.
 
-  Se utiliza una jerarquía visual en el dashboard para priorizar alertas y datos en tiempo real. También se aplica una organización secuencial en procesos como la configuración de dispositivos, guiando al usuario paso a paso, y una organización matricial en el análisis de consumo, combinando variables como tiempo y tipo de recurso.
-
-  En cuanto a la categorización, se organiza por tópicos (monitoreo, alertas, historial y configuración), por los segmentos objectivos y de forma cronológica en el historial de consumo.
 
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags 
 ### 4.2.4. Searching Systems
 
-  El sistema de búsqueda permitirá a los usuarios encontrar información de manera rápida dentro de la aplicación. Se incluirá una barra de búsqueda para acceder a datos como historial de consumo o incidencias.
-
-  Asimismo, se aplicarán filtros como tipo de recurso (agua o gas), fechas y estado de alertas. Los resultados se mostrarán de forma clara y ordenada, facilitando la comprensión y evitando que el usuario se sienta perdido ante grandes volúmenes de información.
 
 ### 4.2.5. Navigation Systems
 
-  La navegación de LowCortisol está diseñada para ser simple e intuitiva, permitiendo a los usuarios acceder rápidamente a las funciones principales. Se utilizará un menú principal que incluye secciones como monitoreo, alertas, historial y configuración.
 
-  El usuario podrá desplazarse mediante botones claros y accesos directos en el dashboard, priorizando acciones importantes como ver alertas o controlar válvulas. Además, se emplearán elementos como botones de acción y enlaces que guían al usuario a información específica, evitando sobrecargar una sola pantalla.
 
 ## 4.3. Landing Page UI Design
 
-  El diseño de la Landing Page de LowCortisol se basa en las decisiones de arquitectura de información previamente definidas, buscando ofrecer una experiencia clara, intuitiva y centrada en el usuario. Se prioriza la presentación de información relevante como los beneficios del monitoreo en tiempo real, la prevención de fugas y la seguridad, utilizando una jerarquía visual que destaque los elementos más importantes.
 
-  La interfaz emplea un diseño limpio, con secciones bien organizadas como: presentación del producto, funcionalidades, beneficios y contacto. Se utilizan botones de acción visibles (como “Conoce más” o “Contáctanos”) que guían al usuario a interactuar con la página de forma sencilla.
-
-  Además, se incorporan elementos visuales como íconos y gráficos que facilitan la comprensión del servicio, junto con un diseño responsive que permite una correcta visualización en distintos dispositivos. De esta manera, se busca captar la atención del usuario y transmitir de forma efectiva el valor de la solución.
 
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
