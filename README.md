@@ -770,16 +770,34 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 ## 3.1. User Stories
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
+
 # Capitulo IV: Product Design
+
+  El Product Design es clave en el desarrollo de la solución, ya que permite crear un sistema centrado en el usuario que responda a los problemas identificados en el monitoreo de agua y gas. A través de una arquitectura basada en el dominio, diseño orientado a objetos y una interfaz web intuitiva, se busca ofrecer una experiencia clara, eficiente y fácil de usar. Este enfoque asegura que el producto cumpla con las necesidades de los usuarios, genere valor y contribuya al logro de los objetivos del proyecto.
+
+
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 
- 
+  Esta sección define cómo se organizará la información dentro de la plataforma web y aplicación móvil de LowCortisol, considerando la estructura del contenido, los estilos visuales y los elementos que facilitarán la interacción del usuario. El objetivo es asegurar que los usuarios puedan comprender y acceder a las funcionalidades de manera rápida e intuitiva.
+
+  Se abordarán aspectos clave como los Organization Systems, Labeling Systems, Navigation Systems y Searching Systems, los cuales permitirán estructurar el contenido, definir etiquetas claras, guiar la navegación y facilitar la búsqueda de información dentro del sistema.
+
+  Todo el diseño de la arquitectura de información estará enfocado en mejorar la experiencia del usuario, permitiéndole monitorear, gestionar y controlar sus redes de agua y gas de forma eficiente y sin complicaciones.
 
 ### 4.2.1. Organization Systems
 
+  La organización de la información en LowCortisol se estructura a partir de un menú principal claro y orientado al usuario, que permite acceder fácilmente a las secciones más importantes del sistema. La página de Inicio presenta una visión general del servicio, destacando la propuesta de valor, el monitoreo en tiempo real y los beneficios principales. La sección de Beneficios explica las ventajas del producto, como la mejora en la seguridad, el ahorro de recursos y la optimización del consumo.
+
+  La sección ¿Cómo funciona? organiza la información de manera secuencial, mostrando el proceso del sistema desde la detección de fugas hasta la generación de alertas y acciones correctivas. Por otro lado, la página de Planes presenta los diferentes tipos de suscripción disponibles, incluyendo tanto opciones para usuarios residenciales como para profesionales, detallando sus características, beneficios y costos.
+
+  Asimismo, la sección ¿Quiénes somos? brinda información sobre la startup, su propósito y su enfoque en soluciones IoT, mientras que la página de Contacto permite a los usuarios comunicarse mediante formularios, correo o teléfono, facilitando la solicitud de información o demostraciones. También se incluye una sección de Log In, donde los usuarios pueden iniciar sesión o registrarse para acceder a la plataforma.
+
+  Adicionalmente, el sistema contempla otras funcionalidades organizadas por tópicos, como el dashboard de monitoreo, donde se visualizan datos en tiempo real; el historial de consumo, que permite analizar patrones; las alertas, que notifican incidencias; y la configuración, donde se gestionan dispositivos y preferencias del usuario. También se consideran secciones como perfil de usuario y ayuda o soporte.
+
+  En términos de estructura, se aplica una organización jerárquica, presentando la información de lo general a lo específico, así como una organización por tópicos, agrupando el contenido según su funcionalidad. Además, se incorpora una organización por audiencia, diferenciando entre usuarios residenciales y profesionales, lo que permite adaptar el contenido a sus necesidades. Finalmente, la plataforma cuenta con una barra de navegación clara y un diseño responsive que asegura una experiencia consistente tanto en dispositivos web como móviles.
 
 
 ### 4.2.2. Labeling Systems
