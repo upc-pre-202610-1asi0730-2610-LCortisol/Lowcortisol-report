@@ -842,6 +842,41 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 
 ### 4.2.5. Navigation Systems
 
+  El Sistema de Navegación es la estructura que permite a los usuarios desplazarse de manera eficiente entre las distintas secciones del landing page y las funcionalidades de la aplicación, facilitando el acceso a la información y el uso del sistema.
+
+  #### Estructura de navegación
+
+
+  - **Inicio:**  
+    Ofrece una visión general del servicio, destacando la propuesta de valor, métricas clave y accesos directos a secciones importantes.
+
+  - **Beneficios:**  
+    Expone las ventajas del sistema, como el ahorro de costos, el monitoreo en tiempo real y la mejora en la seguridad.
+
+  - **Quiénes Somos:**  
+    Brinda información sobre la startup, su propósito y su enfoque en soluciones tecnológicas basadas en IoT.
+
+  - **Planes:**  
+    Presenta los diferentes planes disponibles para usuarios residenciales y empresariales, incluyendo precios y características.
+
+  - **Contacto:**  
+    Permite al usuario comunicarse mediante formularios, correo o teléfono, así como solicitar información o una demostración.
+
+  - **Iniciar sesión:**  
+    Ubicado en la barra de navegación, permite a los usuarios acceder a su cuenta o registrarse en la plataforma.
+
+  - **Acciones principales:**  
+    Incluye botones como “Ver planes” y “Solicitar demo”, que dirigen al usuario hacia acciones clave dentro del sistema.
+
+  #### Navegación en la aplicación
+
+  Para el sistema funcional, la navegación se adapta según el segmento del usuario:
+
+  - **Usuarios residenciales:**  
+    Se utiliza una navegación simple mediante un menú principal que incluye Dashboard, Alertas, Historial de consumo y Control de dispositivos, permitiendo una interacción rápida, clara y directa.
+
+  - **Profesionales de infraestructura:**  
+    Se emplea una navegación más estructurada mediante un panel lateral que incluye Dashboard Ejecutivo, Sedes, Alertas Centralizadas, Reportes, Gestión de equipo y Configuración, facilitando la administración de múltiples operaciones y ubicaciones.
 
 
 ## 4.3. Landing Page UI Design
