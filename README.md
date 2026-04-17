@@ -530,23 +530,23 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 
 ### **2.1.2 Estrategias y tácticas frente a competidores**
 
-A partir del análisis competitivo realizado, se han definido las siguientes estrategias y tácticas que permitirán a LowCortisol posicionarse de manera efectiva en el mercado peruano. Estas acciones buscan no solo competir frente a empresas ya establecidas, sino también aprovechar sus debilidades y responder a las oportunidades del entorno, como el crecimiento del IoT y la necesidad de soluciones preventivas en seguridad y consumo de recursos.
+  A partir del análisis competitivo realizado, se han definido las siguientes estrategias y tácticas que permitirán a LowCortisol posicionarse de manera efectiva en el mercado peruano. Estas acciones buscan no solo competir frente a empresas ya establecidas, sino también aprovechar sus debilidades y responder a las oportunidades del entorno, como el crecimiento del IoT y la necesidad de soluciones preventivas en seguridad y consumo de recursos.
 
-Las estrategias planteadas están orientadas a ofrecer una propuesta de valor diferenciada, centrada en el usuario, accesible y adaptable a distintos segmentos, permitiendo así una adopción más rápida y efectiva del producto.
+  Las estrategias planteadas están orientadas a ofrecer una propuesta de valor diferenciada, centrada en el usuario, accesible y adaptable a distintos segmentos, permitiendo así una adopción más rápida y efectiva del producto.
 
 ##### **1. Diferenciación y accesibilidad**
 **Estrategia**
 
-La startup Low Cortisol adoptará una estrategia de diferenciación y accesibilidad, enfocándose en ofrecer una solución integral, fácil de usar y adaptada al contexto latinoamericano. A diferencia de competidores como Aqara, Fibaro y Honeywell, se centrará en el usuario común, brindando monitoreo en tiempo real, alertas inmediatas y control de acciones ante fugas de agua y gas.
+  La startup Low Cortisol adoptará una estrategia de diferenciación y accesibilidad, enfocándose en ofrecer una solución integral, fácil de usar y adaptada al contexto latinoamericano. A diferencia de competidores como Aqara, Fibaro y Honeywell, se centrará en el usuario común, brindando monitoreo en tiempo real, alertas inmediatas y control de acciones ante fugas de agua y gas.
 
-Para enfrentar sus fortalezas, se apostará por la simplificación tecnológica y la especialización, ofreciendo una interfaz intuitiva y funciones enfocadas en la prevención de fugas. Además, se aprovecharán debilidades como los altos costos y la complejidad mediante precios accesibles y planes flexibles.
+  Para enfrentar sus fortalezas, se apostará por la simplificación tecnológica y la especialización, ofreciendo una interfaz intuitiva y funciones enfocadas en la prevención de fugas. Además, se aprovecharán debilidades como los altos costos y la complejidad mediante precios accesibles y planes flexibles.
 
 
 **Tácticas**
 
-- **Precio accesible:** Implementar planes económicos y suscripciones flexibles.
-- **Interfaz simple:** Diseñar una app intuitiva y fácil de usar.
-- **Especialización:** Enfocar el producto solo en detección de agua y gas.
+- **Precio accesible:** Implementar planes económicos y suscripciones flexibles adaptadas a distintos tipos de usuarios, permitiendo el acceso tanto a clientes residenciales como a profesionales. Esto busca reducir la barrera de entrada frente a soluciones más costosas del mercado.
+- **Interfaz simple:** Diseñar una aplicación con una experiencia de usuario intuitiva, priorizando la facilidad de uso incluso para personas con bajo nivel técnico. Se emplearán interfaces limpias, navegación clara y acciones directas que faciliten el monitoreo y control en pocos pasos.
+- **Especialización:** Enfocar el desarrollo del producto exclusivamente en la detección y prevención de fugas de agua y gas, evitando funcionalidades innecesarias. Esto permitirá ofrecer una solución más eficiente, clara y orientada a resolver un problema específico.
 
 **Valor Añadido**
 
@@ -556,13 +556,15 @@ Para enfrentar sus fortalezas, se apostará por la simplificación tecnológica 
 ##### **2. Enfoque en nichos y educación del usuario**
 **Estrategia**
 
-Low Cortisol adoptará una estrategia de enfoque en nichos específicos como hogares, hoteles y municipalidades, priorizando segmentos con alta necesidad de prevención de fugas. Además, se buscará educar al usuario sobre la importancia del monitoreo preventivo, generando confianza y facilitando la adopción tecnológica frente a la resistencia al cambio.
+  Low Cortisol adoptará una estrategia de enfoque en nichos específicos como hogares, hoteles y municipalidades, priorizando segmentos con alta necesidad de prevención de fugas. Además, se buscará educar al usuario sobre la importancia del monitoreo preventivo, generando confianza y facilitando la adopción tecnológica frente a la resistencia al cambio.
+
+  Esta estrategia permitirá no solo captar clientes, sino también crear una cultura de prevención y uso de tecnología en sectores donde actualmente predominan procesos manuales o reactivos.
 
 **Tácticas**
 
-- **Marketing educativo:** Contenido en redes sobre prevención de fugas.
-- **Demostraciones:** Pruebas del producto en campo y presentaciones.
-- **Alianzas estratégicas:** Convenios con empresas como servicios de agua y gas.
+- **Marketing educativo:** Generar contenido en redes sociales y plataformas digitales que informe sobre los riesgos de fugas, el ahorro de recursos y los beneficios del monitoreo preventivo. Esto ayudará a sensibilizar al usuario y fomentar la adopción del producto.
+- **Demostraciones:** Realizar pruebas piloto, presentaciones y demostraciones en entornos reales como hogares, hoteles o municipalidades, permitiendo evidenciar el funcionamiento del sistema y generar confianza en potenciales clientes.
+- **Alianzas estratégicas:** Establecer convenios con empresas proveedoras de servicios (agua y gas) y organizaciones, con el fin de ampliar el alcance del producto y facilitar su implementación en distintos contextos.
 
 **Valor Añadido**
 
@@ -572,13 +574,15 @@ Low Cortisol adoptará una estrategia de enfoque en nichos específicos como hog
 ##### **3.  Innovación tecnológica**
 **Estrategia**
 
-Low Cortisol adoptará una estrategia de innovación continua, incorporando mejoras tecnológicas constantes en su sistema IoT para mantenerse competitivo frente a empresas como Aqara, Fibaro y Honeywell. Se enfocará en desarrollar funcionalidades avanzadas como análisis predictivo de consumo, detección temprana de anomalías y mejoras en la conectividad, con el objetivo de ofrecer una solución más inteligente y eficiente.
+  Low Cortisol adoptará una estrategia de innovación continua, incorporando mejoras tecnológicas constantes en su sistema IoT para mantenerse competitivo frente a empresas como Aqara, Fibaro y Honeywell. Se enfocará en desarrollar funcionalidades avanzadas como análisis predictivo de consumo, detección temprana de anomalías y mejoras en la conectividad, con el objetivo de ofrecer una solución más inteligente y eficiente.
+
+  Esta estrategia permitirá a la startup no solo mantenerse vigente, sino también anticiparse a las necesidades del mercado y diferenciarse mediante el uso de tecnología avanzada.
 
 **Tácticas**
 
-- **Mejora continua:** Actualizaciones constantes de la app y sensores.
-- **Análisis de datos:** Implementar reportes inteligentes y predicción de fugas.
-- **Integración tecnológica:** Compatibilidad con otros sistemas IoT y smart home.
+- **Mejora continua:** Desarrollar actualizaciones constantes tanto en la aplicación como en los dispositivos IoT, incorporando nuevas funcionalidades y optimizando el rendimiento del sistema en base a la retroalimentación de los usuarios.
+- **Análisis de datos:** Implementar herramientas de análisis que permitan interpretar el consumo de agua y gas, identificando patrones y posibles anomalías, lo que facilitará la toma de decisiones preventivas.
+- **Integración tecnológica:** Asegurar la compatibilidad del sistema con otras plataformas IoT y soluciones de smart home, permitiendo una integración más amplia y mejorando la experiencia del usuario dentro de ecosistemas tecnológicos existentes.
 
 **Valor Añadido**
 
