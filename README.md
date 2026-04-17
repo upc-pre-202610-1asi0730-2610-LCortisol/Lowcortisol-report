@@ -669,17 +669,11 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 - URL: [Entrevista_Leonardo_Daniel](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQAACV_KLKrVQ4mW-fkDJBhjAdEzO8O66oc0hGDoY-FjbTI?e=cEBinc)
 - Duración video: 7:44
 - Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+  ![Entrevistado-1](assets/md-images-chapter2/Interview-Leonardo.png)
 
 
 **<u>Resumen de la entrevista:</u>**
-Leonardo es un practicante de Ingeniería Civil que trabaja en el área de infraestructura de una municipalidad, donde participa en la supervisión de redes de agua y gestión de incidencias. Desde su experiencia, el monitoreo actual es principalmente reactivo, ya que no se cuenta con sistemas en tiempo real, dependiendo en gran medida de inspecciones manuales y reportes de los ciudadanos.
-
-Señala que las fugas de agua son frecuentes, especialmente en zonas con tuberías antiguas, y muchas veces no son visibles de inmediato, lo que genera pérdidas acumulativas. La detección suele realizarse de forma visual o cuando los vecinos reportan problemas, lo que retrasa la intervención. Además, los tiempos de respuesta pueden variar desde horas hasta varios días debido a la coordinación con entidades externas.
-
-Reconoce que el uso de tecnología es limitado y que la falta de sensores o sistemas inteligentes reduce la capacidad de prevención. Sin embargo, muestra una actitud positiva hacia soluciones basadas en IoT, destacando que permitirían detectar fallas de manera temprana, mejorar la eficiencia y optimizar la toma de decisiones.
-
-Finalmente, menciona que los principales retos para implementar estas soluciones son el presupuesto, la capacitación del personal y la integración con sistemas existentes. A pesar de ello, considera que su principal valor sería mejorar la gestión de recursos, reducir pérdidas y brindar un servicio más eficiente a la comunidad.
+  Leonardo, practicante en el área de infraestructura de una municipalidad de la Molina, explica que el monitoreo de redes de agua se realiza principalmente de forma reactiva, basándose en inspecciones programadas y reportes de los ciudadanos. Señala que las fugas son frecuentes, especialmente en zonas con tuberías antiguas, y muchas veces no se detectan de inmediato, lo que genera pérdidas acumulativas de agua. Además, menciona que los tiempos de respuesta pueden variar considerablemente debido a la coordinación con otras entidades responsables. Indica que el uso de tecnología es limitado y que no cuentan con sistemas de monitoreo en tiempo real. Sin embargo, considera que la implementación de soluciones IoT permitiría mejorar la detección temprana de fallas, optimizar recursos y facilitar la toma de decisiones. También reconoce que existen barreras como el presupuesto, la capacitación del personal y la integración con sistemas ya existentes.
 
 ###### Entrevista 2 – Segmento: Profesionales de Infraestructura
 
@@ -693,23 +687,17 @@ Finalmente, menciona que los principales retos para implementar estas soluciones
 - URL: [Entrevista_Pool_Enrique](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDfxdo8pQ9SQJk2KH4ElHBpASUK09i9Wp0YcqIypn83PuY?e=GPSgeU)
 - Duración video: 7:12
 - Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+  ![Entrevistado-2](assets/md-images-chapter2/Interview-Pool.png)
 
 
 **<u>Resumen de la entrevista:</u>**
-Pool, practicante de Ingeniería Civil en la Municipalidad de Ate, participa en actividades relacionadas con la supervisión de redes de agua y la gestión de incidencias en servicios públicos. Desde su experiencia, comenta que el control de estas redes se realiza principalmente de forma reactiva, apoyándose en inspecciones y en los reportes de los ciudadanos, debido a la ausencia de sistemas que permitan un monitoreo continuo en tiempo real.
-
-Indica que las fugas son un problema recurrente, sobre todo en sectores con infraestructura antigua o intervenida sin planificación adecuada. Muchas de estas fallas no se detectan rápidamente, lo que incrementa las pérdidas de agua y afecta el rendimiento del sistema. La identificación de estas fugas suele basarse en observaciones directas, como humedad o baja presión, lo que retrasa la respuesta ante el problema. Además, el tiempo de solución varía según la complejidad, pudiendo extenderse por varios días.
-
-También resalta que el uso de herramientas tecnológicas es limitado, lo que dificulta anticiparse a los problemas. Sin embargo, muestra una postura favorable hacia la incorporación de soluciones basadas en IoT, ya que permitirían un monitoreo constante, una detección más rápida de fallas y una mejor toma de decisiones.
-
-Finalmente, menciona que existen barreras como el presupuesto, la capacitación del personal y la adaptación a infraestructuras antiguas. Aun así, considera que implementar estas tecnologías contribuiría a optimizar recursos, disminuir pérdidas y mejorar la calidad del servicio para la población.
+  Pool, practicante en la Municipalidad de Ate, comenta que la supervisión de redes de agua se realiza principalmente mediante inspecciones y reportes ciudadanos, debido a la ausencia de sistemas de monitoreo continuo. Indica que las fugas son un problema recurrente, sobre todo en infraestructuras antiguas o intervenidas sin una adecuada planificación. Muchas de estas fallas no se detectan a tiempo, lo que incrementa las pérdidas y afecta la eficiencia del sistema. La identificación suele basarse en señales visibles, como humedad o disminución de presión, lo que retrasa la intervención. Además, menciona que el uso de herramientas tecnológicas es limitado. No obstante, muestra una actitud positiva hacia la implementación de soluciones IoT, ya que permitirían un monitoreo constante, una detección más rápida de fallas y una mejor gestión de los recursos.
 
 ######  Entrevista 3 – Segmento: Profesionales de Infraestructura
 
 **Datos del Entrevistado:**
 - Edad: 22
-- Nombre: Eduard Rojas
+- Nombre: Edward Rojas
 - Ocupación: Practicante de Ingeniería Civil del área de mantenimiento del JW Marriott Hotel
 - Distrito: San Isidro
 
@@ -717,14 +705,10 @@ Finalmente, menciona que existen barreras como el presupuesto, la capacitación 
 - URL del video: [Entrevista-Eduardo-Rojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
 - Duración: 05:06
 - Screenshot:
+  ![Entrevistado-3](assets/md-images-chapter2/Interview-Edward.png)
 
 **<u>Resumen de la entrevista:</u>**
-El entrevistado es un joven trabajador del área de mantenimiento en un hotel de alta categoría, encargado de supervisar el estado de las instalaciones, especialmente redes de agua y gas. Durante la entrevista, menciona que las fugas de agua son los problemas más frecuentes, principalmente en tuberías internas de habitaciones, mientras que las fugas de gas son menos comunes pero más críticas debido al riesgo que representan.
-En cuanto a la gestión actual, señala que el monitoreo se realiza de manera manual y reactiva, dependiendo en gran parte de reportes del personal como housekeeping, recepción o incluso de los propios huéspedes. Indica que los incidentes ocurren aproximadamente una o dos veces al mes, incrementándose en temporadas de alta ocupación.
-El impacto de estas fallas en la experiencia del cliente es significativo, ya que pueden generar incomodidades, cambios de habitación e incluso afectar la percepción de calidad del servicio. Por ello, el hotel cuenta con un plan de mantenimiento preventivo basado en revisiones periódicas y capacitación del personal para detectar señales tempranas.
-Respecto a la tecnología, menciona que actualmente no cuentan con sistemas automatizados ni monitoreo en tiempo real, lo que limita la capacidad de respuesta rápida. Sin embargo, muestra una actitud abierta hacia la implementación de soluciones tecnológicas como sistemas basados en IoT, destacando que serían útiles para detectar fugas de manera temprana y mejorar la eficiencia del trabajo.
-En términos de personalidad, el entrevistado se muestra práctico, responsable y orientado a la solución de problemas, con interés en mejorar los procesos del área. Está familiarizado con el uso de tecnología básica y dispositivos móviles, los cuales considera clave para recibir alertas en tiempo real.
-Finalmente, señala que los principales beneficios esperados de una solución tecnológica incluyen una respuesta más rápida, reducción de riesgos, disminución de costos de reparación y mejora en la satisfacción del cliente.
+  Edward, trabajador del área de mantenimiento en un hotel, señala que las fugas de agua son los problemas más frecuentes en las instalaciones, principalmente en tuberías internas, mientras que las fugas de gas, aunque menos comunes, representan un mayor riesgo. Indica que el monitoreo se realiza de manera manual y depende en gran parte de reportes del personal o de los huéspedes, lo que evidencia un enfoque reactivo. Estas fallas pueden afectar directamente la experiencia del cliente, generando incomodidades y posibles costos adicionales para el hotel. Por ello, destaca la importancia de contar con soluciones tecnológicas que permitan una detección temprana de fugas. Considera que la implementación de sistemas IoT ayudaría a mejorar la eficiencia del mantenimiento, reducir riesgos y optimizar la operación del servicio.
 
 ###### Entrevista 4 – Segmento: Profesionales de Infraestructura
 
@@ -738,19 +722,11 @@ Finalmente, señala que los principales beneficios esperados de una solución te
 - URL: [Entrevista_Fabián_Raimundo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDawspRWjtiR5y7UR6qjti4AcwNYWIz-ajJLLVrggxK-cQ?e=8IlNqo)
 - Duración video: 07:26
 - Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+  ![Entrevistado-4](assets/md-images-chapter2/Interview-Fabian.png)
 
 
 **<u>Resumen de la entrevista:</u>**
-El entrevistado es un practicante del área de gestión y servicios en un hotel, donde participa en la supervisión y apoyo a las operaciones relacionadas con el mantenimiento y la experiencia del cliente. Durante la entrevista, menciona que los problemas relacionados con fugas de agua y gas sí ocurren, aunque no con alta frecuencia. Las fugas de agua son más comunes debido al desgaste natural de las instalaciones, mientras que las fugas de gas son menos frecuentes, pero consideradas críticas, especialmente en áreas como el restaurante, donde el riesgo es mayor.
-Respecto a la frecuencia, indica que estos incidentes se presentan de manera ocasional, principalmente asociados al deterioro de las tuberías. La detección de estos problemas se realiza de manera manual, a través de la observación del personal de mantenimiento y limpieza, quienes identifican señales como humedad, olores o ruidos extraños. En algunos casos, los huéspedes también reportan inconvenientes al finalizar su estadía.
-El impacto en la experiencia del cliente es relevante, ya que estas fallas pueden generar incomodidad, interrupciones en el descanso e incluso desconfianza en el servicio, lo que podría llevar a los clientes a optar por otros hoteles. Por ello, el establecimiento aplica medidas de mantenimiento preventivo, mediante revisiones periódicas de tuberías, conexiones y equipos. Sin embargo, el entrevistado reconoce que estas acciones no siempre son suficientes.
-En cuanto a la tecnología, menciona que actualmente cuentan con un sistema de monitoreo, pero este no es completamente eficiente, por lo que aún dependen en gran medida de inspecciones manuales y supervisión constante. Existe una intención de avanzar hacia un sistema más automatizado, lo que evidencia una transición tecnológica en proceso.
-La gestión del mantenimiento se realiza mediante cronogramas establecidos y un equipo encargado de atender incidencias, aunque en muchos casos el enfoque sigue siendo reactivo. El entrevistado destaca que evitar interrupciones en el servicio es fundamental, ya que la satisfacción del cliente y la reputación del hotel son prioridades clave.
-En relación con soluciones tecnológicas, muestra una actitud positiva hacia la implementación de sistemas con alertas en tiempo real, considerando que permitirían actuar de forma inmediata ante cualquier tipo de falla. Entre las funcionalidades clave, menciona la necesidad de alertas en tiempo real, historial de incidencias, reportes detallados y facilidad de uso.
-Desde su perspectiva, el hotel estaría dispuesto a invertir en este tipo de soluciones, aunque reconoce que estas decisiones dependen del área administrativa. Finalmente, señala que los principales beneficios esperados incluyen la detección temprana de fallas, reducción en los tiempos de respuesta, optimización del trabajo, mejora en la experiencia del cliente y disminución de costos a largo plazo.
-En cuanto a características personales, el entrevistado muestra una actitud analítica y orientada a la mejora continua, con apertura al uso de nuevas tecnologías. Utiliza canales de comunicación internos del hotel y dispositivos digitales básicos, lo que facilita la adopción de soluciones tecnológicas como sistemas de monitoreo automatizados.
-
+  Fabián, practicante en el área de gestión y servicios de un hotel, menciona que los problemas relacionados con fugas de agua y gas ocurren de manera ocasional, siendo las fugas de agua más comunes debido al desgaste de las instalaciones. Señala que la detección de estos problemas se realiza principalmente de forma manual, mediante la observación del personal de mantenimiento o limpieza, así como por reportes de los huéspedes. Aunque el hotel cuenta con un plan de mantenimiento preventivo, reconoce que este no siempre permite anticipar las fallas, por lo que el sistema sigue siendo en gran parte reactivo. Además, indica que la falta de automatización limita la capacidad de respuesta. Sin embargo, muestra interés en la implementación de soluciones IoT con alertas en tiempo real, ya que permitirían mejorar la eficiencia operativa, reducir tiempos de respuesta y optimizar la experiencia del cliente.
 ###### Entrevista 5 – Segmento: Profesionales de Infraestructura
 
 **Datos del Entrevistado:**
@@ -763,15 +739,11 @@ En cuanto a características personales, el entrevistado muestra una actitud ana
 - URL: [Entrevista_Álvaro_Jordán_Villa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDCfKgvsJeSQ5iSLTGtwZuBAdD3tSG00wgIiM6258CkGV0?e=g4vMv6)
 - Duración video: 4:29
 - Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
+  ![Entrevistado-5](assets/md-images-chapter2/Interview-Alvaro.png)
 
 
 **<u>Resumen de la entrevista:</u>**
-Álvaro, practicante de mantenimiento en un hotel de Miraflores, comenta que las fugas de agua son los problemas más frecuentes debido al desgaste de las tuberías, mientras que las de gas son menos comunes, pero de mayor riesgo. La detección depende principalmente de reportes del personal o huéspedes, lo que evidencia un enfoque reactivo.
-
-De tal manera, estos incidentes afectan la experiencia del cliente y la reputación del hotel, por lo que se realizan mantenimientos preventivos, aunque no siempre permiten anticipar fallas. Actualmente no cuentan con monitoreo en tiempo real, lo que limita la detección temprana.
-
-Finalmente, muestra una actitud positiva hacia soluciones basadas en IoT, destacando que permitirían alertas inmediatas, mejor control del sistema y una reducción de riesgos, costos y pérdidas.
+  Álvaro, practicante de mantenimiento en un hotel, comenta que las fugas de agua son frecuentes debido al desgaste de las tuberías y al uso constante de las instalaciones, mientras que las fugas de gas son menos comunes, pero implican un mayor nivel de riesgo. Indica que la detección depende principalmente de reportes del personal o de los huéspedes, lo que evidencia un enfoque reactivo. Aunque se realizan mantenimientos preventivos, no cuentan con un sistema de monitoreo en tiempo real que permita anticipar fallas de manera eficiente. Señala que esta situación puede generar pérdidas de recursos, riesgos operativos y afectar la calidad del servicio. Considera que la implementación de soluciones basadas en IoT sería clave para mejorar el control, reducir riesgos, optimizar el uso de recursos y fortalecer la gestión del mantenimiento.
 
 
 
