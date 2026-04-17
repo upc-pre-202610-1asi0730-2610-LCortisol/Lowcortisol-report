@@ -1,7 +1,7 @@
 # Low-cortisol
 <div align="center">
 
-  <img src="assets/md-images/md-front/upc_logo.png" width="150px" />
+  <img src="assets/md-images-front/upc_logo.png" width="150px" />
 
   <p>Universidad Peruana de Ciencias Aplicadas</p>
   <p>Facultad de Ingeniería</p>
@@ -423,7 +423,8 @@ text.
 ## 2.1 Competidores
 text. 
 ### 2.1.1 Análisis Competitivo
-text
+
+En esta sección se presenta el análisis del entorno competitivo del proyecto, con el objetivo de identificar las principales características, fortalezas y debilidades de las soluciones existentes en el mercado. A partir de este análisis, se busca comprender mejor la posición frente a sus competidores y detectar oportunidades de diferenciación que permitan fortalecer su propuesta de valor.
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -435,10 +436,10 @@ text
   </tr>
   <tr align= "center">
     <td colspan="2">Nombre y logo de competidor</td>
-    <td><b>LowCortisol <br> <img src="assets/md-images/md-chapter 2/LowCortisol_logo.png" width="120" height="120" /> </b></td>
-    <td><b>Aqara Smart Sensors</b> <br> <img src="assets/md-images/md-chapter 2/aqara_logo.png" width="120" height="120" /> </td>
-    <td><b>Honeywell Home</b> <br> <img src="assets/md-images/md-chapter 2/HoneywellHome_logo.png" width="120" height="120" /> </td>
-    <td><b>Fibaro Flood Sensor</b> <br> <img src="assets/md-images/md-chapter 2/HoneywellHome_logo.png" width="120" height="120" /> </td>
+    <td><b>LowCortisol <br> <img src="assets/md-images-chapter2/LowCortisol_logo.png" width="120" height="120" /> </b></td>
+    <td><b>Aqara Smart Sensors</b> <br> <img src="assets/md-images-chapter2/aqara_logo.png" width="120" height="120" /> </td>
+    <td><b>Honeywell Home</b> <br> <img src="assets/md-images-chapter2/HoneywellHome_logo.png" width="120" height="120" /> </td>
+    <td><b>Fibaro Flood Sensor</b> <br> <img src="assets/md-images-chapter2/FibaroFloodSensor_logo.png" width="120" height="120" /> </td>
   </tr>
   <tr>
     <td rowspan="2"><b>Perfil</b></td>
@@ -528,37 +529,42 @@ text
 </table>
 
 ### **2.1.2 Estrategias y tácticas frente a competidores**
-A partir del análisis competitivo realizado, se han definido las siguientes estrategias y tácticas para posicionar a LowCortisol en el mercado peruano y afrontar las fortalezas de la competencia.
 
-##### **Diferenciación y accesibilidad**
+  A partir del análisis competitivo realizado, se han definido las siguientes estrategias y tácticas que permitirán a LowCortisol posicionarse de manera efectiva en el mercado peruano. Estas acciones buscan no solo competir frente a empresas ya establecidas, sino también aprovechar sus debilidades y responder a las oportunidades del entorno, como el crecimiento del IoT y la necesidad de soluciones preventivas en seguridad y consumo de recursos.
+
+  Las estrategias planteadas están orientadas a ofrecer una propuesta de valor diferenciada, centrada en el usuario, accesible y adaptable a distintos segmentos, permitiendo así una adopción más rápida y efectiva del producto.
+
+##### **1. Diferenciación y accesibilidad**
 **Estrategia**
 
-La startup Low Cortisol adoptará una estrategia de diferenciación y accesibilidad, enfocándose en ofrecer una solución integral, fácil de usar y adaptada al contexto latinoamericano. A diferencia de competidores como Aqara, Fibaro y Honeywell, se centrará en el usuario común, brindando monitoreo en tiempo real, alertas inmediatas y control de acciones ante fugas de agua y gas.
+  La startup Low Cortisol adoptará una estrategia de diferenciación y accesibilidad, enfocándose en ofrecer una solución integral, fácil de usar y adaptada al contexto latinoamericano. A diferencia de competidores como Aqara, Fibaro y Honeywell, se centrará en el usuario común, brindando monitoreo en tiempo real, alertas inmediatas y control de acciones ante fugas de agua y gas.
 
-Para enfrentar sus fortalezas, se apostará por la simplificación tecnológica y la especialización, ofreciendo una interfaz intuitiva y funciones enfocadas en la prevención de fugas. Además, se aprovecharán debilidades como los altos costos y la complejidad mediante precios accesibles y planes flexibles.
+  Para enfrentar sus fortalezas, se apostará por la simplificación tecnológica y la especialización, ofreciendo una interfaz intuitiva y funciones enfocadas en la prevención de fugas. Además, se aprovecharán debilidades como los altos costos y la complejidad mediante precios accesibles y planes flexibles.
 
 
 **Tácticas**
 
-- **Precio accesible:** Implementar planes económicos y suscripciones flexibles.
-- **Interfaz simple:** Diseñar una app intuitiva y fácil de usar.
-- **Especialización:** Enfocar el producto solo en detección de agua y gas.
+- **Precio accesible:** Implementar planes económicos y suscripciones flexibles adaptadas a distintos tipos de usuarios, permitiendo el acceso tanto a clientes residenciales como a profesionales. Esto busca reducir la barrera de entrada frente a soluciones más costosas del mercado.
+- **Interfaz simple:** Diseñar una aplicación con una experiencia de usuario intuitiva, priorizando la facilidad de uso incluso para personas con bajo nivel técnico. Se emplearán interfaces limpias, navegación clara y acciones directas que faciliten el monitoreo y control en pocos pasos.
+- **Especialización:** Enfocar el desarrollo del producto exclusivamente en la detección y prevención de fugas de agua y gas, evitando funcionalidades innecesarias. Esto permitirá ofrecer una solución más eficiente, clara y orientada a resolver un problema específico.
 
 **Valor Añadido**
 
 - Mayor accesibilidad para el usuario promedio
 - Solución práctica y fácil de implementar
 
-##### **2.  Enfoque en nichos y educación del usuario**
+##### **2. Enfoque en nichos y educación del usuario**
 **Estrategia**
 
-Low Cortisol adoptará una estrategia de enfoque en nichos específicos como hogares, hoteles y municipalidades, priorizando segmentos con alta necesidad de prevención de fugas. Además, se buscará educar al usuario sobre la importancia del monitoreo preventivo, generando confianza y facilitando la adopción tecnológica frente a la resistencia al cambio.
+  Low Cortisol adoptará una estrategia de enfoque en nichos específicos como hogares, hoteles y municipalidades, priorizando segmentos con alta necesidad de prevención de fugas. Además, se buscará educar al usuario sobre la importancia del monitoreo preventivo, generando confianza y facilitando la adopción tecnológica frente a la resistencia al cambio.
+
+  Esta estrategia permitirá no solo captar clientes, sino también crear una cultura de prevención y uso de tecnología en sectores donde actualmente predominan procesos manuales o reactivos.
 
 **Tácticas**
 
-- **Marketing educativo:** Contenido en redes sobre prevención de fugas.
-- **Demostraciones:** Pruebas del producto en campo y presentaciones.
-- **Alianzas estratégicas:** Convenios con empresas como servicios de agua y gas.
+- **Marketing educativo:** Generar contenido en redes sociales y plataformas digitales que informe sobre los riesgos de fugas, el ahorro de recursos y los beneficios del monitoreo preventivo. Esto ayudará a sensibilizar al usuario y fomentar la adopción del producto.
+- **Demostraciones:** Realizar pruebas piloto, presentaciones y demostraciones en entornos reales como hogares, hoteles o municipalidades, permitiendo evidenciar el funcionamiento del sistema y generar confianza en potenciales clientes.
+- **Alianzas estratégicas:** Establecer convenios con empresas proveedoras de servicios (agua y gas) y organizaciones, con el fin de ampliar el alcance del producto y facilitar su implementación en distintos contextos.
 
 **Valor Añadido**
 
@@ -568,13 +574,15 @@ Low Cortisol adoptará una estrategia de enfoque en nichos específicos como hog
 ##### **3.  Innovación tecnológica**
 **Estrategia**
 
-Low Cortisol adoptará una estrategia de innovación continua, incorporando mejoras tecnológicas constantes en su sistema IoT para mantenerse competitivo frente a empresas como Aqara, Fibaro y Honeywell. Se enfocará en desarrollar funcionalidades avanzadas como análisis predictivo de consumo, detección temprana de anomalías y mejoras en la conectividad, con el objetivo de ofrecer una solución más inteligente y eficiente.
+  Low Cortisol adoptará una estrategia de innovación continua, incorporando mejoras tecnológicas constantes en su sistema IoT para mantenerse competitivo frente a empresas como Aqara, Fibaro y Honeywell. Se enfocará en desarrollar funcionalidades avanzadas como análisis predictivo de consumo, detección temprana de anomalías y mejoras en la conectividad, con el objetivo de ofrecer una solución más inteligente y eficiente.
+
+  Esta estrategia permitirá a la startup no solo mantenerse vigente, sino también anticiparse a las necesidades del mercado y diferenciarse mediante el uso de tecnología avanzada.
 
 **Tácticas**
 
-- **Mejora continua:** Actualizaciones constantes de la app y sensores.
-- **Análisis de datos:** Implementar reportes inteligentes y predicción de fugas.
-- **Integración tecnológica:** Compatibilidad con otros sistemas IoT y smart home.
+- **Mejora continua:** Desarrollar actualizaciones constantes tanto en la aplicación como en los dispositivos IoT, incorporando nuevas funcionalidades y optimizando el rendimiento del sistema en base a la retroalimentación de los usuarios.
+- **Análisis de datos:** Implementar herramientas de análisis que permitan interpretar el consumo de agua y gas, identificando patrones y posibles anomalías, lo que facilitará la toma de decisiones preventivas.
+- **Integración tecnológica:** Asegurar la compatibilidad del sistema con otras plataformas IoT y soluciones de smart home, permitiendo una integración más amplia y mejorando la experiencia del usuario dentro de ecosistemas tecnológicos existentes.
 
 **Valor Añadido**
 
@@ -586,9 +594,17 @@ Low Cortisol adoptará una estrategia de innovación continua, incorporando mejo
 
 #### Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
  
+<<<<<<< HEAD
+
 
 #### Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
+
+=======
+
+#### Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+
+>>>>>>> develop
 
 
 ### 2.2.2 Registro Entrevistas
@@ -659,17 +675,11 @@ Low Cortisol adoptará una estrategia de innovación continua, incorporando mejo
 - URL: [Entrevista_Leonardo_Daniel](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQAACV_KLKrVQ4mW-fkDJBhjAdEzO8O66oc0hGDoY-FjbTI?e=cEBinc)
 - Duración video: 7:44
 - Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+  ![Entrevistado-1](assets/md-images-chapter2/Interview-Leonardo.png)
 
 
 **<u>Resumen de la entrevista:</u>**
-Leonardo es un practicante de Ingeniería Civil que trabaja en el área de infraestructura de una municipalidad, donde participa en la supervisión de redes de agua y gestión de incidencias. Desde su experiencia, el monitoreo actual es principalmente reactivo, ya que no se cuenta con sistemas en tiempo real, dependiendo en gran medida de inspecciones manuales y reportes de los ciudadanos.
-
-Señala que las fugas de agua son frecuentes, especialmente en zonas con tuberías antiguas, y muchas veces no son visibles de inmediato, lo que genera pérdidas acumulativas. La detección suele realizarse de forma visual o cuando los vecinos reportan problemas, lo que retrasa la intervención. Además, los tiempos de respuesta pueden variar desde horas hasta varios días debido a la coordinación con entidades externas.
-
-Reconoce que el uso de tecnología es limitado y que la falta de sensores o sistemas inteligentes reduce la capacidad de prevención. Sin embargo, muestra una actitud positiva hacia soluciones basadas en IoT, destacando que permitirían detectar fallas de manera temprana, mejorar la eficiencia y optimizar la toma de decisiones.
-
-Finalmente, menciona que los principales retos para implementar estas soluciones son el presupuesto, la capacitación del personal y la integración con sistemas existentes. A pesar de ello, considera que su principal valor sería mejorar la gestión de recursos, reducir pérdidas y brindar un servicio más eficiente a la comunidad.
+  Leonardo, practicante en el área de infraestructura de una municipalidad de la Molina, explica que el monitoreo de redes de agua se realiza principalmente de forma reactiva, basándose en inspecciones programadas y reportes de los ciudadanos. Señala que las fugas son frecuentes, especialmente en zonas con tuberías antiguas, y muchas veces no se detectan de inmediato, lo que genera pérdidas acumulativas de agua. Además, menciona que los tiempos de respuesta pueden variar considerablemente debido a la coordinación con otras entidades responsables. Indica que el uso de tecnología es limitado y que no cuentan con sistemas de monitoreo en tiempo real. Sin embargo, considera que la implementación de soluciones IoT permitiría mejorar la detección temprana de fallas, optimizar recursos y facilitar la toma de decisiones. También reconoce que existen barreras como el presupuesto, la capacitación del personal y la integración con sistemas ya existentes.
 
 ###### Entrevista 2 – Segmento: Profesionales de Infraestructura
 
@@ -683,23 +693,17 @@ Finalmente, menciona que los principales retos para implementar estas soluciones
 - URL: [Entrevista_Pool_Enrique](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDfxdo8pQ9SQJk2KH4ElHBpASUK09i9Wp0YcqIypn83PuY?e=GPSgeU)
 - Duración video: 7:12
 - Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+  ![Entrevistado-2](assets/md-images-chapter2/Interview-Pool.png)
 
 
 **<u>Resumen de la entrevista:</u>**
-Pool, practicante de Ingeniería Civil en la Municipalidad de Ate, participa en actividades relacionadas con la supervisión de redes de agua y la gestión de incidencias en servicios públicos. Desde su experiencia, comenta que el control de estas redes se realiza principalmente de forma reactiva, apoyándose en inspecciones y en los reportes de los ciudadanos, debido a la ausencia de sistemas que permitan un monitoreo continuo en tiempo real.
-
-Indica que las fugas son un problema recurrente, sobre todo en sectores con infraestructura antigua o intervenida sin planificación adecuada. Muchas de estas fallas no se detectan rápidamente, lo que incrementa las pérdidas de agua y afecta el rendimiento del sistema. La identificación de estas fugas suele basarse en observaciones directas, como humedad o baja presión, lo que retrasa la respuesta ante el problema. Además, el tiempo de solución varía según la complejidad, pudiendo extenderse por varios días.
-
-También resalta que el uso de herramientas tecnológicas es limitado, lo que dificulta anticiparse a los problemas. Sin embargo, muestra una postura favorable hacia la incorporación de soluciones basadas en IoT, ya que permitirían un monitoreo constante, una detección más rápida de fallas y una mejor toma de decisiones.
-
-Finalmente, menciona que existen barreras como el presupuesto, la capacitación del personal y la adaptación a infraestructuras antiguas. Aun así, considera que implementar estas tecnologías contribuiría a optimizar recursos, disminuir pérdidas y mejorar la calidad del servicio para la población.
+  Pool, practicante en la Municipalidad de Ate, comenta que la supervisión de redes de agua se realiza principalmente mediante inspecciones y reportes ciudadanos, debido a la ausencia de sistemas de monitoreo continuo. Indica que las fugas son un problema recurrente, sobre todo en infraestructuras antiguas o intervenidas sin una adecuada planificación. Muchas de estas fallas no se detectan a tiempo, lo que incrementa las pérdidas y afecta la eficiencia del sistema. La identificación suele basarse en señales visibles, como humedad o disminución de presión, lo que retrasa la intervención. Además, menciona que el uso de herramientas tecnológicas es limitado. No obstante, muestra una actitud positiva hacia la implementación de soluciones IoT, ya que permitirían un monitoreo constante, una detección más rápida de fallas y una mejor gestión de los recursos.
 
 ######  Entrevista 3 – Segmento: Profesionales de Infraestructura
 
 **Datos del Entrevistado:**
 - Edad: 22
-- Nombre: Eduard Rojas
+- Nombre: Edward Rojas
 - Ocupación: Practicante de Ingeniería Civil del área de mantenimiento del JW Marriott Hotel
 - Distrito: San Isidro
 
@@ -707,14 +711,10 @@ Finalmente, menciona que existen barreras como el presupuesto, la capacitación 
 - URL del video: [Entrevista-Eduardo-Rojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
 - Duración: 05:06
 - Screenshot:
+  ![Entrevistado-3](assets/md-images-chapter2/Interview-Edward.png)
 
 **<u>Resumen de la entrevista:</u>**
-El entrevistado es un joven trabajador del área de mantenimiento en un hotel de alta categoría, encargado de supervisar el estado de las instalaciones, especialmente redes de agua y gas. Durante la entrevista, menciona que las fugas de agua son los problemas más frecuentes, principalmente en tuberías internas de habitaciones, mientras que las fugas de gas son menos comunes pero más críticas debido al riesgo que representan.
-En cuanto a la gestión actual, señala que el monitoreo se realiza de manera manual y reactiva, dependiendo en gran parte de reportes del personal como housekeeping, recepción o incluso de los propios huéspedes. Indica que los incidentes ocurren aproximadamente una o dos veces al mes, incrementándose en temporadas de alta ocupación.
-El impacto de estas fallas en la experiencia del cliente es significativo, ya que pueden generar incomodidades, cambios de habitación e incluso afectar la percepción de calidad del servicio. Por ello, el hotel cuenta con un plan de mantenimiento preventivo basado en revisiones periódicas y capacitación del personal para detectar señales tempranas.
-Respecto a la tecnología, menciona que actualmente no cuentan con sistemas automatizados ni monitoreo en tiempo real, lo que limita la capacidad de respuesta rápida. Sin embargo, muestra una actitud abierta hacia la implementación de soluciones tecnológicas como sistemas basados en IoT, destacando que serían útiles para detectar fugas de manera temprana y mejorar la eficiencia del trabajo.
-En términos de personalidad, el entrevistado se muestra práctico, responsable y orientado a la solución de problemas, con interés en mejorar los procesos del área. Está familiarizado con el uso de tecnología básica y dispositivos móviles, los cuales considera clave para recibir alertas en tiempo real.
-Finalmente, señala que los principales beneficios esperados de una solución tecnológica incluyen una respuesta más rápida, reducción de riesgos, disminución de costos de reparación y mejora en la satisfacción del cliente.
+  Edward, trabajador del área de mantenimiento en un hotel, señala que las fugas de agua son los problemas más frecuentes en las instalaciones, principalmente en tuberías internas, mientras que las fugas de gas, aunque menos comunes, representan un mayor riesgo. Indica que el monitoreo se realiza de manera manual y depende en gran parte de reportes del personal o de los huéspedes, lo que evidencia un enfoque reactivo. Estas fallas pueden afectar directamente la experiencia del cliente, generando incomodidades y posibles costos adicionales para el hotel. Por ello, destaca la importancia de contar con soluciones tecnológicas que permitan una detección temprana de fugas. Considera que la implementación de sistemas IoT ayudaría a mejorar la eficiencia del mantenimiento, reducir riesgos y optimizar la operación del servicio.
 
 ###### Entrevista 4 – Segmento: Profesionales de Infraestructura
 
@@ -728,19 +728,11 @@ Finalmente, señala que los principales beneficios esperados de una solución te
 - URL: [Entrevista_Fabián_Raimundo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDawspRWjtiR5y7UR6qjti4AcwNYWIz-ajJLLVrggxK-cQ?e=8IlNqo)
 - Duración video: 07:26
 - Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202411378_upc_edu_pe/IQCQGEfRWVH6TLcr3I0c7lP5Aakp02sv6gcUb_jZen03Ib8?e=K3w4YT)
+  ![Entrevistado-4](assets/md-images-chapter2/Interview-Fabian.png)
 
 
 **<u>Resumen de la entrevista:</u>**
-El entrevistado es un practicante del área de gestión y servicios en un hotel, donde participa en la supervisión y apoyo a las operaciones relacionadas con el mantenimiento y la experiencia del cliente. Durante la entrevista, menciona que los problemas relacionados con fugas de agua y gas sí ocurren, aunque no con alta frecuencia. Las fugas de agua son más comunes debido al desgaste natural de las instalaciones, mientras que las fugas de gas son menos frecuentes, pero consideradas críticas, especialmente en áreas como el restaurante, donde el riesgo es mayor.
-Respecto a la frecuencia, indica que estos incidentes se presentan de manera ocasional, principalmente asociados al deterioro de las tuberías. La detección de estos problemas se realiza de manera manual, a través de la observación del personal de mantenimiento y limpieza, quienes identifican señales como humedad, olores o ruidos extraños. En algunos casos, los huéspedes también reportan inconvenientes al finalizar su estadía.
-El impacto en la experiencia del cliente es relevante, ya que estas fallas pueden generar incomodidad, interrupciones en el descanso e incluso desconfianza en el servicio, lo que podría llevar a los clientes a optar por otros hoteles. Por ello, el establecimiento aplica medidas de mantenimiento preventivo, mediante revisiones periódicas de tuberías, conexiones y equipos. Sin embargo, el entrevistado reconoce que estas acciones no siempre son suficientes.
-En cuanto a la tecnología, menciona que actualmente cuentan con un sistema de monitoreo, pero este no es completamente eficiente, por lo que aún dependen en gran medida de inspecciones manuales y supervisión constante. Existe una intención de avanzar hacia un sistema más automatizado, lo que evidencia una transición tecnológica en proceso.
-La gestión del mantenimiento se realiza mediante cronogramas establecidos y un equipo encargado de atender incidencias, aunque en muchos casos el enfoque sigue siendo reactivo. El entrevistado destaca que evitar interrupciones en el servicio es fundamental, ya que la satisfacción del cliente y la reputación del hotel son prioridades clave.
-En relación con soluciones tecnológicas, muestra una actitud positiva hacia la implementación de sistemas con alertas en tiempo real, considerando que permitirían actuar de forma inmediata ante cualquier tipo de falla. Entre las funcionalidades clave, menciona la necesidad de alertas en tiempo real, historial de incidencias, reportes detallados y facilidad de uso.
-Desde su perspectiva, el hotel estaría dispuesto a invertir en este tipo de soluciones, aunque reconoce que estas decisiones dependen del área administrativa. Finalmente, señala que los principales beneficios esperados incluyen la detección temprana de fallas, reducción en los tiempos de respuesta, optimización del trabajo, mejora en la experiencia del cliente y disminución de costos a largo plazo.
-En cuanto a características personales, el entrevistado muestra una actitud analítica y orientada a la mejora continua, con apertura al uso de nuevas tecnologías. Utiliza canales de comunicación internos del hotel y dispositivos digitales básicos, lo que facilita la adopción de soluciones tecnológicas como sistemas de monitoreo automatizados.
-
+  Fabián, practicante en el área de gestión y servicios de un hotel, menciona que los problemas relacionados con fugas de agua y gas ocurren de manera ocasional, siendo las fugas de agua más comunes debido al desgaste de las instalaciones. Señala que la detección de estos problemas se realiza principalmente de forma manual, mediante la observación del personal de mantenimiento o limpieza, así como por reportes de los huéspedes. Aunque el hotel cuenta con un plan de mantenimiento preventivo, reconoce que este no siempre permite anticipar las fallas, por lo que el sistema sigue siendo en gran parte reactivo. Además, indica que la falta de automatización limita la capacidad de respuesta. Sin embargo, muestra interés en la implementación de soluciones IoT con alertas en tiempo real, ya que permitirían mejorar la eficiencia operativa, reducir tiempos de respuesta y optimizar la experiencia del cliente.
 ###### Entrevista 5 – Segmento: Profesionales de Infraestructura
 
 **Datos del Entrevistado:**
@@ -753,15 +745,11 @@ En cuanto a características personales, el entrevistado muestra una actitud ana
 - URL: [Entrevista_Álvaro_Jordán_Villa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDCfKgvsJeSQ5iSLTGtwZuBAdD3tSG00wgIiM6258CkGV0?e=g4vMv6)
 - Duración video: 4:29
 - Screenshot: 
-  ![Entrevistado-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
+  ![Entrevistado-5](assets/md-images-chapter2/Interview-Alvaro.png)
 
 
 **<u>Resumen de la entrevista:</u>**
-Álvaro, practicante de mantenimiento en un hotel de Miraflores, comenta que las fugas de agua son los problemas más frecuentes debido al desgaste de las tuberías, mientras que las de gas son menos comunes, pero de mayor riesgo. La detección depende principalmente de reportes del personal o huéspedes, lo que evidencia un enfoque reactivo.
-
-De tal manera, estos incidentes afectan la experiencia del cliente y la reputación del hotel, por lo que se realizan mantenimientos preventivos, aunque no siempre permiten anticipar fallas. Actualmente no cuentan con monitoreo en tiempo real, lo que limita la detección temprana.
-
-Finalmente, muestra una actitud positiva hacia soluciones basadas en IoT, destacando que permitirían alertas inmediatas, mejor control del sistema y una reducción de riesgos, costos y pérdidas.
+  Álvaro, practicante de mantenimiento en un hotel, comenta que las fugas de agua son frecuentes debido al desgaste de las tuberías y al uso constante de las instalaciones, mientras que las fugas de gas son menos comunes, pero implican un mayor nivel de riesgo. Indica que la detección depende principalmente de reportes del personal o de los huéspedes, lo que evidencia un enfoque reactivo. Aunque se realizan mantenimientos preventivos, no cuentan con un sistema de monitoreo en tiempo real que permita anticipar fallas de manera eficiente. Señala que esta situación puede generar pérdidas de recursos, riesgos operativos y afectar la calidad del servicio. Considera que la implementación de soluciones basadas en IoT sería clave para mejorar el control, reducir riesgos, optimizar el uso de recursos y fortalecer la gestión del mantenimiento.
 
 
 
@@ -774,7 +762,10 @@ Finalmente, muestra una actitud positiva hacia soluciones basadas en IoT, destac
 ## 2.4. Big Picture Event Storming
 
   #### Introducción:
+<<<<<<< HEAD
+=======
 
+>>>>>>> develop
 
 
   #### Resumen del Proceso Realizado:
@@ -783,54 +774,127 @@ Finalmente, muestra una actitud positiva hacia soluciones basadas en IoT, destac
 ## 2.5. Ubiquitous Language
 
 
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> develop
 
 # Capitulo III: Requirements Specification
 ## 3.1. User Stories
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
+
 # Capitulo IV: Product Design
+
+  El Product Design es clave en el desarrollo de la solución, ya que permite crear un sistema centrado en el usuario que responda a los problemas identificados en el monitoreo de agua y gas. A través de una arquitectura basada en el dominio, diseño orientado a objetos y una interfaz web intuitiva, se busca ofrecer una experiencia clara, eficiente y fácil de usar. Este enfoque asegura que el producto cumpla con las necesidades de los usuarios, genere valor y contribuya al logro de los objetivos del proyecto.
+
+
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 
-  LowCortisol organiza la información de su plataforma web y aplicación móvil de manera clara e intuitiva, permitiendo a los usuarios monitorear en tiempo real el estado de sus redes de agua y gas. La arquitectura está diseñada para facilitar el acceso rápido a funciones clave como alertas, control de válvulas, historial de consumo y contacto con técnicos.
+  Esta sección define cómo se organizará la información dentro de la plataforma web y aplicación móvil de LowCortisol, considerando la estructura del contenido, los estilos visuales y los elementos que facilitarán la interacción del usuario. El objetivo es asegurar que los usuarios puedan comprender y acceder a las funcionalidades de manera rápida e intuitiva.
 
-  El sistema se estructura en módulos principales como: dashboard de monitoreo, donde se visualizan datos en tiempo real; alertas, que notifican incidencias de manera inmediata; historial, que permite analizar patrones de consumo; y configuración, donde el usuario gestiona dispositivos y preferencias.
+  Se abordarán aspectos clave como los Organization Systems, Labeling Systems, Navigation Systems y Searching Systems, los cuales permitirán estructurar el contenido, definir etiquetas claras, guiar la navegación y facilitar la búsqueda de información dentro del sistema.
 
-  En cuanto a los sistemas de organización, la información se agrupa por funcionalidades y tipo de servicio (agua y gas). El etiquetado utiliza términos simples y comprensibles para todo tipo de usuario. La navegación es jerárquica y accesible desde menús principales, facilitando una experiencia fluida. Además, se incluye un sistema de búsqueda para acceder rápidamente a información específica dentro de la plataforma.
-
-  A futuro, se busca integrar la plataforma con entidades como empresas de servicios y municipalidades, ampliando sus capacidades hacia una gestión más eficiente y preventiva de recursos.
+  Todo el diseño de la arquitectura de información estará enfocado en mejorar la experiencia del usuario, permitiéndole monitorear, gestionar y controlar sus redes de agua y gas de forma eficiente y sin complicaciones.
 
 ### 4.2.1. Organization Systems
 
-  La plataforma de LowCortisol organiza la información de forma clara para facilitar el acceso a sus funciones principales.
+  La organización de la información en LowCortisol se estructura a partir de un menú principal claro y orientado al usuario, que permite acceder fácilmente a las secciones más importantes del sistema. La página de Inicio presenta una visión general del servicio, destacando la propuesta de valor, el monitoreo en tiempo real y los beneficios principales. La sección de Beneficios explica las ventajas del producto, como la mejora en la seguridad, el ahorro de recursos y la optimización del consumo.
 
-  Se utiliza una jerarquía visual en el dashboard para priorizar alertas y datos en tiempo real. También se aplica una organización secuencial en procesos como la configuración de dispositivos, guiando al usuario paso a paso, y una organización matricial en el análisis de consumo, combinando variables como tiempo y tipo de recurso.
+  La sección ¿Cómo funciona? organiza la información de manera secuencial, mostrando el proceso del sistema desde la detección de fugas hasta la generación de alertas y acciones correctivas. Por otro lado, la página de Planes presenta los diferentes tipos de suscripción disponibles, incluyendo tanto opciones para usuarios residenciales como para profesionales, detallando sus características, beneficios y costos.
 
-  En cuanto a la categorización, se organiza por tópicos (monitoreo, alertas, historial y configuración), por los segmentos objectivos y de forma cronológica en el historial de consumo.
+  Asimismo, la sección ¿Quiénes somos? brinda información sobre la startup, su propósito y su enfoque en soluciones IoT, mientras que la página de Contacto permite a los usuarios comunicarse mediante formularios, correo o teléfono, facilitando la solicitud de información o demostraciones. También se incluye una sección de Log In, donde los usuarios pueden iniciar sesión o registrarse para acceder a la plataforma.
+
+  Adicionalmente, el sistema contempla otras funcionalidades organizadas por tópicos, como el dashboard de monitoreo, donde se visualizan datos en tiempo real; el historial de consumo, que permite analizar patrones; las alertas, que notifican incidencias; y la configuración, donde se gestionan dispositivos y preferencias del usuario. También se consideran secciones como perfil de usuario y ayuda o soporte.
+
+  En términos de estructura, se aplica una organización jerárquica, presentando la información de lo general a lo específico, así como una organización por tópicos, agrupando el contenido según su funcionalidad. Además, se incorpora una organización por audiencia, diferenciando entre usuarios residenciales y profesionales, lo que permite adaptar el contenido a sus necesidades. Finalmente, la plataforma cuenta con una barra de navegación clara y un diseño responsive que asegura una experiencia consistente tanto en dispositivos web como móviles.
+
 
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags 
 ### 4.2.4. Searching Systems
 
-  El sistema de búsqueda permitirá a los usuarios encontrar información de manera rápida dentro de la aplicación. Se incluirá una barra de búsqueda para acceder a datos como historial de consumo o incidencias.
+  El sistema de búsqueda de LowCortisol está diseñado para facilitar el acceso rápido a la información dentro de la plataforma, adaptándose a la complejidad de cada segmento y al volumen de datos generado por sensores, alertas y sedes.
 
-  Asimismo, se aplicarán filtros como tipo de recurso (agua o gas), fechas y estado de alertas. Los resultados se mostrarán de forma clara y ordenada, facilitando la comprensión y evitando que el usuario se sienta perdido ante grandes volúmenes de información.
+  Para el primer segmento, correspondiente a usuarios residenciales, el sistema de búsqueda se enfoca en la simplicidad y facilidad de uso, considerando que el usuario maneja una cantidad reducida de dispositivos y requiere una interacción intuitiva.
+
+  - **Búsqueda de alertas:**  
+    Se incluye una barra de búsqueda dentro del módulo de alertas, identificada como “Buscar alertas…”, que permite localizar incidencias mediante palabras clave, tipo de problema o sensor.
+
+  - **Filtros básicos:**  
+    El usuario puede filtrar alertas según su estado, ya sean activas o resueltas, así como por nivel de prioridad, como crítica o advertencia, facilitando la identificación de problemas importantes.
+
+  - **Historial de consumo:**  
+    Se permite seleccionar periodos de tiempo como últimas 24 horas, semanas o meses, mostrando los resultados mediante gráficos claros de consumo de agua y gas.
+
+  - **Ubicación de sensores:**  
+    Los dispositivos pueden identificarse fácilmente por nombre o ubicación, por ejemplo cocina, baño o jardín, evitando la necesidad de realizar búsquedas complejas.
+
+  Los resultados se presentan en tarjetas visuales, gráficos simples y listas organizadas de alertas, priorizando la claridad, rapidez y facilidad de uso para el usuario.
+
+  Para el segundo segmento, conformado por profesionales de infraestructura y gestión operativa, el sistema de búsqueda es más avanzado, ya que deben gestionar múltiples sedes, usuarios y dispositivos de manera simultánea.
+
+  - **Búsqueda y filtrado de alertas centralizadas:**  
+    Se permite filtrar alertas según su estado, como activas, en progreso o resueltas, además de su prioridad, sede y tipo de incidente, lo que facilita un control más preciso de las operaciones.
+
+  - **Filtrado por sedes y ubicaciones:**  
+    Los usuarios pueden buscar información específica según la sede, como hoteles, oficinas o sucursales, lo que permite un análisis detallado en entornos con múltiples ubicaciones.
+
+  - **Búsqueda en dashboards y métricas:**  
+    La información puede segmentarse según sede, periodo de tiempo o tipo de recurso, permitiendo visualizar comparativas, tendencias y patrones de consumo.
+
+  - **Búsqueda de sensores y dispositivos:**  
+    Los sensores pueden identificarse mediante códigos, ubicación o asignación, lo que agiliza la gestión técnica y la atención de incidencias.
+  - **Filtrado para reportes:**  
+    En el módulo de reportes ejecutivos, los usuarios pueden seleccionar sedes, rangos de fechas y métricas específicas para generar reportes personalizados según sus necesidades.
+
+    Los resultados se muestran mediante dashboards ejecutivos, tablas organizadas, gráficos comparativos y reportes descargables, facilitando la toma de decisiones informadas y en tiempo real.
 
 ### 4.2.5. Navigation Systems
 
-  La navegación de LowCortisol está diseñada para ser simple e intuitiva, permitiendo a los usuarios acceder rápidamente a las funciones principales. Se utilizará un menú principal que incluye secciones como monitoreo, alertas, historial y configuración.
+  El Sistema de Navegación es la estructura que permite a los usuarios desplazarse de manera eficiente entre las distintas secciones del landing page y las funcionalidades de la aplicación, facilitando el acceso a la información y el uso del sistema.
 
-  El usuario podrá desplazarse mediante botones claros y accesos directos en el dashboard, priorizando acciones importantes como ver alertas o controlar válvulas. Además, se emplearán elementos como botones de acción y enlaces que guían al usuario a información específica, evitando sobrecargar una sola pantalla.
+  #### Estructura de navegación
+
+
+  - **Inicio:**  
+    Ofrece una visión general del servicio, destacando la propuesta de valor, métricas clave y accesos directos a secciones importantes.
+
+  - **Beneficios:**  
+    Expone las ventajas del sistema, como el ahorro de costos, el monitoreo en tiempo real y la mejora en la seguridad.
+
+  - **Quiénes Somos:**  
+    Brinda información sobre la startup, su propósito y su enfoque en soluciones tecnológicas basadas en IoT.
+
+  - **Planes:**  
+    Presenta los diferentes planes disponibles para usuarios residenciales y empresariales, incluyendo precios y características.
+
+  - **Contacto:**  
+    Permite al usuario comunicarse mediante formularios, correo o teléfono, así como solicitar información o una demostración.
+
+  - **Iniciar sesión:**  
+    Ubicado en la barra de navegación, permite a los usuarios acceder a su cuenta o registrarse en la plataforma.
+
+  - **Acciones principales:**  
+    Incluye botones como “Ver planes” y “Solicitar demo”, que dirigen al usuario hacia acciones clave dentro del sistema.
+
+  #### Navegación en la aplicación
+
+  Para el sistema funcional, la navegación se adapta según el segmento del usuario:
+
+  - **Usuarios residenciales:**  
+    Se utiliza una navegación simple mediante un menú principal que incluye Dashboard, Alertas, Historial de consumo y Control de dispositivos, permitiendo una interacción rápida, clara y directa.
+
+  - **Profesionales de infraestructura:**  
+    Se emplea una navegación más estructurada mediante un panel lateral que incluye Dashboard Ejecutivo, Sedes, Alertas Centralizadas, Reportes, Gestión de equipo y Configuración, facilitando la administración de múltiples operaciones y ubicaciones.
+
 
 ## 4.3. Landing Page UI Design
 
-  El diseño de la Landing Page de LowCortisol se basa en las decisiones de arquitectura de información previamente definidas, buscando ofrecer una experiencia clara, intuitiva y centrada en el usuario. Se prioriza la presentación de información relevante como los beneficios del monitoreo en tiempo real, la prevención de fugas y la seguridad, utilizando una jerarquía visual que destaque los elementos más importantes.
 
-  La interfaz emplea un diseño limpio, con secciones bien organizadas como: presentación del producto, funcionalidades, beneficios y contacto. Se utilizan botones de acción visibles (como “Conoce más” o “Contáctanos”) que guían al usuario a interactuar con la página de forma sencilla.
-
-  Además, se incorporan elementos visuales como íconos y gráficos que facilitan la comprensión del servicio, junto con un diseño responsive que permite una correcta visualización en distintos dispositivos. De esta manera, se busca captar la atención del usuario y transmitir de forma efectiva el valor de la solución.
 
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
