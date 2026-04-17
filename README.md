@@ -594,17 +594,14 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 
 #### Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
  
-<<<<<<< HEAD
 
 
 #### Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 
-=======
 
 #### Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
->>>>>>> develop
 
 
 ### 2.2.2 Registro Entrevistas
