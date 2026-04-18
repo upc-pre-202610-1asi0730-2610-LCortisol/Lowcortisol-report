@@ -253,7 +253,7 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 | :------------------------------------ |:------------------------------------ |:------------------------------------ |:------------------------------------ |
 | Condori Torres, Miguel Anibal      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src=""> | text
 | Delgado Perez, James Caleb      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src=""> | text
-| Loa Rojas, Jean Franck      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src=""> | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
+| Loa Rojas, Jean Franck      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Jean_Loa.jpg"> | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
 | Montalvo Vasquez, Bruno Rodrigo      |carrera| <img src=""> | text
 | Quiliano Motta, Kirk Douglas      |carrera| <img src=""> | text
 
@@ -1266,10 +1266,42 @@ Todo espaciado debe ser múltiplo de 8px
 
 ## 4.3. Landing Page UI Design
 
+  En esta sección se presenta la propuesta de diseño de interfaz del Landing Page de LowCortisol, basada en la arquitectura de información definida previamente. El objetivo es ofrecer una interfaz clara, atractiva e intuitiva que permita al usuario comprender el producto y acceder fácilmente a sus principales funcionalidades y planes.
 
 
 ### 4.3.1. Landing Page Wireframe
+
+
+  ##### Landing Page para Desktop Web Browser  
+
+  <p align="center">
+    <img src="assets/md-images-chapter4/Landing-Page-Wireframe.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Wireframe-Benefit.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Wireframe-Features.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Wireframe-Whoweare.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Wireframe-Segments.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Wireframe-Payment.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Wireframe-Contact.PNG" width="800"/> <br>
+  </p>
+
+  ##### Landing Page para Desktop Web Browser  
+
+
+  <p align="center">
+    <img src="assets/md-images-chapter4/Mobil-Landing-Page-Wireframe.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Mobil-Landing-Page-Wireframe-Feature-Whoweare.PNG" width="380"/><br>
+    <img src="assets/md-images-chapter4/Mobil-Landing-Page-Wireframe-Segments.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Mobil-Landing-Page-Wireframe-Payment.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Mobil-Landing-Page-Wireframe-Contact.PNG" width="380"/> <br>
+  </p>
+
+  
 ### 4.3.2. Landing Page Mock-up
+
+    
+
+
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
