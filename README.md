@@ -812,14 +812,365 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+
+### Branding
+
+Para la creación del logo de nuestro producto LowCortisol, hemos optado por un diseño minimalista con colores llamativos que representan la propuesta de valor de nuestra app de manera no verbal. El escudo simboliza la protección, seguridad y prevención que brinda nuestro producto; por otro lado, la nube y la señal representan el ecosistema tecnológico e inalámbrico. Se eligieron los colores Azul, Naranja y Gris ya que transmiten profesionalismo, energía y un acabado de hardware moderno. Finalmente, la tipografía Sans Serif garantiza una lectura limpia y clara en dispositivos digitales.
+
+<p align="center">
+  <img src="assets/md-images-chapter2/LowCortisol_logo.png" width="250" alt="Low Cortisol Logo">
+</p>
+
+### Typography
+
+Para la identidad visual de LowCortisol, se ha seleccionado una combinación tipográfica que equilibra la precisión técnica con la accesibilidad digital.
+
+- Tipografía Principal (Cuerpo): Se ha seleccionado Montserrat, una fuente sans-serif de geometría clara que garantiza una legibilidad óptima en pantallas de dispositivos móviles y paneles de control. Su aspecto contemporáneo refuerza la imagen de una solución tecnológica e innovadora.
+
+- Encabezados y Títulos: Para resaltar la información crítica y las alertas de seguridad, se ha optado por Roboto. Al ser una fuente con un diseño mecánico pero amable, comunica la robustez de un sistema de monitoreo industrial, permitiendo que los títulos sean audaces y capten la atención inmediata del usuario ante cualquier anomalía detectada.
+
+<p align="center">
+  <img src="assets/md-images-chapter2/MontSerrat-Font.png" width="250" alt="Low Cortisol Logo">
+  <img src="assets/md-images-chapter2/Roboto-Size.png" width="250" alt="Low Cortisol Logo">
+</p>
+
+### Colors
+
+La paleta de colores de LowCortisol ha sido seleccionada para transmitir seguridad, precisión técnica y un sentido de alerta controlada. Los tonos elegidos permiten diferenciar claramente entre el estado operativo normal y las notificaciones de emergencia en el sistema de monitoreo. A continuación, se presentan los colores que conforman la identidad del producto:
+
+- Azul Tecnológico (Primary): Representa la fluidez del agua, la calma y la estabilidad. Es el color principal de la interfaz para transmitir al usuario que el sistema está bajo control y funcionando correctamente.- 
+
+- Naranja Energético (Accent): Utilizado para representar el gas y las alertas preventivas. Su alta visibilidad ayuda a captar la atención inmediata ante anomalías, simbolizando la respuesta rápida del sistema ante una fuga.- 
+
+- Gris Hardware (Secondary): Refleja la solidez de la infraestructura física y los dispositivos IoT. Aporta el equilibrio necesario para que la aplicación mantenga un aspecto profesional, serio y moderno.
+
+<p align="center">
+  <img src="assets/md-images-chapter2/Azul.png" width="250" alt="Low Cortisol Logo">
+  <img src="assets/md-images-chapter2/Naranja.png" width="250" alt="Low Cortisol Logo">
+  <img src="assets/md-images-chapter2/Gris.png" width="250" alt="Low Cortisol Logo">
+  <img src="assets/md-images-chapter2/Negro.png" width="250" alt="Low Cortisol Logo">
+  <img src="assets/md-images-chapter2/Blanco.png" width="250" alt="Low Cortisol Logo">
+</p>
+
+### Spacing
+
+El diseño de LowCortisol se basa en un sistema de rejilla (grid) de 8px para garantizar una jerarquía visual clara y una navegación intuitiva, priorizando la legibilidad de datos críticos en tiempo real.
+
+- Sistema de Espaciado: Se utiliza una escala basada en múltiplos de 8 (8px, 16px, 24px, 32px) para definir márgenes y rellenos (paddings). Esto asegura una consistencia rítmica en toda la interfaz, facilitando que los indicadores de flujo y presión no se sientan saturados.
+
+- Layout Adaptativo: La estructura se organiza mediante un sistema de columnas flexible (12 columnas para escritorio y 4 columnas para dispositivos móviles). El diseño prioriza una distribución "Mobile-First", situando los controles de emergencia y el estado de los sensores en la zona de mayor alcance del pulgar.
+
+- Tarjetas de Información (Cards): Los datos de consumo se agrupan en contenedores con bordes redondeados y sombras suaves para separar visualmente las distintas zonas de monitoreo (Agua vs. Gas). El uso de espacios en blanco (white space) es intencional para reducir la carga cognitiva y mantener la promesa de marca de reducir el estrés del usuario.
+
+- Jerarquía de Visualización: El layout sitúa en la parte superior el "Estado Global del Sistema" (Safe/Warning), seguido de las métricas en tiempo real y, finalmente, el acceso rápido a servicios técnicos o cierre de válvulas.
+
+<p align="center">
+  <img src="assets/md-images-chapter2/Spacing_Pixels.png" width="250" alt="Low Cortisol Logo">
+</p>
+
+### Tone of Voice
+
+El tono de voz de LowCortisol se define como Preventivo, Profesional y Empático. No buscamos alarmar al usuario, sino darle la tranquilidad de que el sistema está trabajando por él. Nuestra comunicación debe ser clara y técnica, pero accesible para cualquier miembro del hogar o la industria.
+
 ### 4.1.2. Web Style Guidelines
+
+#### TABLA DE CONTENIDOS
+
+1. [Tipografía](#tipografía)
+2. [Paleta de Colores](#paleta-de-colores)
+3. [Branding](#branding)
+4. [Tono de Voz de Plataforma](#tono-de-voz-de-plataforma)
+5. [Spacing & Layout](#spacing--layout)
+
+---
+
+## TIPOGRAFÍA
+
+### Familia Tipográfica Principal
+
+**Tipografía Base:** Roboto (Material Design 3)
+
+La elección de Roboto responde a su claridad, legibilidad en pantallas digitales y alineación con Material Design, lo que asegura una experiencia coherente y profesional en todos los dispositivos.
+
+### Escala Tipográfica
+
+| Elemento | Tamaño | Peso | Line-Height | Letter-spacing | Color | Caso de Uso |
+|----------|--------|------|------------|----------------|-------|-----------|
+| H1 | 32px | Bold (700) | 40px | -0.5px | #1A1A1A | Títulos principales, encabezados de dashboards, títulos de páginas |
+| H2 | 28px | SemiBold (600) | 36px | -0.25px | #1A1A1A | Subtítulos, títulos de secciones, encabezados secundarios |
+| H3 | 24px | SemiBold (600) | 32px | 0px | #1A1A1A | Encabezados de tarjetas, títulos de subsecciones |
+| H4 | 20px | Medium (500) | 28px | 0.25px | #1A1A1A | Títulos pequeños, labels de importancia media |
+| Body | 16px | Regular (400) | 24px | 0.5px | #424242 | Texto corporal principal, descripciones, párrafos |
+| Body Small | 14px | Regular (400) | 20px | 0.25px | #424242 | Texto secundario, helper text, información complementaria |
+| Button | 16px | SemiBold (600) | 16px | 0.5px | Blanco/Primario | Etiquetas de botones, llamadas a la acción |
+| Caption | 12px | Regular (400) | 16px | 0.4px | #757575 | Timestamps, notas pequeñas, textos deshabilitados |
+| Label | 12px | Medium (500) | 16px | 0.5px | #1A1A1A | Labels de inputs, marcas, etiquetas |
+
+### Recomendaciones Responsive
+
+#### Mobile (320px - 767px)
+
+- H1: reducir a 28px
+- H2: reducir a 24px
+- Body: mantener 16px (mínimo legible)
+- Aumentar line-height en 10% para mejor legibilidad en pantallas pequeñas
+
+#### Tablet (768px - 1023px)
+
+- Mantener escala con ajustes menores
+- H1: 30px
+- Aumentar espaciado entre líneas para mejor respiración visual
+
+#### Desktop (1024px+)
+
+- Escala completa según tabla
+- Máxima legibilidad y jerarquía visual
+
+### Reglas de Tipografía
+
+- **Mínimo de tamaño:** 16px para cuerpo de texto (accesibilidad WCAG)
+- **Contraste:** Todo texto debe tener ratio de contraste mínimo 4.5:1 con su fondo
+- **Line-height:** Mantener entre 1.5 y 1.6 para body text
+- **Máximo ancho de línea:** 65-75 caracteres en desktop para óptima legibilidad
+
+---
+
+## PALETA DE COLORES
+
+### Colores Primarios
+
+| Nombre | HEX | RGB | HSL | Significado | Usos en Plataforma |
+|--------|-----|-----|-----|-------------|-------------------|
+| Verde Seguridad (Primary) | #2E7D32 | 46, 125, 50 | 108°, 46%, 35% | Seguridad, salud, estado correcto | Botones CTA, indicadores "normal", estados positivos, backgrounds de éxito, badges de sensores activos |
+| Rojo Alerta (Secondary) | #D32F2F | 211, 47, 47 | 0°, 74%, 51% | Urgencia, peligro, alerta crítica | Alertas críticas, indicadores "anómalo", fugas detectadas, estados de emergencia |
+| Azul Tecnología (Accent) | #1976D2 | 25, 118, 210 | 210°, 89%, 46% | Tecnología, confianza, innovación | Links, elementos interactivos, información, botones secundarios, gráficas |
+
+### Colores Secundarios
+
+| Nombre | HEX | RGB | Significado | Usos |
+|--------|-----|-----|-------------|------|
+| Verde Claro (Success) | #43A047 | 67, 160, 71 | Confirmación, éxito positivo | Mensajes de éxito, datos positivos, confirmaciones de acción |
+| Naranja (Warning) | #F57C00 | 245, 124, 0 | Advertencia, consumo alto | Advertencias moderadas, consumo elevado, estados de precaución |
+| Gris Neutral | #9E9E9E | 158, 158, 158 | Estado neutral, inactividad | Elementos deshabilitados, placeholders, divisores, bordes |
+
+#### Restricciones
+
+- No usar rojo/verde solos como único indicador (daltonismo)
+- Complementar colores con iconos y texto
+- Evitar combinaciones verde-rojo directo en alertas
+
+---
+
+## BRANDING
+
+### Identidad de Logo
+
+#### Estilo Visual
+
+- Moderno, tech-forward, minimalista
+- Basado en icono de tuberías/gota de agua o presión
+- Forma geométrica clean, sin detalles innecesarios
+- Transmite: seguridad, tecnología, confiabilidad
+
+##### Tamaños Estándar
+
+- Desktop: 48x48px (logo) + 160px (espacio para texto)
+- Tablet: 40x40px
+- Mobile: 36x36px
+- Mínimo: 32x32px (nunca menor)
+
+##### Clear Space
+
+- Espacio mínimo alrededor: 12px en todos los lados
+- No solapar con otros elementos
+- Mantener proporción 1:1 del logo
+
+##### Variaciones
+
+- Color completo: Logo con color primario verde
+- Blanco: Logo blanco (fondo oscuro/imagen)
+- Negativo: Logo en gris (contextos secundarios)
+- **Restricción:** No cambiar proporciones, no rotar, no distorsionar
+
+### Identidad Visual General
+
+#### Tonalidad
+
+- Moderna y profesional
+- Confiable y segura
+- Tech-savvy pero accesible
+- Serena pero activa
+
+#### Valores Visuales
+
+- Claridad: Información legible y organizada
+- Seguridad: Colores y formas que transmiten protección
+- Accesibilidad: Diseño inclusivo para todos los usuarios
+- Innovación: Elementos de diseño contemporáneo
+
+#### Inspiración
+
+- Material Design 3 como base
+- Industria IoT y smart home
+- Sistemas de monitoreo profesionales
+- Dashboard moderno y minimalista
+
+### Imagery & Iconografía
+
+#### Fotografía
+
+- Realista pero limpia
+- Sujetos: tuberías, sensores, hogares, edificios, técnicos trabajando
+- Paleta: verde, azul, grises, tonos naturales (evitar saturación)
+- Composición: ordenada, sin caos visual
+- Resolución mínima: 72dpi para web, optimizada para carga rápida
+
+#### Ilustraciones
+
+- Líneas limpias y geométricas
+- Estilo: Minimalist, flat design
+- Colores: Usar paleta definida (verde, azul, rojo)
+- Consistencia: Mismo estilo en toda la plataforma
+- Casos: Empty states, onboarding, explicaciones visuales
+
+#### Iconografía
+
+- Librería: Material Icons (Google) o Lucide Icons
+- Tamaños estándar: 18px, 24px, 32px, 48px
+- Colores:
+  - Acciones primarias: Verde (#2E7D32)
+  - Alertas: Rojo (#D32F2F)
+  - Información: Azul (#1976D2)
+  - Disabled: Gris (#9E9E9E)
+- Área táctil mínima: 48x48px (accesibilidad mobile)
+
+#### Iconos por Sección
+
+- Dashboard: 📊 (chart), 🔔 (bell para datos)
+- Alerts: 🚨 (warning), 🔴 (error)
+- Devices: 📱 (sensor), 🔧 (settings)
+- Pipelines: 🔌 (pipe), 💧 (water)
+- Users: 👤 (person), 👥 (team)
+- Support: ❓ (help), 📞 (contact)
+
+---
+
+## TONO DE VOZ DE PLATAFORMA
+
+### Perfil General
+
+| Atributo | Valor |
+|----------|-------|
+| Tono | Sereno + Entusiasta |
+| Registro | Profesional pero Accesible |
+| Nivel de Formalidad | Semi-formal |
+
+Esta combinación refleja que estamos ante un problema serio (fugas, emergencias) pero lo manejamos con control y competencia, empoderando al usuario en lugar de asustarlo.
+
+### 5 Principios Fundamentales
+
+#### 1. Serenidad
+
+- Tranquiliza sin minimizar el problema
+- Lenguaje calmante incluso en alertas
+- ✅ Ejemplo correcto: "Detectamos una presión alta. Ya estamos en esto."
+- ❌ Ejemplo incorrecto: "¡¡¡ALERTA CRÍTICA INMINENTE!!!"
+
+#### 2. Claridad
+
+- Evita jerga técnica innecesaria
+- Usa términos del negocio IoT (lenguaje ubicuo)
+- Explicaciones simples y directas
+- ✅ Ejemplo correcto: "Consumo de agua 40% arriba del promedio"
+- ❌ Ejemplo incorrecto: "Throughput hídrico excede parámetros algorítmicos"
+
+#### 3. Acción
+
+- Siempre sugiere qué hacer a continuación
+- No dejes al usuario sin opciones
+- ✅ Ejemplo correcto: "Detectamos una fuga. Contacta a un técnico o cierra la válvula remota."
+- ❌ Ejemplo incorrecto: "Se detectó un problema."
+
+#### 4. Empatía
+
+- Reconoce la preocupación del usuario
+- Valida sus sentimientos
+- ✅ Ejemplo correcto: "Sabemos que una fuga es preocupante. La hemos cerrado automáticamente."
+- ❌ Ejemplo incorrecto: "Se cerró la válvula."
+
+#### 5. Optimismo
+
+- Muestra que estamos en control
+- Enfatiza soluciones, no problemas
+- ✅ Ejemplo correcto: "¡Excelente! Tu consumo bajó 15% este mes."
+- ❌ Ejemplo incorrecto: "Tu consumo fue alto pero bajó."
+
+### Tabla de Ejemplos por Contexto
+
+| Contexto | Ejemplo Correcto | Por qué Funciona |
+|----------|-----------------|------------------|
+| **Alerta de Riesgo Crítico** | "Detectamos presión alta en tu línea de gas. Hemos cerrado la válvula automáticamente. Verifica si todo está bien." | Serenidad + acción + empatía |
+| **Éxito/Confirmación** | "¡Excelente! Tu consumo bajó 15% este mes. Así vamos." | Entusiasmo + reconocimiento |
+| **Onboarding** | "Bienvenido. Te guiaremos para instalar tu primer sensor en 3 pasos. ¿Empezamos?" | Calidez + claridad + invitación |
+| **Reporte de Datos** | "Consumo promedio: 45 m³. Tendencia: estable. Última fuga detectada: hace 32 días." | Profesional + información clara |
+| **Error o Problema** | "Algo no salió como esperábamos. Hemos guardado tu solicitud. Nuestro equipo la revisará en la próxima hora." | Empatía + honestidad + acción |
+| **Solicitud de Servicio** | "Perfecto. Hemos contactado a un técnico especializado. Llegará en 30-45 minutos." | Confirmación + expectativas claras |
+| **Advertencia Moderada** | "Tu consumo de agua está un 20% arriba del promedio. Revisa si hay fugas visibles." | Información + sugerencia útil |
+| **Feature Deshabilitado** | "Esta función está disponible en el Plan Smart en adelante." | Claro + no punitivo |
+
+### Reglas de Escritura
+
+#### Brevedad y Concisión
+
+- Máximo 2 frases por mensaje de alerta
+- Labels: 1-2 palabras
+- Helper text: máximo 1 línea
+
+#### Género e Inclusión
+
+- Género neutro (evitar "el usuario", usar "tu")
+- Inclusivo: "técnico/a", "especialista"
+- Accesible: considera usuarios no técnicos
+
+#### Puntuación
+
+- Usar ¿ y ¡ naturalmente (español)
+- Evitar puntos suspensivos (...) en CTA
+- Punto final en mensajes completos
+
+#### Mayúsculas
+
+- Evitar ALL CAPS (excepto IoT, API, siglas)
+- Título case en headers
+- Minúsculas en body text
+
+#### Tono Positivo
+
+- Cuando es posible, enfatiza solución no problema
+- "Hemos cerrado" > "La fuga fue contenida"
+- "Reduce tu consumo" > "Dejas de desperdiciar"
+
+#### Vocabulario
+
+- IoT, sensor, presión, flujo (términos definidos)
+- Evitar: "la máquina", "sistema automático" (usa específico)
+- Personalización: "tu consumo", "tu hogar", "tu planta"
+
+---
+
+## SPACING & LAYOUT
+
+### Sistema de Grid Base (8px)
+
+#### Principio
+
+Todo espaciado debe ser múltiplo de 8px
+
+#### Escala de Espaciado
+
+
+
 ## 4.2. Information Architecture
-
-  Esta sección define cómo se organizará la información dentro de la plataforma web y aplicación móvil de LowCortisol, considerando la estructura del contenido, los estilos visuales y los elementos que facilitarán la interacción del usuario. El objetivo es asegurar que los usuarios puedan comprender y acceder a las funcionalidades de manera rápida e intuitiva.
-
-  Se abordarán aspectos clave como los Organization Systems, Labeling Systems, Navigation Systems y Searching Systems, los cuales permitirán estructurar el contenido, definir etiquetas claras, guiar la navegación y facilitar la búsqueda de información dentro del sistema.
-
-  Todo el diseño de la arquitectura de información estará enfocado en mejorar la experiencia del usuario, permitiéndole monitorear, gestionar y controlar sus redes de agua y gas de forma eficiente y sin complicaciones.
 
 ### 4.2.1. Organization Systems
 
