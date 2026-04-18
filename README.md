@@ -237,16 +237,26 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 ## 1.1. StartUp Profile
 
 ### 1.1.1. Descripción de la StartUp
+El presente informe pretende documentar el desarrollo del Startup “NOMBRESTARTUP”, el cual busca mejorar la prevención y gestión de incidentes en tuberías de agua y gas mediante el uso de tecnología IoT y monitoreo en tiempo real. A través de su aplicativo “NOMBAPLIC”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
 
+De este modo, la empresa busca reducir pérdidas económicas, prevenir riesgos para la salud y mejorar la seguridad en hogares, hoteles y otros establecimientos. Asimismo, la solución permitirá optimizar el consumo de recursos y fomentar una gestión más eficiente del agua y gas. Para ello, nuestro grupo demostrará conocimientos en desarrollo web, bases de datos, integración de sensores y gestión de servicios en la nube.
 
 ---
 
 ## Misión
-
+Nuestra misión es facilitar a los usuarios el control y supervisión de sus sistemas de agua y gas mediante tecnología inteligente, alertas en tiempo real y herramientas de respuesta rápida. Buscamos generar confianza, ahorro y seguridad en hogares y negocios, siempre con un enfoque en innovación, accesibilidad y mejora continua.
 ---
 
 ## Visión
+Nuestra visión es convertirnos en la empresa líder en soluciones tecnológicas de monitoreo y prevención de fugas de agua y gas en el Perú. Buscamos brindar mayor seguridad, eficiencia y tranquilidad a las personas y negocios mediante herramientas innovadoras y accesibles. Creemos que la tecnología puede prevenir incidentes, reducir desperdicios y mejorar la calidad de vida de la población.
 
+## Valores
+Nuestros valores principales son los siguientes:
+- Innovación: Uso de tecnología moderna para resolver problemas cotidianos de forma eficiente.
+- Seguridad: Priorizamos la protección de las personas, propiedades y negocios.
+- Responsabilidad: Promovemos el uso adecuado de recursos como el agua y el gas.
+- Colaboración: Valoramos el trabajo en equipo y la relación con usuarios y aliados estratégicos.
+- Calidad: Buscamos ofrecer un servicio confiable, estable y fácil de utilizar.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 | **Nombre Completo del integrante**    |	**Descripcion de la carrera** | **Fotografia** | **Conocimientos y habilidades**
@@ -259,98 +269,202 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 ## 1.2 *Solution Profile*
 ### 1.2.1 Antecedentes y problemática
+En la actualidad, tanto en hogares como en negocios e instituciones, el uso de tuberías para la distribución de agua y gas es fundamental. Sin embargo, la mayoría de estos sistemas carecen de mecanismos de monitoreo en tiempo real, lo que dificulta la detección oportuna de fugas o fallas. A nivel mundial, se han desarrollado soluciones basadas en tecnología IoT para el monitoreo de recursos, pero su adopción aún es limitada en muchos contextos debido a costos, falta de conocimiento o baja accesibilidad tecnológica. En el contexto local, es común que los usuarios detecten fugas de agua o gas de forma tardía, cuando ya existen consecuencias como:
 
+- Incremento excesivo en los recibos de servicios.
+- Daños en infraestructura (paredes, pisos, tuberías).
+- Riesgos para la salud (intoxicación por gas).
+- Posibles accidentes graves como explosiones.
+
+Además, la dificultad para encontrar técnicos confiables de forma inmediata agrava la situación, incrementando el tiempo de respuesta ante emergencias. Por ello, se identifica la necesidad de una solución tecnológica que permita el monitoreo continuo, la detección temprana de anomalías y la respuesta rápida ante incidentes.
 
 ## 5W & 2H
+Who (¿Quiénes?)
+Los principales usuarios de la solución son personas que viven en hogares, administradores de hoteles y dueños o responsables de negocios que utilizan agua y gas en sus actividades diarias. También se considera al personal de mantenimiento encargado de revisar las instalaciones.
+
+What (¿Qué?)
+El problema principal es la falta de monitoreo constante en las tuberías de agua y gas. Esto provoca que muchas fugas sean detectadas tarde, generando desperdicio de recursos, gastos elevados, daños en la infraestructura y riesgos para la seguridad.
+
+Where (¿Dónde?)
+Esta problemática puede presentarse en viviendas, hoteles, restaurantes, edificios y otros establecimientos que cuenten con redes internas de agua y gas.
+
+When (¿Cuándo?)
+Puede ocurrir en cualquier momento, especialmente cuando no existe supervisión constante, las tuberías son antiguas o no se realiza mantenimiento preventivo.
+
+Why (¿Por qué?)
+Porque la mayoría de personas detecta los problemas cuando ya son visibles, por ejemplo al notar humedad, malos olores, baja presión o recibos elevados. Además, muchas instalaciones no cuentan con herramientas tecnológicas para prevenir fallas.
+
+How (¿Cómo?)
+La solución propone utilizar sensores IoT conectados a una plataforma web que permita monitorear en tiempo real, enviar alertas inmediatas y tomar acciones rápidas como cerrar válvulas o contactar soporte técnico.
+
+How Much (¿Cuánto impacta?)
+El impacto puede ser económico por altos costos en recibos y reparaciones, operativo por interrupciones del servicio y de seguridad por riesgos como intoxicaciones o explosiones en caso de fugas de gas.
+
 ## Objetivos
+Corto Plazo
+- Desarrollar un producto mínimo viable con las funciones principales del sistema.
+- Implementar registro e inicio de sesión de usuarios.
+- Integrar el monitoreo básico de agua y gas mediante sensores IoT.
+- Configurar alertas iniciales ante fugas o anomalías detectadas.
+- Realizar pruebas con usuarios para validar la usabilidad y funcionamiento del sistema.
+- Recoger retroalimentación para identificar mejoras.
+
+Medio Plazo
+- Mejorar la plataforma con nuevas funcionalidades según las necesidades detectadas.
+- Implementar historial de consumo y reportes detallados.
+
+Largo Plazo
+- Expandir el servicio a más ciudades del país.
+- Establecer alianzas con municipalidades, negocios y empresas de servicios.
+- Posicionar la marca como referente en monitoreo y prevención de fugas de agua y gas.
+- Desarrollar nuevas soluciones relacionadas con automatización y seguridad inteligente.
+
 ## Restricciones
+- La solución debe desarrollarse como una plataforma web compuesta por una Landing Page, una Web Application y una RESTful API propia integrada entre sí.
+- La interfaz debe ser adaptable a distintos dispositivos, como computadoras, tablets y celulares.
+- El sistema debe mantener una experiencia visual y funcional consistente entre la Landing Page y la Web Application.
+- Los botones de llamada a la acción (Call To Action) de la Landing Page deben redirigir correctamente a las vistas correspondientes dentro de la Web Application.
+- La solución debe integrar al menos un servicio externo de terceros, como mapas, correo, notificaciones o autenticación.
+- El desarrollo debe utilizar tecnologías open-source y herramientas alineadas con lo aprendido en el curso.
+- La lógica del lado servidor debe ser compatible con el enfoque solicitado en el curso, utilizando C# cuando corresponda.
+- El proyecto debe gestionarse en un repositorio público de GitHub con evidencias de colaboración mediante commits.
+- El equipo debe aplicar GitFlow y conventional commits durante el desarrollo del proyecto.
+- El sistema dependerá de conexión a internet para funciones en tiempo real como monitoreo, alertas y sincronización de datos.
+- La instalación de sensores IoT puede representar un costo inicial para los usuarios.
+- Algunas instalaciones antiguas podrían presentar dificultades de compatibilidad con los sensores.
+- El alcance inicial del proyecto estará enfocado en segmentos priorizados y funcionalidades principales del producto mínimo viable.
+- El tiempo disponible del ciclo académico limita la implementación de funcionalidades avanzadas en la primera versión.
+- Será necesario aplicar medidas de seguridad para proteger la información de usuarios y dispositivos conectados.
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
-text
+El sistema propuesto tiene como objetivo principal permitir que los usuarios puedan monitorear en tiempo real el estado de sus tuberías de agua y gas, con la finalidad de prevenir fugas, reducir el desperdicio de recursos y evitar riesgos en hogares, negocios e instituciones.
+Actualmente, muchas personas no cuentan con herramientas que les permitan detectar fugas de manera inmediata, lo que genera problemas como incremento en los recibos, daños en la infraestructura, pérdida de recursos y, en el caso del gas, situaciones de alto riesgo como intoxicaciones o explosiones. En la mayoría de casos, los usuarios detectan estos problemas cuando ya han ocurrido consecuencias graves.
+Además, en contextos donde las instalaciones son grandes, como edificios, hoteles o restaurantes, resulta aún más complicado monitorear manualmente el estado de las tuberías. Esto provoca que pequeñas fugas pasen desapercibidas durante largos periodos de tiempo.
+Por otro lado, también existe una dificultad al momento de encontrar técnicos confiables de manera rápida, lo que retrasa la solución del problema y aumenta los daños. A esto se suma la falta de sistemas automatizados que permitan tomar acciones inmediatas, como el cierre de válvulas ante una emergencia.
+Frente a esta problemática, se propone desarrollar un sistema basado en tecnología IoT que permita monitorear, detectar y alertar sobre anomalías en tiempo real, brindando al usuario la capacidad de actuar de manera rápida y eficiente. Asimismo, se considera importante la seguridad del sistema, evitando accesos no autorizados que puedan manipular los dispositivos conectados.
+De esta manera, la solución no solo busca mejorar la calidad de vida de los usuarios, sino también optimizar el uso de recursos y prevenir incidentes que puedan afectar tanto a nivel económico como de seguridad.
 
 #### 1.2.2.1 Lean UX Assumptions
 
  + **User Assumptions:** 
 
-###### Pregunta 1
+###### ¿Quién es el usuario?
 
-text
+Personas que viven en hogares, dueños de negocios (restaurantes, hoteles) y entidades que necesitan monitorear consumo de agua y gas.
 
-###### Pregunta 2
+###### ¿Qué problemas tiene nuestro producto que debe resolver?
 
-text
+Falta de detección temprana de fugas, desconocimiento del consumo y ausencia de herramientas de monitoreo continuo.
 
-###### Pregunta 3
+###### ¿Qué características son importantes?
 
-text
+Facilidad de uso, monitoreo en tiempo real, alertas inmediatas, visualización clara de datos y control remoto.
 
-###### Pregunta 4
+###### ¿Dónde encaja nuestro producto en su vida?
 
-text
+En la gestión diaria del hogar o negocio, como una herramienta de prevención y control.
 
-###### Pregunta 5
+###### ¿Cuándo y cómo es usado?
 
-text
+De forma continua, con revisiones periódicas por parte del usuario y alertas automáticas en caso de incidentes.
 
-###### Pregunta 6
+###### ¿Cómo debe verse y comportarse el producto?
 
-text
+Intuitivo, moderno, accesible, con información clara y alertas fáciles de entender.
 
  + **Business Outcomes:**
 
-1. **title**: text
+1. **Creo que mis clientes necesitan…** Una forma rápida, automática y confiable de detectar fugas y controlar su consumo de agua y gas.
 
-2. **title**: text
+2. **Estas necesidades se pueden resolver con…** Un aplicativo conectado a sensores IoT que monitorean en tiempo real y generan alertas inteligentes.
 
-3. **title**: text
+3. **Mis clientes iniciales son…** Hogares y pequeños negocios preocupados por costos y seguridad.
 
-4. **title**: text
+4. **El valor #1 que un cliente quiere es…** Prevenir pérdidas económicas y evitar riesgos en su entorno.
 
-5. **title**: text
+5. **Beneficios adicionales…** Mayor seguridad, control remoto, historial de consumo y acceso a técnicos.
 
-6. **title**: text
+6. **Voy a adquirir clientes a través de…** Redes sociales, alianzas con empresas de servicios y recomendaciones.
 
-7. **title**: text
+7. **Mi competencia es…** Sistemas de sensores IoT y soluciones de domótica.
 
-8. **title**: text
+8. **Haré dinero a través de…** Planes de suscripción y servicios adicionales.
 
-9. **title**: text
+9. **Los venceremos porque…** Ofrecemos una solución integral, accesible y centrada en el usuario.
 
-10. **title**: text
+10. **Mayor riesgo de producto…** Que los usuarios no comprendan el funcionamiento del sistema o no instalen correctamente los sensores.
 
-11. **title**: text
+11. **Lo resolveremos con…** Guías de instalación, interfaz intuitiva y soporte desde el aplicativo.
 
-12. **title**: text
+12. **Otra suposición crítica…** Que los usuarios utilizarán el sistema de forma constante para monitorear su consumo.
 
 
 #### 1.2.2.1 Lean UX Hypothesis Statements
 
 ###### Hipótesis 1:
 
-text
+Creemos que, si implementamos monitoreo en tiempo real para detectar fugas de agua y gas, los usuarios podrán actuar más rápido y reducir pérdidas económicas.
 
-**Business Outcome:** text<br>
-**Users:** text<br>
-**User Outcome:** text<br>
-**Feature:** text<br>
+**Business Outcome:** Incrementar adopción del servicio y satisfacción del cliente.<br>
+**Users:** Hogares.<br>
+**User Outcome:** Detectan incidentes a tiempo y evitan daños mayores.<br>
+**Feature:** Monitoreo en tiempo real con panel de control.<br>
 
 ###### Hipótesis 2:
 
-text
+Creemos que, si el sistema envía alertas inmediatas al detectar anomalías, se reducirá el tiempo de respuesta frente a emergencias.
 
-**Business Outcome:** text<br>
-**Users:** text<br>
-**User Outcome:** text<br>
-**Feature:** text<br>
+**Business Outcome:** Mejorar percepción de valor del servicio y retención de usuarios.<br>
+**Users:** Hogares, Hoteles y Municipalidades.<br>
+**User Outcome:** Responden rápidamente ante fugas o riesgos críticos.<br>
+**Feature:** Notificaciones push, correo y alertas automáticas.<br>
 
 ###### Hipótesis 3:
 
-text
+Creemos que, si mostramos historial de consumo y reportes claros, los usuarios tomarán mejores decisiones para optimizar recursos.
 
-**Business Outcome:** text<br>
-**Users:** text<br>
-**User Outcome:** text<br>
-**Feature:** text<br>
+**Business Outcome:** Mayor uso recurrente de la plataforma.<br>
+**Users:** Hogares y Hoteles.<br>
+**User Outcome:** Controlan gastos y detectan consumos inusuales.<br>
+**Feature:** Historial, gráficas y reportes descargables.<br>
+
+###### Hipótesis 4:
+
+Creemos que, si incorporamos control remoto de válvulas, los usuarios sentirán mayor seguridad y control ante incidentes.
+
+**Business Outcome:** Diferenciación competitiva y mayor interés por planes avanzados.<br>
+**Users:** Hoteles y Municipalidades.<br>
+**User Outcome:** Reducen riesgos sin esperar intervención presencial.<br>
+**Feature:** Apertura y cierre remoto de válvulas.<br>
+
+###### Hipótesis 5:
+
+Creemos que, si ofrecemos gestión multiubicación y múltiples dispositivos, organizaciones con varias instalaciones adoptarán la solución con mayor facilidad.
+
+**Business Outcome:** Captación de clientes empresariales e institucionales.<br>
+**Users:** Hoteles y Municipalidades.<br>
+**User Outcome:** Supervisan varias zonas desde una sola plataforma.<br>
+**Feature:** Gestión por zonas y múltiples sensores.<br>
+
+###### Hipótesis 6:
+
+Creemos que, si aplicamos análisis inteligente de patrones de consumo, se podrán prevenir fallas antes de que ocurran.
+
+**Business Outcome:** Posicionamiento innovador y mayor valor percibido.<br>
+**Users:** Hoteles y Municipalidades.<br>
+**User Outcome:** Reciben advertencias tempranas y reducen incidentes repetitivos.<br>
+**Feature:** Detección temprana con IA y análisis predictivo.<br>
+
+###### Hipótesis 7:
+
+Creemos que, si la plataforma ofrece planes diferenciados según necesidad del cliente, aumentará la conversión a suscripciones pagadas.
+
+**Business Outcome:** Crecimiento sostenible de ingresos mensuales.<br>
+**Users:** Hogares, Hoteles y Municipalidades.<br>
+**User Outcome:** Contratan un plan ajustado a sus necesidades reales.<br>
+**Feature:** Plan Hogar, Plan Smart y Plan Full Service.<br>
+
 
 #### 1.2.2.1 Lean UX Canvas
 
@@ -359,55 +473,69 @@ text
 <tr>  
 <td>  
 <h2>Business Problem</h2>  
-- text.  <br>
-- text.  <br>
-- text.
+- Actualmente, en hogares y organizaciones, muchas fugas de agua y gas se detectan cuando el problema ya generó daños económicos, desperdicio de recursos o riesgos para la seguridad. Esto ocurre porque la mayoría de instalaciones no cuenta con monitoreo continuo ni herramientas de alerta temprana.  <br>
+- Además, los procesos de revisión suelen ser manuales y reactivos, lo que retrasa la respuesta ante incidentes y eleva los costos de mantenimiento. En negocios e instituciones, estas fallas también pueden afectar operaciones, reputación y calidad del servicio.  <br>
 </td>  
 <td>  
 <h2>Solutions</h2>  
--  title: text. <br>
--  title: text. <br>
--  title: text.
+-  Monitoreo en tiempo real: Supervisión constante de flujo, presión y presencia de gas. <br>
+-  Alertas inmediatas: Notificaciones automáticas ante anomalías detectadas. <br>
+-  Panel web adaptable: Acceso desde celular, tablet o computadora. <br>
+-  Historial y reportes: Registro de consumos e incidencias. <br>
+-  Control remoto: Gestión de válvulas según el plan contratado. <br>
 </td>  
 <td>  
 <h2>Business Outcomes</h2>  
-- text. <br>
-- text. <br>  
-- text.
+- Incrementar adopción del servicio en hogares y organizaciones. <br>
+- Generar ingresos recurrentes mediante planes de suscripción. <br>  
+- Posicionar la marca como solución innovadora y confiable. <br>
+- Reducir cancelaciones gracias al valor percibido del servicio. <br>
+- Escalar el producto a nuevas ciudades y segmentos de mercado.
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Users</h2>  
-- text. <br>
-- text.
+- Propietarios de viviendas. <br>
+- Familias preocupadas por seguridad y ahorro. <br>
+- Administradores de hoteles. <br>
+- Jefes de mantenimiento y operaciones. <br>
+- Gestores de infraestructura pública.
 </td>  
 <td></td>  
 <td>  
 <h2>User Outcomes & Benefits</h2>  
-- text.  <br>
-- text.  <br>
-- text.
+- Detectar fugas antes de que generen daños graves. <br>
+- Reducir gastos por consumo no controlado. <br>
+- Mejorar la seguridad del hogar o negocio. <br>
+- Ahorrar tiempo en revisiones manuales. <br>
+- Tener mayor control, tranquilidad y capacidad de respuesta.
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Hypotheses</h2>  
-- text. <br>
-- text. <br>
-- text.
+- Si implementamos monitoreo en tiempo real, los usuarios actuarán más rápido y reducirán pérdidas. <br>
+- Si el sistema envía alertas inmediatas, disminuirá el tiempo de respuesta ante emergencias. <br>
+- Si mostramos historial y reportes claros, los usuarios optimizarán su consumo. <br>
+- Si existe control remoto de válvulas, aumentará la percepción de seguridad. <br>
+- Si ofrecemos planes diferenciados, crecerá la conversión a suscripciones pagadas.
 </td>  
 <td>  
 <h2>What’s the most important thing we need to learn first?</h2>  
-- text. <br>
-- text. <br>
-- text.
+- Si los usuarios realmente pagarían por esta solución. <br>
+- Qué problema valoran más: ahorro, seguridad o control. <br>
+- Qué funciones consideran esenciales en la primera versión. <br>
+- Qué segmento adoptaría primero el producto. <br>
+- Qué precio consideran razonable según el valor ofrecido.
 </td>  
 <td>  
 <h2>What’s the least amount of work we need to do to learn the next most important thing?</h2>  
-- text.  <br>
-- text.  <br>
-- text.
+- Crear una Landing Page con la propuesta de valor. <br>
+- Diseñar un prototipo navegable en Figma. <br>
+- Validar la idea mediante entrevistas a segmentos objetivo. <br>
+- Probar interés en planes, funciones y precios. <br>
+- Lanzar un MVP con monitoreo y alertas básicas. <br>
 </td>  
 </tr>  
 </table>
@@ -415,13 +543,79 @@ text
 ## 1.3 Segmentos objetivo
 El proyecto busca atender a usuarios que requieren soluciones de automatización accesibles y no invasivas, con un enfoque en dos segmentos principales:
 
-- Segmento 1.  
-text.
-- Segmento 2.  
-text.
+### Segmento 1: Usuarios Residenciales (B2C).  
+Definición:
+Personas que viven en viviendas (casas o departamentos) y buscan mejorar la seguridad del hogar y optimizar el consumo de agua y gas mediante tecnología.
+
+**Características:**
+
+Interés en tecnología (IoT, smart home)
+Uso frecuente de smartphones
+Nivel técnico bajo o medio
+Toman decisiones individuales o familiares
+
+**Necesidades clave:**
+
+Detectar fugas rápidamente
+Reducir costos en servicios
+Tener control simple desde el celular
+
+**Dolores (pain points):**
+
+Fugas detectadas tarde
+Recibos elevados
+Falta de monitoreo en tiempo real
+
+**Motivaciones:**
+
+Seguridad familiar
+Ahorro económico
+Comodidad
+
+### Segmento 2: Profesionales de Infraestructura y Gestión Operativa (B2B).  
+**Definición:**
+Personas responsables de la gestión, mantenimiento y operación de infraestructuras en organizaciones como municipalidades, hoteles, edificios o empresas.
+
+Ojo importante:
+Aquí no son “las organizaciones”, sino las personas dentro de ellas (decision makers / usuarios del sistema).
+
+Ejemplos:
+
+Administrador de hotel
+Jefe de mantenimiento
+Gestor municipal de servicios
+
+**Características:**
+
+Perfil técnico o administrativo
+Manejan múltiples instalaciones
+Toman decisiones basadas en datos
+
+**Necesidades clave:**
+
+Monitoreo centralizado
+Prevención de fallas
+Reportes y control por zonas
+
+**Dolores (pain points):**
+
+Falta de visibilidad en tiempo real
+Detección tardía de problemas
+Costos por mantenimiento reactivo
+
+**Motivaciones:**
+
+Eficiencia operativa
+Reducción de riesgos
+Cumplimiento de estándares
+
+El sistema se orienta a dos segmentos principales:  
+(1) Usuarios residenciales con interés en tecnología y seguridad del hogar, que buscan prevenir fugas y optimizar el consumo.  
+(2) Profesionales de infraestructura, mantenimiento y gestión operativa en organizaciones como municipalidades, hoteles o edificios, quienes requieren monitoreo centralizado, prevención de fallas y eficiencia en la gestión de recursos.
+
 # Capitulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
-text. 
+En esta sección presentaremos las ventajas y retos competitivos que tiene nuestro producto frente a otros productos en el presente mercado de la optimización de tuberías.
 ### 2.1.1 Análisis Competitivo
 
 En esta sección se presenta el análisis del entorno competitivo del proyecto, con el objetivo de identificar las principales características, fortalezas y debilidades de las soluciones existentes en el mercado. A partir de este análisis, se busca comprender mejor la posición frente a sus competidores y detectar oportunidades de diferenciación que permitan fortalecer su propuesta de valor.
@@ -630,7 +824,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 
 ### 2.2.2 Registro Entrevistas
 
-#### Segmento: Hogares
+#### Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
 
 ##### Entrevista 1 - Segmento: Hogares
 
@@ -651,7 +845,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 Yazid es un estudiante de Ingeniería Mecatrónica que habita en una vivienda con más de 40 años de antigüedad, factor que vuelve las fugas de agua un problema crónico debido al desgaste natural de la red. Describe que la detección actual es tardía y depende de señales visuales como hongos, caída de pintura, baja presión en los grifos o el impacto económico en los recibos mensuales. Para él, el impacto más fuerte es el desperdicio de recursos y el riesgo de seguridad que implican las fugas de gas. Su perfil académico lo hace especialmente receptivo a soluciones tecnológicas avanzadas; espera una herramienta que no solo envíe alertas al móvil e identifique la zona exacta del fallo, sino que también ofrezca la capacidad de cortar el suministro de forma remota (válvulas inteligentes). Yazid valora la eficiencia y la innovación, considerando que una solución así mejoraría drásticamente la seguridad del hogar y reduciría el gasto innecesario de agua.
 
 
-##### Entrevista 2 - Segmento: Hogares
+##### Entrevista 2 - Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
 
 **Datos del Entrevistado:**
 - Edad: 19
@@ -667,7 +861,7 @@ Yazid es un estudiante de Ingeniería Mecatrónica que habita en una vivienda co
 **<u>Resumen de la entrevista:</u>**
 Jesús es un estudiante con conocimientos técnicos previos que vive en un entorno familiar donde se presentan fugas tanto de agua como de gas, estas últimas generalmente por el uso de mangueras de baja calidad. Explica que mientras la detección de gas es casi inmediata gracias al olfato (menos de 5 minutos), las fugas de agua son más engañosas y pueden tardar hasta una semana en manifestarse mediante salitre o manchas en las paredes. Dado su perfil técnico, él mismo asume el rol de mantenimiento en el hogar para evitar gastos externos. Sin embargo, reconoce las limitaciones de la inspección manual y se muestra muy a favor de implementar sistemas basados en sensores (IoT) que alerten sobre roturas internas no visibles. Propone que este tipo de tecnología debería comercializarse bajo un modelo de suscripción atractivo y destaca que su principal valor sería la tranquilidad y la respuesta inmediata ante emergencias que podrían escalar a desastres.
 
-##### Entrevista 3 - Segmento: Hogares
+##### Entrevista 3 - Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
 
 **Datos del Entrevistado:**
 - Edad: 20
@@ -684,7 +878,7 @@ Jesús es un estudiante con conocimientos técnicos previos que vive en un entor
 El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, que reside en un hogar donde las fugas de agua ocurren con una frecuencia de cada tres o cuatro meses. Durante la charla, menciona que suele notar el problema de manera reactiva, muchas veces ignorando las primeras señales hasta que el daño es evidente a través de charcos o humedad excesiva. Su gestión actual es mixta: intenta realizar reparaciones menores por cuenta propia, pero debe recurrir a técnicos especializados cuando el problema afecta la estructura interna, lo que ha derivado en costos elevados como el cambio de tuberías o pisos dañados. En cuanto a la tecnología, Frank se muestra muy interesado en una solución de monitoreo en tiempo real, siempre que el costo sea accesible y la interfaz permita personalizar o modelar el plano de su hogar para una mejor ubicación de las averías. Su actitud es pragmática, priorizando la prevención económica y la facilidad de uso de una aplicación móvil.
 
 
-##### Entrevista 1 – Segmento: Profesionales de Infraestructura
+##### Entrevista 1 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Edad: 22
@@ -702,7 +896,7 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 **<u>Resumen de la entrevista:</u>**
   Leonardo, practicante en el área de infraestructura de una municipalidad de la Molina, explica que el monitoreo de redes de agua se realiza principalmente de forma reactiva, basándose en inspecciones programadas y reportes de los ciudadanos. Señala que las fugas son frecuentes, especialmente en zonas con tuberías antiguas, y muchas veces no se detectan de inmediato, lo que genera pérdidas acumulativas de agua. Además, menciona que los tiempos de respuesta pueden variar considerablemente debido a la coordinación con otras entidades responsables. Indica que el uso de tecnología es limitado y que no cuentan con sistemas de monitoreo en tiempo real. Sin embargo, considera que la implementación de soluciones IoT permitiría mejorar la detección temprana de fallas, optimizar recursos y facilitar la toma de decisiones. También reconoce que existen barreras como el presupuesto, la capacitación del personal y la integración con sistemas ya existentes.
 
-###### Entrevista 2 – Segmento: Profesionales de Infraestructura
+###### Entrevista 2 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Edad: 22
@@ -720,7 +914,7 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 **<u>Resumen de la entrevista:</u>**
   Pool, practicante en la Municipalidad de Ate, comenta que la supervisión de redes de agua se realiza principalmente mediante inspecciones y reportes ciudadanos, debido a la ausencia de sistemas de monitoreo continuo. Indica que las fugas son un problema recurrente, sobre todo en infraestructuras antiguas o intervenidas sin una adecuada planificación. Muchas de estas fallas no se detectan a tiempo, lo que incrementa las pérdidas y afecta la eficiencia del sistema. La identificación suele basarse en señales visibles, como humedad o disminución de presión, lo que retrasa la intervención. Además, menciona que el uso de herramientas tecnológicas es limitado. No obstante, muestra una actitud positiva hacia la implementación de soluciones IoT, ya que permitirían un monitoreo constante, una detección más rápida de fallas y una mejor gestión de los recursos.
 
-######  Entrevista 3 – Segmento: Profesionales de Infraestructura
+######  Entrevista 3 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Edad: 22
@@ -737,7 +931,7 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 **<u>Resumen de la entrevista:</u>**
   Edward, trabajador del área de mantenimiento en un hotel, señala que las fugas de agua son los problemas más frecuentes en las instalaciones, principalmente en tuberías internas, mientras que las fugas de gas, aunque menos comunes, representan un mayor riesgo. Indica que el monitoreo se realiza de manera manual y depende en gran parte de reportes del personal o de los huéspedes, lo que evidencia un enfoque reactivo. Estas fallas pueden afectar directamente la experiencia del cliente, generando incomodidades y posibles costos adicionales para el hotel. Por ello, destaca la importancia de contar con soluciones tecnológicas que permitan una detección temprana de fugas. Considera que la implementación de sistemas IoT ayudaría a mejorar la eficiencia del mantenimiento, reducir riesgos y optimizar la operación del servicio.
 
-###### Entrevista 4 – Segmento: Profesionales de Infraestructura
+###### Entrevista 4 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Nombre: Fabián Raimundo
@@ -754,7 +948,8 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 
 **<u>Resumen de la entrevista:</u>**
   Fabián, practicante en el área de gestión y servicios de un hotel, menciona que los problemas relacionados con fugas de agua y gas ocurren de manera ocasional, siendo las fugas de agua más comunes debido al desgaste de las instalaciones. Señala que la detección de estos problemas se realiza principalmente de forma manual, mediante la observación del personal de mantenimiento o limpieza, así como por reportes de los huéspedes. Aunque el hotel cuenta con un plan de mantenimiento preventivo, reconoce que este no siempre permite anticipar las fallas, por lo que el sistema sigue siendo en gran parte reactivo. Además, indica que la falta de automatización limita la capacidad de respuesta. Sin embargo, muestra interés en la implementación de soluciones IoT con alertas en tiempo real, ya que permitirían mejorar la eficiencia operativa, reducir tiempos de respuesta y optimizar la experiencia del cliente.
-###### Entrevista 5 – Segmento: Profesionales de Infraestructura
+
+###### Entrevista 5 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Edad: 21
@@ -773,7 +968,82 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
   Álvaro, practicante de mantenimiento en un hotel, comenta que las fugas de agua son frecuentes debido al desgaste de las tuberías y al uso constante de las instalaciones, mientras que las fugas de gas son menos comunes, pero implican un mayor nivel de riesgo. Indica que la detección depende principalmente de reportes del personal o de los huéspedes, lo que evidencia un enfoque reactivo. Aunque se realizan mantenimientos preventivos, no cuentan con un sistema de monitoreo en tiempo real que permita anticipar fallas de manera eficiente. Señala que esta situación puede generar pérdidas de recursos, riesgos operativos y afectar la calidad del servicio. Considera que la implementación de soluciones basadas en IoT sería clave para mejorar el control, reducir riesgos, optimizar el uso de recursos y fortalecer la gestión del mantenimiento.
 
 
-### 2.2.3. Análisis de entrevistas 
+### 2.2.3. Análisis de entrevistas
+
+## Entrevista 1 - Segmento 1
+## 1. Datos Generales
+- **Nombre:** 
+- **Edad:** 
+- **Género:** 
+- **Ubicación:** 
+- **Ocupación / Profesión:** 
+- **Nivel educativo:** 
+
+---
+
+## 2. Contexto Personal
+- **Situación actual:** 
+- **Rutina / actividades principales:** 
+- **Experiencia relacionada con el tema:** 
+
+---
+
+## 3. Objetivos
+- **Objetivo principal:** 
+- **Metas a corto plazo:** 
+- **Metas a largo plazo:** 
+- **Necesidades:** 
+
+---
+
+## 4. Motivaciones
+- **¿Qué lo impulsa?:** 
+- **Intereses relacionados:** 
+- **Razones para actuar:** 
+
+---
+
+## 5. Problemas / Frustraciones
+- **Dificultades principales:** 
+- **Qué le incomoda:** 
+- **Barreras o limitaciones:** 
+
+---
+
+## 6. Comportamiento
+- **Qué hace actualmente:** 
+- **Herramientas o soluciones que usa:** 
+- **Frecuencia de uso:** 
+
+---
+
+## 7. Opiniones / Percepciones
+- **Opinión sobre soluciones actuales:** 
+- **Qué le gusta:** 
+- **Qué no le gusta:** 
+- **Expectativas:** 
+
+---
+
+## 8. Citas Clave
+> “ ”
+
+> “ ”
+
+---
+
+## 9. Oportunidades Detectadas
+- 
+- 
+- 
+
+---
+
+## 10. Observaciones Adicionales
+- 
+- 
+- 
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas 
 ### 2.3.2. User Task Matrix 
@@ -802,8 +1072,457 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 
 # Capitulo III: Requirements Specification
 ## 3.1. User Stories
+
+<table>
+<tr>
+<th>**Epic / Story ID**</th>
+<th>**Título**</th>
+<th>**Descripción**</th>
+<th>**Criterios de Aceptación**</th>
+<th>**Relacionado con (Epic ID)**</th>
+</tr>
+
+<tr>
+<td>EP01</td>
+<td>Gestión de usuarios</td>
+<td>Epic orientado al registro, acceso, recuperación y administración de cuentas de usuario.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US01</td>
+<td>Registro de usuario</td>
+<td>Como visitante, quiero crear una cuenta para acceder a la plataforma.</td>
+<td>
+<b>**Scenario 1: Registro exitoso**</b><br>
+**Given** el visitante completa los datos obligatorios válidos,<br>
+**When** solicita registrarse,<br>
+**Then** el sistema crea la cuenta correctamente.<br><br>
+
+<b>**Scenario 2: Datos incompletos**</b><br>
+**Given** faltan campos obligatorios,<br>
+**When** intenta registrarse,<br>
+**Then** el sistema informa que existen datos pendientes.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US02</td>
+<td>Inicio de sesión</td>
+<td>Como usuario registrado, quiero iniciar sesión para acceder a mis funciones.</td>
+<td>
+<b>**Scenario 1: Credenciales válidas**</b><br>
+**Given** el usuario ingresa credenciales correctas,<br>
+**When** solicita acceso,<br>
+**Then** el sistema permite el ingreso.<br><br>
+
+<b>**Scenario 2: Credenciales inválidas**</b><br>
+**Given** los datos no coinciden,<br>
+**When** intenta ingresar,<br>
+**Then** el sistema rechaza el acceso.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US03</td>
+<td>Recuperar contraseña</td>
+<td>Como usuario, quiero recuperar mi contraseña para volver a ingresar a mi cuenta.</td>
+<td>
+<b>**Scenario 1: Solicitud exitosa**</b><br>
+**Given** el correo está registrado,<br>
+**When** el usuario solicita recuperación,<br>
+**Then** el sistema envía instrucciones al correo.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US04</td>
+<td>Cerrar sesión</td>
+<td>Como usuario, quiero cerrar sesión para proteger mi cuenta en dispositivos compartidos.</td>
+<td>
+<b>**Scenario 1: Logout**</b><br>
+**Given** el usuario tiene sesión iniciada,<br>
+**When** selecciona cerrar sesión,<br>
+**Then** el sistema finaliza la sesión activa.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US05</td>
+<td>Actualizar perfil</td>
+<td>Como usuario, quiero editar mis datos personales para mantener mi información actualizada.</td>
+<td>
+<b>**Scenario 1: Actualización exitosa**</b><br>
+**Given** el usuario accede a perfil,<br>
+**When** guarda nuevos datos válidos,<br>
+**Then** el sistema actualiza la información registrada.
+</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>EP02</td>
+<td>Monitoreo inteligente</td>
+<td>Epic orientado a supervisión de sensores, consumo y estado de instalaciones.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US06</td>
+<td>Visualizar estado en tiempo real</td>
+<td>Como usuario, quiero ver el estado actual de agua y gas para detectar anomalías rápidamente.</td>
+<td>
+<b>**Scenario 1: Lecturas disponibles**</b><br>
+**Given** existen dispositivos vinculados,<br>
+**When** el usuario consulta el panel,<br>
+**Then** el sistema muestra lecturas actualizadas de consumo y estado.
+</td>
+<td>EP02</td>
+</tr>
+
+<tr>
+<td>US07</td>
+<td>Recibir alertas automáticas</td>
+<td>Como usuario, quiero recibir alertas inmediatas ante fugas o riesgos.</td>
+<td>
+<b>**Scenario 1: Evento crítico**</b><br>
+**Given** se detecta una anomalía,<br>
+**When** ocurre el evento,<br>
+**Then** el sistema envía una notificación automática al usuario.
+</td>
+<td>EP02</td>
+</tr>
+
+<tr>
+<td>US08</td>
+<td>Historial de consumo</td>
+<td>Como usuario, quiero revisar consumos anteriores para identificar excesos o patrones anormales.</td>
+<td>
+<b>**Scenario 1: Historial disponible**</b><br>
+**Given** existen registros históricos,<br>
+**When** el usuario consulta reportes,<br>
+**Then** el sistema muestra el historial almacenado.
+</td>
+<td>EP02</td>
+</tr>
+
+<tr>
+<td>EP03</td>
+<td>Control y respuesta</td>
+<td>Epic orientado a acciones correctivas y soporte ante incidentes.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US09</td>
+<td>Cerrar válvula remotamente</td>
+<td>Como usuario con plan compatible, quiero cerrar una válvula remotamente para reducir riesgos.</td>
+<td>
+<b>**Scenario 1: Acción autorizada**</b><br>
+**Given** el usuario tiene permisos y un dispositivo compatible,<br>
+**When** solicita el cierre remoto,<br>
+**Then** el sistema ejecuta la acción y registra el evento.<br><br>
+
+<b>**Scenario 2: Sin permisos**</b><br>
+**Given** el usuario no cuenta con permisos suficientes,<br>
+**When** intenta la acción,<br>
+**Then** el sistema bloquea la solicitud.
+</td>
+<td>EP03</td>
+</tr>
+
+<tr>
+<td>US10</td>
+<td>Solicitar soporte técnico</td>
+<td>Como usuario, quiero solicitar ayuda técnica para resolver incidencias complejas.</td>
+<td>
+<b>**Scenario 1: Solicitud generada**</b><br>
+**Given** existe una incidencia registrada,<br>
+**When** solicita soporte,<br>
+**Then** el sistema genera la solicitud correspondiente.
+</td>
+<td>EP03</td>
+</tr>
+
+<tr>
+<td>EP04</td>
+<td>Gestión de Suscripciones y Planes</td>
+<td>Epic orientado a planes comerciales, beneficios y suscripciones.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US11</td>
+<td>Visualizar planes disponibles</td>
+<td>Como visitante, quiero visualizar los planes disponibles para comparar beneficios y elegir el más adecuado.</td>
+<td>
+<b>**Scenario 1: Consulta de planes**</b><br>
+**Given** el visitante accede a la sección de planes,<br>
+**When** el sistema carga la información,<br>
+**Then** se muestran los planes con sus beneficios y precios.<br><br>
+
+<b>**Scenario 2: Información clara**</b><br>
+**Given** existen varios planes registrados,<br>
+**When** el visitante revisa la información,<br>
+**Then** cada plan presenta características diferenciadas.
+</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US12</td>
+<td>Suscribirse a un plan</td>
+<td>Como usuario registrado, quiero contratar un plan para acceder a funciones premium.</td>
+<td>
+<b>**Scenario 1: Suscripción exitosa**</b><br>
+**Given** el usuario tiene una cuenta activa,<br>
+**When** selecciona un plan y confirma la compra,<br>
+**Then** el sistema activa la suscripción correspondiente.<br><br>
+
+<b>**Scenario 2: Error en pago**</b><br>
+**Given** el método de pago es rechazado,<br>
+**When** el usuario intenta completar la compra,<br>
+**Then** el sistema informa que no fue posible procesar la suscripción.
+</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US13</td>
+<td>Cambiar de plan</td>
+<td>Como usuario suscrito, quiero cambiar de plan para adaptar el servicio a mis nuevas necesidades.</td>
+<td>
+<b>**Scenario 1: Upgrade**</b><br>
+**Given** el usuario tiene un plan activo,<br>
+**When** selecciona un plan superior,<br>
+**Then** el sistema actualiza los beneficios disponibles.
+</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>EP05</td>
+<td>Landing Page y Conversión</td>
+<td>Epic orientado al sitio público de captación de clientes.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US14</td>
+<td>Ver propuesta de valor</td>
+<td>Como visitante, quiero entender rápidamente el beneficio principal del producto para decidir si me interesa.</td>
+<td>
+<b>**Scenario 1: Contenido visible**</b><br>
+**Given** el visitante ingresa al sitio,<br>
+**When** se carga la página principal,<br>
+**Then** se presenta claramente la propuesta de valor del producto.
+</td>
+<td>EP05</td>
+</tr>
+
+<tr>
+<td>US15</td>
+<td>Navegar por secciones informativas</td>
+<td>Como visitante, quiero revisar información del producto para conocer funcionalidades y beneficios.</td>
+<td>
+<b>**Scenario 1: Navegación**</b><br>
+**Given** el visitante accede al menú principal,<br>
+**When** selecciona una sección,<br>
+**Then** el sistema desplaza o redirige al contenido solicitado.
+</td>
+<td>EP05</td>
+</tr>
+
+<tr>
+<td>US16</td>
+<td>Redirección a registro</td>
+<td>Como visitante, quiero registrarme desde la Landing Page para comenzar a usar la plataforma.</td>
+<td>
+<b>**Scenario 1: CTA funcional**</b><br>
+**Given** el visitante visualiza un botón de acción,<br>
+**When** hace clic en registrarse,<br>
+**Then** el sistema lo redirige al formulario de registro.
+</td>
+<td>EP05</td>
+</tr>
+
+<tr>
+<td>EP06</td>
+<td>Gestión Operativa Multiubicación</td>
+<td>Epic orientado a organizaciones con múltiples sedes, zonas o instalaciones.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US17</td>
+<td>Registrar múltiples sedes</td>
+<td>Como administrador de organización, quiero registrar varias sedes para monitorear diferentes instalaciones.</td>
+<td>
+<b>**Scenario 1: Registro correcto**</b><br>
+**Given** el administrador tiene permisos activos,<br>
+**When** registra una nueva sede,<br>
+**Then** la sede queda disponible en el sistema.
+</td>
+<td>EP06</td>
+</tr>
+
+<tr>
+<td>US18</td>
+<td>Filtrar datos por sede</td>
+<td>Como gestor operativo, quiero filtrar información por sede para analizar incidencias específicas.</td>
+<td>
+<b>**Scenario 1: Filtro aplicado**</b><br>
+**Given** existen varias sedes registradas,<br>
+**When** el usuario selecciona una sede,<br>
+**Then** el sistema muestra solo la información asociada.
+</td>
+<td>EP06</td>
+</tr>
+
+<tr>
+<td>US19</td>
+<td>Ver resumen general</td>
+<td>Como gestor operativo, quiero visualizar un resumen consolidado para tomar decisiones rápidas.</td>
+<td>
+<b>**Scenario 1: Dashboard global**</b><br>
+**Given** existen múltiples sedes activas,<br>
+**When** el usuario ingresa al panel general,<br>
+**Then** el sistema muestra métricas consolidadas.
+</td>
+<td>EP06</td>
+</tr>
+
+<tr>
+<td>EP07</td>
+<td>API y Backend</td>
+<td>Epic orientado a servicios RESTful y lógica del sistema.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>TS01</td>
+<td>API registrar usuario</td>
+<td>Como Developer, quiero consumir un endpoint de registro para crear cuentas desde clientes externos.</td>
+<td>
+<b>**Scenario 1: Request válido**</b><br>
+**Given** el request contiene datos válidos,<br>
+**When** se envía al endpoint de registro,<br>
+**Then** la API responde con creación exitosa.<br><br>
+
+<b>**Scenario 2: Request inválido**</b><br>
+**Given** faltan datos requeridos,<br>
+**When** se envía la solicitud,<br>
+**Then** la API responde con error de validación.
+</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS02</td>
+<td>API obtener sensores</td>
+<td>Como Developer, quiero consultar lecturas de sensores mediante la API.</td>
+<td>
+<b>**Scenario 1: Consulta exitosa**</b><br>
+**Given** existe un dispositivo registrado,<br>
+**When** se consulta el endpoint correspondiente,<br>
+**Then** la API devuelve el estado actual del sensor.
+</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS03</td>
+<td>API obtener sensores por usuario</td>
+<td>Como Developer, quiero obtener todos los sensores asociados a un usuario para que el frontend muestre los dispositivos conectados.</td>
+<td>
+<b>**Scenario 1: Consulta exitosa**</b><br>
+**Given** el usuario existe,<br>
+**When** se envía la solicitud,<br>
+**Then** la API devuelve la lista de sensores asociados.
+</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS04</td>
+<td>API generar alerta</td>
+<td>Como Developer, quiero registrar alertas mediante la API para almacenar incidentes y notificar eventos detectados.</td>
+<td>
+<b>**Scenario 1: Alerta creada**</b><br>
+**Given** se proporciona información válida de la alerta,<br>
+**When** la solicitud es procesada,<br>
+**Then** la API registra la alerta y devuelve confirmación.
+</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS05</td>
+<td>API consultar historial</td>
+<td>Como Developer, quiero obtener el historial de consumo para que el frontend genere gráficas y reportes.</td>
+<td>
+<b>**Scenario 1: Historial disponible**</b><br>
+**Given** existen registros almacenados,<br>
+**When** se ejecuta la solicitud,<br>
+**Then** la API devuelve los datos históricos ordenados por fecha.
+</td>
+<td>EP07</td>
+</tr>
+
+</table>
+
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
+| ID   | Tipo  | Título                         | Descripción                                                                 | Prioridad | Story Points | Epic |
+|------|------|--------------------------------|-----------------------------------------------------------------------------|----------|--------------|------|
+| EP01 | Epic | Gestión de usuarios            | Registro, acceso y administración de cuentas                               | Alta     | -            | -    |
+| US01 | US   | Registro de usuario            | Crear cuenta para acceder a la plataforma                                  | Alta     | 5            | EP01 |
+| US02 | US   | Inicio de sesión               | Acceder con credenciales                                                   | Alta     | 3            | EP01 |
+| US03 | US   | Recuperar contraseña           | Recuperar acceso mediante correo                                           | Media    | 5            | EP01 |
+| US04 | US   | Cerrar sesión                  | Finalizar sesión activa                                                    | Baja     | 1            | EP01 |
+| US05 | US   | Actualizar perfil              | Editar datos personales                                                    | Media    | 3            | EP01 |
+
+| EP02 | Epic | Monitoreo inteligente          | Supervisión de sensores y consumo                                          | Alta     | -            | -    |
+| US06 | US   | Visualizar estado en tiempo real | Ver consumo y estado de dispositivos                                      | Alta     | 8            | EP02 |
+| US07 | US   | Recibir alertas automáticas    | Notificaciones ante anomalías                                              | Alta     | 5            | EP02 |
+| US08 | US   | Historial de consumo           | Consultar registros históricos                                             | Media    | 5            | EP02 |
+
+| EP03 | Epic | Control y respuesta            | Acciones correctivas ante incidentes                                       | Alta     | -            | -    |
+| US09 | US   | Cerrar válvula remotamente     | Ejecutar acciones remotas en dispositivos                                  | Alta     | 8            | EP03 |
+| US10 | US   | Solicitar soporte técnico      | Generar solicitudes de ayuda                                               | Media    | 3            | EP03 |
+
+| EP04 | Epic | Gestión de Suscripciones       | Administración de planes y beneficios                                      | Alta     | -            | -    |
+| US11 | US   | Visualizar planes              | Consultar planes disponibles                                               | Alta     | 3            | EP04 |
+| US12 | US   | Suscribirse a un plan          | Contratar servicios premium                                                | Alta     | 8            | EP04 |
+| US13 | US   | Cambiar de plan               | Modificar suscripción                                                      | Media    | 5            | EP04 |
+
+| EP05 | Epic | Landing Page                   | Captación de usuarios                                                      | Media    | -            | -    |
+| US14 | US   | Ver propuesta de valor         | Entender beneficios del producto                                           | Alta     | 2            | EP05 |
+| US15 | US   | Navegar por secciones          | Explorar contenido informativo                                             | Media    | 2            | EP05 |
+| US16 | US   | Redirección a registro         | Ir al formulario desde landing                                             | Alta     | 1            | EP05 |
+
+| EP06 | Epic | Gestión Multiubicación         | Manejo de múltiples sedes                                                  | Media    | -            | -    |
+| US17 | US   | Registrar múltiples sedes      | Crear diferentes ubicaciones                                               | Media    | 5            | EP06 |
+| US18 | US   | Filtrar datos por sede         | Visualizar información específica                                          | Media    | 3            | EP06 |
+| US19 | US   | Ver resumen general            | Dashboard consolidado                                                      | Alta     | 5            | EP06 |
+
+| EP07 | Epic | API y Backend                 | Servicios RESTful                                                         | Alta     | -            | -    |
+| TS01 | TS   | API registrar usuario         | Endpoint para crear cuentas                                                | Alta     | 5            | EP07 |
+| TS02 | TS   | API obtener sensores          | Consultar estado de sensores                                               | Alta     | 5            | EP07 |
+| TS03 | TS   | API sensores por usuario      | Obtener sensores asociados                                                 | Alta     | 5            | EP07 |
+| TS04 | TS   | API generar alerta            | Registrar incidentes                                                       | Alta     | 3            | EP07 |
+| TS05 | TS   | API consultar historial       | Obtener datos históricos                                                   | Media    | 5            | EP07 |
 
 # Capitulo IV: Product Design
 
@@ -1167,8 +1886,6 @@ Esta combinación refleja que estamos ante un problema serio (fugas, emergencias
 Todo espaciado debe ser múltiplo de 8px
 
 #### Escala de Espaciado
-
-
 
 ## 4.2. Information Architecture
 
