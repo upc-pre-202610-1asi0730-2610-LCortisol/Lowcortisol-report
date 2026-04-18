@@ -884,6 +884,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 
 ### 4.3.1. Landing Page Wireframe
 
+  En esta sección se presentan los wireframes del Landing Page de LowCortisol para las versiones Desktop Web Browser y Mobile Web Browser. Los wireframes permiten visualizar la estructura, distribución de contenidos y jerarquía de información, evidenciando la aplicación de principios de diseño, elementos visuales, diseño inclusivo y la arquitectura de información previamente definida.
 
   ##### Landing Page para Desktop Web Browser  
 
@@ -897,7 +898,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
     <img src="assets/md-images-chapter4/Landing-Page-Wireframe-Contact.PNG" width="800"/> <br>
   </p>
 
-  ##### Landing Page para Desktop Web Browser  
+  ##### Landing Page para Mobile Web Browser 
 
 
   <p align="center">
@@ -911,8 +912,21 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
   
 ### 4.3.2. Landing Page Mock-up
 
-    
+  En esta sección se presentan los mock-ups del Landing Page de LowCortisol para las versiones Desktop Web Browser y Mobile Web Browser. A diferencia de los wireframes, los mock-ups incorporan elementos visuales más detallados, como colores, tipografía y estilos definidos en el Design System, permitiendo representar una versión más cercana al producto final.
 
+  En esta propuesta se evidencia la aplicación de principios de diseño, elementos visuales, diseño inclusivo, arquitectura de información y el sistema de diseño establecido para el producto digital.
+
+
+  <p align="center">
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Benefit.PNG" width="800"/><br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Feature.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Whoweare.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Segments.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Payment.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Contact.PNG" width="800"/> <br>
+  </p>
+    
 
 
 ## 4.4. Web Applications UX/UI Design
