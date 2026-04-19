@@ -1934,6 +1934,7 @@ IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitor
 
 ### 4.3.1. Landing Page Wireframe
 
+  En esta sección se presentan los wireframes del Landing Page de LowCortisol para las versiones Desktop Web Browser y Mobile Web Browser. Los wireframes permiten visualizar la estructura, distribución de contenidos y jerarquía de información, evidenciando la aplicación de principios de diseño, elementos visuales, diseño inclusivo y la arquitectura de información previamente definida.
 
   ##### Landing Page para Desktop Web Browser  
 
@@ -1947,7 +1948,7 @@ IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitor
     <img src="assets/md-images-chapter4/Landing-Page-Wireframe-Contact.PNG" width="800"/> <br>
   </p>
 
-  ##### Landing Page para Desktop Web Browser  
+  ##### Landing Page para Mobile Web Browser 
 
 
   <p align="center">
@@ -1961,12 +1962,62 @@ IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitor
   
 ### 4.3.2. Landing Page Mock-up
 
-    
+  En esta sección se presentan los mock-ups del Landing Page de LowCortisol para las versiones Desktop Web Browser y Mobile Web Browser. A diferencia de los wireframes, los mock-ups incorporan elementos visuales más detallados, como colores, tipografía y estilos definidos en el Design System, permitiendo representar una versión más cercana al producto final.
 
+  En esta propuesta se evidencia la aplicación de principios de diseño, elementos visuales, diseño inclusivo, arquitectura de información y el sistema de diseño establecido para el producto digital.
+
+
+  <p align="center">
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Benefit.PNG" width="800"/><br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Feature.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Whoweare.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Segments.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Payment.PNG" width="800"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Contact.PNG" width="800"/> <br>
+  </p>
+    
 
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+Los wireframes construidos para la web de LowCortisol representan 
+la arquitectura logica y funcional del sistema, priorizando la 
+accesibilidad de los controles de seguridad.
+
+Inicio: Pantalla de autenticacion diseñada para el acceso seguro de usuarios registrados mediante credenciales de correo y contraseña.
+
+![Inicio-Aplication-Wireframe](assets/md-images-chapter4/Inicio.png)
+
+Register: Formulario de captura de datos para nuevos usuarios que permite la segmentacion segun el tipo de cuenta (Hogar u Organizacion).
+
+![Register-Aplication-Wireframe](assets/md-images-chapter4/Register.png)
+
+Dashboard: Panel principal que muestra el estado global de seguridad y las metricas en tiempo real de agua y gas con un boton de apagado de emergencia.
+
+![Dashboard-Aplication-Wireframe](assets/md-images-chapter4/Dashboard.png)
+
+Alertas: Listado cronologico de notificaciones e incidentes detectados, permitiendo al usuario identificar rapidamente la ubicacion y severidad del evento.
+
+![Alertas-Aplication-Wireframe](assets/md-images-chapter4/Alertas.png)
+
+Controls: Interfaz de gestion operativa para el accionamiento individual de valvulas y seleccion entre modo de control automatico o manual.
+
+![Controls-Aplication-Wireframe](assets/md-images-chapter4/Controls.png)
+
+Profile: Seccion dedicada a la gestion de informacion personal del usuario, preferencias de la cuenta y opciones de cierre de sesion.
+
+![Profile-Aplication-Wireframe](assets/md-images-chapter4/Profile.png)
+
+Devices: Modulo de administracion de hardware donde se monitorea el estado de bateria, señal y conectividad de cada sensor IoT vinculado.
+
+![Devices-Aplication-Wireframe](assets/md-images-chapter4/Devices.png)
+
+Reports: Visualizacion de datos historicos mediante graficas de consumo y herramientas para la exportacion de informes detallados en formato PDF.
+
+![History-Aplication-Wireframe](assets/md-images-chapter4/Reports.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
