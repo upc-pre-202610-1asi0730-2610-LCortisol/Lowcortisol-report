@@ -1045,7 +1045,19 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 - 
 
 ## 2.3. Needfinding
+En base a lo analizado, y tras ver los diferentes segmentos objetivos que tenemos, podemos identificar que los usuarios requieren una solución que les permita poder tener un control y poder monitorear en tiempo real sus diferentes sistemas de agua y gas para prevenir fugas, reducir costos y evitar riesgos.
+
+Los usuarios con conocimiento en tecnología y que viven en residencias, o en sus propios hogares buscan una herramienta intuitiva que les permita tener alertas inmediatas y control desde sus propios smartphones, mientras que los profesionales de infraestructuras necesitan monitoreo centralizado y prevención de fallas en múltiples instalaciones.
+
+En este contexto, la solución propuesta responde a estas necesidades mediante tecnología IoT, permitiendo una gestión más eficiente, segura y preventiva.
 ### 2.3.1. User Personas 
+El user persona se construyó a partir de patrones encontrados en las entrevistas
+**Segmento objetivo 1: Usuario residencial**
+![User Persona](./assets/md-images-chapter2/UsserPersona1.png)
+
+**segmento Objetivo 2: Profesional de infraestructura**
+![User Persona](./assets/md-images-chapter2/UserPersona2.png)
+
 ### 2.3.2. User Task Matrix 
 ### 2.3.3. User Journey Mapping 
 ### 2.3.4. Empathy Mapping
