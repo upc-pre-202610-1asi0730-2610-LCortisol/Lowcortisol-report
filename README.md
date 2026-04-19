@@ -467,76 +467,77 @@ Creemos que, si la plataforma ofrece planes diferenciados según necesidad del c
 **User Outcome:** Contratan un plan ajustado a sus necesidades reales.<br>
 **Feature:** Plan Hogar, Plan Smart y Plan Full Service.<br>
 
-#### 1.2.2.1 Lean UX Canvas
-
-
+#### 1.2.2.4 Lean UX Canvas
 <table>  
 <tr>  
 <td>  
 <h2>Business Problem</h2>  
-- Actualmente, en hogares y organizaciones, muchas fugas de agua y gas se detectan cuando el problema ya generó daños económicos, desperdicio de recursos o riesgos para la seguridad. Esto ocurre porque la mayoría de instalaciones no cuenta con monitoreo continuo ni herramientas de alerta temprana.  <br>
-- Además, los procesos de revisión suelen ser manuales y reactivos, lo que retrasa la respuesta ante incidentes y eleva los costos de mantenimiento. En negocios e instituciones, estas fallas también pueden afectar operaciones, reputación y calidad del servicio.  <br>
+- Actualmente, en hogares y organizaciones, muchas fugas de agua y gas se detectan cuando el problema ya generó daños económicos, desperdicio de recursos o riesgos para la seguridad. Esto ocurre porque la mayoría de instalaciones no cuenta con monitoreo continuo ni herramientas de alerta temprana.<br>
+- Además, los procesos de revisión suelen ser manuales y reactivos, lo que retrasa la respuesta ante incidentes y eleva los costos de mantenimiento. En negocios e instituciones, estas fallas también pueden afectar operaciones, reputación y calidad del servicio.<br>
+
 </td>  
 <td>  
 <h2>Solutions</h2>  
--  Monitoreo en tiempo real: Supervisión constante de flujo, presión y presencia de gas. <br>
--  Alertas inmediatas: Notificaciones automáticas ante anomalías detectadas. <br>
--  Panel web adaptable: Acceso desde celular, tablet o computadora. <br>
--  Historial y reportes: Registro de consumos e incidencias. <br>
--  Control remoto: Gestión de válvulas según el plan contratado. <br>
+- <b>Monitoreo en tiempo real:</b> Supervisión constante de flujo, presión y presencia de gas.<br>
+- <b>Alertas inmediatas:</b> Notificaciones automáticas ante anomalías detectadas.<br>
+- <b>Panel web adaptable:</b> Acceso desde celular, tablet o computadora.<br>
+- <b>Historial y reportes:</b> Registro de consumos e incidencias.<br>
+- <b>Control remoto:</b> Gestión de válvulas según el plan contratado.
 </td>  
 <td>  
 <h2>Business Outcomes</h2>  
-- Incrementar adopción del servicio en hogares y organizaciones. <br>
-- Generar ingresos recurrentes mediante planes de suscripción. <br>  
-- Posicionar la marca como solución innovadora y confiable. <br>
-- Reducir cancelaciones gracias al valor percibido del servicio. <br>
+- Incrementar adopción del servicio en hogares y organizaciones.<br>
+- Generar ingresos recurrentes mediante planes de suscripción.<br>
+- Posicionar la marca como solución innovadora y confiable.<br>
+- Reducir cancelaciones gracias al valor percibido del servicio.<br>
 - Escalar el producto a nuevas ciudades y segmentos de mercado.
+
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Users</h2>  
-- Propietarios de viviendas. <br>
-- Familias preocupadas por seguridad y ahorro. <br>
-- Administradores de hoteles. <br>
-- Jefes de mantenimiento y operaciones. <br>
+- Propietarios de viviendas.<br>
+- Familias preocupadas por seguridad y ahorro.<br>
+- Administradores de hoteles.<br>
+- Jefes de mantenimiento y operaciones.<br>
 - Gestores de infraestructura pública.
 </td>  
 <td></td>  
 <td>  
 <h2>User Outcomes & Benefits</h2>  
-- Detectar fugas antes de que generen daños graves. <br>
-- Reducir gastos por consumo no controlado. <br>
-- Mejorar la seguridad del hogar o negocio. <br>
-- Ahorrar tiempo en revisiones manuales. <br>
+- Detectar fugas antes de que generen daños graves.<br>
+- Reducir gastos por consumo no controlado.<br>
+- Mejorar la seguridad del hogar o negocio.<br>
+- Ahorrar tiempo en revisiones manuales.<br>
 - Tener mayor control, tranquilidad y capacidad de respuesta.
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Hypotheses</h2>  
-- Si implementamos monitoreo en tiempo real, los usuarios actuarán más rápido y reducirán pérdidas. <br>
-- Si el sistema envía alertas inmediatas, disminuirá el tiempo de respuesta ante emergencias. <br>
-- Si mostramos historial y reportes claros, los usuarios optimizarán su consumo. <br>
-- Si existe control remoto de válvulas, aumentará la percepción de seguridad. <br>
+- Si implementamos monitoreo en tiempo real, los usuarios actuarán más rápido y reducirán pérdidas.<br>
+- Si el sistema envía alertas inmediatas, disminuirá el tiempo de respuesta ante emergencias.<br>
+- Si mostramos historial y reportes claros, los usuarios optimizarán su consumo.<br>
+- Si existe control remoto de válvulas, aumentará la percepción de seguridad.<br>
 - Si ofrecemos planes diferenciados, crecerá la conversión a suscripciones pagadas.
 </td>  
 <td>  
 <h2>What’s the most important thing we need to learn first?</h2>  
-- Si los usuarios realmente pagarían por esta solución. <br>
-- Qué problema valoran más: ahorro, seguridad o control. <br>
-- Qué funciones consideran esenciales en la primera versión. <br>
-- Qué segmento adoptaría primero el producto. <br>
+- Si los usuarios realmente pagarían por esta solución.<br>
+- Qué problema valoran más: ahorro, seguridad o control.<br>
+- Qué funciones consideran esenciales en la primera versión.<br>
+- Qué segmento adoptaría primero el producto.<br>
 - Qué precio consideran razonable según el valor ofrecido.
 </td>  
 <td>  
 <h2>What’s the least amount of work we need to do to learn the next most important thing?</h2>  
-- Crear una Landing Page con la propuesta de valor. <br>
-- Diseñar un prototipo navegable en Figma. <br>
-- Validar la idea mediante entrevistas a segmentos objetivo. <br>
-- Probar interés en planes, funciones y precios. <br>
-- Lanzar un MVP con monitoreo y alertas básicas. <br>
+- Crear una Landing Page con la propuesta de valor.<br>
+- Diseñar un prototipo navegable en Figma.<br>
+- Validar la idea mediante entrevistas a segmentos objetivo.<br>
+- Probar interés en planes, funciones y precios.<br>
+- Lanzar un MVP con monitoreo y alertas básicas.
+
 </td>  
 </tr>  
 </table>
