@@ -76,7 +76,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio del Reporte:
 
-- 
+- https://github.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-report.git
 
 #### Link del repositorio de la Landing Page:
 
