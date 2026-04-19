@@ -306,23 +306,21 @@ La solución propone utilizar sensores IoT conectados a una plataforma web que p
 El impacto puede ser económico por altos costos en recibos y reparaciones, operativo por interrupciones del servicio y de seguridad por riesgos como intoxicaciones o explosiones en caso de fugas de gas.
 
 ## Objetivos
-Corto Plazo
-- Desarrollar un producto mínimo viable con las funciones principales del sistema.
-- Implementar registro e inicio de sesión de usuarios.
-- Integrar el monitoreo básico de agua y gas mediante sensores IoT.
-- Configurar alertas iniciales ante fugas o anomalías detectadas.
-- Realizar pruebas con usuarios para validar la usabilidad y funcionamiento del sistema.
-- Recoger retroalimentación para identificar mejoras.
-
-Medio Plazo
-- Mejorar la plataforma con nuevas funcionalidades según las necesidades detectadas.
-- Implementar historial de consumo y reportes detallados.
-
-Largo Plazo
-- Expandir el servicio a más ciudades del país.
-- Establecer alianzas con municipalidades, negocios y empresas de servicios.
-- Posicionar la marca como referente en monitoreo y prevención de fugas de agua y gas.
-- Desarrollar nuevas soluciones relacionadas con automatización y seguridad inteligente.
+### Corto Plazo
+-Desarrollar un producto mínimo viable con las funciones principales del sistema.  
+-Implementar registro e inicio de sesión de usuarios.  
+-Integrar el monitoreo básico de agua y gas mediante sensores IoT.  
+-Configurar alertas iniciales ante fugas o anomalías detectadas.  
+-Realizar pruebas con usuarios para validar la usabilidad y funcionamiento del sistema.  
+-Recoger retroalimentación para identificar mejoras.
+### Medio Plazo
+-Mejorar la plataforma con nuevas funcionalidades según las necesidades detectadas.  
+-Implementar historial de consumo y reportes detallados.
+### Largo Plazo
+-Expandir el servicio a más ciudades del país.  
+-Establecer alianzas con municipalidades, negocios y empresas de servicios.  
+-Posicionar la marca como referente en monitoreo y prevención de fugas de agua y gas.  
+-Desarrollar nuevas soluciones relacionadas con automatización y seguridad inteligente.
 
 ## Restricciones
 - La solución debe desarrollarse como una plataforma web compuesta por una Landing Page, una Web Application y una RESTful API propia integrada entre sí.
