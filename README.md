@@ -786,7 +786,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 ## 2.2 Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
-#### Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
+#### Segmento 1: Usuarios residenciales con interés con tecnología y seguridad del hogar
 
 1. ¿Ha tenido alguna fuga de agua o gas en su vivienda?
 2. ¿Con qué frecuencia ocurren estos problemas?
@@ -801,7 +801,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 11. ¿Qué funcionalidades le gustaría que tenga este sistema?
 12. ¿Estaría dispuesto a pagar por un servicio de monitoreo?
 
-#### Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+#### Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 1. ¿Cómo gestionan actualmente el monitoreo de redes de agua o gas?
 2. ¿Existen pérdidas frecuentes en la infraestructura? ¿Cuáles son las principales causas?
@@ -824,7 +824,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 
 ### 2.2.2 Registro Entrevistas
 
-#### Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
+#### Segmento 1: Usuarios residenciales con interés con tecnología y seguridad del hogar
 
 ##### Entrevista 1 - Segmento: Hogares
 
@@ -845,7 +845,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 Yazid es un estudiante de Ingeniería Mecatrónica que habita en una vivienda con más de 40 años de antigüedad, factor que vuelve las fugas de agua un problema crónico debido al desgaste natural de la red. Describe que la detección actual es tardía y depende de señales visuales como hongos, caída de pintura, baja presión en los grifos o el impacto económico en los recibos mensuales. Para él, el impacto más fuerte es el desperdicio de recursos y el riesgo de seguridad que implican las fugas de gas. Su perfil académico lo hace especialmente receptivo a soluciones tecnológicas avanzadas; espera una herramienta que no solo envíe alertas al móvil e identifique la zona exacta del fallo, sino que también ofrezca la capacidad de cortar el suministro de forma remota (válvulas inteligentes). Yazid valora la eficiencia y la innovación, considerando que una solución así mejoraría drásticamente la seguridad del hogar y reduciría el gasto innecesario de agua.
 
 
-##### Entrevista 2 - Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
+##### Entrevista 2 - Segmento 1: Usuarios residenciales con interés con tecnología y seguridad del hogar
 
 **Datos del Entrevistado:**
 - Edad: 19
@@ -861,7 +861,7 @@ Yazid es un estudiante de Ingeniería Mecatrónica que habita en una vivienda co
 **<u>Resumen de la entrevista:</u>**
 Jesús es un estudiante con conocimientos técnicos previos que vive en un entorno familiar donde se presentan fugas tanto de agua como de gas, estas últimas generalmente por el uso de mangueras de baja calidad. Explica que mientras la detección de gas es casi inmediata gracias al olfato (menos de 5 minutos), las fugas de agua son más engañosas y pueden tardar hasta una semana en manifestarse mediante salitre o manchas en las paredes. Dado su perfil técnico, él mismo asume el rol de mantenimiento en el hogar para evitar gastos externos. Sin embargo, reconoce las limitaciones de la inspección manual y se muestra muy a favor de implementar sistemas basados en sensores (IoT) que alerten sobre roturas internas no visibles. Propone que este tipo de tecnología debería comercializarse bajo un modelo de suscripción atractivo y destaca que su principal valor sería la tranquilidad y la respuesta inmediata ante emergencias que podrían escalar a desastres.
 
-##### Entrevista 3 - Segmento: Usuarios residenciales con interés con tecnología y seguridad del hogar
+##### Entrevista 3 - Segmento 1: Usuarios residenciales con interés con tecnología y seguridad del hogar
 
 **Datos del Entrevistado:**
 - Edad: 20
@@ -878,7 +878,7 @@ Jesús es un estudiante con conocimientos técnicos previos que vive en un entor
 El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, que reside en un hogar donde las fugas de agua ocurren con una frecuencia de cada tres o cuatro meses. Durante la charla, menciona que suele notar el problema de manera reactiva, muchas veces ignorando las primeras señales hasta que el daño es evidente a través de charcos o humedad excesiva. Su gestión actual es mixta: intenta realizar reparaciones menores por cuenta propia, pero debe recurrir a técnicos especializados cuando el problema afecta la estructura interna, lo que ha derivado en costos elevados como el cambio de tuberías o pisos dañados. En cuanto a la tecnología, Frank se muestra muy interesado en una solución de monitoreo en tiempo real, siempre que el costo sea accesible y la interfaz permita personalizar o modelar el plano de su hogar para una mejor ubicación de las averías. Su actitud es pragmática, priorizando la prevención económica y la facilidad de uso de una aplicación móvil.
 
 
-##### Entrevista 1 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+##### Entrevista 1 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Edad: 22
@@ -896,7 +896,7 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 **<u>Resumen de la entrevista:</u>**
   Leonardo, practicante en el área de infraestructura de una municipalidad de la Molina, explica que el monitoreo de redes de agua se realiza principalmente de forma reactiva, basándose en inspecciones programadas y reportes de los ciudadanos. Señala que las fugas son frecuentes, especialmente en zonas con tuberías antiguas, y muchas veces no se detectan de inmediato, lo que genera pérdidas acumulativas de agua. Además, menciona que los tiempos de respuesta pueden variar considerablemente debido a la coordinación con otras entidades responsables. Indica que el uso de tecnología es limitado y que no cuentan con sistemas de monitoreo en tiempo real. Sin embargo, considera que la implementación de soluciones IoT permitiría mejorar la detección temprana de fallas, optimizar recursos y facilitar la toma de decisiones. También reconoce que existen barreras como el presupuesto, la capacitación del personal y la integración con sistemas ya existentes.
 
-###### Entrevista 2 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+###### Entrevista 2 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Edad: 22
@@ -914,7 +914,7 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 **<u>Resumen de la entrevista:</u>**
   Pool, practicante en la Municipalidad de Ate, comenta que la supervisión de redes de agua se realiza principalmente mediante inspecciones y reportes ciudadanos, debido a la ausencia de sistemas de monitoreo continuo. Indica que las fugas son un problema recurrente, sobre todo en infraestructuras antiguas o intervenidas sin una adecuada planificación. Muchas de estas fallas no se detectan a tiempo, lo que incrementa las pérdidas y afecta la eficiencia del sistema. La identificación suele basarse en señales visibles, como humedad o disminución de presión, lo que retrasa la intervención. Además, menciona que el uso de herramientas tecnológicas es limitado. No obstante, muestra una actitud positiva hacia la implementación de soluciones IoT, ya que permitirían un monitoreo constante, una detección más rápida de fallas y una mejor gestión de los recursos.
 
-######  Entrevista 3 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+######  Entrevista 3 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Edad: 22
@@ -931,7 +931,7 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 **<u>Resumen de la entrevista:</u>**
   Edward, trabajador del área de mantenimiento en un hotel, señala que las fugas de agua son los problemas más frecuentes en las instalaciones, principalmente en tuberías internas, mientras que las fugas de gas, aunque menos comunes, representan un mayor riesgo. Indica que el monitoreo se realiza de manera manual y depende en gran parte de reportes del personal o de los huéspedes, lo que evidencia un enfoque reactivo. Estas fallas pueden afectar directamente la experiencia del cliente, generando incomodidades y posibles costos adicionales para el hotel. Por ello, destaca la importancia de contar con soluciones tecnológicas que permitan una detección temprana de fugas. Considera que la implementación de sistemas IoT ayudaría a mejorar la eficiencia del mantenimiento, reducir riesgos y optimizar la operación del servicio.
 
-###### Entrevista 4 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+###### Entrevista 4 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Nombre: Fabián Raimundo
@@ -949,7 +949,7 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 **<u>Resumen de la entrevista:</u>**
   Fabián, practicante en el área de gestión y servicios de un hotel, menciona que los problemas relacionados con fugas de agua y gas ocurren de manera ocasional, siendo las fugas de agua más comunes debido al desgaste de las instalaciones. Señala que la detección de estos problemas se realiza principalmente de forma manual, mediante la observación del personal de mantenimiento o limpieza, así como por reportes de los huéspedes. Aunque el hotel cuenta con un plan de mantenimiento preventivo, reconoce que este no siempre permite anticipar las fallas, por lo que el sistema sigue siendo en gran parte reactivo. Además, indica que la falta de automatización limita la capacidad de respuesta. Sin embargo, muestra interés en la implementación de soluciones IoT con alertas en tiempo real, ya que permitirían mejorar la eficiencia operativa, reducir tiempos de respuesta y optimizar la experiencia del cliente.
 
-###### Entrevista 5 – Segmento: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+###### Entrevista 5 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
 **Datos del Entrevistado:**
 - Edad: 21
@@ -1045,10 +1045,36 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 - 
 
 ## 2.3. Needfinding
+En base a lo analizado, y tras ver los diferentes segmentos objetivos que tenemos, podemos identificar que los usuarios requieren una solución que les permita poder tener un control y poder monitorear en tiempo real sus diferentes sistemas de agua y gas para prevenir fugas, reducir costos y evitar riesgos.
+
+Los usuarios con conocimiento en tecnología y que viven en residencias, o en sus propios hogares buscan una herramienta intuitiva que les permita tener alertas inmediatas y control desde sus propios smartphones, mientras que los profesionales de infraestructuras necesitan monitoreo centralizado y prevención de fallas en múltiples instalaciones.
+
+En este contexto, la solución propuesta responde a estas necesidades mediante tecnología IoT, permitiendo una gestión más eficiente, segura y preventiva.
 ### 2.3.1. User Personas 
+El user persona se construyó a partir de patrones encontrados en las entrevistas
+**Segmento objetivo 1: Usuario residencial**
+![User Persona](./assets/md-images-chapter2/UsserPersona1.png)
+
+**segmento Objetivo 2: Profesional de infraestructura**
+![User Persona](./assets/md-images-chapter2/UserPersona2.png)
+
 ### 2.3.2. User Task Matrix 
+| TASK | Yazid Pinto  (Usuario Residencial)  Frecuencia | Yazid Pinto  (Usuario Residencial)  Importancia | Leonardo Sotelo (Profesional)  Frecuencia | Leonardo Sotelo (Profesional)  Importancia |
+| :---- | :---: | :---: | :---: | :---: |
+| **Detectar fugas de agua o gas en el entorno** | **Sometimes** | **High** | **Often** | **High** |
+| **Revisar consumo de agua o gas (recibos o indicadores)** | **Often** | **Medium** | **Often** | **High** |
+| **Inspeccionar manualmente tuberías o instalaciones** | **Sometimes** | **Medium** | **Often** | **High** |
+| **Buscar la causa de una fuga o anomalía** | **Sometimes** | **High** | **Often** | **High** |
+| **Contactar o coordinar reparación (técnico/equipo)** | **Rarely** | **High** | **Often** | **High** |
+| **Tomar acciones ante una emergencia (cerrar suministro, avisar)** | **Rarely** | **HIgh** | **Often** | **High** |
+| **Monitorear el estado general del sistema (aunque sea básico)** | **Rarely** | **Medium** | **Often** | **High** |
+| **Prevenir problemas mediante mantenimiento o revisiones** | **Sometimes** | **Medium** | **Often** | **HIgh** |
 ### 2.3.3. User Journey Mapping 
+![User Journey Mapping](./assets/md-images-chapter2/UserJourneyMap1.png)
+![User Journey Mapping](./assets/md-images-chapter2/UserJourneyMap2.png)
 ### 2.3.4. Empathy Mapping
+![Empathy Mapping](./assets/md-images-chapter2/Empathy1.png)
+![Empathy Mapping](./assets/md-images-chapter2/Empathy2.png)
 ## 2.4. Big Picture Event Storming
 
 #### Introducción:
@@ -1999,8 +2025,31 @@ Reports: Visualizacion de datos historicos mediante graficas de consumo y herram
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
+**Elementos:**
+
+* Usuario Residencial
+* Profesional de Infraestructura
+
+**Sistema Principal:**
+
+* Sistema de Monitoreo de Agua y Gas
+
+**Sistemas Externos:**
+
+* Sensores IoT
+* Servicio de Notificaciones
+* Sistema de Autenticación
+
+![Diagrama Contexto](./assets/md-images-chapter4/DiagramaContexto.png)
 ### 4.6.3. Software Architecture Container Diagrams
+El Container Diagram presenta la descomposición del sistema en contenedores principales, mostrando cómo las  aplicaciones cliente, La API, los servicios de monitoreo, gestión de incidencias, administración de dispositivos y notificaciones colaboran o travian en conjunto para soportar el funcionamiento de la plataforma, integrando también los servicios externos de autenticación, notificación IoT, así como las bases de datos que almacena información de los distintos servicios.Cabe recalcar que la arquitectura propuesta prioriza una aplicación web, dejando la posibilidad de incorporar un cliente movile en futuras iteraciones.
+![Diagrama Contenedores](./assets/md-images-chapter4/DiagramaContenedores.png)
 ### 4.6.4. Software Architecture Components Diagrams
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES111.png)
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES2.png)
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES3.png)
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES4.png)
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES5.png)
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ## 4.8. Database Design
