@@ -1059,6 +1059,16 @@ El user persona se construyó a partir de patrones encontrados en las entrevista
 ![User Persona](./assets/md-images-chapter2/UserPersona2.png)
 
 ### 2.3.2. User Task Matrix 
+| TASK | Yazid Pinto  (Usuario Residencial)  Frecuencia | Yazid Pinto  (Usuario Residencial)  Importancia | Leonardo Sotelo (Profesional)  Frecuencia | Leonardo Sotelo (Profesional)  Importancia |
+| :---- | :---: | :---: | :---: | :---: |
+| **Detectar fugas de agua o gas en el entorno** | **Sometimes** | **High** | **Often** | **High** |
+| **Revisar consumo de agua o gas (recibos o indicadores)** | **Often** | **Medium** | **Often** | **High** |
+| **Inspeccionar manualmente tuberías o instalaciones** | **Sometimes** | **Medium** | **Often** | **High** |
+| **Buscar la causa de una fuga o anomalía** | **Sometimes** | **High** | **Often** | **High** |
+| **Contactar o coordinar reparación (técnico/equipo)** | **Rarely** | **High** | **Often** | **High** |
+| **Tomar acciones ante una emergencia (cerrar suministro, avisar)** | **Rarely** | **HIgh** | **Often** | **High** |
+| **Monitorear el estado general del sistema (aunque sea básico)** | **Rarely** | **Medium** | **Often** | **High** |
+| **Prevenir problemas mediante mantenimiento o revisiones** | **Sometimes** | **Medium** | **Often** | **HIgh** |
 ### 2.3.3. User Journey Mapping 
 ### 2.3.4. Empathy Mapping
 ## 2.4. Big Picture Event Storming
