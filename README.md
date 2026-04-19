@@ -1483,6 +1483,9 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 </table>
 
 ## 3.2. Impact Mapping
+
+![Impact-Map-Image](assets/md-images-chapter3/Impact%20map-Aplicaciones_Web_2026(1).png)
+
 ## 3.3. Product Backlog
 | ID   | Tipo  | Título                         | Descripción                                                                 | Prioridad | Story Points | Epic |
 |------|------|--------------------------------|-----------------------------------------------------------------------------|----------|--------------|------|
