@@ -1061,7 +1061,47 @@ El diseño se basa en un sistema de rejilla de **8px** para garantizar jerarquí
 
 
 ### 4.2.2. Labeling Systems
+
+El sistema de etiquetado de **LowCortisol** se basa en los principios de **Domain-Driven Design (DDD)**, utilizando un lenguaje ubicuo que unifica los terminos tecnicos del hardware IoT con la experiencia del usuario final.
+
+**Etiquetas de Navegacion:**
+* **Dashboard:** Estado critico y resumen ejecutivo del sistema.
+* **Monitoring:** Telemetria detallada de flujo, presion y densidad.
+* **Incident Log:** Registro historico de anomalias y eventos de seguridad.
+* **IoT Devices:** Gestion de sensores y estado de conectividad en la nube.
+* **Valve Control:** Interfaz de accionamiento para el cierre preventivo de valvulas.
+* **Solutions:** Informacion sobre planes Hogar, Smart y Full Service.
+* **Support:** Acceso a la red de tecnicos certificados y asistencia 24/7.
+
+**Etiquetas de Contenido:**
+* **Smart monitoring for water and gas safety in real-time.**
+* **Preventive security through automated IoT responses.**
+* **Full visibility of your infrastructure and consumption patterns.**
+* **Tailored solutions for residential and industrial sectors.**
+* **Expert technical network and emergency coordination.**
+
 ### 4.2.3. SEO Tags and Meta Tags 
+
+La configuracion de metadatos asegura que la plataforma sea indexada correctamente, posicionando a **LowCortisol** como lider en prevencion de incidentes mediante tecnologia IoT.
+
+**Title:**
+LowCortisol - Smart IoT Monitoring for Water and Gas Pipeline Safety
+
+**Description:**
+Comprehensive IoT platform for real-time monitoring of water and gas systems. Detect leaks, monitor pressure levels, and manage emergency valve control with automated alerts and professional technical support.
+
+**Keywords:**
+IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitoring, industrial IoT safety, preventive home security, automated valve control, LowCortisol system, smart sensors.
+
+**Meta Tags:**
+* **Viewport:** width=device-width, initial-scale=1.0
+* **Charset:** UTF-8
+* **Author:** LowCortisol Engineering Team
+* **Robots:** index, follow
+* **Language:** es-PE, en-US
+* **Copyright:** Copyright 2026 LowCortisol Project
+* **Content-Type:** text/html; charset=utf-8
+
 ### 4.2.4. Searching Systems
 
   El sistema de búsqueda de LowCortisol está diseñado para facilitar el acceso rápido a la información dentro de la plataforma, adaptándose a la complejidad de cada segmento y al volumen de datos generado por sensores, alertas y sedes.
