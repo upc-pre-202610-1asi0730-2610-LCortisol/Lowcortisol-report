@@ -1070,7 +1070,10 @@ El user persona se construyó a partir de patrones encontrados en las entrevista
 | **Monitorear el estado general del sistema (aunque sea básico)** | **Rarely** | **Medium** | **Often** | **High** |
 | **Prevenir problemas mediante mantenimiento o revisiones** | **Sometimes** | **Medium** | **Often** | **HIgh** |
 ### 2.3.3. User Journey Mapping 
+![User Journey Mapping](./assets/md-images-chapter2/UserJourneyMap1.png)
+![User Journey Mapping](./assets/md-images-chapter2/UserJourneyMap2.png)
 ### 2.3.4. Empathy Mapping
+
 ## 2.4. Big Picture Event Storming
 
 #### Introducción:
