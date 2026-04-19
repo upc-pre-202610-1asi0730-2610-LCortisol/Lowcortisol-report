@@ -42,7 +42,7 @@
         <td>Loa Rojas, Jean Franck</td>
       </tr>
       <tr>
-        <td>U--------</td>
+        <td>U202111529</td>
         <td>Montalvo Vasquez, Bruno Rodrigo</td>
       </tr>
       <tr>
@@ -76,7 +76,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio del Reporte:
 
-- 
+- https://github.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-report.git
 
 #### Link del repositorio de la Landing Page:
 
@@ -237,117 +237,120 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 ## 1.1. StartUp Profile
 
 ### 1.1.1. Descripción de la StartUp
-El presente informe pretende documentar el desarrollo del Startup “NOMBRESTARTUP”, el cual busca mejorar la prevención y gestión de incidentes en tuberías de agua y gas mediante el uso de tecnología IoT y monitoreo en tiempo real. A través de su aplicativo “NOMBAPLIC”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
+El presente informe pretende documentar el desarrollo del Startup “LowCortisol”, el cual busca mejorar la prevención y gestión de incidentes en tuberías de agua y gas mediante el uso de tecnología IoT y monitoreo en tiempo real.
+A través de su aplicativo también llamado “LowCortisol”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
 
-De este modo, la empresa busca reducir pérdidas económicas, prevenir riesgos para la salud y mejorar la seguridad en hogares, hoteles y otros establecimientos. Asimismo, la solución permitirá optimizar el consumo de recursos y fomentar una gestión más eficiente del agua y gas. Para ello, nuestro grupo demostrará conocimientos en desarrollo web, bases de datos, integración de sensores y gestión de servicios en la nube.
-
----
+De este modo, la empresa busca reducir pérdidas económicas, prevenir riesgos para la salud y mejorar la seguridad en hogares, hoteles y otros establecimientos.
+Asimismo, la solución permitirá optimizar el consumo de recursos y fomentar una gestión más eficiente del agua y gas.
+Para ello, nuestro grupo demostrará conocimientos en desarrollo web, bases de datos, integración de sensores y gestión de servicios en la nube.
 
 ## Misión
-Nuestra misión es facilitar a los usuarios el control y supervisión de sus sistemas de agua y gas mediante tecnología inteligente, alertas en tiempo real y herramientas de respuesta rápida. Buscamos generar confianza, ahorro y seguridad en hogares y negocios, siempre con un enfoque en innovación, accesibilidad y mejora continua.
----
+Nuestra misión es facilitar a los usuarios el control y supervisión de sus sistemas de agua y gas mediante tecnología inteligente, alertas en tiempo real y herramientas de respuesta rápida.
+Buscamos generar confianza, ahorro y seguridad en hogares y negocios, siempre con un enfoque en innovación, accesibilidad y mejora continua.
 
 ## Visión
-Nuestra visión es convertirnos en la empresa líder en soluciones tecnológicas de monitoreo y prevención de fugas de agua y gas en el Perú. Buscamos brindar mayor seguridad, eficiencia y tranquilidad a las personas y negocios mediante herramientas innovadoras y accesibles. Creemos que la tecnología puede prevenir incidentes, reducir desperdicios y mejorar la calidad de vida de la población.
+Nuestra visión es convertirnos en la empresa líder en soluciones tecnológicas de monitoreo y prevención de fugas de agua y gas en el Perú.
+Buscamos brindar mayor seguridad, eficiencia y tranquilidad a las personas y negocios mediante herramientas innovadoras y accesibles. Creemos que la tecnología puede prevenir incidentes, reducir desperdicios y mejorar la calidad de vida de la población.
 
 ## Valores
-Nuestros valores principales son los siguientes:
-- Innovación: Uso de tecnología moderna para resolver problemas cotidianos de forma eficiente.
-- Seguridad: Priorizamos la protección de las personas, propiedades y negocios.
-- Responsabilidad: Promovemos el uso adecuado de recursos como el agua y el gas.
-- Colaboración: Valoramos el trabajo en equipo y la relación con usuarios y aliados estratégicos.
-- Calidad: Buscamos ofrecer un servicio confiable, estable y fácil de utilizar.
+Nuestros valores principales son los siguientes:  
+-Innovación: Uso de tecnología moderna para resolver problemas cotidianos de forma eficiente.  
+-Seguridad: Priorizamos la protección de las personas, propiedades y negocios.  
+-Responsabilidad: Promovemos el uso adecuado de recursos como el agua y el gas.  
+-Colaboración: Valoramos el trabajo en equipo y la relación con usuarios y aliados estratégicos.  
+-Calidad: Buscamos ofrecer un servicio confiable, estable y fácil de utilizar.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| **Nombre Completo del integrante**    |	**Descripcion de la carrera** | **Fotografia** | **Conocimientos y habilidades**
-| :------------------------------------ |:------------------------------------ |:------------------------------------ |:------------------------------------ |
-| Condori Torres, Miguel Anibal      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src=""> | text
-| Delgado Perez, James Caleb      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src=""> | text
-| Loa Rojas, Jean Franck      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Jean_Loa.jpg"> | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
-| Montalvo Vasquez, Bruno Rodrigo      |carrera| <img src=""> | text
-| Quiliano Motta, Kirk Douglas      |carrera| <img src=""> | text
+| **Nombre Completo del integrante** |	**Descripcion de la carrera** | **Fotografia**                                          | **Conocimientos y habilidades**
+|:-----------------------------------|:------------------------------------ |:--------------------------------------------------------|:------------------------------------ |
+| Condori Torres, Miguel Anibal      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="">                                            | text
+| Delgado Perez, James Caleb         |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src="">                                            | text
+| Loa Rojas, Jean Franck             |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Jean_Loa.jpg">       | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
+| Montalvo Vásquez, Bruno Rodrigo    |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Bruno_Montalvo.jpg"> | Soy Bruno Rodrigo Montalvo Vásquez, estudiante de 5 ciclo de la carrera de Ingeniería de Software, estoy curioso y a la vez extasiado por aprender más sobre los temas futuros sobre mi carrera a su vez que también abierto a poder trabajar con profesionales de mi rubro académico para mejorar mis conocimientos.
+| Quiliano Motta, Kirk Douglas       |carrera| <img src="">                                            | text
 
 ## 1.2 *Solution Profile*
 ### 1.2.1 Antecedentes y problemática
-En la actualidad, tanto en hogares como en negocios e instituciones, el uso de tuberías para la distribución de agua y gas es fundamental. Sin embargo, la mayoría de estos sistemas carecen de mecanismos de monitoreo en tiempo real, lo que dificulta la detección oportuna de fugas o fallas. A nivel mundial, se han desarrollado soluciones basadas en tecnología IoT para el monitoreo de recursos, pero su adopción aún es limitada en muchos contextos debido a costos, falta de conocimiento o baja accesibilidad tecnológica. En el contexto local, es común que los usuarios detecten fugas de agua o gas de forma tardía, cuando ya existen consecuencias como:
+En la actualidad, tanto en hogares como en negocios e instituciones, el uso de tuberías para la distribución de agua y gas es fundamental. Sin embargo, la mayoría de estos sistemas carecen de mecanismos de monitoreo en tiempo real, lo que dificulta la detección oportuna de fugas o fallas.
+A nivel mundial, se han desarrollado soluciones basadas en tecnología IoT para el monitoreo de recursos, pero su adopción aún es limitada en muchos contextos debido a costos, falta de conocimiento o baja accesibilidad tecnológica.
+En el contexto local, es común que los usuarios detecten fugas de agua o gas de forma tardía, cuando ya existen consecuencias como:
 
-- Incremento excesivo en los recibos de servicios.
-- Daños en infraestructura (paredes, pisos, tuberías).
-- Riesgos para la salud (intoxicación por gas).
-- Posibles accidentes graves como explosiones.
+-Incremento excesivo en los recibos de servicios.  
+-Daños en infraestructura (paredes, pisos, tuberías).  
+-Riesgos para la salud (intoxicación por gas).  
+-Posibles accidentes graves como explosiones.
 
-Además, la dificultad para encontrar técnicos confiables de forma inmediata agrava la situación, incrementando el tiempo de respuesta ante emergencias. Por ello, se identifica la necesidad de una solución tecnológica que permita el monitoreo continuo, la detección temprana de anomalías y la respuesta rápida ante incidentes.
+Además, la dificultad para encontrar técnicos confiables de forma inmediata agrava la situación, incrementando el tiempo de respuesta ante emergencias.
+Por ello, se identifica la necesidad de una solución tecnológica que permita el monitoreo continuo, la detección temprana de anomalías y la respuesta rápida ante incidentes.
 
 ## 5W & 2H
-Who (¿Quiénes?)
+#### Who (¿Quiénes?)
 Los principales usuarios de la solución son personas que viven en hogares, administradores de hoteles y dueños o responsables de negocios que utilizan agua y gas en sus actividades diarias. También se considera al personal de mantenimiento encargado de revisar las instalaciones.
 
-What (¿Qué?)
+#### What (¿Qué?)
 El problema principal es la falta de monitoreo constante en las tuberías de agua y gas. Esto provoca que muchas fugas sean detectadas tarde, generando desperdicio de recursos, gastos elevados, daños en la infraestructura y riesgos para la seguridad.
 
-Where (¿Dónde?)
+#### Where (¿Dónde?)
 Esta problemática puede presentarse en viviendas, hoteles, restaurantes, edificios y otros establecimientos que cuenten con redes internas de agua y gas.
 
-When (¿Cuándo?)
+#### When (¿Cuándo?)
 Puede ocurrir en cualquier momento, especialmente cuando no existe supervisión constante, las tuberías son antiguas o no se realiza mantenimiento preventivo.
 
-Why (¿Por qué?)
+#### Why (¿Por qué?)
 Porque la mayoría de personas detecta los problemas cuando ya son visibles, por ejemplo al notar humedad, malos olores, baja presión o recibos elevados. Además, muchas instalaciones no cuentan con herramientas tecnológicas para prevenir fallas.
 
-How (¿Cómo?)
+#### How (¿Cómo?)
 La solución propone utilizar sensores IoT conectados a una plataforma web que permita monitorear en tiempo real, enviar alertas inmediatas y tomar acciones rápidas como cerrar válvulas o contactar soporte técnico.
 
-How Much (¿Cuánto impacta?)
+#### How Much (¿Cuánto impacta?)
 El impacto puede ser económico por altos costos en recibos y reparaciones, operativo por interrupciones del servicio y de seguridad por riesgos como intoxicaciones o explosiones en caso de fugas de gas.
 
 ## Objetivos
-Corto Plazo
-- Desarrollar un producto mínimo viable con las funciones principales del sistema.
-- Implementar registro e inicio de sesión de usuarios.
-- Integrar el monitoreo básico de agua y gas mediante sensores IoT.
-- Configurar alertas iniciales ante fugas o anomalías detectadas.
-- Realizar pruebas con usuarios para validar la usabilidad y funcionamiento del sistema.
-- Recoger retroalimentación para identificar mejoras.
-
-Medio Plazo
-- Mejorar la plataforma con nuevas funcionalidades según las necesidades detectadas.
-- Implementar historial de consumo y reportes detallados.
-
-Largo Plazo
-- Expandir el servicio a más ciudades del país.
-- Establecer alianzas con municipalidades, negocios y empresas de servicios.
-- Posicionar la marca como referente en monitoreo y prevención de fugas de agua y gas.
-- Desarrollar nuevas soluciones relacionadas con automatización y seguridad inteligente.
+### Corto Plazo
+-Desarrollar un producto mínimo viable con las funciones principales del sistema.  
+-Implementar registro e inicio de sesión de usuarios.  
+-Integrar el monitoreo básico de agua y gas mediante sensores IoT.  
+-Configurar alertas iniciales ante fugas o anomalías detectadas.  
+-Realizar pruebas con usuarios para validar la usabilidad y funcionamiento del sistema.  
+-Recoger retroalimentación para identificar mejoras.
+### Medio Plazo
+-Mejorar la plataforma con nuevas funcionalidades según las necesidades detectadas.  
+-Implementar historial de consumo y reportes detallados.
+### Largo Plazo
+-Expandir el servicio a más ciudades del país.  
+-Establecer alianzas con municipalidades, negocios y empresas de servicios.  
+-Posicionar la marca como referente en monitoreo y prevención de fugas de agua y gas.  
+-Desarrollar nuevas soluciones relacionadas con automatización y seguridad inteligente.
 
 ## Restricciones
-- La solución debe desarrollarse como una plataforma web compuesta por una Landing Page, una Web Application y una RESTful API propia integrada entre sí.
-- La interfaz debe ser adaptable a distintos dispositivos, como computadoras, tablets y celulares.
-- El sistema debe mantener una experiencia visual y funcional consistente entre la Landing Page y la Web Application.
-- Los botones de llamada a la acción (Call To Action) de la Landing Page deben redirigir correctamente a las vistas correspondientes dentro de la Web Application.
-- La solución debe integrar al menos un servicio externo de terceros, como mapas, correo, notificaciones o autenticación.
-- El desarrollo debe utilizar tecnologías open-source y herramientas alineadas con lo aprendido en el curso.
-- La lógica del lado servidor debe ser compatible con el enfoque solicitado en el curso, utilizando C# cuando corresponda.
-- El proyecto debe gestionarse en un repositorio público de GitHub con evidencias de colaboración mediante commits.
-- El equipo debe aplicar GitFlow y conventional commits durante el desarrollo del proyecto.
-- El sistema dependerá de conexión a internet para funciones en tiempo real como monitoreo, alertas y sincronización de datos.
-- La instalación de sensores IoT puede representar un costo inicial para los usuarios.
-- Algunas instalaciones antiguas podrían presentar dificultades de compatibilidad con los sensores.
-- El alcance inicial del proyecto estará enfocado en segmentos priorizados y funcionalidades principales del producto mínimo viable.
-- El tiempo disponible del ciclo académico limita la implementación de funcionalidades avanzadas en la primera versión.
-- Será necesario aplicar medidas de seguridad para proteger la información de usuarios y dispositivos conectados.
+-La solución debe desarrollarse como una plataforma web compuesta por una Landing Page, una Web Application y una RESTful API propia integrada entre sí.  
+-La interfaz debe ser adaptable a distintos dispositivos, como computadoras, tablets y celulares.  
+-El sistema debe mantener una experiencia visual y funcional consistente entre la Landing Page y la Web Application.  
+-Los botones de llamada a la acción (Call To Action) de la Landing Page deben redirigir correctamente a las vistas correspondientes dentro de la Web Application.  
+-La solución debe integrar al menos un servicio externo de terceros, como mapas, correo, notificaciones o autenticación.  
+-El desarrollo debe utilizar tecnologías open-source y herramientas alineadas con lo aprendido en el curso.  
+-La lógica del lado servidor debe ser compatible con el enfoque solicitado en el curso, utilizando C# cuando corresponda.  
+-El proyecto debe gestionarse en un repositorio público de GitHub con evidencias de colaboración mediante commits.  
+-El equipo debe aplicar GitFlow y conventional commits durante el desarrollo del proyecto.  
+-El sistema dependerá de conexión a internet para funciones en tiempo real como monitoreo, alertas y sincronización de datos.  
+-La instalación de sensores IoT puede representar un costo inicial para los usuarios.  
+-Algunas instalaciones antiguas podrían presentar dificultades de compatibilidad con los sensores.  
+-El alcance inicial del proyecto estará enfocado en segmentos priorizados y funcionalidades principales del producto mínimo viable.  
+-El tiempo disponible del ciclo académico limita la implementación de funcionalidades avanzadas en la primera versión.  
+-Será necesario aplicar medidas de seguridad para proteger la información de usuarios y dispositivos conectados.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
-El sistema propuesto tiene como objetivo principal permitir que los usuarios puedan monitorear en tiempo real el estado de sus tuberías de agua y gas, con la finalidad de prevenir fugas, reducir el desperdicio de recursos y evitar riesgos en hogares, negocios e instituciones.
-Actualmente, muchas personas no cuentan con herramientas que les permitan detectar fugas de manera inmediata, lo que genera problemas como incremento en los recibos, daños en la infraestructura, pérdida de recursos y, en el caso del gas, situaciones de alto riesgo como intoxicaciones o explosiones. En la mayoría de casos, los usuarios detectan estos problemas cuando ya han ocurrido consecuencias graves.
-Además, en contextos donde las instalaciones son grandes, como edificios, hoteles o restaurantes, resulta aún más complicado monitorear manualmente el estado de las tuberías. Esto provoca que pequeñas fugas pasen desapercibidas durante largos periodos de tiempo.
-Por otro lado, también existe una dificultad al momento de encontrar técnicos confiables de manera rápida, lo que retrasa la solución del problema y aumenta los daños. A esto se suma la falta de sistemas automatizados que permitan tomar acciones inmediatas, como el cierre de válvulas ante una emergencia.
-Frente a esta problemática, se propone desarrollar un sistema basado en tecnología IoT que permita monitorear, detectar y alertar sobre anomalías en tiempo real, brindando al usuario la capacidad de actuar de manera rápida y eficiente. Asimismo, se considera importante la seguridad del sistema, evitando accesos no autorizados que puedan manipular los dispositivos conectados.
+El sistema propuesto tiene como objetivo principal permitir que los usuarios puedan monitorear en tiempo real el estado de sus tuberías de agua y gas, con la finalidad de prevenir fugas, reducir el desperdicio de recursos y evitar riesgos en hogares, negocios e instituciones.  
+Actualmente, muchas personas no cuentan con herramientas que les permitan detectar fugas de manera inmediata, lo que genera problemas como incremento en los recibos, daños en la infraestructura, pérdida de recursos y, en el caso del gas, situaciones de alto riesgo como intoxicaciones o explosiones. En la mayoría de casos, los usuarios detectan estos problemas cuando ya han ocurrido consecuencias graves.  
+Además, en contextos donde las instalaciones son grandes, como edificios, hoteles o restaurantes, resulta aún más complicado monitorear manualmente el estado de las tuberías. Esto provoca que pequeñas fugas pasen desapercibidas durante largos periodos de tiempo.  
+Por otro lado, también existe una dificultad al momento de encontrar técnicos confiables de manera rápida, lo que retrasa la solución del problema y aumenta los daños. A esto se suma la falta de sistemas automatizados que permitan tomar acciones inmediatas, como el cierre de válvulas ante una emergencia.  
+Frente a esta problemática, se propone desarrollar un sistema basado en tecnología IoT que permita monitorear, detectar y alertar sobre anomalías en tiempo real, brindando al usuario la capacidad de actuar de manera rápida y eficiente. Asimismo, se considera importante la seguridad del sistema, evitando accesos no autorizados que puedan manipular los dispositivos conectados.  
 De esta manera, la solución no solo busca mejorar la calidad de vida de los usuarios, sino también optimizar el uso de recursos y prevenir incidentes que puedan afectar tanto a nivel económico como de seguridad.
 
-#### 1.2.2.1 Lean UX Assumptions
+#### 1.2.2.2 Lean UX Assumptions
 
- + **User Assumptions:** 
++ **User Assumptions:**
 
 ###### ¿Quién es el usuario?
 
@@ -373,7 +376,7 @@ De forma continua, con revisiones periódicas por parte del usuario y alertas au
 
 Intuitivo, moderno, accesible, con información clara y alertas fáciles de entender.
 
- + **Business Outcomes:**
++ **Business Outcomes:**
 
 1. **Creo que mis clientes necesitan…** Una forma rápida, automática y confiable de detectar fugas y controlar su consumo de agua y gas.
 
@@ -399,8 +402,7 @@ Intuitivo, moderno, accesible, con información clara y alertas fáciles de ente
 
 12. **Otra suposición crítica…** Que los usuarios utilizarán el sistema de forma constante para monitorear su consumo.
 
-
-#### 1.2.2.1 Lean UX Hypothesis Statements
+#### 1.2.2.3 Lean UX Hypothesis Statements
 
 ###### Hipótesis 1:
 
@@ -465,77 +467,77 @@ Creemos que, si la plataforma ofrece planes diferenciados según necesidad del c
 **User Outcome:** Contratan un plan ajustado a sus necesidades reales.<br>
 **Feature:** Plan Hogar, Plan Smart y Plan Full Service.<br>
 
-
-#### 1.2.2.1 Lean UX Canvas
-
-
+#### 1.2.2.4 Lean UX Canvas
 <table>  
 <tr>  
 <td>  
 <h2>Business Problem</h2>  
-- Actualmente, en hogares y organizaciones, muchas fugas de agua y gas se detectan cuando el problema ya generó daños económicos, desperdicio de recursos o riesgos para la seguridad. Esto ocurre porque la mayoría de instalaciones no cuenta con monitoreo continuo ni herramientas de alerta temprana.  <br>
-- Además, los procesos de revisión suelen ser manuales y reactivos, lo que retrasa la respuesta ante incidentes y eleva los costos de mantenimiento. En negocios e instituciones, estas fallas también pueden afectar operaciones, reputación y calidad del servicio.  <br>
+- Actualmente, en hogares y organizaciones, muchas fugas de agua y gas se detectan cuando el problema ya generó daños económicos, desperdicio de recursos o riesgos para la seguridad. Esto ocurre porque la mayoría de instalaciones no cuenta con monitoreo continuo ni herramientas de alerta temprana.<br>
+- Además, los procesos de revisión suelen ser manuales y reactivos, lo que retrasa la respuesta ante incidentes y eleva los costos de mantenimiento. En negocios e instituciones, estas fallas también pueden afectar operaciones, reputación y calidad del servicio.<br>
+
 </td>  
 <td>  
 <h2>Solutions</h2>  
--  Monitoreo en tiempo real: Supervisión constante de flujo, presión y presencia de gas. <br>
--  Alertas inmediatas: Notificaciones automáticas ante anomalías detectadas. <br>
--  Panel web adaptable: Acceso desde celular, tablet o computadora. <br>
--  Historial y reportes: Registro de consumos e incidencias. <br>
--  Control remoto: Gestión de válvulas según el plan contratado. <br>
+- <b>Monitoreo en tiempo real:</b> Supervisión constante de flujo, presión y presencia de gas.<br>
+- <b>Alertas inmediatas:</b> Notificaciones automáticas ante anomalías detectadas.<br>
+- <b>Panel web adaptable:</b> Acceso desde celular, tablet o computadora.<br>
+- <b>Historial y reportes:</b> Registro de consumos e incidencias.<br>
+- <b>Control remoto:</b> Gestión de válvulas según el plan contratado.
 </td>  
 <td>  
 <h2>Business Outcomes</h2>  
-- Incrementar adopción del servicio en hogares y organizaciones. <br>
-- Generar ingresos recurrentes mediante planes de suscripción. <br>  
-- Posicionar la marca como solución innovadora y confiable. <br>
-- Reducir cancelaciones gracias al valor percibido del servicio. <br>
+- Incrementar adopción del servicio en hogares y organizaciones.<br>
+- Generar ingresos recurrentes mediante planes de suscripción.<br>
+- Posicionar la marca como solución innovadora y confiable.<br>
+- Reducir cancelaciones gracias al valor percibido del servicio.<br>
 - Escalar el producto a nuevas ciudades y segmentos de mercado.
+
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Users</h2>  
-- Propietarios de viviendas. <br>
-- Familias preocupadas por seguridad y ahorro. <br>
-- Administradores de hoteles. <br>
-- Jefes de mantenimiento y operaciones. <br>
+- Propietarios de viviendas.<br>
+- Familias preocupadas por seguridad y ahorro.<br>
+- Administradores de hoteles.<br>
+- Jefes de mantenimiento y operaciones.<br>
 - Gestores de infraestructura pública.
 </td>  
 <td></td>  
 <td>  
 <h2>User Outcomes & Benefits</h2>  
-- Detectar fugas antes de que generen daños graves. <br>
-- Reducir gastos por consumo no controlado. <br>
-- Mejorar la seguridad del hogar o negocio. <br>
-- Ahorrar tiempo en revisiones manuales. <br>
+- Detectar fugas antes de que generen daños graves.<br>
+- Reducir gastos por consumo no controlado.<br>
+- Mejorar la seguridad del hogar o negocio.<br>
+- Ahorrar tiempo en revisiones manuales.<br>
 - Tener mayor control, tranquilidad y capacidad de respuesta.
 </td>  
 </tr>  
 <tr>  
 <td>  
 <h2>Hypotheses</h2>  
-- Si implementamos monitoreo en tiempo real, los usuarios actuarán más rápido y reducirán pérdidas. <br>
-- Si el sistema envía alertas inmediatas, disminuirá el tiempo de respuesta ante emergencias. <br>
-- Si mostramos historial y reportes claros, los usuarios optimizarán su consumo. <br>
-- Si existe control remoto de válvulas, aumentará la percepción de seguridad. <br>
+- Si implementamos monitoreo en tiempo real, los usuarios actuarán más rápido y reducirán pérdidas.<br>
+- Si el sistema envía alertas inmediatas, disminuirá el tiempo de respuesta ante emergencias.<br>
+- Si mostramos historial y reportes claros, los usuarios optimizarán su consumo.<br>
+- Si existe control remoto de válvulas, aumentará la percepción de seguridad.<br>
 - Si ofrecemos planes diferenciados, crecerá la conversión a suscripciones pagadas.
 </td>  
 <td>  
 <h2>What’s the most important thing we need to learn first?</h2>  
-- Si los usuarios realmente pagarían por esta solución. <br>
-- Qué problema valoran más: ahorro, seguridad o control. <br>
-- Qué funciones consideran esenciales en la primera versión. <br>
-- Qué segmento adoptaría primero el producto. <br>
+- Si los usuarios realmente pagarían por esta solución.<br>
+- Qué problema valoran más: ahorro, seguridad o control.<br>
+- Qué funciones consideran esenciales en la primera versión.<br>
+- Qué segmento adoptaría primero el producto.<br>
 - Qué precio consideran razonable según el valor ofrecido.
 </td>  
 <td>  
 <h2>What’s the least amount of work we need to do to learn the next most important thing?</h2>  
-- Crear una Landing Page con la propuesta de valor. <br>
-- Diseñar un prototipo navegable en Figma. <br>
-- Validar la idea mediante entrevistas a segmentos objetivo. <br>
-- Probar interés en planes, funciones y precios. <br>
-- Lanzar un MVP con monitoreo y alertas básicas. <br>
+- Crear una Landing Page con la propuesta de valor.<br>
+- Diseñar un prototipo navegable en Figma.<br>
+- Validar la idea mediante entrevistas a segmentos objetivo.<br>
+- Probar interés en planes, funciones y precios.<br>
+- Lanzar un MVP con monitoreo y alertas básicas.
+
 </td>  
 </tr>  
 </table>
@@ -1098,7 +1100,6 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 
 # Capitulo III: Requirements Specification
 ## 3.1. User Stories
-
 <table>
 <tr>
 <th>**Epic / Story ID**</th>
