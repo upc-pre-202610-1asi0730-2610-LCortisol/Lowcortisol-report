@@ -237,11 +237,12 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 ## 1.1. StartUp Profile
 
 ### 1.1.1. Descripción de la StartUp
-El presente informe pretende documentar el desarrollo del Startup “NOMBRESTARTUP”, el cual busca mejorar la prevención y gestión de incidentes en tuberías de agua y gas mediante el uso de tecnología IoT y monitoreo en tiempo real. A través de su aplicativo “NOMBAPLIC”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
+El presente informe pretende documentar el desarrollo del Startup “LowCortisol”, el cual busca mejorar la prevención y gestión de incidentes en tuberías de agua y gas mediante el uso de tecnología IoT y monitoreo en tiempo real.
+A través de su aplicativo también llamado “LowCortisol”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
 
-De este modo, la empresa busca reducir pérdidas económicas, prevenir riesgos para la salud y mejorar la seguridad en hogares, hoteles y otros establecimientos. Asimismo, la solución permitirá optimizar el consumo de recursos y fomentar una gestión más eficiente del agua y gas. Para ello, nuestro grupo demostrará conocimientos en desarrollo web, bases de datos, integración de sensores y gestión de servicios en la nube.
-
----
+De este modo, la empresa busca reducir pérdidas económicas, prevenir riesgos para la salud y mejorar la seguridad en hogares, hoteles y otros establecimientos.
+Asimismo, la solución permitirá optimizar el consumo de recursos y fomentar una gestión más eficiente del agua y gas.
+Para ello, nuestro grupo demostrará conocimientos en desarrollo web, bases de datos, integración de sensores y gestión de servicios en la nube.
 
 ## Misión
 Nuestra misión es facilitar a los usuarios el control y supervisión de sus sistemas de agua y gas mediante tecnología inteligente, alertas en tiempo real y herramientas de respuesta rápida. Buscamos generar confianza, ahorro y seguridad en hogares y negocios, siempre con un enfoque en innovación, accesibilidad y mejora continua.
