@@ -348,9 +348,9 @@ Por otro lado, también existe una dificultad al momento de encontrar técnicos 
 Frente a esta problemática, se propone desarrollar un sistema basado en tecnología IoT que permita monitorear, detectar y alertar sobre anomalías en tiempo real, brindando al usuario la capacidad de actuar de manera rápida y eficiente. Asimismo, se considera importante la seguridad del sistema, evitando accesos no autorizados que puedan manipular los dispositivos conectados.  
 De esta manera, la solución no solo busca mejorar la calidad de vida de los usuarios, sino también optimizar el uso de recursos y prevenir incidentes que puedan afectar tanto a nivel económico como de seguridad.
 
-#### 1.2.2.1 Lean UX Assumptions
+#### 1.2.2.2 Lean UX Assumptions
 
- + **User Assumptions:** 
++ **User Assumptions:**
 
 ###### ¿Quién es el usuario?
 
@@ -376,7 +376,7 @@ De forma continua, con revisiones periódicas por parte del usuario y alertas au
 
 Intuitivo, moderno, accesible, con información clara y alertas fáciles de entender.
 
- + **Business Outcomes:**
++ **Business Outcomes:**
 
 1. **Creo que mis clientes necesitan…** Una forma rápida, automática y confiable de detectar fugas y controlar su consumo de agua y gas.
 
@@ -401,7 +401,6 @@ Intuitivo, moderno, accesible, con información clara y alertas fáciles de ente
 11. **Lo resolveremos con…** Guías de instalación, interfaz intuitiva y soporte desde el aplicativo.
 
 12. **Otra suposición crítica…** Que los usuarios utilizarán el sistema de forma constante para monitorear su consumo.
-
 
 #### 1.2.2.1 Lean UX Hypothesis Statements
 
