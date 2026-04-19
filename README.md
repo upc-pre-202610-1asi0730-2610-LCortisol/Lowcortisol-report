@@ -1530,7 +1530,21 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 
 
 ## 4.1. Style Guidelines
+
+En esta sección, se presentan las pautas de estilo y diseño que guiarán 
+la creación de la página web y la aplicación de LowCortisol. 
+Estas pautas buscan asegurar una experiencia de usuario consistente, clara y atractiva, permitiendonos 
+transmitiendo confianza y accesibilidad, en línea con la identidad de la marca y los 
+objetivos de nuestro proyecto.
+
 ### 4.1.1. General Style Guidelines
+
+### Tone of Voice
+
+El tono de voz de LowCortisol se define como Sereno, Profesional y Empático.
+No buscamos alarmar al usuario, sino hacerlo sentir en confianza y seguro de que el 
+sistema está trabajando por él. Nuestra comunicación debe ser clara y técnica cuando sea estrictamente
+necesario, pero accesible para cualquier miembro del hogar o la industria.
 
 ### Branding
 
@@ -1542,11 +1556,17 @@ Para la creación del logo de nuestro producto LowCortisol, hemos optado por un 
 
 ### Typography
 
-Para la identidad visual de LowCortisol, se ha seleccionado una combinación tipográfica que equilibra la precisión técnica con la accesibilidad digital.
+Se selecciono una combinación tipográfica que equilibra la precisión técnica con el profesionalismo
+de la marca.
 
-- Tipografía Principal (Cuerpo): Se ha seleccionado Montserrat, una fuente sans-serif de geometría clara que garantiza una legibilidad óptima en pantallas de dispositivos móviles y paneles de control. Su aspecto contemporáneo refuerza la imagen de una solución tecnológica e innovadora.
+- Tipografía Principal (Cuerpo): Se ha seleccionado Montserrat, una fuente sans-serif de geometría
+clara que garantiza una legibilidad óptima en gran cantidad de dispositivos debido a su compatibilidad. 
+Su aspecto contemporáneo refuerza la imagen de una solución tecnológica e innovadora.
 
-- Encabezados y Títulos: Para resaltar la información crítica y las alertas de seguridad, se ha optado por Roboto. Al ser una fuente con un diseño mecánico pero amable, comunica la robustez de un sistema de monitoreo industrial, permitiendo que los títulos sean audaces y capten la atención inmediata del usuario ante cualquier anomalía detectada.
+- Encabezados y Títulos: Para resaltar la información crítica y las alertas de seguridad, 
+se ha optado por Roboto. Al ser una fuente con un diseño mecánico pero amable, 
+comunica la robustez de un sistema de monitoreo industrial, permitiendo que los títulos sean 
+audaces y capten la atención inmediata del usuario ante cualquier anomalía detectada.
 
 <p align="center">
   <img src="assets/md-images-chapter2/MontSerrat-Font.png" width="250" alt="Low Cortisol Logo">
@@ -1555,13 +1575,21 @@ Para la identidad visual de LowCortisol, se ha seleccionado una combinación tip
 
 ### Colors
 
-La paleta de colores de LowCortisol ha sido seleccionada para transmitir seguridad, precisión técnica y un sentido de alerta controlada. Los tonos elegidos permiten diferenciar claramente entre el estado operativo normal y las notificaciones de emergencia en el sistema de monitoreo. A continuación, se presentan los colores que conforman la identidad del producto:
+La paleta de colores de LowCortisol ha sido seleccionada para transmitir seguridad, 
+precisión técnica y un sentido de alerta controlada. Los tonos elegidos permiten 
+diferenciar claramente entre el estado operativo normal y las notificaciones de 
+emergencia en el sistema de monitoreo. A continuación, se presentan los colores que 
+conforman la identidad del producto:
 
-- Azul Tecnológico (Primary): Representa la fluidez del agua, la calma y la estabilidad. Es el color principal de la interfaz para transmitir al usuario que el sistema está bajo control y funcionando correctamente.- 
+- Azul Tecnológico (Primary): Representa la calma y estabilidad. Es el color principal 
+de la interfaz para transmitir al usuario la serenidad y confianza que deseamos 
+y que el sistema esta funcionando correctamente.
 
-- Naranja Energético (Accent): Utilizado para representar el gas y las alertas preventivas. Su alta visibilidad ayuda a captar la atención inmediata ante anomalías, simbolizando la respuesta rápida del sistema ante una fuga.- 
+- Naranja Energético (Accent): Su alta visibilidad ayuda a captar la atención inmediata ante anomalías, 
+simbolizando la respuesta rápida del sistema ante una posible fuga.
 
-- Gris Hardware (Secondary): Refleja la solidez de la infraestructura física y los dispositivos IoT. Aporta el equilibrio necesario para que la aplicación mantenga un aspecto profesional, serio y moderno.
+- Gris Hardware (Secondary): Aporta el equilibrio necesario para que la aplicación mantenga un 
+aspecto profesional, serio y moderno.
 
 <p align="center">
   <img src="assets/md-images-chapter2/Azul.png" width="250" alt="Low Cortisol Logo">
@@ -1587,11 +1615,12 @@ El diseño de LowCortisol se basa en un sistema de rejilla (grid) de 8px para ga
   <img src="assets/md-images-chapter2/Spacing_Pixels.png" width="250" alt="Low Cortisol Logo">
 </p>
 
-### Tone of Voice
-
-El tono de voz de LowCortisol se define como Preventivo, Profesional y Empático. No buscamos alarmar al usuario, sino darle la tranquilidad de que el sistema está trabajando por él. Nuestra comunicación debe ser clara y técnica, pero accesible para cualquier miembro del hogar o la industria.
-
 ### 4.1.2. Web Style Guidelines
+
+Siguiendo las General Style Guidelines construiremos una plataforma digital que pueda usarse en 
+cualquier dispositivo tecnológico, manteniendo la estructura de diseño y estilo previamente establecidas,
+por eso tendremos en cuenta de cada dispositvo para un buen orden y adaptabilidad.
+
 
 #### TABLA DE CONTENIDOS
 
@@ -1605,52 +1634,27 @@ El tono de voz de LowCortisol se define como Preventivo, Profesional y Empático
 
 ## TIPOGRAFÍA
 
-### Familia Tipográfica Principal
+LowCortisol combina dos fuentes que equilibran precisión técnica con accesibilidad digital.
 
-**Tipografía Base:** Roboto (Material Design 3)
+| Rol | Fuente | Descripción |
+|-----|--------|-------------|
+| Encabezados y alertas | **Roboto** | Diseño mecánico pero amable, comunica robustez del sistema |
+| Cuerpo y UI | **Montserrat** | Geometría clara, óptima legibilidad en dashboards y mobile |
 
-La elección de Roboto responde a su claridad, legibilidad en pantallas digitales y alineación con Material Design, lo que asegura una experiencia coherente y profesional en todos los dispositivos.
+**Escala tipográfica:**
 
-### Escala Tipográfica
+| Elemento | Fuente | Tamaño | Peso | Color |
+|----------|--------|--------|------|-------|
+| H1 | Roboto | 32px | Bold 700 | #1A1A1A |
+| H2 | Roboto | 28px | SemiBold 600 | #1A1A1A |
+| H3 | Roboto | 24px | SemiBold 600 | #1A1A1A |
+| Body | Montserrat | 16px | Regular 400 | #424242 |
+| Body Small | Montserrat | 14px | Regular 400 | #424242 |
+| Button | Montserrat | 16px | SemiBold 600 | #FFFFFF |
+| Caption | Montserrat | 12px | Regular 400 | #757575 |
 
-| Elemento | Tamaño | Peso | Line-Height | Letter-spacing | Color | Caso de Uso |
-|----------|--------|------|------------|----------------|-------|-----------|
-| H1 | 32px | Bold (700) | 40px | -0.5px | #1A1A1A | Títulos principales, encabezados de dashboards, títulos de páginas |
-| H2 | 28px | SemiBold (600) | 36px | -0.25px | #1A1A1A | Subtítulos, títulos de secciones, encabezados secundarios |
-| H3 | 24px | SemiBold (600) | 32px | 0px | #1A1A1A | Encabezados de tarjetas, títulos de subsecciones |
-| H4 | 20px | Medium (500) | 28px | 0.25px | #1A1A1A | Títulos pequeños, labels de importancia media |
-| Body | 16px | Regular (400) | 24px | 0.5px | #424242 | Texto corporal principal, descripciones, párrafos |
-| Body Small | 14px | Regular (400) | 20px | 0.25px | #424242 | Texto secundario, helper text, información complementaria |
-| Button | 16px | SemiBold (600) | 16px | 0.5px | Blanco/Primario | Etiquetas de botones, llamadas a la acción |
-| Caption | 12px | Regular (400) | 16px | 0.4px | #757575 | Timestamps, notas pequeñas, textos deshabilitados |
-| Label | 12px | Medium (500) | 16px | 0.5px | #1A1A1A | Labels de inputs, marcas, etiquetas |
+**Reglas clave:** mínimo 16px para body, contraste mínimo 4.5:1, y en mobile reducir H1 a 28px y H2 a 24px.
 
-### Recomendaciones Responsive
-
-#### Mobile (320px - 767px)
-
-- H1: reducir a 28px
-- H2: reducir a 24px
-- Body: mantener 16px (mínimo legible)
-- Aumentar line-height en 10% para mejor legibilidad en pantallas pequeñas
-
-#### Tablet (768px - 1023px)
-
-- Mantener escala con ajustes menores
-- H1: 30px
-- Aumentar espaciado entre líneas para mejor respiración visual
-
-#### Desktop (1024px+)
-
-- Escala completa según tabla
-- Máxima legibilidad y jerarquía visual
-
-### Reglas de Tipografía
-
-- **Mínimo de tamaño:** 16px para cuerpo de texto (accesibilidad WCAG)
-- **Contraste:** Todo texto debe tener ratio de contraste mínimo 4.5:1 con su fondo
-- **Line-height:** Mantener entre 1.5 y 1.6 para body text
-- **Máximo ancho de línea:** 65-75 caracteres en desktop para óptima legibilidad
 
 ---
 
@@ -1682,210 +1686,83 @@ La elección de Roboto responde a su claridad, legibilidad en pantallas digitale
 
 ## BRANDING
 
-### Identidad de Logo
+El logo de LowCortisol sigue un diseño minimalista donde el **escudo** simboliza protección y seguridad, la **nube y señal** representan el ecosistema IoT inalámbrico, y la tipografía **Sans Serif** garantiza lectura clara en pantallas digitales. Los colores Azul, Naranja y Gris transmiten profesionalismo, energía y hardware moderno.
 
-#### Estilo Visual
+**Reglas de uso:**
 
-- Moderno, tech-forward, minimalista
-- Basado en icono de tuberías/gota de agua o presión
-- Forma geométrica clean, sin detalles innecesarios
-- Transmite: seguridad, tecnología, confiabilidad
+| Regla | Detalle |
+|-------|---------|
+| Tamaño mínimo | 32x32px |
+| Clear space | 12px alrededor |
+| Versión principal | Color completo (Azul + Naranja) |
+| Versión alternativa | Blanco (fondos oscuros) |
+| Restricciones | No distorsionar, no rotar, no recolorear |
 
-##### Tamaños Estándar
+**Posicionamiento Patrón Z:**
 
-- Desktop: 48x48px (logo) + 160px (espacio para texto)
-- Tablet: 40x40px
-- Mobile: 36x36px
-- Mínimo: 32x32px (nunca menor)
-
-##### Clear Space
-
-- Espacio mínimo alrededor: 12px en todos los lados
-- No solapar con otros elementos
-- Mantener proporción 1:1 del logo
-
-##### Variaciones
-
-- Color completo: Logo con color primario verde
-- Blanco: Logo blanco (fondo oscuro/imagen)
-- Negativo: Logo en gris (contextos secundarios)
-- **Restricción:** No cambiar proporciones, no rotar, no distorsionar
-
-### Identidad Visual General
-
-#### Tonalidad
-
-- Moderna y profesional
-- Confiable y segura
-- Tech-savvy pero accesible
-- Serena pero activa
-
-#### Valores Visuales
-
-- Claridad: Información legible y organizada
-- Seguridad: Colores y formas que transmiten protección
-- Accesibilidad: Diseño inclusivo para todos los usuarios
-- Innovación: Elementos de diseño contemporáneo
-
-#### Inspiración
-
-- Material Design 3 como base
-- Industria IoT y smart home
-- Sistemas de monitoreo profesionales
-- Dashboard moderno y minimalista
-
-### Imagery & Iconografía
-
-#### Fotografía
-
-- Realista pero limpia
-- Sujetos: tuberías, sensores, hogares, edificios, técnicos trabajando
-- Paleta: verde, azul, grises, tonos naturales (evitar saturación)
-- Composición: ordenada, sin caos visual
-- Resolución mínima: 72dpi para web, optimizada para carga rápida
-
-#### Ilustraciones
-
-- Líneas limpias y geométricas
-- Estilo: Minimalist, flat design
-- Colores: Usar paleta definida (verde, azul, rojo)
-- Consistencia: Mismo estilo en toda la plataforma
-- Casos: Empty states, onboarding, explicaciones visuales
-
-#### Iconografía
-
-- Librería: Material Icons (Google) o Lucide Icons
-- Tamaños estándar: 18px, 24px, 32px, 48px
-- Colores:
-  - Acciones primarias: Verde (#2E7D32)
-  - Alertas: Rojo (#D32F2F)
-  - Información: Azul (#1976D2)
-  - Disabled: Gris (#9E9E9E)
-- Área táctil mínima: 48x48px (accesibilidad mobile)
-
-#### Iconos por Sección
-
-- Dashboard: 📊 (chart), 🔔 (bell para datos)
-- Alerts: 🚨 (warning), 🔴 (error)
-- Devices: 📱 (sensor), 🔧 (settings)
-- Pipelines: 🔌 (pipe), 💧 (water)
-- Users: 👤 (person), 👥 (team)
-- Support: ❓ (help), 📞 (contact)
+La landing page sigue el patrón Z con el logo en la esquina superior izquierda como primer punto de atención, la barra de navegación junto al CTA principal en la esquina superior derecha, el contenido hero en el centro y un CTA secundario en la zona inferior derecha.
 
 ---
 
-## TONO DE VOZ DE PLATAFORMA
+## TONO DE VOZ
 
-### Perfil General
+El tono de LowCortisol es **Preventivo, Profesional y Empático**. No se busca alarmar al usuario, sino transmitirle que el sistema está trabajando por él con comunicación clara y accesible.
 
-| Atributo | Valor |
-|----------|-------|
-| Tono | Sereno + Entusiasta |
-| Registro | Profesional pero Accesible |
-| Nivel de Formalidad | Semi-formal |
+| Contexto | Ejemplo |
+|----------|---------|
+| Alerta crítica | "Detectamos presión alta en tu línea de gas. Hemos cerrado la válvula automáticamente." |
+| Estado normal | "Todo bajo control. Tu sistema opera con normalidad." |
+| Éxito | "¡Excelente! Tu consumo bajó 15% este mes." |
+| Error | "Algo no salió como esperábamos. Tu solicitud fue guardada y la revisaremos pronto." |
+| Advertencia | "Tu consumo está un 20% arriba del promedio. Revisa si hay fugas visibles." |
 
-Esta combinación refleja que estamos ante un problema serio (fugas, emergencias) pero lo manejamos con control y competencia, empoderando al usuario en lugar de asustarlo.
-
-### 5 Principios Fundamentales
-
-#### 1. Serenidad
-
-- Tranquiliza sin minimizar el problema
-- Lenguaje calmante incluso en alertas
-- ✅ Ejemplo correcto: "Detectamos una presión alta. Ya estamos en esto."
-- ❌ Ejemplo incorrecto: "¡¡¡ALERTA CRÍTICA INMINENTE!!!"
-
-#### 2. Claridad
-
-- Evita jerga técnica innecesaria
-- Usa términos del negocio IoT (lenguaje ubicuo)
-- Explicaciones simples y directas
-- ✅ Ejemplo correcto: "Consumo de agua 40% arriba del promedio"
-- ❌ Ejemplo incorrecto: "Throughput hídrico excede parámetros algorítmicos"
-
-#### 3. Acción
-
-- Siempre sugiere qué hacer a continuación
-- No dejes al usuario sin opciones
-- ✅ Ejemplo correcto: "Detectamos una fuga. Contacta a un técnico o cierra la válvula remota."
-- ❌ Ejemplo incorrecto: "Se detectó un problema."
-
-#### 4. Empatía
-
-- Reconoce la preocupación del usuario
-- Valida sus sentimientos
-- ✅ Ejemplo correcto: "Sabemos que una fuga es preocupante. La hemos cerrado automáticamente."
-- ❌ Ejemplo incorrecto: "Se cerró la válvula."
-
-#### 5. Optimismo
-
-- Muestra que estamos en control
-- Enfatiza soluciones, no problemas
-- ✅ Ejemplo correcto: "¡Excelente! Tu consumo bajó 15% este mes."
-- ❌ Ejemplo incorrecto: "Tu consumo fue alto pero bajó."
-
-### Tabla de Ejemplos por Contexto
-
-| Contexto | Ejemplo Correcto | Por qué Funciona |
-|----------|-----------------|------------------|
-| **Alerta de Riesgo Crítico** | "Detectamos presión alta en tu línea de gas. Hemos cerrado la válvula automáticamente. Verifica si todo está bien." | Serenidad + acción + empatía |
-| **Éxito/Confirmación** | "¡Excelente! Tu consumo bajó 15% este mes. Así vamos." | Entusiasmo + reconocimiento |
-| **Onboarding** | "Bienvenido. Te guiaremos para instalar tu primer sensor en 3 pasos. ¿Empezamos?" | Calidez + claridad + invitación |
-| **Reporte de Datos** | "Consumo promedio: 45 m³. Tendencia: estable. Última fuga detectada: hace 32 días." | Profesional + información clara |
-| **Error o Problema** | "Algo no salió como esperábamos. Hemos guardado tu solicitud. Nuestro equipo la revisará en la próxima hora." | Empatía + honestidad + acción |
-| **Solicitud de Servicio** | "Perfecto. Hemos contactado a un técnico especializado. Llegará en 30-45 minutos." | Confirmación + expectativas claras |
-| **Advertencia Moderada** | "Tu consumo de agua está un 20% arriba del promedio. Revisa si hay fugas visibles." | Información + sugerencia útil |
-| **Feature Deshabilitado** | "Esta función está disponible en el Plan Smart en adelante." | Claro + no punitivo |
-
-### Reglas de Escritura
-
-#### Brevedad y Concisión
-
-- Máximo 2 frases por mensaje de alerta
-- Labels: 1-2 palabras
-- Helper text: máximo 1 línea
-
-#### Género e Inclusión
-
-- Género neutro (evitar "el usuario", usar "tu")
-- Inclusivo: "técnico/a", "especialista"
-- Accesible: considera usuarios no técnicos
-
-#### Puntuación
-
-- Usar ¿ y ¡ naturalmente (español)
-- Evitar puntos suspensivos (...) en CTA
-- Punto final en mensajes completos
-
-#### Mayúsculas
-
-- Evitar ALL CAPS (excepto IoT, API, siglas)
-- Título case en headers
-- Minúsculas en body text
-
-#### Tono Positivo
-
-- Cuando es posible, enfatiza solución no problema
-- "Hemos cerrado" > "La fuga fue contenida"
-- "Reduce tu consumo" > "Dejas de desperdiciar"
-
-#### Vocabulario
-
-- IoT, sensor, presión, flujo (términos definidos)
-- Evitar: "la máquina", "sistema automático" (usa específico)
-- Personalización: "tu consumo", "tu hogar", "tu planta"
+**Reglas rápidas:** máximo 2 frases por mensaje, usar "tu" y "tu hogar" para personalizar, siempre proponer una acción siguiente, evitar ALL CAPS y jerga técnica innecesaria.
 
 ---
 
 ## SPACING & LAYOUT
 
-### Sistema de Grid Base (8px)
+El diseño se basa en un sistema de rejilla de **8px** para garantizar jerarquía visual clara y navegación intuitiva.
 
-#### Principio
+**Escala de espaciado (múltiplos de 8px):**
 
-Todo espaciado debe ser múltiplo de 8px
+| Token | Valor | Uso |
+|-------|-------|-----|
+| XS | 8px | Separación mínima entre elementos |
+| S | 16px | Padding interno de componentes |
+| M | 24px | Márgenes estándar, separación entre cards |
+| L | 32px | Separación entre secciones |
+| XL | 48px | Espaciado entre bloques de contenido |
+| 2XL | 64px | Separación antes del footer |
 
-#### Escala de Espaciado
+**Componentes:**
+
+| Componente | Padding | Border Radius | Alto mínimo |
+|-----------|---------|--------------|-------------|
+| Botón (M) | 12px 24px | 4px | 48px |
+| Input | 12px 16px | 4px | 48px |
+| Card | 16px | 8px | auto |
+| Modal | 24px | 12px | auto |
+| Navbar | 16px 24px | 0 | 64px |
+
+**Grid y breakpoints:**
+
+| Dispositivo | Columnas | Padding lateral | Sidebar |
+|------------|----------|----------------|---------|
+| Mobile (320px) | 4 | 12px | Oculto |
+| Tablet (768px) | 8 | 16px | Colapsable 256px |
+| Desktop (1024px+) | 12 | 24px | Fijo 256px |
+
+**Jerarquía del dashboard:** Estado global del sistema (Safe / Warning / Critical) → Métricas en tiempo real → Acceso rápido a válvulas y técnicos.
+
+**Sombras:**
+
+| Nivel | Uso |
+|-------|-----|
+| `0 2px 4px rgba(0,0,0,0.12)` | Cards base |
+| `0 4px 8px rgba(0,0,0,0.16)` | Dropdowns, hover |
+| `0 8px 16px rgba(0,0,0,0.20)` | Navbar, modales |
+
 
 ## 4.2. Information Architecture
 
@@ -1903,7 +1780,47 @@ Todo espaciado debe ser múltiplo de 8px
 
 
 ### 4.2.2. Labeling Systems
+
+El sistema de etiquetado de **LowCortisol** se basa en los principios de **Domain-Driven Design (DDD)**, utilizando un lenguaje ubicuo que unifica los terminos tecnicos del hardware IoT con la experiencia del usuario final.
+
+**Etiquetas de Navegacion:**
+* **Dashboard:** Estado critico y resumen ejecutivo del sistema.
+* **Monitoring:** Telemetria detallada de flujo, presion y densidad.
+* **Incident Log:** Registro historico de anomalias y eventos de seguridad.
+* **IoT Devices:** Gestion de sensores y estado de conectividad en la nube.
+* **Valve Control:** Interfaz de accionamiento para el cierre preventivo de valvulas.
+* **Solutions:** Informacion sobre planes Hogar, Smart y Full Service.
+* **Support:** Acceso a la red de tecnicos certificados y asistencia 24/7.
+
+**Etiquetas de Contenido:**
+* **Smart monitoring for water and gas safety in real-time.**
+* **Preventive security through automated IoT responses.**
+* **Full visibility of your infrastructure and consumption patterns.**
+* **Tailored solutions for residential and industrial sectors.**
+* **Expert technical network and emergency coordination.**
+
 ### 4.2.3. SEO Tags and Meta Tags 
+
+La configuracion de metadatos asegura que la plataforma sea indexada correctamente, posicionando a **LowCortisol** como lider en prevencion de incidentes mediante tecnologia IoT.
+
+**Title:**
+LowCortisol - Smart IoT Monitoring for Water and Gas Pipeline Safety
+
+**Description:**
+Comprehensive IoT platform for real-time monitoring of water and gas systems. Detect leaks, monitor pressure levels, and manage emergency valve control with automated alerts and professional technical support.
+
+**Keywords:**
+IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitoring, industrial IoT safety, preventive home security, automated valve control, LowCortisol system, smart sensors.
+
+**Meta Tags:**
+* **Viewport:** width=device-width, initial-scale=1.0
+* **Charset:** UTF-8
+* **Author:** LowCortisol Engineering Team
+* **Robots:** index, follow
+* **Language:** es-PE, en-US
+* **Copyright:** Copyright 2026 LowCortisol Project
+* **Content-Type:** text/html; charset=utf-8
+
 ### 4.2.4. Searching Systems
 
   El sistema de búsqueda de LowCortisol está diseñado para facilitar el acceso rápido a la información dentro de la plataforma, adaptándose a la complejidad de cada segmento y al volumen de datos generado por sensores, alertas y sedes.
