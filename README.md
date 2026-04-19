@@ -261,13 +261,13 @@ Nuestros valores principales son los siguientes:
 -Calidad: Buscamos ofrecer un servicio confiable, estable y fácil de utilizar.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| **Nombre Completo del integrante**    |	**Descripcion de la carrera** | **Fotografia** | **Conocimientos y habilidades**
-| :------------------------------------ |:------------------------------------ |:------------------------------------ |:------------------------------------ |
-| Condori Torres, Miguel Anibal      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src=""> | text
-| Delgado Perez, James Caleb      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src=""> | text
-| Loa Rojas, Jean Franck      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Jean_Loa.jpg"> | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
-| Montalvo Vasquez, Bruno Rodrigo      |carrera| <img src=""> | text
-| Quiliano Motta, Kirk Douglas      |carrera| <img src=""> | text
+| **Nombre Completo del integrante** |	**Descripcion de la carrera** | **Fotografia**                                          | **Conocimientos y habilidades**
+|:-----------------------------------|:------------------------------------ |:--------------------------------------------------------|:------------------------------------ |
+| Condori Torres, Miguel Anibal      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="">                                            | text
+| Delgado Perez, James Caleb         |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src="">                                            | text
+| Loa Rojas, Jean Franck             |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Jean_Loa.jpg">       | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
+| Montalvo Vásquez, Bruno Rodrigo    |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Bruno_Montalvo.jpg"> | Soy Bruno Rodrigo Montalvo Vásquez, estudiante de 5 ciclo de la carrera de Ingeniería de Software, estoy curioso y a la vez extasiado por aprender más sobre los temas futuros sobre mi carrera a su vez que también abierto a poder trabajar con profesionales de mi rubro académico para mejorar mis conocimientos.
+| Quiliano Motta, Kirk Douglas       |carrera| <img src="">                                            | text
 
 ## 1.2 *Solution Profile*
 ### 1.2.1 Antecedentes y problemática
