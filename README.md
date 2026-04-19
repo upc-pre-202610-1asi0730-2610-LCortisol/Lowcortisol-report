@@ -1073,7 +1073,8 @@ El user persona se construyó a partir de patrones encontrados en las entrevista
 ![User Journey Mapping](./assets/md-images-chapter2/UserJourneyMap1.png)
 ![User Journey Mapping](./assets/md-images-chapter2/UserJourneyMap2.png)
 ### 2.3.4. Empathy Mapping
-
+![Empathy Mapping](./assets/md-images-chapter2/Empathy1.png)
+![Empathy Mapping](./assets/md-images-chapter2/Empathy2.png)
 ## 2.4. Big Picture Event Storming
 
 #### Introducción:
