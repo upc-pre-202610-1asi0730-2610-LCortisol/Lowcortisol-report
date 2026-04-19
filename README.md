@@ -1100,7 +1100,6 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 
 # Capitulo III: Requirements Specification
 ## 3.1. User Stories
-
 <table>
 <tr>
 <th>**Epic / Story ID**</th>
