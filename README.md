@@ -1974,7 +1974,24 @@ IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitor
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
+**Elementos:**
+
+* Usuario Residencial
+* Profesional de Infraestructura
+
+**Sistema Principal:**
+
+* Sistema de Monitoreo de Agua y Gas
+
+**Sistemas Externos:**
+
+* Sensores IoT
+* Servicio de Notificaciones
+* Sistema de Autenticación
+
+![Diagrama Contexto](./assets/md-images-chapter4/DiagramaContexto.png)
 ### 4.6.3. Software Architecture Container Diagrams
+
 ### 4.6.4. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
