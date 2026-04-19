@@ -323,21 +323,21 @@ El impacto puede ser económico por altos costos en recibos y reparaciones, oper
 -Desarrollar nuevas soluciones relacionadas con automatización y seguridad inteligente.
 
 ## Restricciones
-- La solución debe desarrollarse como una plataforma web compuesta por una Landing Page, una Web Application y una RESTful API propia integrada entre sí.
-- La interfaz debe ser adaptable a distintos dispositivos, como computadoras, tablets y celulares.
-- El sistema debe mantener una experiencia visual y funcional consistente entre la Landing Page y la Web Application.
-- Los botones de llamada a la acción (Call To Action) de la Landing Page deben redirigir correctamente a las vistas correspondientes dentro de la Web Application.
-- La solución debe integrar al menos un servicio externo de terceros, como mapas, correo, notificaciones o autenticación.
-- El desarrollo debe utilizar tecnologías open-source y herramientas alineadas con lo aprendido en el curso.
-- La lógica del lado servidor debe ser compatible con el enfoque solicitado en el curso, utilizando C# cuando corresponda.
-- El proyecto debe gestionarse en un repositorio público de GitHub con evidencias de colaboración mediante commits.
-- El equipo debe aplicar GitFlow y conventional commits durante el desarrollo del proyecto.
-- El sistema dependerá de conexión a internet para funciones en tiempo real como monitoreo, alertas y sincronización de datos.
-- La instalación de sensores IoT puede representar un costo inicial para los usuarios.
-- Algunas instalaciones antiguas podrían presentar dificultades de compatibilidad con los sensores.
-- El alcance inicial del proyecto estará enfocado en segmentos priorizados y funcionalidades principales del producto mínimo viable.
-- El tiempo disponible del ciclo académico limita la implementación de funcionalidades avanzadas en la primera versión.
-- Será necesario aplicar medidas de seguridad para proteger la información de usuarios y dispositivos conectados.
+-La solución debe desarrollarse como una plataforma web compuesta por una Landing Page, una Web Application y una RESTful API propia integrada entre sí.  
+-La interfaz debe ser adaptable a distintos dispositivos, como computadoras, tablets y celulares.  
+-El sistema debe mantener una experiencia visual y funcional consistente entre la Landing Page y la Web Application.  
+-Los botones de llamada a la acción (Call To Action) de la Landing Page deben redirigir correctamente a las vistas correspondientes dentro de la Web Application.  
+-La solución debe integrar al menos un servicio externo de terceros, como mapas, correo, notificaciones o autenticación.  
+-El desarrollo debe utilizar tecnologías open-source y herramientas alineadas con lo aprendido en el curso.  
+-La lógica del lado servidor debe ser compatible con el enfoque solicitado en el curso, utilizando C# cuando corresponda.  
+-El proyecto debe gestionarse en un repositorio público de GitHub con evidencias de colaboración mediante commits.  
+-El equipo debe aplicar GitFlow y conventional commits durante el desarrollo del proyecto.  
+-El sistema dependerá de conexión a internet para funciones en tiempo real como monitoreo, alertas y sincronización de datos.  
+-La instalación de sensores IoT puede representar un costo inicial para los usuarios.  
+-Algunas instalaciones antiguas podrían presentar dificultades de compatibilidad con los sensores.  
+-El alcance inicial del proyecto estará enfocado en segmentos priorizados y funcionalidades principales del producto mínimo viable.  
+-El tiempo disponible del ciclo académico limita la implementación de funcionalidades avanzadas en la primera versión.  
+-Será necesario aplicar medidas de seguridad para proteger la información de usuarios y dispositivos conectados.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
