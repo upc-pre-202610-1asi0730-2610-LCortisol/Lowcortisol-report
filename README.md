@@ -1991,8 +1991,14 @@ IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitor
 
 ![Diagrama Contexto](./assets/md-images-chapter4/DiagramaContexto.png)
 ### 4.6.3. Software Architecture Container Diagrams
-
+El Container Diagram presenta la descomposición del sistema en contenedores principales, mostrando cómo las  aplicaciones cliente, La API, los servicios de monitoreo, gestión de incidencias, administración de dispositivos y notificaciones colaboran o travian en conjunto para soportar el funcionamiento de la plataforma, integrando también los servicios externos de autenticación, notificación IoT, así como las bases de datos que almacena información de los distintos servicios.Cabe recalcar que la arquitectura propuesta prioriza una aplicación web, dejando la posibilidad de incorporar un cliente movile en futuras iteraciones.
+![Diagrama Contenedores](./assets/md-images-chapter4/DiagramaContenedores.png)
 ### 4.6.4. Software Architecture Components Diagrams
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES111.png)
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES2.png)
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES3.png)
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES4.png)
+![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES5.png)
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ## 4.8. Database Design
