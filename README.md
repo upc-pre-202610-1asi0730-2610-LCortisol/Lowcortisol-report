@@ -284,25 +284,25 @@ Además, la dificultad para encontrar técnicos confiables de forma inmediata ag
 Por ello, se identifica la necesidad de una solución tecnológica que permita el monitoreo continuo, la detección temprana de anomalías y la respuesta rápida ante incidentes.
 
 ## 5W & 2H
-Who (¿Quiénes?)
+#### Who (¿Quiénes?)
 Los principales usuarios de la solución son personas que viven en hogares, administradores de hoteles y dueños o responsables de negocios que utilizan agua y gas en sus actividades diarias. También se considera al personal de mantenimiento encargado de revisar las instalaciones.
 
-What (¿Qué?)
+#### What (¿Qué?)
 El problema principal es la falta de monitoreo constante en las tuberías de agua y gas. Esto provoca que muchas fugas sean detectadas tarde, generando desperdicio de recursos, gastos elevados, daños en la infraestructura y riesgos para la seguridad.
 
-Where (¿Dónde?)
+#### Where (¿Dónde?)
 Esta problemática puede presentarse en viviendas, hoteles, restaurantes, edificios y otros establecimientos que cuenten con redes internas de agua y gas.
 
-When (¿Cuándo?)
+#### When (¿Cuándo?)
 Puede ocurrir en cualquier momento, especialmente cuando no existe supervisión constante, las tuberías son antiguas o no se realiza mantenimiento preventivo.
 
-Why (¿Por qué?)
+#### Why (¿Por qué?)
 Porque la mayoría de personas detecta los problemas cuando ya son visibles, por ejemplo al notar humedad, malos olores, baja presión o recibos elevados. Además, muchas instalaciones no cuentan con herramientas tecnológicas para prevenir fallas.
 
-How (¿Cómo?)
+#### How (¿Cómo?)
 La solución propone utilizar sensores IoT conectados a una plataforma web que permita monitorear en tiempo real, enviar alertas inmediatas y tomar acciones rápidas como cerrar válvulas o contactar soporte técnico.
 
-How Much (¿Cuánto impacta?)
+#### How Much (¿Cuánto impacta?)
 El impacto puede ser económico por altos costos en recibos y reparaciones, operativo por interrupciones del servicio y de seguridad por riesgos como intoxicaciones o explosiones en caso de fugas de gas.
 
 ## Objetivos
