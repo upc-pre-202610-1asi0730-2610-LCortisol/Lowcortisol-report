@@ -969,80 +969,794 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 
 
 ### 2.2.3. Análisis de entrevistas
-
 ## Entrevista 1 - Segmento 1
 ## 1. Datos Generales
-- **Nombre:** 
-- **Edad:** 
-- **Género:** 
-- **Ubicación:** 
-- **Ocupación / Profesión:** 
-- **Nivel educativo:** 
+- **Nombre:** Yazid Dumet Isaac Pinto
+- **Edad:** 19
+- **Género:** Masculino
+- **Ubicación:** La Molina
+- **Ocupación / Profesión:** Estudiante
+- **Nivel educativo:** Licenciatura (en curso)
 
 ---
 
 ## 2. Contexto Personal
-- **Situación actual:** 
-- **Rutina / actividades principales:** 
-- **Experiencia relacionada con el tema:** 
+- **Situación actual:** Yazid es estudiante de quinto ciclo de Ingeniería Mecatrónica en la Universidad AUTEC.
+- **Rutina / actividades principales:** No se especifica su rutina diaria, pero vive en una vivienda con más de 40 años de antigüedad.
+- **Experiencia relacionada con el tema:** Ha experimentado fugas de agua en su hogar de forma relativamente frecuente, principalmente debido al desgaste de las tuberías y conexiones.
 
 ---
 
 ## 3. Objetivos
-- **Objetivo principal:** 
-- **Metas a corto plazo:** 
-- **Metas a largo plazo:** 
-- **Necesidades:** 
+- **Objetivo principal:** Enterarse rápidamente de las fugas de agua o gas antes de que el problema se agrave o se vuelva más costoso.
+- **Metas a corto plazo:** Recibir alertas en tiempo real en su celular, identificar si el problema es de agua o gas, conocer la zona exacta de la fuga, poder cortar el suministro de forma preventiva si el riesgo es alto, y conectar con técnicos confiables.
+- **Metas a largo plazo:** Mantener la seguridad y el buen estado de su vivienda, evitando el deterioro y los gastos excesivos.
+- **Necesidades:** Un sistema que notifique sobre el consumo en tiempo real y la presencia de fugas, y que facilite el acceso a técnicos de confianza.
 
 ---
 
 ## 4. Motivaciones
-- **¿Qué lo impulsa?:** 
-- **Intereses relacionados:** 
-- **Razones para actuar:** 
+- **¿Qué lo impulsa?:** La seguridad de su hogar y de las personas que viven en él, la importancia de evitar el desperdicio de recursos (agua y gas), el control del gasto, y la tranquilidad de saber que los problemas se detectan y resuelven eficazmente.
+- **Intereses relacionados:** No se mencionan intereses específicos, pero su carrera en Ingeniería Mecatrónica sugiere una posible afinidad con soluciones tecnológicas.
+- **Razones para actuar:** La preocupación por el deterioro de las paredes, la humedad, el aumento del consumo y el riesgo de que los problemas se hagan más grandes si no se atienden a tiempo.
 
 ---
 
 ## 5. Problemas / Frustraciones
-- **Dificultades principales:** 
-- **Qué le incomoda:** 
-- **Barreras o limitaciones:** 
+- **Dificultades principales:**
++ Fugas frecuentes debido a la antigüedad de la vivienda y el desgaste de las tuberías.
++ Detección tardía de las fugas (a veces después de varios días o hasta una semana).
++ Dificultad para encontrar técnicos de confianza que sean rápidos y realicen un buen trabajo.
+- **Qué le incomoda:**
++ Las molestias, la humedad y el deterioro en las paredes causados por las fugas.
++ La preocupación de que el problema se agrave si no se atiende a tiempo.
++ El consumo elevado de agua o gas que puede indicar una fuga o una mala instalación.
+- **Barreras o limitaciones:** La falta de un sistema de detección temprana y la dificultad para acceder a profesionales confiables.
 
 ---
 
 ## 6. Comportamiento
-- **Qué hace actualmente:** 
-- **Herramientas o soluciones que usa:** 
-- **Frecuencia de uso:** 
+- **Qué hace actualmente:**
++ Detecta las fugas por señales visibles como pintura caída, hongos, humedad, olor extraño, baja presión de agua, goteo o un recibo de consumo más alto de lo normal.
++ Intenta identificar el origen del problema.
++ Llama a un técnico para que revise y repare.
+- **Herramientas o soluciones que usa:** Servicios de técnicos de reparación.
+- **Frecuencia de uso:** Relativamente frecuente debido a la antigüedad de su vivienda.
 
 ---
 
 ## 7. Opiniones / Percepciones
-- **Opinión sobre soluciones actuales:** 
-- **Qué le gusta:** 
-- **Qué no le gusta:** 
-- **Expectativas:** 
+- **Opinión sobre soluciones actuales:** La detección de problemas es tardía y encontrar técnicos de confianza es un desafío.
+- **Qué le gusta:** No se menciona algo específico que le guste de las soluciones actuales, sino lo que espera de una nueva solución.
+- **Qué no le gusta:** La tardanza en la detección de problemas y la dificultad para encontrar técnicos confiables.
+- **Expectativas:** Un servicio de calidad, eficaz para detectar y prevenir problemas, con buena atención al cliente, que realmente funcione y le brinde tranquilidad.
 
 ---
 
 ## 8. Citas Clave
-> “ ”
-
-> “ ”
+> “Como es una vivienda de más de 40 años, este tipo de problemas sucede de forma relativamente frecuente, especialmente por el desgaste de las tuberías y conexiones.”
+> “Muchas veces no es inmediato, en algunos casos uno recién se da cuenta después de varios días o hasta una semana, cuando ya hay señales visibles.”
+> “Cuesta encontrar a alguien de confianza que venga rápido y realmente haga un buen trabajo.”
+> “Sí, definitivamente sería muy útil enterarse rápido antes de que el programa se vuelva más serio o más costoso.”
+> “Me gustaría que envíe alertas en tiempo real a celular, que identifique si el problema es de agua o gas, que muestre en qué zona está la fuga y que permita cortar el suministro de forma preventiva si el riesgo es alto y además que conecte con técnicos confiables.”
 
 ---
 
 ## 9. Oportunidades Detectadas
-- 
-- 
-- 
+- Desarrollar un sistema de detección temprana de fugas de agua y gas con alertas en tiempo real.
+- Ofrecer funcionalidades para identificar el tipo y la ubicación precisa de la fuga.
+- Integrar la opción de corte preventivo del suministro en caso de riesgo alto.
+- Crear una plataforma que conecte a los usuarios con técnicos confiables y verificados.
+- Proporcionar un servicio que garantice calidad, eficacia y una excelente atención al cliente para generar tranquilidad en los usuarios.
 
 ---
 
 ## 10. Observaciones Adicionales
-- 
-- 
-- 
+- Yazid valora enormemente la seguridad en el hogar, especialmente en lo relacionado con las instalaciones de agua y gas, debido a las posibles afectaciones a la vivienda y a sus habitantes.
+- Está dispuesto a pagar por un servicio que demuestre ser funcional y le proporcione tranquilidad.
+- Su formación en Ingeniería Mecatrónica podría indicar una mayor apertura y comprensión hacia soluciones tecnológicas avanzadas.
+
+## Entrevista 2 - Segmento 1
+## 1. Datos Generales
+- **Nombre:** Jesús Guamán
+- **Edad:** No especificada
+- **Género:** Masculino
+- **Ubicación:** No especificada
+- **Ocupación / Profesión:** Estudiante de Ingeniería de Software (quinto ciclo). También cuenta con conocimientos técnicos por su trabajo.
+- **Nivel educativo:** Cursando el quinto ciclo de Ingeniería de Software.
+
+---
+
+## 2. Contexto Personal
+- **Situación actual:** Estudiante universitario con experiencia en problemas domésticos de fugas de gas y agua.
+- **Rutina / actividades principales:** No especificada.
+- **Experiencia relacionada con el tema:** Ha experimentado fugas de gas (con balones y mangueras estándar) y de agua (por desgaste de caños, lavanderías y conexiones antiguas). Tiene conocimientos técnicos que le permiten solucionar problemas leves.
+
+---
+
+## 3. Objetivos
+- **Objetivo principal:** Detectar y solucionar fugas de gas y agua de manera rápida y eficaz para prevenir riesgos mayores y costos elevados.
+- **Metas a corto plazo:** Identificar fugas de gas en un tiempo estimado de 5 minutos y fugas de agua (goteos) en aproximadamente una hora, o filtraciones en paredes en menos de una semana.
+- **Metas a largo plazo:** Mantener la seguridad de su hogar, evitar daños a la propiedad (salitre, hongos) y controlar el consumo de recursos.
+- **Necesidades:** Un sistema que notifique fugas en tiempo real y de manera acertada, que le ayude a entender y solucionar los problemas, y que sea accesible económicamente.
+
+---
+
+## 4. Motivaciones
+- **¿Qué lo impulsa?:** La seguridad de su hogar y de las personas que lo habitan (especialmente con el gas, que considera muy riesgoso), la prevención de daños materiales y el control de los costos asociados a reparaciones y consumo excesivo.
+- **Intereses relacionados:** Tecnología (como estudiante de Ingeniería de Software, menciona IoT y sensores para la detección).
+- **Razones para actuar:** Evitar incidentes mayores, el deterioro de la vivienda y el aumento de los recibos de servicios.
+
+---
+
+## 5. Problemas / Frustraciones
+- **Dificultades principales:** Fugas de gas por mangueras y válvulas, y de agua por desgaste de caños y conexiones. Detección tardía de fugas de agua, especialmente filtraciones en paredes que pueden tardar hasta una semana en ser evidentes. Complejidad de detectar el origen exacto de las fugas.
+- **Qué le incomoda:** El riesgo inherente a las fugas de gas. Los daños estéticos y estructurales en las paredes (salitre, hongos) causados por filtraciones de agua. El incremento en el recibo de agua debido a fugas no detectadas a tiempo.
+- **Barreras o limitaciones:** La falta de un sistema de detección temprana y precisa para problemas complejos de fugas.
+
+---
+
+## 6. Comportamiento
+- **Qué hace actualmente:** Detecta fugas de gas por el olor característico. Detecta fugas de agua por goteos, filtraciones visibles en paredes o un aumento inusual en el recibo. Soluciona la mayoría de los problemas leves por sí mismo utilizando sus conocimientos técnicos y herramientas. Para problemas mayores, recurre a familiares técnicos o contrata profesionales vía plataformas como WhatsApp.
+- **Herramientas o soluciones que usa:** Sus propios conocimientos y herramientas, contactos familiares, plataformas de contratación de técnicos.
+- **Frecuencia de uso:** Las fugas no son muy frecuentes, pero ocurren ocasionalmente debido al desgaste de materiales.
+
+---
+
+## 7. Opiniones / Percepciones
+- **Opinión sobre soluciones actuales:** La detección de fugas de gas es relativamente rápida por el olor, pero la de agua es a menudo tardía. Considera que las empresas de agua se demoran en detectar y reparar fugas, trasladando el costo al usuario.
+- **Qué le gusta:** No se menciona algo específico de las soluciones actuales.
+- **Qué no le gusta:** La tardanza en la detección de fugas de agua, el riesgo del gas y la carga económica de las reparaciones de agua.
+- **Expectativas:** Un sistema que notifique en tiempo real y de manera acertada, que sea útil para solucionar problemas complejos y que tenga un modelo de pago accesible.
+
+---
+
+## 8. Citas Clave
+> “Sí claro, la fuga de gas fuego acomodaban cuando contaba con lo que eran los balones de gas y se usaban las mangueras premium standard y lo que era las fugas de agua generalmente ocurre cuando un caño o una lavandería ya tiene mucho tiempo y ya empieza a haber fugas por el mismo desgaste de los materiales.”
+
+> “Así que si me propondrías un sistema que notifique en tiempo real pero de manera acertada estos problemas y sobre cómo solucionarlos, creo que sería algo muy acertado y algo muy útil.”
+
+---
+
+## 9. Oportunidades Detectadas
+- Desarrollar un sistema de monitoreo inteligente (IoT) con sensores para la detección en tiempo real de fugas de gas y agua.
+- Implementar funcionalidades que identifiquen la causa y ubicación de la fuga, y brinden orientación para su solución.
+- Crear un modelo de suscripción accesible y escalable, incluyendo integración con servicios técnicos confiables.
+
+---
+
+## 10. Observaciones Adicionales
+- Usuario con mentalidad técnica y apertura a soluciones basadas en IoT.
+- Alta valoración de la seguridad y la prevención, especialmente frente al riesgo del gas.
+- Disposición a invertir en soluciones eficaces que mejoren la seguridad y mantenimiento del hogar.
+---
+
+## Entrevista 3 - Segmento 1
+## 1. Datos Generales
+- **Nombre:** Frank Serrano
+- **Edad:** 20 años
+- **Género:** Masculino
+- **Ubicación:** No especificada
+- **Ocupación / Profesión:** Estudiante de Ingeniería de Software
+- **Nivel educativo:** Cursando la carrera de Ingeniería de Software
+
+---
+
+## 2. Contexto Personal
+- **Situación actual:** Estudiante universitario.
+- **Rutina / actividades principales:** No especificada.
+- **Experiencia relacionada con el tema:** Ha experimentado fugas de agua o gas en su vivienda, las cuales ocurren con una frecuencia de una vez cada tres o cuatro meses.
+
+---
+
+## 3. Objetivos
+- **Objetivo principal:** Detectar y resolver las fugas de agua o gas cuando son problemas pequeños para evitar que se intensifiquen y causen daños mayores o costos elevados.
+- **Metas a corto plazo:** Identificar las anomalías desde el inicio (un pequeño goteo) para poder actuar rápidamente.
+- **Metas a largo plazo:** Evitar tener que reemplazar componentes adicionales (como el piso o otras tuberías) debido a la escalada de un problema inicial. Controlar el consumo de agua y evitar pagar por recursos no utilizados.
+- **Necesidades:** Un sistema que notifique sobre fugas en tiempo real, que sea adaptable (con capacidad de modelación in situ de las tuberías de la casa) y que tenga un precio conveniente, especialmente considerando la baja frecuencia de los problemas.
+
+---
+
+## 4. Motivaciones
+- **¿Qué lo impulsa?:** La preocupación por los costos adicionales que implican las reparaciones mayores si el problema no se atiende a tiempo. Evitar el desperdicio de recursos y el pago por consumo de agua no utilizado.
+- **Intereses relacionados:** Tecnología, dada su carrera en Ingeniería de Software.
+- **Razones para actuar:** La experiencia de haber tenido que reemplazar más componentes por esperar a que el problema se agrave, y la molestia de pagar por un consumo de agua elevado debido a fugas.
+
+---
+
+## 5. Problemas / Frustraciones
+- **Dificultades principales:** Detección tardía de las fugas (ignora pequeños goteos hasta que el problema se intensifica). Consecuencias de la tardanza (reemplazo de más componentes). Calidad variable de los técnicos si no se cuenta con uno de confianza.
+- **Qué le incomoda:** Pagar por el consumo de agua que se pierde debido a una fuga. Las soluciones ineficaces o temporales de técnicos no confiables.
+- **Barreras o limitaciones:** Tendencia a no darle importancia a problemas mínimos al inicio. Falta de un sistema de alerta temprana que lo impulse a actuar.
+
+---
+
+## 6. Comportamiento
+- **Qué hace actualmente:** Detecta fugas cuando se hacen evidentes (goteo intenso, charco, humedad). Si la reparación es sencilla, la realiza él mismo. Para problemas complejos, llama a un especialista.
+- **Herramientas o soluciones que usa:** Sus propias habilidades para reparaciones menores y un técnico de confianza para trabajos más grandes.
+- **Frecuencia de uso:** Las fugas ocurren aproximadamente cada tres o cuatro meses.
+
+---
+
+## 7. Opiniones / Percepciones
+- **Opinión sobre soluciones actuales:** La detección es reactiva y tardía. La calidad de los servicios de reparación es variable si no se cuenta con un técnico de confianza.
+- **Qué le gusta:** Contar con un técnico de confianza que brinda soluciones efectivas.
+- **Qué no le gusta:** La tardanza en la detección, las consecuencias de dejar escalar los problemas, técnicos que ofrecen soluciones temporales y pagar por agua no utilizada.
+- **Expectativas:** Un sistema que notifique en tiempo real, que permita modelar las tuberías de la casa y que tenga un modelo de precios flexible y conveniente.
+
+---
+
+## 8. Citas Clave
+> “Normalmente inicia con un pequeño, digamos, goteo o algo pequeño y como que no le doy tanta importancia hasta que se intensifica y ya se nota a simple vista que hay un problema.”
+
+> “He conocido casos conocidos que contratan a alguien y al momento de presentar la sección como que no es una solución efectiva que dure por mucho tiempo, simplemente como que reparan el error por un tiempo y vuelve a aparecer.”
+
+> “Yo creo que la que tenga la capacidad de modelar, por ejemplo, yo conozco más o menos casi todas las tuberías o conexiones que hay en casa y por dónde pasan, entonces como que hacer tipo una modelación in situ de la aplicación, me gustaría editarla como que sea algo adaptable.”
+
+> “Si es mensual debería ser un precio mínimo para que me sirva, porque como te digo, el tema de que aparezcan fugas o algún problema es de cierta forma en un periodo muy largo, entonces estar pagándolo mensualmente no sé si me valdría la pena.”
+
+---
+
+## 9. Oportunidades Detectadas
+- Desarrollar un sistema de detección en tiempo real que alerte desde problemas mínimos.
+- Implementar una funcionalidad de modelación personalizada de tuberías dentro de la aplicación.
+- Crear modelos de precios flexibles (pago por evento, plan económico o suscripción opcional).
+- Integrar un sistema de recomendación o directorio de técnicos verificados.
+
+---
+
+## 10. Observaciones Adicionales
+- Usuario con conocimientos técnicos, abierto a soluciones avanzadas y personalizables.
+- Sensible al costo en relación con la frecuencia del problema.
+- Valora la durabilidad de las soluciones y la confianza en los técnicos.
+---
+
+## Entrevista 1 - Segmento 2
+## 1. Datos Generales
+- **Nombre:** Leonardo
+- **Edad:** 22 años
+- **Género:** Masculino
+- **Ubicación:** Municipalidad de La Molina (lugar de trabajo)
+- **Ocupación / Profesión:** Practicante de Ingeniería Civil, en el área de infraestructura
+- **Nivel educativo:** Cursando la carrera de Ingeniería Civil
+
+---
+
+## 2. Contexto Personal
+- **Situación actual:** Practicante en la Municipalidad de La Molina, enfocado en el área de infraestructura.
+- **Rutina / actividades principales:** Gestión y monitoreo de redes de agua y gas, actualmente de forma reactiva.
+- **Experiencia relacionada con el tema:** Tres meses de experiencia donde ha observado que el monitoreo es reactivo, depende de SEDAPAL y de reportes de vecinos, y existen pérdidas frecuentes en infraestructura antigua.
+
+---
+
+## 3. Objetivos
+- **Objetivo principal:** Modernizar la gestión pública de la infraestructura de agua y gas para pasar de un monitoreo reactivo a uno preventivo y en tiempo real.
+- **Metas a corto plazo:** Detectar fallas de manera temprana y mejorar la eficiencia en la toma de decisiones.
+- **Metas a largo plazo:** Reducir costos operativos, mejorar la sostenibilidad del servicio de agua y mejorar la percepción pública de la gestión municipal.
+- **Necesidades:** Un sistema de supervisión propio en tiempo real con sensores de telemetría y plataformas inteligentes.
+
+---
+
+## 4. Motivaciones
+- **¿Qué lo impulsa?:** Modernizar la gestión pública, reducir desperdicio de agua, evitar daños en infraestructura urbana, minimizar molestias a vecinos y mejorar la percepción municipal.
+- **Intereses relacionados:** Ingeniería Civil, infraestructura, tecnología (especialmente IoT), gestión pública.
+- **Razones para actuar:** Pérdidas frecuentes en infraestructura antigua, impacto en calidad de vida y limitaciones de los sistemas actuales.
+
+---
+
+## 5. Problemas / Frustraciones
+- **Dificultades principales:** Monitoreo reactivo. Falta de sistema propio en tiempo real. Dependencia de SEDAPAL. Detección basada en reportes o inspección visual. Tiempos largos de detección (horas a días) y reparación (1 a 3 días). Pérdidas frecuentes por desgaste, presión, obras o conexiones clandestinas. Sistemas actuales básicos sin telemetría.
+- **Qué le incomoda:** Impacto en calidad de vida (cortes de agua, molestias). Daños en infraestructura urbana. Percepción negativa de la gestión pública.
+- **Barreras o limitaciones:** Presupuesto limitado. Necesidad de capacitación. Dificultad de integración con sistemas actuales. Dependencia de entidades externas. Adaptación a la realidad operativa.
+
+---
+
+## 6. Comportamiento
+- **Qué hace actualmente:** Gestión basada en inspecciones, reportes internos y avisos de vecinos. Detección visual o por baja presión. Inspecciones municipales. Uso de sistemas básicos de seguimiento.
+- **Herramientas o soluciones que usa:** Sistemas básicos de registro y seguimiento de incidencias.
+- **Frecuencia de uso:** Las pérdidas ocurren con cierta frecuencia, no uniforme en el distrito.
+
+---
+
+## 7. Opiniones / Percepciones
+- **Opinión sobre soluciones actuales:** Limitadas y reactivas. No permiten anticiparse. Falta de tecnología especializada.
+- **Qué le gusta:** No se menciona algo específico.
+- **Qué no le gusta:** Procesos manuales, dependencia externa, lentitud en detección y falta de monitoreo en tiempo real.
+- **Expectativas:** Soluciones IoT confiables, integrables, escalables, fáciles de usar, con monitoreo en tiempo real y buen costo-beneficio.
+
+---
+
+## 8. Citas Clave
+> “Bueno actualmente el monitoreo que tenemos es más reactivo que preventivo, pues como municipalidad no contamos con un sistema propio de supervisión en tiempo real, por lo que dependemos bastante de la coordinación con entidades como SEDAPAL.”
+
+> “Sí, de hecho es una alternativa bastante atractiva alineada con la modernización de la gestión pública, porque implementar soluciones IoT permitiría tener mucha más información en tiempo real, detectar fallas de manera temprana y mejorar la eficiencia en la toma de decisiones.”
+
+---
+
+## 9. Oportunidades Detectadas
+- Desarrollar un sistema de monitoreo en tiempo real para infraestructura de agua y gas basado en IoT.
+- Detectar fugas no visibles y subterráneas de forma anticipada.
+- Generar información clara para la toma de decisiones.
+- Diseñar soluciones integrables, escalables y costo-eficientes.
+- Incluir programas de capacitación para el personal municipal.
+
+---
+
+## 10. Observaciones Adicionales
+- Usuario con enfoque técnico y apertura a soluciones avanzadas.
+- Existe una necesidad clara de modernización en gestión pública.
+- Limitaciones importantes en presupuesto y capacitación.
+- La coordinación con SEDAPAL es un factor crítico.
+- Alta motivación por mejorar la calidad de vida y la percepción ciudadana.
+---
+
+## Entrevista 2 - Segmento 2
+## 1. Datos Generales
+- **Nombre:** Paul Guevara García
+- **Edad:** 22 años
+- **Género:** Masculino
+- **Ubicación:** Municipalidad de Ate (área de infraestructura y servicios públicos)
+- **Ocupación / Profesión:** Practicante de Ingeniería Civil
+- **Nivel educativo:** Estudiante de Ingeniería Civil
+
+---
+
+## 2. Contexto Personal
+- **Situación actual:** Practicante en el área de infraestructura y servicios públicos de una municipalidad.
+- **Rutina / actividades principales:** Monitoreo de redes de agua basado en inspecciones programadas y correctivas, revisión de reportes ciudadanos y coordinación institucional.
+- **Experiencia relacionada con el tema:** Ha observado directamente la gestión de redes de agua, identificando que el sistema actual es reactivo y depende de inspecciones y reportes, sin monitoreo continuo automatizado.
+
+---
+
+## 3. Objetivos
+- **Objetivo principal:** Mejorar el monitoreo de redes de agua para hacerlo más eficiente, pasando de un sistema reactivo a uno preventivo.
+- **Metas a corto plazo:** Detectar fallas más rápidamente y mejorar los tiempos de respuesta.
+- **Metas a largo plazo:** Reducir pérdidas de agua, optimizar el uso de recursos y mejorar la eficiencia del sistema público.
+- **Necesidades:** Implementar un sistema con sensores y monitoreo en tiempo real que permita anticiparse a fallas.
+
+---
+
+## 4. Motivaciones
+- **¿Qué lo impulsa?:** La necesidad de mejorar la eficiencia del sistema público y reducir pérdidas de recursos.
+- **Intereses relacionados:** Infraestructura, gestión pública, tecnología aplicada (IoT), eficiencia operativa.
+- **Razones para actuar:** Impacto negativo de las fugas en la comunidad, pérdidas económicas, deterioro de infraestructura y mala percepción del servicio.
+
+---
+
+## 5. Problemas / Frustraciones
+- **Dificultades principales:**  
+  - Monitoreo reactivo basado en inspecciones y reportes.  
+  - Falta de sensores y monitoreo continuo.  
+  - Detección tardía de fugas (especialmente subterráneas).  
+  - Procesos largos para detección y reparación (horas a días).  
+  - Infraestructura antigua y vulnerable.  
+
+- **Qué le incomoda:**  
+  - Interrupciones del servicio que afectan a la comunidad.  
+  - Pérdidas de agua no contabilizada.  
+  - Impacto negativo en negocios y población.  
+
+- **Barreras o limitaciones:**  
+  - Falta de inversión en tecnología.  
+  - Ausencia de digitalización.  
+  - Dependencia de procesos manuales.  
+  - Resistencia al cambio del personal.  
+  - Necesidad de capacitación.  
+
+---
+
+## 6. Comportamiento
+- **Qué hace actualmente:**  
+  - Monitorea mediante inspecciones programadas y correctivas.  
+  - Atiende reportes de vecinos y canales digitales.  
+  - Detecta fallas mediante observación (humedad, presión, fugas visibles).  
+
+- **Herramientas o soluciones que usa:**  
+  - Inspecciones manuales.  
+  - Reportes ciudadanos.  
+  - Herramientas básicas como medidores de presión y caudal.  
+
+- **Frecuencia de uso:**  
+  - Las incidencias ocurren con frecuencia, especialmente en redes antiguas.  
+
+---
+
+## 7. Opiniones / Percepciones
+- **Opinión sobre soluciones actuales:**  
+  Son limitadas, reactivas y poco eficientes, sin capacidad de monitoreo continuo.
+
+- **Qué le gusta:**  
+  - Uso de inspecciones programadas.  
+  - Algunos instrumentos básicos de medición.  
+
+- **Qué no le gusta:**  
+  - Falta de automatización.  
+  - Dependencia de reportes manuales.  
+  - Falta de información en tiempo real.  
+
+- **Expectativas:**  
+  - Sistema escalable, accesible y fácil de integrar.  
+  - Monitoreo en tiempo real con sensores.  
+  - Generación de alertas automáticas.  
+  - Interfaz amigable para el personal técnico.  
+
+---
+
+## 8. Citas Clave
+> “El monitoreo se hace principalmente en inspecciones programadas y correctivas… sin una red de sensores que permita monitorear continuamente.”
+
+> “Las detecciones se hacen mediante reportes de vecinos e inspecciones visuales, no es un sistema automatizado.”
+
+> “Implementar soluciones IoT permitiría detectar fallas de manera temprana y mejorar la toma de decisiones.”
+
+> “La principal limitación es la falta de inversión en tecnología y la ausencia de digitalización.”
+
+---
+
+## 9. Oportunidades Detectadas
+- Implementar sistemas IoT para monitoreo en tiempo real de redes públicas.
+- Detectar fugas subterráneas de forma anticipada.
+- Automatizar alertas y mejorar tiempos de respuesta.
+- Digitalizar la infraestructura y centralizar la información.
+- Desarrollar soluciones escalables y adaptables a infraestructura antigua.
+
+---
+
+## 10. Observaciones Adicionales
+- Usuario con visión técnica y enfoque en mejora del sistema público.
+- Alta conciencia sobre sostenibilidad y eficiencia de recursos.
+- Identifica claramente problemas estructurales del sistema actual.
+- Existe apertura al uso de tecnología, pero con limitaciones presupuestarias y culturales.
+---
+
+## Entrevista 3 - Segmento 2
+## 1. Datos Generales
+- **Nombre:** Eduard Rojas
+- **Edad:** 22 años
+- **Género:** Masculino
+- **Ubicación:** No especificada
+- **Ocupación / Profesión:** Trabajador en JW Marriott, área de mantenimiento
+- **Nivel educativo:** No especificado
+
+---
+
+## 2. Contexto Personal
+- **Situación actual:** Trabajador en el área de mantenimiento de un hotel (JW Marriott).
+- **Rutina / actividades principales:** Supervisión y mantenimiento de instalaciones (tuberías, gas, agua, equipos), atención a incidencias reportadas por personal o huéspedes.
+- **Experiencia relacionada con el tema:** Ha experimentado fugas de agua y gas en el entorno hotelero. Las fugas de agua son más frecuentes, especialmente en habitaciones y áreas comunes como baños y lavandería. Las de gas son menos comunes pero más críticas.
+
+---
+
+## 3. Objetivos
+- **Objetivo principal:** Detectar y resolver fugas de manera rápida para evitar afectar la experiencia del cliente y reducir riesgos.
+- **Metas a corto plazo:** Atender incidencias rápidamente y evitar que escalen a problemas mayores.
+- **Metas a largo plazo:** Reducir riesgos, minimizar costos de reparación y mejorar la calidad del servicio del hotel.
+- **Necesidades:** Un sistema de monitoreo en tiempo real que permita detectar fugas antes de que sean visibles o reportadas.
+
+---
+
+## 4. Motivaciones
+- **¿Qué lo impulsa?:** Mantener la calidad del servicio del hotel y garantizar la seguridad de los huéspedes.
+- **Intereses relacionados:** Mantenimiento eficiente, optimización operativa, uso de tecnología para mejorar procesos.
+- **Razones para actuar:** Evitar incomodidades a los huéspedes, prevenir riesgos (especialmente con gas) y mantener buenas calificaciones del servicio.
+
+---
+
+## 5. Problemas / Frustraciones
+- **Dificultades principales:**  
+  - Detección dependiente de reportes humanos (personal o huéspedes).  
+  - Falta de un sistema automatizado de monitoreo.  
+  - Incidentes que pueden escalar rápidamente si no se detectan a tiempo.  
+
+- **Qué le incomoda:**  
+  - Impacto negativo en la experiencia del cliente.  
+  - Tener que reaccionar en lugar de prevenir.  
+  - Riesgos asociados a fugas de gas.  
+
+- **Barreras o limitaciones:**  
+  - No cuentan con un sistema tecnológico integral.  
+  - Dependencia de inspecciones manuales.  
+  - No tiene poder de decisión sobre inversión en soluciones.  
+
+---
+
+## 6. Comportamiento
+- **Qué hace actualmente:**  
+  - Detecta problemas mediante reportes de housekeeping o huéspedes.  
+  - Realiza mantenimiento preventivo con revisiones programadas.  
+  - Actúa rápidamente cuando ocurre una incidencia.  
+
+- **Herramientas o soluciones que usa:**  
+  - Cronogramas de mantenimiento (semanales y mensuales).  
+  - Registros de incidencias.  
+  - Inspecciones manuales.  
+
+- **Frecuencia de uso:**  
+  - Incidentes ocurren aproximadamente 1 o 2 veces al mes.  
+  - Aumentan en temporadas de alta ocupación.  
+
+---
+
+## 7. Opiniones / Percepciones
+- **Opinión sobre soluciones actuales:**  
+  El sistema actual es manual y reactivo, con herramientas básicas pero sin monitoreo inteligente.
+
+- **Qué le gusta:**  
+  - Uso de mantenimiento preventivo.  
+  - Registro de incidencias para detectar patrones.  
+
+- **Qué no le gusta:**  
+  - Falta de automatización.  
+  - Dependencia de reportes humanos.  
+  - Falta de monitoreo en tiempo real.  
+
+- **Expectativas:**  
+  - Sistema con alertas en tiempo real.  
+  - Monitoreo remoto desde celular o sistema central.  
+  - Detección temprana de fugas (especialmente agua).  
+
+---
+
+## 8. Citas Clave
+> “Principalmente a través de reportes del personal o de los huéspedes, que informan sobre fallas en el servicio.”
+
+> “Actualmente no contamos con un sistema como tal, la mayoría del monitoreo es manual.”
+
+> “Sería algo muy útil, ya que nos permitiría actuar de forma inmediata ante cualquier fuga o anomalía.”
+
+> “La experiencia del cliente lo es todo, cualquier interrupción puede afectar su satisfacción.”
+
+---
+
+## 9. Oportunidades Detectadas
+- Implementar un sistema de monitoreo en tiempo real para hoteles.
+- Automatizar la detección de fugas sin depender de reportes humanos.
+- Integrar alertas móviles y monitoreo centralizado.
+- Optimizar mantenimiento preventivo con datos y patrones.
+- Reducir impacto en experiencia del cliente y costos operativos.
+
+---
+
+## 10. Observaciones Adicionales
+- Usuario con enfoque operativo (no técnico profundo, pero práctico).
+- Alta sensibilidad al impacto en el cliente (clave en sector hotelero).
+- Problemas aumentan en picos de uso → oportunidad para sistemas adaptativos.
+- No decide compras, pero es influenciador clave en adopción de soluciones.
+---
+
+## Entrevista 4 - Segmento 2
+## 1. Datos Generales
+- **Nombre:** Fabián Raymundo
+- **Edad:** 23 años
+- **Género:** Masculino
+- **Ubicación:** No especificada
+- **Ocupación / Profesión:** Practicante en el Hotel Sheraton, área de gestión y servicios
+- **Nivel educativo:** Licenciatura en Ingeniería Civil
+
+---
+
+## 2. Contexto Personal
+- **Situación actual:** Practicante en el área de gestión y servicios de un hotel (Sheraton).
+- **Rutina / actividades principales:** Supervisión de instalaciones, apoyo en mantenimiento, seguimiento de incidencias y coordinación con personal operativo.
+- **Experiencia relacionada con el tema:** Ha experimentado fugas de agua y gas en el hotel. Las fugas de agua son más comunes, mientras que las de gas son menos frecuentes pero más críticas, especialmente en el área de cocina/restaurante.
+
+---
+
+## 3. Objetivos
+- **Objetivo principal:** Prevenir fallas en las instalaciones para garantizar la continuidad del servicio y la satisfacción del cliente.
+- **Metas a corto plazo:** Detectar fallas de forma rápida y reducir interrupciones en el servicio.
+- **Metas a largo plazo:** Mejorar la eficiencia operativa, reducir riesgos y optimizar costos de mantenimiento.
+- **Necesidades:** Un sistema de monitoreo en tiempo real que permita detectar fugas y fallas antes de que afecten al cliente.
+
+---
+
+## 4. Motivaciones
+- **¿Qué lo impulsa?:** Mantener la calidad del servicio y evitar afectar la experiencia del huésped.
+- **Intereses relacionados:** Mejora de procesos, eficiencia operativa, implementación de tecnología en mantenimiento.
+- **Razones para actuar:** Evitar incomodidades, proteger la reputación del hotel y reducir riesgos operativos (especialmente con gas).
+
+---
+
+## 5. Problemas / Frustraciones
+- **Dificultades principales:**  
+  - Detección manual de fugas mediante personal.  
+  - Sistema de monitoreo poco eficaz.  
+  - Dependencia de inspecciones y observación humana.  
+  - Incidentes que afectan directamente al cliente.  
+
+- **Qué le incomoda:**  
+  - Impacto negativo en la experiencia del cliente.  
+  - Interrupciones del servicio (ruidos, humedad, cambios de habitación).  
+  - Riesgos asociados al gas en áreas críticas como cocina.  
+
+- **Barreras o limitaciones:**  
+  - Sistema actual no completamente automatizado.  
+  - Dependencia de inversión para mejorar tecnología.  
+  - Procesos aún parcialmente manuales.  
+
+---
+
+## 6. Comportamiento
+- **Qué hace actualmente:**  
+  - Detecta problemas mediante personal de limpieza y mantenimiento.  
+  - Recoge feedback de huéspedes al finalizar su estadía.  
+  - Realiza mantenimiento preventivo con revisiones periódicas.  
+  - Actúa de forma reactiva ante incidencias.  
+
+- **Herramientas o soluciones que usa:**  
+  - Cronogramas de mantenimiento.  
+  - Inspecciones manuales.  
+  - Sistema de monitoreo básico (no completamente eficiente).  
+
+- **Frecuencia de uso:**  
+  - Incidentes ocasionales, principalmente de agua por desgaste.  
+
+---
+
+## 7. Opiniones / Percepciones
+- **Opinión sobre soluciones actuales:**  
+  Existe un sistema de monitoreo, pero no es completamente eficaz. La mayoría del control sigue siendo manual.
+
+- **Qué le gusta:**  
+  - Uso de mantenimiento preventivo.  
+  - Existencia de cierto sistema de monitoreo (aunque limitado).  
+
+- **Qué no le gusta:**  
+  - Falta de automatización completa.  
+  - Dependencia del personal para detectar fallas.  
+  - Ineficiencia del sistema actual.  
+
+- **Expectativas:**  
+  - Alertas en tiempo real.  
+  - Historial de incidencias.  
+  - Reportes detallados.  
+  - Identificación exacta del problema (ubicación, causa).  
+  - Sistema fácil de usar.  
+
+---
+
+## 8. Citas Clave
+> “Las fugas de agua son más comunes, pero las de gas son más críticas, especialmente en cocina.”
+
+> “Actualmente lo hacemos de manera manual, el personal identifica las señales.”
+
+> “Un sistema en tiempo real sería bastante eficaz para actuar de manera inmediata.”
+
+> “La experiencia del cliente es lo más importante y cualquier falla puede afectarla.”
+
+---
+
+## 9. Oportunidades Detectadas
+- Implementar monitoreo en tiempo real para hoteles.
+- Automatizar la detección de fugas sin depender del personal.
+- Integrar historial de incidencias y reportes detallados.
+- Mejorar la precisión en la ubicación de fallas.
+- Reducir impacto en experiencia del cliente y costos operativos.
+
+---
+
+## 10. Observaciones Adicionales
+- Usuario enfocado en experiencia del cliente (clave en hotelería).
+- Alta conciencia del riesgo en fugas de gas.
+- Existe apertura a invertir en soluciones tecnológicas.
+- El sistema actual está en transición hacia automatización.
+---
+
+## Entrevista 5 - Segmento 2
+## 1. Datos Generales
+- **Nombre:** Álvaro Jordán Villa
+- **Edad:** 21 años
+- **Género:** Masculino
+- **Ubicación:** Hotel El Pardo, Lima (Miraflores)
+- **Ocupación / Profesión:** Practicante de mantenimiento
+- **Nivel educativo:** No especificado
+
+---
+
+## 2. Contexto Personal
+- **Situación actual:** Practicante en el área de mantenimiento de un hotel.
+- **Rutina / actividades principales:** Apoyo en inspección de tuberías, detección de fallas y mantenimiento preventivo.
+- **Experiencia relacionada con el tema:** Ha experimentado fugas de agua (más frecuentes) y casos leves de fugas de gas (menos frecuentes pero críticos).
+
+---
+
+## 3. Objetivos
+- **Objetivo principal:** Detectar y prevenir fallas en tuberías para evitar impactos en el servicio del hotel.
+- **Metas a corto plazo:** Identificar fallas rápidamente y actuar antes de que afecten al huésped.
+- **Metas a largo plazo:** Reducir pérdidas de agua/gas, minimizar riesgos y mejorar la experiencia del cliente.
+- **Necesidades:** Un sistema de monitoreo continuo con alertas en tiempo real y control remoto de incidencias.
+
+---
+
+## 4. Motivaciones
+- **¿Qué lo impulsa?:** Mantener la calidad del servicio y evitar afectar la experiencia del huésped.
+- **Intereses relacionados:** Mantenimiento, prevención de fallas, uso de tecnología en gestión operativa.
+- **Razones para actuar:** Evitar pérdidas económicas, proteger la reputación del hotel y reducir riesgos operativos.
+
+---
+
+## 5. Problemas / Frustraciones
+- **Dificultades principales:**  
+  - Fugas frecuentes de agua por desgaste o malas conexiones.  
+  - Detección dependiente de reportes humanos.  
+  - Imposibilidad de predecir fallas en tuberías.  
+
+- **Qué le incomoda:**  
+  - Impacto negativo en la experiencia del cliente (olores, falta de agua, incomodidad).  
+  - Riesgos asociados a fugas de gas.  
+  - Mala imagen del hotel.  
+
+- **Barreras o limitaciones:**  
+  - No cuentan con sistema de monitoreo continuo.  
+  - Dependencia de inspecciones manuales.  
+  - Incertidumbre sobre cuándo ocurrirá una falla.  
+
+---
+
+## 6. Comportamiento
+- **Qué hace actualmente:**  
+  - Detecta problemas mediante reportes del personal o huéspedes.  
+  - Realiza mantenimiento preventivo periódico.  
+  - Programa revisiones mensuales y atiende incidencias.  
+
+- **Herramientas o soluciones que usa:**  
+  - Inspecciones manuales.  
+  - Cronogramas de mantenimiento.  
+  - Reportes de incidencias.  
+
+- **Frecuencia de uso:**  
+  - Incidentes ocurren aproximadamente cada 3 meses, aumentando en temporadas de alta demanda (octubre–diciembre).  
+
+---
+
+## 7. Opiniones / Percepciones
+- **Opinión sobre soluciones actuales:**  
+  Son limitadas y dependen del factor humano, sin monitoreo automatizado.
+
+- **Qué le gusta:**  
+  - Uso de mantenimiento preventivo.  
+  - Organización mediante cronogramas.  
+
+- **Qué no le gusta:**  
+  - Falta de monitoreo en tiempo real.  
+  - Dependencia de reportes manuales.  
+  - Falta de anticipación a fallas.  
+
+- **Expectativas:**  
+  - Detección automática de fugas.  
+  - Alertas en tiempo real.  
+  - Monitoreo remoto.  
+  - Historial de incidencias.  
+  - Control remoto de válvulas.  
+
+---
+
+## 8. Citas Clave
+> “Principalmente hemos tenido problemas en lo que es tuberías de agua… por desgaste o malas conexiones.”
+
+> “Actualmente no contamos con un sistema de monitoreo continuo.”
+
+> “Sería de gran ayuda contar con alertas en tiempo real para tomar medidas preventivas.”
+
+> “Esperamos reducir pérdidas y brindar una mejor experiencia al huésped.”
+
+---
+
+## 9. Oportunidades Detectadas
+- Implementar monitoreo en tiempo real con sensores para hoteles.
+- Automatizar la detección de fugas de agua y gas.
+- Integrar control remoto de válvulas para respuesta inmediata.
+- Incorporar historial de incidencias para análisis predictivo.
+- Reducir impacto en experiencia del cliente y costos operativos.
+
+---
+
+## 10. Observaciones Adicionales
+- Usuario operativo con enfoque en mantenimiento práctico.
+- Alta preocupación por la experiencia del cliente.
+- Reconoce claramente limitaciones del sistema actual.
+- Disposición a adoptar tecnología si demuestra beneficios reales.
+---
 
 ## 2.3. Needfinding
 En base a lo analizado, y tras ver los diferentes segmentos objetivos que tenemos, podemos identificar que los usuarios requieren una solución que les permita poder tener un control y poder monitorear en tiempo real sus diferentes sistemas de agua y gas para prevenir fugas, reducir costos y evitar riesgos.
