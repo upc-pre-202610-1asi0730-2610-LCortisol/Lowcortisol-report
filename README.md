@@ -402,7 +402,7 @@ Intuitivo, moderno, accesible, con información clara y alertas fáciles de ente
 
 12. **Otra suposición crítica…** Que los usuarios utilizarán el sistema de forma constante para monitorear su consumo.
 
-#### 1.2.2.1 Lean UX Hypothesis Statements
+#### 1.2.2.3 Lean UX Hypothesis Statements
 
 ###### Hipótesis 1:
 
@@ -466,7 +466,6 @@ Creemos que, si la plataforma ofrece planes diferenciados según necesidad del c
 **Users:** Hogares, Hoteles y Municipalidades.<br>
 **User Outcome:** Contratan un plan ajustado a sus necesidades reales.<br>
 **Feature:** Plan Hogar, Plan Smart y Plan Full Service.<br>
-
 
 #### 1.2.2.1 Lean UX Canvas
 
