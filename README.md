@@ -2803,6 +2803,9 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+El flujo inicia con el acceso del usuario a la plataforma, seguido de procesos clave como la navegación entre secciones, la interacción con funcionalidades principales y la obtención de resultados esperados. Asimismo, se contemplan escenarios alternativos y puntos de decisión que influyen en la experiencia del usuario, permitiendo comprender cómo se gestionan diferentes situaciones dentro del sistema.
+
+![UserFlowDiagram](assets/md-images-chapter4/UserFlowDiagram.png)
 
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
