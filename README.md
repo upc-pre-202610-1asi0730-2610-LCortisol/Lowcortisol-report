@@ -2730,6 +2730,71 @@ Reports: Visualizacion de datos historicos mediante graficas de consumo y herram
 ### 4.4.2. Web Applications Wireflow Diagrams
 <<<<<<< Updated upstream
 ### 4.4.2. Web Applications Mock-ups
+
+## 1. Pantalla de Inicio de Sesión
+* **Propósito:** Interfaz de acceso para usuarios registrados.
+* **Elementos clave:** Campos para correo electrónico (`you@example.com`) y contraseña, botón de "Sign in" y enlace de acceso a la pantalla de creación de cuenta.
+
+![Inicio-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Inicio.png)
+
+---
+
+## 2. Registro de Usuario
+* **Propósito:** Formulario de alta para nuevos usuarios en la plataforma.
+* **Elementos clave:** Campos de entrada para nombre, correo, teléfono y contraseña, selector de "Account type" y botones de acción para crear cuenta o volver al inicio.
+
+![Register-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Register.png)
+
+---
+
+## 3. Dashboard Principal (Home)
+* **Propósito:** Visualización en tiempo real del estado de los sistemas del hogar.
+* **Elementos clave:** Indicadores de estado de agua y gas (porcentaje de apertura), controles táctiles para alternar válvulas y botón de emergencia "Emergency shut-off".
+
+![Dashboard-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Dashboard.png)
+
+---
+
+## 4. Centro de Alertas
+* **Propósito:** Gestión y visualización de incidencias detectadas en el sistema.
+* **Elementos clave:** Registro cronológico de alertas (fugas, presión, batería baja, estado de conexión) con indicación de antigüedad.
+
+![Alerts-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Alerts.png)
+
+---
+
+## 5. Gestión de Válvulas
+* **Propósito:** Configuración personalizada y control manual o automático de los dispositivos.
+* **Elementos clave:** Interruptores de activación por dispositivo y control deslizante para ajustar el umbral de auto-apagado ("Auto-shut threshold") de cada válvula.
+
+![Controls-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Controls.png)
+
+---
+
+## 6. Perfil de Usuario
+* **Propósito:** Gestión de la información personal y ajustes de la cuenta.
+* **Elementos clave:** Visualización de los datos del usuario (Jean Franck Loa Rojas), acceso a secciones de dispositivos, reportes y configuración, además del botón de cierre de sesión.
+
+![Profile-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Profile.png)
+
+---
+
+## 7. Gestión de Dispositivos
+* **Propósito:** Administración y verificación del hardware conectado.
+* **Elementos clave:** Listado detallado de dispositivos (válvulas, sensores, hub) indicando si están en línea o fuera de línea, con opción para añadir nuevos dispositivos.
+
+![Devices-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Devices.png)
+
+---
+
+## 8. Reportes de Consumo
+* **Propósito:** Análisis del historial de uso de recursos.
+* **Elementos clave:** Totales acumulados de agua y gas, visualización gráfica de consumo, selectores de rango temporal (7D, 30D, 90D) y opciones para filtrar y exportar los reportes.
+
+![Reports-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Reports.png)
+
+---
+
 ### 4.4.3. Web Applications User Flow Diagrams
 =======
 
