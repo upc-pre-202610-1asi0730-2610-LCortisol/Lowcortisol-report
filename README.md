@@ -238,7 +238,7 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 ### 1.1.1. Descripción de la StartUp
 El presente informe pretende documentar el desarrollo del Startup “LowCortisol”, el cual busca mejorar la prevención y gestión de incidentes en tuberías de agua y gas mediante el uso de tecnología IoT y monitoreo en tiempo real.
-A través de su aplicativo también llamado “LowCortisol”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
+A través de la aplicación llamada “LowCortisol”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
 
 De este modo, la empresa busca reducir pérdidas económicas, prevenir riesgos para la salud y mejorar la seguridad en hogares, hoteles y otros establecimientos.
 Asimismo, la solución permitirá optimizar el consumo de recursos y fomentar una gestión más eficiente del agua y gas.
@@ -380,7 +380,7 @@ Intuitivo, moderno, accesible, con información clara y alertas fáciles de ente
 
 1. **Creo que mis clientes necesitan…** Una forma rápida, automática y confiable de detectar fugas y controlar su consumo de agua y gas.
 
-2. **Estas necesidades se pueden resolver con…** Un aplicativo conectado a sensores IoT que monitorean en tiempo real y generan alertas inteligentes.
+2. **Estas necesidades se pueden resolver con…** Una aplicación conectado a sensores IoT que monitorean en tiempo real y generan alertas inteligentes.
 
 3. **Mis clientes iniciales son…** Hogares y pequeños negocios preocupados por costos y seguridad.
 
@@ -398,7 +398,7 @@ Intuitivo, moderno, accesible, con información clara y alertas fáciles de ente
 
 10. **Mayor riesgo de producto…** Que los usuarios no comprendan el funcionamiento del sistema o no instalen correctamente los sensores.
 
-11. **Lo resolveremos con…** Guías de instalación, interfaz intuitiva y soporte desde el aplicativo.
+11. **Lo resolveremos con…** Guías de instalación, interfaz intuitiva y soporte desde la aplicación.
 
 12. **Otra suposición crítica…** Que los usuarios utilizarán el sistema de forma constante para monitorear su consumo.
 
@@ -2781,7 +2781,11 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 * **Propósito:** Formulario de alta para nuevos usuarios en la plataforma.
 * **Elementos clave:** Campos de entrada para nombre, correo, teléfono y contraseña, selector de "Account type" y botones de acción para crear cuenta o volver al inicio.
 
-![Register-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Register.png)
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Register.png.png" alt="Register-Application-MockUp">
+</p>
+
 
 ---
 
