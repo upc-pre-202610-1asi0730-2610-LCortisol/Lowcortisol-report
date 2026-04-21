@@ -264,7 +264,7 @@ Nuestros valores principales son los siguientes:
 | **Nombre Completo del integrante** |	**Descripcion de la carrera** | **Fotografia**                                          | **Conocimientos y habilidades**
 |:-----------------------------------|:------------------------------------ |:--------------------------------------------------------|:------------------------------------ |
 | Condori Torres, Miguel Anibal      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="">                                            | text
-| Delgado Perez, James Caleb         |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src="">                                            | text
+| Delgado Perez, James Caleb         |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src="assets/md-images-members/James.jpeg">         | Soy estudiante de Ingeniería de Software y me apasiona la creación de productos digitales que simplifiquen procesos y ayuden a las personas a ahorrar tiempo para enfocarse en lo que realmente importa. Me motiva transformar problemas en soluciones prácticas, eficientes y con impacto real. Actualmente estoy fortaleciendo mis conocimientos en C#, y tengo experiencia con C++, HTML, CSS, JavaScript y Java, este último desarrollado durante el curso de Diseño y Patrones de Software. Me interesa especialmente el área de frontend, bases de datos y aplicativos web. Lo que más me motiva de este proyecto es que representa una gran oportunidad para incorporarme al mundo laboral, adquirir nuevos conocimientos y seguir fortaleciendo mi perfil profesional. Además, me considero una persona organizada, que aprende rápido y que trabaja bien en equipo. Fuera del ámbito académico y tecnológico, me gustan los deportes, y también encuentro en la programación y la música una forma de expresión y creatividad.
 | Loa Rojas, Jean Franck             |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Jean_Loa.jpg">       | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
 | Montalvo Vásquez, Bruno Rodrigo    |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Bruno_Montalvo.jpg"> | Soy Bruno Rodrigo Montalvo Vásquez, estudiante de 5 ciclo de la carrera de Ingeniería de Software, estoy curioso y a la vez extasiado por aprender más sobre los temas futuros sobre mi carrera a su vez que también abierto a poder trabajar con profesionales de mi rubro académico para mejorar mis conocimientos.
 | Quiliano Motta, Kirk Douglas       |carrera| <img src="">                                            | text
@@ -1769,10 +1769,10 @@ En este contexto, la solución propuesta responde a estas necesidades mediante t
 ### 2.3.1. User Personas 
 El user persona se construyó a partir de patrones encontrados en las entrevistas
 **Segmento objetivo 1: Usuario residencial**
-![User Persona](./assets/md-images-chapter2/UsserPersona1.png)
+![User Persona](./assets/md-images-chapter2/UserPersonaYazid.png)
 
 **segmento Objetivo 2: Profesional de infraestructura**
-![User Persona](./assets/md-images-chapter2/UserPersona2.png)
+![User Persona](./assets/md-images-chapter2/UserPersonaLeonardo.png)
 
 ### 2.3.2. User Task Matrix 
 | TASK | Yazid Pinto  (Usuario Residencial)  Frecuencia | Yazid Pinto  (Usuario Residencial)  Importancia | Leonardo Sotelo (Profesional)  Frecuencia | Leonardo Sotelo (Profesional)  Importancia |
@@ -1786,11 +1786,11 @@ El user persona se construyó a partir de patrones encontrados en las entrevista
 | **Monitorear el estado general del sistema (aunque sea básico)** | **Rarely** | **Medium** | **Often** | **High** |
 | **Prevenir problemas mediante mantenimiento o revisiones** | **Sometimes** | **Medium** | **Often** | **HIgh** |
 ### 2.3.3. User Journey Mapping 
-![User Journey Mapping](./assets/md-images-chapter2/UserJourneyMap1.png)
-![User Journey Mapping](./assets/md-images-chapter2/UserJourneyMap2.png)
+![User Journey Mapping](./assets/md-images-chapter2/YazidJourneyMap.png)
+![User Journey Mapping](./assets/md-images-chapter2/LeonardoJourneyMap.png)
 ### 2.3.4. Empathy Mapping
-![Empathy Mapping](./assets/md-images-chapter2/Empathy1.png)
-![Empathy Mapping](./assets/md-images-chapter2/Empathy2.png)
+![Empathy Mapping](./assets/md-images-chapter2/YazidEmpathy.png)
+![Empathy Mapping](./assets/md-images-chapter2/LeonardoDanielEmpathyMap.png)
 ## 2.4. Big Picture Event Storming
 
 #### Introducción:
@@ -2866,3 +2866,4 @@ El Container Diagram presenta la descomposición del sistema en contenedores pri
 ## Video About-the-Team.
 # Bibliografía 
 # Anexos
+ 
