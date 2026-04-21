@@ -80,7 +80,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio de la Landing Page:
 
-- 
+- https://github.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-LadingPage.git
 
 #### Link del repositorio del Frontend:
 
@@ -916,7 +916,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 
   En esta propuesta se evidencia la aplicación de principios de diseño, elementos visuales, diseño inclusivo, arquitectura de información y el sistema de diseño establecido para el producto digital.
 
-
+   ##### Landing Page Mock-up para Web Browser 
   <p align="center">
     <img src="assets/md-images-chapter4/Landing-Page-Mock-up.PNG" width="800"/> <br>
     <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Benefit.PNG" width="800"/><br>
@@ -927,14 +927,178 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
     <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Contact.PNG" width="800"/> <br>
   </p>
     
+   ##### Landing Page Mock-up para Mobile Web Browser 
+
+  <p align="center">
+    <img src="assets/md-images-chapter4//Landing-Page-Movil-Mock-up.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Benefit.PNG" width="380"/><br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Features.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-About.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Segments.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Payment.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Contact.PNG" width="380"/> <br>
+  </p>
+    
 
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+Los wireframes construidos para la web de LowCortisol representan 
+la arquitectura logica y funcional del sistema, priorizando la 
+accesibilidad de los controles de seguridad.
+
+Inicio: Pantalla de autenticacion diseñada para el acceso seguro de usuarios registrados mediante credenciales de correo y contraseña.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Inicio.png" alt="Inicio-Aplication-Wireframe">
+</p>
+
+Register: Formulario de captura de datos para nuevos usuarios que permite la segmentacion segun el tipo de cuenta (Hogar u Organizacion).
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Register.png" alt="Register-Aplication-Wireframe">
+</p>
+
+Dashboard: Panel principal que muestra el estado global de seguridad y las metricas en tiempo real de agua y gas con un boton de apagado de emergencia.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Dashboard.png" alt="Dashboard-Aplication-Wireframe">
+</p>
+
+Alertas: Listado cronologico de notificaciones e incidentes detectados, permitiendo al usuario identificar rapidamente la ubicacion y severidad del evento.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Alerts.png" alt="Alertas-Aplication-Wireframe">
+</p>
+
+Controls: Interfaz de gestion operativa para el accionamiento individual de valvulas y seleccion entre modo de control automatico o manual.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Controls.png" alt="Controls-Aplication-Wireframe">
+</p>
+
+Profile: Seccion dedicada a la gestion de informacion personal del usuario, preferencias de la cuenta y opciones de cierre de sesion.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Profile.png" alt="Profile-Aplication-Wireframe">
+</p>
+
+Devices: Modulo de administracion de hardware donde se monitorea el estado de bateria, señal y conectividad de cada sensor IoT vinculado.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Devices.png" alt="Devices-Aplication-Wireframe">
+</p>
+
+Reports: Visualizacion de datos historicos mediante graficas de consumo y herramientas para la exportacion de informes detallados en formato PDF.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Reports.png" alt="History-Aplication-Wireframe">
+</p>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.2. Web Applications Mock-ups
-### 4.4.3. Web Applications User Flow Diagrams
+
+En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (wireframes) necesarios para las esperadas expectativas de nuestros segmentos objetivo.
+
+---
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireflow.png" alt="History-Aplication-Wireframe">
+</p>
+
+<<<<<<< Updated upstream
+### 4.4.3. Web Applications Mock-ups
+
+## 1. Pantalla de Inicio de Sesión
+* **Propósito:** Interfaz de acceso para usuarios registrados.
+* **Elementos clave:** Campos para correo electrónico (`you@example.com`) y contraseña, botón de "Sign in" y enlace de acceso a la pantalla de creación de cuenta.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Inicio.png" alt="Inicio-Application-MockUp">
+</p>
+
+---
+
+## 2. Registro de Usuario
+* **Propósito:** Formulario de alta para nuevos usuarios en la plataforma.
+* **Elementos clave:** Campos de entrada para nombre, correo, teléfono y contraseña, selector de "Account type" y botones de acción para crear cuenta o volver al inicio.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Register.png" alt="Register-Application-MockUp">
+</p>
+
+---
+
+## 3. Dashboard Principal (Home)
+* **Propósito:** Visualización en tiempo real del estado de los sistemas del hogar.
+* **Elementos clave:** Indicadores de estado de agua y gas (porcentaje de apertura), controles táctiles para alternar válvulas y botón de emergencia "Emergency shut-off".
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Dashboard.png" alt="Dashboard-Application-MockUp">
+</p>
+
+---
+
+## 4. Centro de Alertas
+* **Propósito:** Gestión y visualización de incidencias detectadas en el sistema.
+* **Elementos clave:** Registro cronológico de alertas (fugas, presión, batería baja, estado de conexión) con indicación de antigüedad.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Alerts.png" alt="Alerts-Application-MockUp">
+</p>
+
+---
+
+## 5. Gestión de Válvulas
+* **Propósito:** Configuración personalizada y control manual o automático de los dispositivos.
+* **Elementos clave:** Interruptores de activación por dispositivo y control deslizante para ajustar el umbral de auto-apagado ("Auto-shut threshold") de cada válvula.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Controls.png" alt="Controls-Application-MockUp">
+</p>
+
+---
+
+## 6. Perfil de Usuario
+* **Propósito:** Gestión de la información personal y ajustes de la cuenta.
+* **Elementos clave:** Visualización de los datos del usuario (Jean Franck Loa Rojas), acceso a secciones de dispositivos, reportes y configuración, además del botón de cierre de sesión.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Profile.png" alt="Profile-Application-MockUp">
+</p>
+
+---
+
+## 7. Gestión de Dispositivos
+* **Propósito:** Administración y verificación del hardware conectado.
+* **Elementos clave:** Listado detallado de dispositivos (válvulas, sensores, hub) indicando si están en línea o fuera de línea, con opción para añadir nuevos dispositivos.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Devices.png" alt="Devices-Application-MockUp">
+</p>
+
+---
+
+## 8. Reportes de Consumo
+* **Propósito:** Análisis del historial de uso de recursos.
+* **Elementos clave:** Totales acumulados de agua y gas, visualización gráfica de consumo, selectores de rango temporal (7D, 30D, 90D) y opciones para filtrar y exportar los reportes.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Reports.png" alt="Reports-Application-MockUp">
+</p>
+
+---
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+El flujo inicia con el acceso del usuario a la plataforma, seguido de procesos clave como la navegación entre secciones, la interacción con funcionalidades principales y la obtención de resultados esperados. Asimismo, se contemplan escenarios alternativos y puntos de decisión que influyen en la experiencia del usuario, permitiendo comprender cómo se gestionan diferentes situaciones dentro del sistema.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/UserFlowDiagram.png" alt="UserFlowDiagram">
+</p>
+
 ## 4.5. Web Applications Prototyping
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
