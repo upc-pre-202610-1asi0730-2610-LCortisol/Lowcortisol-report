@@ -1769,10 +1769,10 @@ En este contexto, la solución propuesta responde a estas necesidades mediante t
 ### 2.3.1. User Personas 
 El user persona se construyó a partir de patrones encontrados en las entrevistas
 **Segmento objetivo 1: Usuario residencial**
-![User Persona](./assets/md-images-chapter2/UsserPersona1.png)
+![User Persona](./assets/md-images-chapter2/UserPersonaYazid.png)
 
 **segmento Objetivo 2: Profesional de infraestructura**
-![User Persona](./assets/md-images-chapter2/UserPersona2.png)
+![User Persona](./assets/md-images-chapter2/UserPersonaLeonardo.png)
 
 ### 2.3.2. User Task Matrix 
 | TASK | Yazid Pinto  (Usuario Residencial)  Frecuencia | Yazid Pinto  (Usuario Residencial)  Importancia | Leonardo Sotelo (Profesional)  Frecuencia | Leonardo Sotelo (Profesional)  Importancia |
