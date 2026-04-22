@@ -2896,12 +2896,58 @@ El Container Diagram presenta la descomposición del sistema en contenedores pri
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Se definen los estándares de codificación para garantizar la fiabilidad del sistema de monitoreo de agua y gas. La claridad en el código es fundamental para la gestión de alertas críticas y el control de dispositivos IoT.
+
+#### Reglas Generales
+* **Idioma:** Todo el código (variables, funciones, clases, comentarios y archivos) debe escribirse estrictamente en **inglés**.
+* **Nomenclatura Semántica:** Se deben usar nombres descriptivos relacionados con el dominio (ej. `pressureSensor`, `leakDetection`, `valveStatus`).
+* **Formato:** Uso obligatorio de herramientas de linting para mantener la consistencia en todo el repositorio.
+
+#### Estándares por Lenguaje
+
+| Lenguaje | Guía de Estilo | Convención de Naming | Indentación |
+| :--- | :--- | :--- | :--- |
+| **HTML** | W3C / Google | kebab-case (clases) | 2 espacios |
+| **CSS** | BEM / Airbnb | kebab-case | 2 espacios |
+| **JavaScript** | Airbnb Guide | camelCase | 2 espacios |
+| **Vue.js** | Vue Style Guide | PascalCase (Componentes) | 2 espacios |
+| **C#** | Microsoft Standard | PascalCase (Clases/Métodos) | 4 espacios |
+
+#### Lineamientos Específicos
+* **Vue.js:** Los nombres de componentes deben ser PascalCase y tener al menos dos palabras (ej. `SensorAlert.vue`, `ValveControl.vue`).
+* **C#:** Los métodos de monitoreo en tiempo real deben ser asíncronos y llevar el sufijo `Async` (ej. `ProcessTelemetryAsync`).
+* **Variables:** Se prohíbe el uso de `var` en JS; usar `const` para lecturas de sensores fijas y `let` solo si el valor cambia.
+* **Semántica HTML:** Uso obligatorio de etiquetas `<header>`, `<main>`, `<section>` y atributos `aria-label` para los tableros de control técnico.
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint n 
-#### 5.2.X.1. Sprint Planning n
-#### 5.2.X.2. Aspect Leaders and Collaborators
-#### 5.2.X.3. Sprint Backlog n. 
+### 5.2.1. Sprint 1 
+#### 5.2.1.1. Sprint Planning 1
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 1, la ejecución del proyecto se estructuró bajo un modelo de 
+responsabilidad compartida, dividiendo el trabajo en tres frentes críticos para 
+asegurar el cumplimiento de los objetivos iniciales del sistema de monitoreo IoT.
+Estos aspectos comprenden el desarrollo del **Landing Page** responsivo para la 
+presentación de los planes Hogar, Smart y Full Service; la elaboración de la **Documentación** 
+técnica y administrativa; y la definición de las **Epics** en el backlog, las cuales sientan 
+las bases funcionales de la detección de anomalías en tuberías. Cada aspecto fue encabezado 
+por un líder responsable de la calidad final del entregable, apoyado por la colaboración activa 
+del resto del equipo.
+
+A continuación, se presenta la Matriz LACX (Leader/Collaborator) que 
+detalla la distribución de roles para este primer ciclo:
+
+| Team Member (Last Name, First Name) | GitHub Username       | Aspect 1: Landing Page | Aspect 2: Documentación | Aspect 3: Epics |
+| :--- |:----------------------| :---: |:-----------------------:| :---: |
+| Condori Torres, Miguel Anibal | @Miguel1323z          | **L** |            **L**            | C |
+| Delgado Perez, James Caleb | @JAmsy06              | C |            C            | C |
+| Loa Rojas, Jean Franck | @JeanLoa              | C |            C            | **L** |
+| Montalvo Vasquez, Bruno Rodrigo | @TartaroZ              | C |            C            | C |
+| Quiliano Motta, Kirk Douglas | @Kirkcito             | C |            C            | C |
+
+#### 5.2.1.3. Sprint Backlog 1. 
 #### 5.2.X.4. Development Evidence for Sprint Review
 #### 5.2.X.5. Execution Evidence for Sprint Review
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
