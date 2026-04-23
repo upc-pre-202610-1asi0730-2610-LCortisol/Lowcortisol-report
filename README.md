@@ -1816,11 +1816,11 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 ## 3.1. User Stories
 <table>
 <tr>
-<th>**Epic / Story ID**</th>
-<th>**Título**</th>
-<th>**Descripción**</th>
-<th>**Criterios de Aceptación**</th>
-<th>**Relacionado con (Epic ID)**</th>
+<th>Epic / Story ID</th>
+<th>Título</th>
+<th>Descripción</th>
+<th>Criterios de Aceptación</th>
+<th>Relacionado con</th>
 </tr>
 
 <tr>
@@ -1835,17 +1835,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US01</td>
 <td>Registro de usuario</td>
 <td>Como visitante, quiero crear una cuenta para acceder a la plataforma.</td>
-<td>
-<b>**Scenario 1: Registro exitoso**</b><br>
-**Given** el visitante completa los datos obligatorios válidos,<br>
-**When** solicita registrarse,<br>
-**Then** el sistema crea la cuenta correctamente.<br><br>
-
-<b>**Scenario 2: Datos incompletos**</b><br>
-**Given** faltan campos obligatorios,<br>
-**When** intenta registrarse,<br>
-**Then** el sistema informa que existen datos pendientes.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1853,17 +1843,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US02</td>
 <td>Inicio de sesión</td>
 <td>Como usuario registrado, quiero iniciar sesión para acceder a mis funciones.</td>
-<td>
-<b>**Scenario 1: Credenciales válidas**</b><br>
-**Given** el usuario ingresa credenciales correctas,<br>
-**When** solicita acceso,<br>
-**Then** el sistema permite el ingreso.<br><br>
-
-<b>**Scenario 2: Credenciales inválidas**</b><br>
-**Given** los datos no coinciden,<br>
-**When** intenta ingresar,<br>
-**Then** el sistema rechaza el acceso.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1871,12 +1851,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US03</td>
 <td>Recuperar contraseña</td>
 <td>Como usuario, quiero recuperar mi contraseña para volver a ingresar a mi cuenta.</td>
-<td>
-<b>**Scenario 1: Solicitud exitosa**</b><br>
-**Given** el correo está registrado,<br>
-**When** el usuario solicita recuperación,<br>
-**Then** el sistema envía instrucciones al correo.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1884,12 +1859,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US04</td>
 <td>Cerrar sesión</td>
 <td>Como usuario, quiero cerrar sesión para proteger mi cuenta en dispositivos compartidos.</td>
-<td>
-<b>**Scenario 1: Logout**</b><br>
-**Given** el usuario tiene sesión iniciada,<br>
-**When** selecciona cerrar sesión,<br>
-**Then** el sistema finaliza la sesión activa.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1897,12 +1867,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US05</td>
 <td>Actualizar perfil</td>
 <td>Como usuario, quiero editar mis datos personales para mantener mi información actualizada.</td>
-<td>
-<b>**Scenario 1: Actualización exitosa**</b><br>
-**Given** el usuario accede a perfil,<br>
-**When** guarda nuevos datos válidos,<br>
-**Then** el sistema actualiza la información registrada.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1918,12 +1883,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US06</td>
 <td>Visualizar estado en tiempo real</td>
 <td>Como usuario, quiero ver el estado actual de agua y gas para detectar anomalías rápidamente.</td>
-<td>
-<b>**Scenario 1: Lecturas disponibles**</b><br>
-**Given** existen dispositivos vinculados,<br>
-**When** el usuario consulta el panel,<br>
-**Then** el sistema muestra lecturas actualizadas de consumo y estado.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP02</td>
 </tr>
 
@@ -1931,12 +1891,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US07</td>
 <td>Recibir alertas automáticas</td>
 <td>Como usuario, quiero recibir alertas inmediatas ante fugas o riesgos.</td>
-<td>
-<b>**Scenario 1: Evento crítico**</b><br>
-**Given** se detecta una anomalía,<br>
-**When** ocurre el evento,<br>
-**Then** el sistema envía una notificación automática al usuario.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP02</td>
 </tr>
 
@@ -1944,12 +1899,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US08</td>
 <td>Historial de consumo</td>
 <td>Como usuario, quiero revisar consumos anteriores para identificar excesos o patrones anormales.</td>
-<td>
-<b>**Scenario 1: Historial disponible**</b><br>
-**Given** existen registros históricos,<br>
-**When** el usuario consulta reportes,<br>
-**Then** el sistema muestra el historial almacenado.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP02</td>
 </tr>
 
@@ -1965,17 +1915,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US09</td>
 <td>Cerrar válvula remotamente</td>
 <td>Como usuario con plan compatible, quiero cerrar una válvula remotamente para reducir riesgos.</td>
-<td>
-<b>**Scenario 1: Acción autorizada**</b><br>
-**Given** el usuario tiene permisos y un dispositivo compatible,<br>
-**When** solicita el cierre remoto,<br>
-**Then** el sistema ejecuta la acción y registra el evento.<br><br>
-
-<b>**Scenario 2: Sin permisos**</b><br>
-**Given** el usuario no cuenta con permisos suficientes,<br>
-**When** intenta la acción,<br>
-**Then** el sistema bloquea la solicitud.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP03</td>
 </tr>
 
@@ -1983,12 +1923,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US10</td>
 <td>Solicitar soporte técnico</td>
 <td>Como usuario, quiero solicitar ayuda técnica para resolver incidencias complejas.</td>
-<td>
-<b>**Scenario 1: Solicitud generada**</b><br>
-**Given** existe una incidencia registrada,<br>
-**When** solicita soporte,<br>
-**Then** el sistema genera la solicitud correspondiente.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP03</td>
 </tr>
 
@@ -2004,17 +1939,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US11</td>
 <td>Visualizar planes disponibles</td>
 <td>Como visitante, quiero visualizar los planes disponibles para comparar beneficios y elegir el más adecuado.</td>
-<td>
-<b>**Scenario 1: Consulta de planes**</b><br>
-**Given** el visitante accede a la sección de planes,<br>
-**When** el sistema carga la información,<br>
-**Then** se muestran los planes con sus beneficios y precios.<br><br>
-
-<b>**Scenario 2: Información clara**</b><br>
-**Given** existen varios planes registrados,<br>
-**When** el visitante revisa la información,<br>
-**Then** cada plan presenta características diferenciadas.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP04</td>
 </tr>
 
@@ -2022,17 +1947,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US12</td>
 <td>Suscribirse a un plan</td>
 <td>Como usuario registrado, quiero contratar un plan para acceder a funciones premium.</td>
-<td>
-<b>**Scenario 1: Suscripción exitosa**</b><br>
-**Given** el usuario tiene una cuenta activa,<br>
-**When** selecciona un plan y confirma la compra,<br>
-**Then** el sistema activa la suscripción correspondiente.<br><br>
-
-<b>**Scenario 2: Error en pago**</b><br>
-**Given** el método de pago es rechazado,<br>
-**When** el usuario intenta completar la compra,<br>
-**Then** el sistema informa que no fue posible procesar la suscripción.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP04</td>
 </tr>
 
@@ -2040,12 +1955,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US13</td>
 <td>Cambiar de plan</td>
 <td>Como usuario suscrito, quiero cambiar de plan para adaptar el servicio a mis nuevas necesidades.</td>
-<td>
-<b>**Scenario 1: Upgrade**</b><br>
-**Given** el usuario tiene un plan activo,<br>
-**When** selecciona un plan superior,<br>
-**Then** el sistema actualiza los beneficios disponibles.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP04</td>
 </tr>
 
@@ -2061,12 +1971,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US14</td>
 <td>Ver propuesta de valor</td>
 <td>Como visitante, quiero entender rápidamente el beneficio principal del producto para decidir si me interesa.</td>
-<td>
-<b>**Scenario 1: Contenido visible**</b><br>
-**Given** el visitante ingresa al sitio,<br>
-**When** se carga la página principal,<br>
-**Then** se presenta claramente la propuesta de valor del producto.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP05</td>
 </tr>
 
@@ -2074,12 +1979,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US15</td>
 <td>Navegar por secciones informativas</td>
 <td>Como visitante, quiero revisar información del producto para conocer funcionalidades y beneficios.</td>
-<td>
-<b>**Scenario 1: Navegación**</b><br>
-**Given** el visitante accede al menú principal,<br>
-**When** selecciona una sección,<br>
-**Then** el sistema desplaza o redirige al contenido solicitado.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP05</td>
 </tr>
 
@@ -2087,12 +1987,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US16</td>
 <td>Redirección a registro</td>
 <td>Como visitante, quiero registrarme desde la Landing Page para comenzar a usar la plataforma.</td>
-<td>
-<b>**Scenario 1: CTA funcional**</b><br>
-**Given** el visitante visualiza un botón de acción,<br>
-**When** hace clic en registrarse,<br>
-**Then** el sistema lo redirige al formulario de registro.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP05</td>
 </tr>
 
@@ -2108,12 +2003,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US17</td>
 <td>Registrar múltiples sedes</td>
 <td>Como administrador de organización, quiero registrar varias sedes para monitorear diferentes instalaciones.</td>
-<td>
-<b>**Scenario 1: Registro correcto**</b><br>
-**Given** el administrador tiene permisos activos,<br>
-**When** registra una nueva sede,<br>
-**Then** la sede queda disponible en el sistema.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP06</td>
 </tr>
 
@@ -2121,12 +2011,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US18</td>
 <td>Filtrar datos por sede</td>
 <td>Como gestor operativo, quiero filtrar información por sede para analizar incidencias específicas.</td>
-<td>
-<b>**Scenario 1: Filtro aplicado**</b><br>
-**Given** existen varias sedes registradas,<br>
-**When** el usuario selecciona una sede,<br>
-**Then** el sistema muestra solo la información asociada.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP06</td>
 </tr>
 
@@ -2134,12 +2019,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US19</td>
 <td>Ver resumen general</td>
 <td>Como gestor operativo, quiero visualizar un resumen consolidado para tomar decisiones rápidas.</td>
-<td>
-<b>**Scenario 1: Dashboard global**</b><br>
-**Given** existen múltiples sedes activas,<br>
-**When** el usuario ingresa al panel general,<br>
-**Then** el sistema muestra métricas consolidadas.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP06</td>
 </tr>
 
@@ -2155,17 +2035,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS01</td>
 <td>API registrar usuario</td>
 <td>Como Developer, quiero consumir un endpoint de registro para crear cuentas desde clientes externos.</td>
-<td>
-<b>**Scenario 1: Request válido**</b><br>
-**Given** el request contiene datos válidos,<br>
-**When** se envía al endpoint de registro,<br>
-**Then** la API responde con creación exitosa.<br><br>
-
-<b>**Scenario 2: Request inválido**</b><br>
-**Given** faltan datos requeridos,<br>
-**When** se envía la solicitud,<br>
-**Then** la API responde con error de validación.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
@@ -2173,12 +2043,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS02</td>
 <td>API obtener sensores</td>
 <td>Como Developer, quiero consultar lecturas de sensores mediante la API.</td>
-<td>
-<b>**Scenario 1: Consulta exitosa**</b><br>
-**Given** existe un dispositivo registrado,<br>
-**When** se consulta el endpoint correspondiente,<br>
-**Then** la API devuelve el estado actual del sensor.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
@@ -2186,12 +2051,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS03</td>
 <td>API obtener sensores por usuario</td>
 <td>Como Developer, quiero obtener todos los sensores asociados a un usuario para que el frontend muestre los dispositivos conectados.</td>
-<td>
-<b>**Scenario 1: Consulta exitosa**</b><br>
-**Given** el usuario existe,<br>
-**When** se envía la solicitud,<br>
-**Then** la API devuelve la lista de sensores asociados.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
@@ -2199,12 +2059,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS04</td>
 <td>API generar alerta</td>
 <td>Como Developer, quiero registrar alertas mediante la API para almacenar incidentes y notificar eventos detectados.</td>
-<td>
-<b>**Scenario 1: Alerta creada**</b><br>
-**Given** se proporciona información válida de la alerta,<br>
-**When** la solicitud es procesada,<br>
-**Then** la API registra la alerta y devuelve confirmación.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
@@ -2212,12 +2067,167 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS05</td>
 <td>API consultar historial</td>
 <td>Como Developer, quiero obtener el historial de consumo para que el frontend genere gráficas y reportes.</td>
-<td>
-<b>**Scenario 1: Historial disponible**</b><br>
-**Given** existen registros almacenados,<br>
-**When** se ejecuta la solicitud,<br>
-**Then** la API devuelve los datos históricos ordenados por fecha.
-</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS06</td>
+<td>API iniciar sesión</td>
+<td>Como Developer, quiero autenticar usuarios mediante la API para permitir acceso seguro desde clientes web.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS07</td>
+<td>API cerrar sesión</td>
+<td>Como Developer, quiero invalidar la sesión actual mediante la API para cerrar acceso del usuario.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS08</td>
+<td>API recuperar contraseña</td>
+<td>Como Developer, quiero solicitar recuperación de contraseña mediante la API para restablecer acceso.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS09</td>
+<td>API registrar sensor</td>
+<td>Como Developer, quiero registrar sensores nuevos mediante la API para integrarlos al sistema.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS10</td>
+<td>API vincular sensor a usuario</td>
+<td>Como Developer, quiero asociar sensores a un usuario mediante la API para mostrar dispositivos asignados.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS11</td>
+<td>API actualizar lectura de sensor</td>
+<td>Como Developer, quiero enviar nuevas lecturas mediante la API para mantener información en tiempo real.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS12</td>
+<td>API desvincular sensor</td>
+<td>Como Developer, quiero quitar la relación entre un sensor y un usuario para reorganizar dispositivos.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS13</td>
+<td>API listar alertas</td>
+<td>Como Developer, quiero consultar alertas registradas mediante la API para mostrarlas en el panel.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS14</td>
+<td>API marcar alerta como atendida</td>
+<td>Como Developer, quiero actualizar el estado de una alerta para reflejar su atención.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS15</td>
+<td>API configurar umbrales</td>
+<td>Como Developer, quiero guardar límites de consumo o riesgo para personalizar detección de anomalías.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS16</td>
+<td>API reporte por fechas</td>
+<td>Como Developer, quiero consultar consumos por rango de fechas para generar reportes detallados.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS17</td>
+<td>API resumen de consumo</td>
+<td>Como Developer, quiero obtener métricas resumidas para mostrar indicadores rápidos en el panel.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS18</td>
+<td>API consultar planes</td>
+<td>Como Developer, quiero obtener los planes disponibles para mostrarlos en la aplicación y Landing Page.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS19</td>
+<td>API activar suscripción</td>
+<td>Como Developer, quiero registrar una suscripción para habilitar beneficios premium al usuario.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS20</td>
+<td>API cambiar suscripción</td>
+<td>Como Developer, quiero modificar el plan activo del usuario para actualizar beneficios contratados.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS21</td>
+<td>API registrar sede</td>
+<td>Como Developer, quiero crear sedes mediante la API para organizaciones con múltiples ubicaciones.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS22</td>
+<td>API sensores por sede</td>
+<td>Como Developer, quiero consultar sensores asociados a una sede para mostrar información segmentada.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS23</td>
+<td>API dashboard general</td>
+<td>Como Developer, quiero obtener métricas consolidadas de varias sedes para paneles ejecutivos.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS24</td>
+<td>API registrar bitácora de eventos</td>
+<td>Como Developer, quiero guardar eventos importantes del sistema para auditoría y seguimiento.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS25</td>
+<td>API validar permisos</td>
+<td>Como Developer, quiero verificar permisos del usuario antes de ejecutar acciones restringidas.</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
