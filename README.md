@@ -2887,8 +2887,20 @@ El Container Diagram presenta la descomposición del sistema en contenedores pri
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES3.png)
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES4.png)
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES5.png)
+
 ## 4.7. Software Object-Oriented Design
+
+The object-oriented design of the LowCortisol system is represented through two class diagrams: one for the backend and another for the frontend. This separation allows a clearer view of the responsibilities of each layer of the application.
+
 ### 4.7.1. Class Diagrams
+The backend class diagram describes the main domain entities, authentication components, persistence context, and application services. It includes elements such as `AppUser`, `AppDbContext`, `AuthService`, `DeviceService`, `Device`, `SmartValve`, `DeviceDetail`, `Report`, and `IDeviceRepository`. This diagram represents the business logic, data access, and authentication flow of the system.
+
+[Backend Class Diagram](https://github.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/blob/main/docs/backend-class-diagram.puml)
+
+The frontend class diagram represents the user interface structure and client-side services. It includes components such as `MainLayout`, `Home`, `Alerts`, `Devices`, `Valves`, `Reports`, `Profile`, `Login`, `Register`, `CircularRing`, as well as support services like `AppStateService`, `I18nService`, and `AuthService`. This diagram shows how the interface components interact with the application state and authentication features.
+
+[Frontend Class Diagram](https://github.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/blob/main/docs/frontend-class-diagram.puml)
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams.
 # Capitulo V: Product Implementation, Validation & Deployment
