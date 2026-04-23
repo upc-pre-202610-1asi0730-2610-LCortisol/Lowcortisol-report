@@ -2902,7 +2902,17 @@ The frontend class diagram represents the user interface structure and client-si
 ![Frontend Class Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/frontend-class-diagram.puml)
 
 ## 4.8. Database Design
-### 4.8.1. Database Diagrams.
+
+The LowCortisol application uses a relational database design focused on user account persistence and authentication. At the current stage of development, the system stores registered user information in a SQLite database through the `AppUser` entity. This design allows the application to persist essential account data such as name, email, phone number, encrypted password, and account type.
+
+The database design supports the registration and login processes, ensuring that user credentials are stored securely using password hashing instead of plain text passwords. In addition, the structure is simple and extensible, allowing future incorporation of other entities such as devices, valves, alerts, and reports if persistence for these modules is later required.
+
+### 4.8.1. Database Diagrams
+
+The current database diagram of the system is centered on the `AppUser` table, which stores authentication and profile data for each registered user.
+
+![Database Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/database-diagram.puml)
+
 # Capitulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
