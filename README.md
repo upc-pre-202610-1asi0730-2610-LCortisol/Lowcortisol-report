@@ -2833,7 +2833,7 @@ Event Storming es una técnica de modelado que nos permite identificar y organiz
 ![Diagrama Contexto](./assets/md-images-chapter4/DiagramaContexto.png)
 ### 4.6.3. Software Architecture Container Diagrams
 El Container Diagram presenta la descomposición del sistema en contenedores principales, mostrando cómo las  aplicaciones cliente, La API, los servicios de monitoreo, gestión de incidencias, administración de dispositivos y notificaciones colaboran o travian en conjunto para soportar el funcionamiento de la plataforma, integrando también los servicios externos de autenticación, notificación IoT, así como las bases de datos que almacena información de los distintos servicios.Cabe recalcar que la arquitectura propuesta prioriza una aplicación web, dejando la posibilidad de incorporar un cliente movile en futuras iteraciones.
-![Diagrama Contenedores](./assets/md-images-chapter4/DiagramaContenedores.png)
+![Diagrama Contenedores](./assets/md-images-chapter4/ContainersDiagram.png)
 ### 4.6.4. Software Architecture Components Diagrams
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES111.png)
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES2.png)
