@@ -80,7 +80,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 #### Link del repositorio de la Landing Page:
 
-- 
+- https://github.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-LadingPage.git
 
 #### Link del repositorio del Frontend:
 
@@ -238,7 +238,7 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
 
 ### 1.1.1. Descripción de la StartUp
 El presente informe pretende documentar el desarrollo del Startup “LowCortisol”, el cual busca mejorar la prevención y gestión de incidentes en tuberías de agua y gas mediante el uso de tecnología IoT y monitoreo en tiempo real.
-A través de su aplicativo también llamado “LowCortisol”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
+A través de la aplicación llamada “LowCortisol”, los usuarios podrán supervisar el estado de sus instalaciones, recibir alertas inmediatas ante fugas o anomalías y tomar acciones rápidas como cerrar válvulas de forma remota o solicitar soporte técnico.
 
 De este modo, la empresa busca reducir pérdidas económicas, prevenir riesgos para la salud y mejorar la seguridad en hogares, hoteles y otros establecimientos.
 Asimismo, la solución permitirá optimizar el consumo de recursos y fomentar una gestión más eficiente del agua y gas.
@@ -380,7 +380,7 @@ Intuitivo, moderno, accesible, con información clara y alertas fáciles de ente
 
 1. **Creo que mis clientes necesitan…** Una forma rápida, automática y confiable de detectar fugas y controlar su consumo de agua y gas.
 
-2. **Estas necesidades se pueden resolver con…** Un aplicativo conectado a sensores IoT que monitorean en tiempo real y generan alertas inteligentes.
+2. **Estas necesidades se pueden resolver con…** Una aplicación conectado a sensores IoT que monitorean en tiempo real y generan alertas inteligentes.
 
 3. **Mis clientes iniciales son…** Hogares y pequeños negocios preocupados por costos y seguridad.
 
@@ -398,7 +398,7 @@ Intuitivo, moderno, accesible, con información clara y alertas fáciles de ente
 
 10. **Mayor riesgo de producto…** Que los usuarios no comprendan el funcionamiento del sistema o no instalen correctamente los sensores.
 
-11. **Lo resolveremos con…** Guías de instalación, interfaz intuitiva y soporte desde el aplicativo.
+11. **Lo resolveremos con…** Guías de instalación, interfaz intuitiva y soporte desde la aplicación.
 
 12. **Otra suposición crítica…** Que los usuarios utilizarán el sistema de forma constante para monitorear su consumo.
 
@@ -1816,11 +1816,11 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 ## 3.1. User Stories
 <table>
 <tr>
-<th>**Epic / Story ID**</th>
-<th>**Título**</th>
-<th>**Descripción**</th>
-<th>**Criterios de Aceptación**</th>
-<th>**Relacionado con (Epic ID)**</th>
+<th>Epic / Story ID</th>
+<th>Título</th>
+<th>Descripción</th>
+<th>Criterios de Aceptación</th>
+<th>Relacionado con</th>
 </tr>
 
 <tr>
@@ -1835,17 +1835,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US01</td>
 <td>Registro de usuario</td>
 <td>Como visitante, quiero crear una cuenta para acceder a la plataforma.</td>
-<td>
-<b>**Scenario 1: Registro exitoso**</b><br>
-**Given** el visitante completa los datos obligatorios válidos,<br>
-**When** solicita registrarse,<br>
-**Then** el sistema crea la cuenta correctamente.<br><br>
-
-<b>**Scenario 2: Datos incompletos**</b><br>
-**Given** faltan campos obligatorios,<br>
-**When** intenta registrarse,<br>
-**Then** el sistema informa que existen datos pendientes.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1853,17 +1843,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US02</td>
 <td>Inicio de sesión</td>
 <td>Como usuario registrado, quiero iniciar sesión para acceder a mis funciones.</td>
-<td>
-<b>**Scenario 1: Credenciales válidas**</b><br>
-**Given** el usuario ingresa credenciales correctas,<br>
-**When** solicita acceso,<br>
-**Then** el sistema permite el ingreso.<br><br>
-
-<b>**Scenario 2: Credenciales inválidas**</b><br>
-**Given** los datos no coinciden,<br>
-**When** intenta ingresar,<br>
-**Then** el sistema rechaza el acceso.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1871,12 +1851,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US03</td>
 <td>Recuperar contraseña</td>
 <td>Como usuario, quiero recuperar mi contraseña para volver a ingresar a mi cuenta.</td>
-<td>
-<b>**Scenario 1: Solicitud exitosa**</b><br>
-**Given** el correo está registrado,<br>
-**When** el usuario solicita recuperación,<br>
-**Then** el sistema envía instrucciones al correo.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1884,12 +1859,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US04</td>
 <td>Cerrar sesión</td>
 <td>Como usuario, quiero cerrar sesión para proteger mi cuenta en dispositivos compartidos.</td>
-<td>
-<b>**Scenario 1: Logout**</b><br>
-**Given** el usuario tiene sesión iniciada,<br>
-**When** selecciona cerrar sesión,<br>
-**Then** el sistema finaliza la sesión activa.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1897,12 +1867,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US05</td>
 <td>Actualizar perfil</td>
 <td>Como usuario, quiero editar mis datos personales para mantener mi información actualizada.</td>
-<td>
-<b>**Scenario 1: Actualización exitosa**</b><br>
-**Given** el usuario accede a perfil,<br>
-**When** guarda nuevos datos válidos,<br>
-**Then** el sistema actualiza la información registrada.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP01</td>
 </tr>
 
@@ -1918,12 +1883,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US06</td>
 <td>Visualizar estado en tiempo real</td>
 <td>Como usuario, quiero ver el estado actual de agua y gas para detectar anomalías rápidamente.</td>
-<td>
-<b>**Scenario 1: Lecturas disponibles**</b><br>
-**Given** existen dispositivos vinculados,<br>
-**When** el usuario consulta el panel,<br>
-**Then** el sistema muestra lecturas actualizadas de consumo y estado.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP02</td>
 </tr>
 
@@ -1931,12 +1891,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US07</td>
 <td>Recibir alertas automáticas</td>
 <td>Como usuario, quiero recibir alertas inmediatas ante fugas o riesgos.</td>
-<td>
-<b>**Scenario 1: Evento crítico**</b><br>
-**Given** se detecta una anomalía,<br>
-**When** ocurre el evento,<br>
-**Then** el sistema envía una notificación automática al usuario.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP02</td>
 </tr>
 
@@ -1944,12 +1899,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US08</td>
 <td>Historial de consumo</td>
 <td>Como usuario, quiero revisar consumos anteriores para identificar excesos o patrones anormales.</td>
-<td>
-<b>**Scenario 1: Historial disponible**</b><br>
-**Given** existen registros históricos,<br>
-**When** el usuario consulta reportes,<br>
-**Then** el sistema muestra el historial almacenado.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP02</td>
 </tr>
 
@@ -1965,17 +1915,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US09</td>
 <td>Cerrar válvula remotamente</td>
 <td>Como usuario con plan compatible, quiero cerrar una válvula remotamente para reducir riesgos.</td>
-<td>
-<b>**Scenario 1: Acción autorizada**</b><br>
-**Given** el usuario tiene permisos y un dispositivo compatible,<br>
-**When** solicita el cierre remoto,<br>
-**Then** el sistema ejecuta la acción y registra el evento.<br><br>
-
-<b>**Scenario 2: Sin permisos**</b><br>
-**Given** el usuario no cuenta con permisos suficientes,<br>
-**When** intenta la acción,<br>
-**Then** el sistema bloquea la solicitud.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP03</td>
 </tr>
 
@@ -1983,12 +1923,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US10</td>
 <td>Solicitar soporte técnico</td>
 <td>Como usuario, quiero solicitar ayuda técnica para resolver incidencias complejas.</td>
-<td>
-<b>**Scenario 1: Solicitud generada**</b><br>
-**Given** existe una incidencia registrada,<br>
-**When** solicita soporte,<br>
-**Then** el sistema genera la solicitud correspondiente.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP03</td>
 </tr>
 
@@ -2004,17 +1939,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US11</td>
 <td>Visualizar planes disponibles</td>
 <td>Como visitante, quiero visualizar los planes disponibles para comparar beneficios y elegir el más adecuado.</td>
-<td>
-<b>**Scenario 1: Consulta de planes**</b><br>
-**Given** el visitante accede a la sección de planes,<br>
-**When** el sistema carga la información,<br>
-**Then** se muestran los planes con sus beneficios y precios.<br><br>
-
-<b>**Scenario 2: Información clara**</b><br>
-**Given** existen varios planes registrados,<br>
-**When** el visitante revisa la información,<br>
-**Then** cada plan presenta características diferenciadas.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP04</td>
 </tr>
 
@@ -2022,17 +1947,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US12</td>
 <td>Suscribirse a un plan</td>
 <td>Como usuario registrado, quiero contratar un plan para acceder a funciones premium.</td>
-<td>
-<b>**Scenario 1: Suscripción exitosa**</b><br>
-**Given** el usuario tiene una cuenta activa,<br>
-**When** selecciona un plan y confirma la compra,<br>
-**Then** el sistema activa la suscripción correspondiente.<br><br>
-
-<b>**Scenario 2: Error en pago**</b><br>
-**Given** el método de pago es rechazado,<br>
-**When** el usuario intenta completar la compra,<br>
-**Then** el sistema informa que no fue posible procesar la suscripción.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP04</td>
 </tr>
 
@@ -2040,12 +1955,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US13</td>
 <td>Cambiar de plan</td>
 <td>Como usuario suscrito, quiero cambiar de plan para adaptar el servicio a mis nuevas necesidades.</td>
-<td>
-<b>**Scenario 1: Upgrade**</b><br>
-**Given** el usuario tiene un plan activo,<br>
-**When** selecciona un plan superior,<br>
-**Then** el sistema actualiza los beneficios disponibles.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP04</td>
 </tr>
 
@@ -2061,12 +1971,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US14</td>
 <td>Ver propuesta de valor</td>
 <td>Como visitante, quiero entender rápidamente el beneficio principal del producto para decidir si me interesa.</td>
-<td>
-<b>**Scenario 1: Contenido visible**</b><br>
-**Given** el visitante ingresa al sitio,<br>
-**When** se carga la página principal,<br>
-**Then** se presenta claramente la propuesta de valor del producto.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP05</td>
 </tr>
 
@@ -2074,12 +1979,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US15</td>
 <td>Navegar por secciones informativas</td>
 <td>Como visitante, quiero revisar información del producto para conocer funcionalidades y beneficios.</td>
-<td>
-<b>**Scenario 1: Navegación**</b><br>
-**Given** el visitante accede al menú principal,<br>
-**When** selecciona una sección,<br>
-**Then** el sistema desplaza o redirige al contenido solicitado.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP05</td>
 </tr>
 
@@ -2087,12 +1987,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US16</td>
 <td>Redirección a registro</td>
 <td>Como visitante, quiero registrarme desde la Landing Page para comenzar a usar la plataforma.</td>
-<td>
-<b>**Scenario 1: CTA funcional**</b><br>
-**Given** el visitante visualiza un botón de acción,<br>
-**When** hace clic en registrarse,<br>
-**Then** el sistema lo redirige al formulario de registro.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP05</td>
 </tr>
 
@@ -2108,12 +2003,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US17</td>
 <td>Registrar múltiples sedes</td>
 <td>Como administrador de organización, quiero registrar varias sedes para monitorear diferentes instalaciones.</td>
-<td>
-<b>**Scenario 1: Registro correcto**</b><br>
-**Given** el administrador tiene permisos activos,<br>
-**When** registra una nueva sede,<br>
-**Then** la sede queda disponible en el sistema.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP06</td>
 </tr>
 
@@ -2121,12 +2011,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US18</td>
 <td>Filtrar datos por sede</td>
 <td>Como gestor operativo, quiero filtrar información por sede para analizar incidencias específicas.</td>
-<td>
-<b>**Scenario 1: Filtro aplicado**</b><br>
-**Given** existen varias sedes registradas,<br>
-**When** el usuario selecciona una sede,<br>
-**Then** el sistema muestra solo la información asociada.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP06</td>
 </tr>
 
@@ -2134,12 +2019,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US19</td>
 <td>Ver resumen general</td>
 <td>Como gestor operativo, quiero visualizar un resumen consolidado para tomar decisiones rápidas.</td>
-<td>
-<b>**Scenario 1: Dashboard global**</b><br>
-**Given** existen múltiples sedes activas,<br>
-**When** el usuario ingresa al panel general,<br>
-**Then** el sistema muestra métricas consolidadas.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP06</td>
 </tr>
 
@@ -2155,17 +2035,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS01</td>
 <td>API registrar usuario</td>
 <td>Como Developer, quiero consumir un endpoint de registro para crear cuentas desde clientes externos.</td>
-<td>
-<b>**Scenario 1: Request válido**</b><br>
-**Given** el request contiene datos válidos,<br>
-**When** se envía al endpoint de registro,<br>
-**Then** la API responde con creación exitosa.<br><br>
-
-<b>**Scenario 2: Request inválido**</b><br>
-**Given** faltan datos requeridos,<br>
-**When** se envía la solicitud,<br>
-**Then** la API responde con error de validación.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
@@ -2173,12 +2043,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS02</td>
 <td>API obtener sensores</td>
 <td>Como Developer, quiero consultar lecturas de sensores mediante la API.</td>
-<td>
-<b>**Scenario 1: Consulta exitosa**</b><br>
-**Given** existe un dispositivo registrado,<br>
-**When** se consulta el endpoint correspondiente,<br>
-**Then** la API devuelve el estado actual del sensor.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
@@ -2186,12 +2051,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS03</td>
 <td>API obtener sensores por usuario</td>
 <td>Como Developer, quiero obtener todos los sensores asociados a un usuario para que el frontend muestre los dispositivos conectados.</td>
-<td>
-<b>**Scenario 1: Consulta exitosa**</b><br>
-**Given** el usuario existe,<br>
-**When** se envía la solicitud,<br>
-**Then** la API devuelve la lista de sensores asociados.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
@@ -2199,12 +2059,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS04</td>
 <td>API generar alerta</td>
 <td>Como Developer, quiero registrar alertas mediante la API para almacenar incidentes y notificar eventos detectados.</td>
-<td>
-<b>**Scenario 1: Alerta creada**</b><br>
-**Given** se proporciona información válida de la alerta,<br>
-**When** la solicitud es procesada,<br>
-**Then** la API registra la alerta y devuelve confirmación.
-</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
@@ -2212,12 +2067,167 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>TS05</td>
 <td>API consultar historial</td>
 <td>Como Developer, quiero obtener el historial de consumo para que el frontend genere gráficas y reportes.</td>
-<td>
-<b>**Scenario 1: Historial disponible**</b><br>
-**Given** existen registros almacenados,<br>
-**When** se ejecuta la solicitud,<br>
-**Then** la API devuelve los datos históricos ordenados por fecha.
-</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS06</td>
+<td>API iniciar sesión</td>
+<td>Como Developer, quiero autenticar usuarios mediante la API para permitir acceso seguro desde clientes web.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS07</td>
+<td>API cerrar sesión</td>
+<td>Como Developer, quiero invalidar la sesión actual mediante la API para cerrar acceso del usuario.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS08</td>
+<td>API recuperar contraseña</td>
+<td>Como Developer, quiero solicitar recuperación de contraseña mediante la API para restablecer acceso.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS09</td>
+<td>API registrar sensor</td>
+<td>Como Developer, quiero registrar sensores nuevos mediante la API para integrarlos al sistema.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS10</td>
+<td>API vincular sensor a usuario</td>
+<td>Como Developer, quiero asociar sensores a un usuario mediante la API para mostrar dispositivos asignados.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS11</td>
+<td>API actualizar lectura de sensor</td>
+<td>Como Developer, quiero enviar nuevas lecturas mediante la API para mantener información en tiempo real.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS12</td>
+<td>API desvincular sensor</td>
+<td>Como Developer, quiero quitar la relación entre un sensor y un usuario para reorganizar dispositivos.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS13</td>
+<td>API listar alertas</td>
+<td>Como Developer, quiero consultar alertas registradas mediante la API para mostrarlas en el panel.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS14</td>
+<td>API marcar alerta como atendida</td>
+<td>Como Developer, quiero actualizar el estado de una alerta para reflejar su atención.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS15</td>
+<td>API configurar umbrales</td>
+<td>Como Developer, quiero guardar límites de consumo o riesgo para personalizar detección de anomalías.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS16</td>
+<td>API reporte por fechas</td>
+<td>Como Developer, quiero consultar consumos por rango de fechas para generar reportes detallados.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS17</td>
+<td>API resumen de consumo</td>
+<td>Como Developer, quiero obtener métricas resumidas para mostrar indicadores rápidos en el panel.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS18</td>
+<td>API consultar planes</td>
+<td>Como Developer, quiero obtener los planes disponibles para mostrarlos en la aplicación y Landing Page.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS19</td>
+<td>API activar suscripción</td>
+<td>Como Developer, quiero registrar una suscripción para habilitar beneficios premium al usuario.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS20</td>
+<td>API cambiar suscripción</td>
+<td>Como Developer, quiero modificar el plan activo del usuario para actualizar beneficios contratados.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS21</td>
+<td>API registrar sede</td>
+<td>Como Developer, quiero crear sedes mediante la API para organizaciones con múltiples ubicaciones.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS22</td>
+<td>API sensores por sede</td>
+<td>Como Developer, quiero consultar sensores asociados a una sede para mostrar información segmentada.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS23</td>
+<td>API dashboard general</td>
+<td>Como Developer, quiero obtener métricas consolidadas de varias sedes para paneles ejecutivos.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS24</td>
+<td>API registrar bitácora de eventos</td>
+<td>Como Developer, quiero guardar eventos importantes del sistema para auditoría y seguimiento.</td>
+<td>Ver criterios definidos previamente.</td>
+<td>EP07</td>
+</tr>
+
+<tr>
+<td>TS25</td>
+<td>API validar permisos</td>
+<td>Como Developer, quiero verificar permisos del usuario antes de ejecutar acciones restringidas.</td>
+<td>Ver criterios definidos previamente.</td>
 <td>EP07</td>
 </tr>
 
@@ -2675,7 +2685,7 @@ IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitor
 
   En esta propuesta se evidencia la aplicación de principios de diseño, elementos visuales, diseño inclusivo, arquitectura de información y el sistema de diseño establecido para el producto digital.
 
-
+   ##### Landing Page Mock-up para Web Browser 
   <p align="center">
     <img src="assets/md-images-chapter4/Landing-Page-Mock-up.PNG" width="800"/> <br>
     <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Benefit.PNG" width="800"/><br>
@@ -2684,6 +2694,18 @@ IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitor
     <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Segments.PNG" width="800"/> <br>
     <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Payment.PNG" width="800"/> <br>
     <img src="assets/md-images-chapter4/Landing-Page-Mock-up-Contact.PNG" width="800"/> <br>
+  </p>
+    
+   ##### Landing Page Mock-up para Mobile Web Browser 
+
+  <p align="center">
+    <img src="assets/md-images-chapter4//Landing-Page-Movil-Mock-up.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Benefit.PNG" width="380"/><br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Features.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-About.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Segments.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Payment.PNG" width="380"/> <br>
+    <img src="assets/md-images-chapter4/Landing-Page-Movil-Mock-up-Contact.PNG" width="380"/> <br>
   </p>
     
 
@@ -2697,51 +2719,71 @@ accesibilidad de los controles de seguridad.
 
 Inicio: Pantalla de autenticacion diseñada para el acceso seguro de usuarios registrados mediante credenciales de correo y contraseña.
 
-![Inicio-Aplication-Wireframe](assets/md-images-chapter4/Application-Web-Wireframe-Inicio.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Inicio.png" alt="Inicio-Aplication-Wireframe">
+</p>
 
 Register: Formulario de captura de datos para nuevos usuarios que permite la segmentacion segun el tipo de cuenta (Hogar u Organizacion).
 
-![Register-Aplication-Wireframe](assets/md-images-chapter4/Application-Web-Wireframe-Register.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Register.png" alt="Register-Aplication-Wireframe">
+</p>
 
 Dashboard: Panel principal que muestra el estado global de seguridad y las metricas en tiempo real de agua y gas con un boton de apagado de emergencia.
 
-![Dashboard-Aplication-Wireframe](assets/md-images-chapter4/Application-Web-Wireframe-Dashboard.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Dashboard.png" alt="Dashboard-Aplication-Wireframe">
+</p>
 
 Alertas: Listado cronologico de notificaciones e incidentes detectados, permitiendo al usuario identificar rapidamente la ubicacion y severidad del evento.
 
-![Alertas-Aplication-Wireframe](assets/md-images-chapter4/Application-Web-Wireframe-Alerts.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Alerts.png" alt="Alertas-Aplication-Wireframe">
+</p>
 
 Controls: Interfaz de gestion operativa para el accionamiento individual de valvulas y seleccion entre modo de control automatico o manual.
 
-![Controls-Aplication-Wireframe](assets/md-images-chapter4/Application-Web-Wireframe-Controls.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Controls.png" alt="Controls-Aplication-Wireframe">
+</p>
 
 Profile: Seccion dedicada a la gestion de informacion personal del usuario, preferencias de la cuenta y opciones de cierre de sesion.
 
-![Profile-Aplication-Wireframe](assets/md-images-chapter4/Application-Web-Wireframe-Profile.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Profile.png" alt="Profile-Aplication-Wireframe">
+</p>
 
 Devices: Modulo de administracion de hardware donde se monitorea el estado de bateria, señal y conectividad de cada sensor IoT vinculado.
 
-![Devices-Aplication-Wireframe](assets/md-images-chapter4/Application-Web-Wireframe-Devices.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Devices.png" alt="Devices-Aplication-Wireframe">
+</p>
 
 Reports: Visualizacion de datos historicos mediante graficas de consumo y herramientas para la exportacion de informes detallados en formato PDF.
 
-![History-Aplication-Wireframe](assets/md-images-chapter4/Application-Web-Wireframe-Reports.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Reports.png" alt="History-Aplication-Wireframe">
+</p>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (wireframes) necesarios para las esperadas expectativas de nuestros segmentos objetivo.
 
----
 
-![History-Aplication-Wireframe](assets/md-images-chapter4/Application-Web-Wireflow.png)
-<<<<<<< Updated upstream
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-Wireflow.png" alt="History-Aplication-Wireframe">
+</p>
+
 ### 4.4.3. Web Applications Mock-ups
 
 ## 1. Pantalla de Inicio de Sesión
 * **Propósito:** Interfaz de acceso para usuarios registrados.
 * **Elementos clave:** Campos para correo electrónico (`you@example.com`) y contraseña, botón de "Sign in" y enlace de acceso a la pantalla de creación de cuenta.
 
-![Inicio-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Inicio.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Inicio.png" alt="Inicio-Application-MockUp">
+</p>
+
 
 ---
 
@@ -2749,7 +2791,11 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 * **Propósito:** Formulario de alta para nuevos usuarios en la plataforma.
 * **Elementos clave:** Campos de entrada para nombre, correo, teléfono y contraseña, selector de "Account type" y botones de acción para crear cuenta o volver al inicio.
 
-![Register-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Register.png)
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Register.png.png" alt="Register-Application-MockUp">
+</p>
+
 
 ---
 
@@ -2757,7 +2803,9 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 * **Propósito:** Visualización en tiempo real del estado de los sistemas del hogar.
 * **Elementos clave:** Indicadores de estado de agua y gas (porcentaje de apertura), controles táctiles para alternar válvulas y botón de emergencia "Emergency shut-off".
 
-![Dashboard-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Dashboard.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Dashboard.png" alt="Dashboard-Application-MockUp">
+</p>
 
 ---
 
@@ -2765,7 +2813,9 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 * **Propósito:** Gestión y visualización de incidencias detectadas en el sistema.
 * **Elementos clave:** Registro cronológico de alertas (fugas, presión, batería baja, estado de conexión) con indicación de antigüedad.
 
-![Alerts-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Alerts.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Alerts.png" alt="Alerts-Application-MockUp">
+</p>
 
 ---
 
@@ -2773,7 +2823,9 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 * **Propósito:** Configuración personalizada y control manual o automático de los dispositivos.
 * **Elementos clave:** Interruptores de activación por dispositivo y control deslizante para ajustar el umbral de auto-apagado ("Auto-shut threshold") de cada válvula.
 
-![Controls-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Controls.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Controls.png" alt="Controls-Application-MockUp">
+</p>
 
 ---
 
@@ -2781,7 +2833,9 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 * **Propósito:** Gestión de la información personal y ajustes de la cuenta.
 * **Elementos clave:** Visualización de los datos del usuario (Jean Franck Loa Rojas), acceso a secciones de dispositivos, reportes y configuración, además del botón de cierre de sesión.
 
-![Profile-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Profile.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Profile.png" alt="Profile-Application-MockUp">
+</p>
 
 ---
 
@@ -2789,7 +2843,9 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 * **Propósito:** Administración y verificación del hardware conectado.
 * **Elementos clave:** Listado detallado de dispositivos (válvulas, sensores, hub) indicando si están en línea o fuera de línea, con opción para añadir nuevos dispositivos.
 
-![Devices-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Devices.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Devices.png" alt="Devices-Application-MockUp">
+</p>
 
 ---
 
@@ -2797,7 +2853,9 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 * **Propósito:** Análisis del historial de uso de recursos.
 * **Elementos clave:** Totales acumulados de agua y gas, visualización gráfica de consumo, selectores de rango temporal (7D, 30D, 90D) y opciones para filtrar y exportar los reportes.
 
-![Reports-Application-MockUp](assets/md-images-chapter4/Application-Web-MockUp-Reports.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Reports.png" alt="Reports-Application-MockUp">
+</p>
 
 ---
 
@@ -2805,9 +2863,22 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 
 El flujo inicia con el acceso del usuario a la plataforma, seguido de procesos clave como la navegación entre secciones, la interacción con funcionalidades principales y la obtención de resultados esperados. Asimismo, se contemplan escenarios alternativos y puntos de decisión que influyen en la experiencia del usuario, permitiendo comprender cómo se gestionan diferentes situaciones dentro del sistema.
 
-![UserFlowDiagram](assets/md-images-chapter4/UserFlowDiagram.png)
+<p align="center">
+  <img src="assets/md-images-chapter4/UserFlowDiagram.png" alt="UserFlowDiagram">
+</p>
 
 ## 4.5. Web Applications Prototyping
+
+La fase de prototipado de la aplicación web LowCortisol se centró en definir la estructura visual, el flujo de navegación y la lógica de interacción del sistema antes de completar todas las funcionalidades y características de persistencia. El prototipo fue diseñado como una aplicación web responsive con enfoque mobile-first, simulando la experiencia de una plataforma de monitoreo y control de válvulas inteligentes.
+
+Durante esta fase, se diseñaron y refinaron las principales interfaces de usuario del sistema, incluyendo las pantallas de autenticación, el panel principal, la vista de alertas, la gestión de válvulas, la gestión de dispositivos, los reportes y las páginas de perfil. El prototipo permitió al equipo validar la consistencia de la interfaz de usuario, el soporte multilenguaje, la usabilidad de la barra de navegación y la interacción de componentes como los indicadores circulares, las tarjetas de estado de dispositivos y los gráficos de reportes.
+
+El proceso de prototipado también ayudó a identificar ajustes visuales, problemas de alineación y mejoras de diseño responsive en varias pantallas. Además, proporcionó una base funcional para integrar servicios de autenticación, internacionalización y gestión del estado de la aplicación. Como resultado, el prototipo evolucionó de un mockup visual estático a una aplicación web interactiva con navegación e interacción real del usuario.
+
+Las siguientes figuras presentan las principales pantallas del prototipo de la aplicación web LowCortisol.
+
+Link de presentación: https://1drv.ms/v/c/0e85bddd31a5a6b2/IQCgw5EGwS0wRoInGuRjHuy6AWZzj81eh2iPlIBeVCZmFHE?e=TuLRn4
+
 ## 4.6. Domain-Driven Software Architecture
 Event Storming es una técnica de modelado que nos permite identificar y organizar los eventos relevantes del dominio de negocio, es decir, aquellos hechos importantes que ocurren dentro del sistema. A través de este modelo analizamos procesos de negocio mediante eventos, comandos, políticas, paint poins, read models, aggregates y bounded contexts, lo que facilita comprender más clara la aquitectura del software
 ![Event Storming](./assets/md-images-chapter4/EventS1.png)
@@ -2840,21 +2911,137 @@ El Container Diagram presenta la descomposición del sistema en contenedores pri
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES3.png)
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES4.png)
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES5.png)
+
 ## 4.7. Software Object-Oriented Design
+
+The object-oriented design of the LowCortisol system is represented through two class diagrams: one for the backend and another for the frontend. This separation allows a clearer view of the responsibilities of each layer of the application.
+
 ### 4.7.1. Class Diagrams
+The backend class diagram describes the main domain entities, authentication components, persistence context, and application services. It includes elements such as `AppUser`, `AppDbContext`, `AuthService`, `DeviceService`, `Device`, `SmartValve`, `DeviceDetail`, `Report`, and `IDeviceRepository`. This diagram represents the business logic, data access, and authentication flow of the system.
+
+![Backend Class Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/backend-class-diagram.puml)
+
+The frontend class diagram represents the user interface structure and client-side services. It includes components such as `MainLayout`, `Home`, `Alerts`, `Devices`, `Valves`, `Reports`, `Profile`, `Login`, `Register`, `CircularRing`, as well as support services like `AppStateService`, `I18nService`, and `AuthService`. This diagram shows how the interface components interact with the application state and authentication features.
+
+![Frontend Class Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/frontend-class-diagram.puml)
+
 ## 4.8. Database Design
-### 4.8.1. Database Diagrams.
+
+The LowCortisol application uses a relational database design focused on user account persistence and authentication. At the current stage of development, the system stores registered user information in a SQLite database through the `AppUser` entity. This design allows the application to persist essential account data such as name, email, phone number, encrypted password, and account type.
+
+The database design supports the registration and login processes, ensuring that user credentials are stored securely using password hashing instead of plain text passwords. In addition, the structure is simple and extensible, allowing future incorporation of other entities such as devices, valves, alerts, and reports if persistence for these modules is later required.
+
+### 4.8.1. Database Diagrams
+
+The current database diagram of the system is centered on the `AppUser` table, which stores authentication and profile data for each registered user.
+
+![Database Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/database-diagram.puml)
+
 # Capitulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
+
+Software configuration management in the **LowCortisol** project was applied to ensure version control, environment consistency, traceability of changes, and collaborative development practices. This process made it possible to maintain the source code in an organized way, control modifications throughout the project lifecycle, and guarantee that the application could be built and executed under a defined development environment.
+
 ### 5.1.1. Software Development Environment Configuration
+
+The development environment for **LowCortisol** was configured to support the implementation of a responsive web application based on **ASP.NET Core / Blazor**, following a layered structure with separate projects for domain, application, infrastructure, and web presentation.
+
+The main tools and technologies used in the environment configuration were:
+
+- **JetBrains Rider** as the main IDE for development and project management.
+- **.NET 9 SDK** as the framework and runtime for the application.
+- **ASP.NET Core Blazor** for the web user interface and interactive components.
+- **SQLite** for local data persistence, especially for authentication and account registration.
+- **Entity Framework Core** for database access and context management.
+- **Git** for local version control.
+- **GitHub** for remote repository hosting and source code synchronization.
+- **PlantUML** for generating software design diagrams such as class diagrams and database diagrams.
+
+The project was structured as a multi-layer solution including the following main modules:
+
+- `LowCortisol.Domain`
+- `LowCortisol.Application`
+- `LowCortisol.Infrastructure`
+- `LowCortisol.Web`
+
+This organization allowed the team to separate business entities, services, persistence concerns, and presentation logic, improving maintainability and scalability.
+
+In addition, the environment was configured with external packages and dependencies such as:
+
+- `Microsoft.EntityFrameworkCore`
+- `Microsoft.EntityFrameworkCore.Sqlite`
+- `BCrypt.Net-Next`
+
+These dependencies were used to implement secure authentication, local database persistence, and password hashing.
+
 ### 5.1.2. Source Code Management
+
+Source code management for **LowCortisol** was carried out using **Git** as the distributed version control system and **GitHub** as the remote collaboration platform.
+
+The repository was used to store and manage all project artifacts, including source code, documentation, diagrams, configuration files, and static resources. Git operations such as branch creation, commits, merges, fetch, pull, and push were used to maintain version traceability and support iterative development.
+
+The main repository workflow included:
+
+- Creating branches for specific features or fixes.
+- Committing meaningful changes with descriptive messages.
+- Synchronizing the local repository with the remote repository in GitHub.
+- Maintaining the main branch as the stable integration branch.
+- Tracking project evolution through version history.
+
+This strategy allowed the team to preserve a clear history of changes, recover previous versions when necessary, and maintain a controlled evolution of the application throughout development.
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Se definen los estándares de codificación para garantizar la fiabilidad del sistema de monitoreo de agua y gas. La claridad en el código es fundamental para la gestión de alertas críticas y el control de dispositivos IoT.
+
+#### Reglas Generales
+* **Idioma:** Todo el código (variables, funciones, clases, comentarios y archivos) debe escribirse estrictamente en **inglés**.
+* **Nomenclatura Semántica:** Se deben usar nombres descriptivos relacionados con el dominio (ej. `pressureSensor`, `leakDetection`, `valveStatus`).
+* **Formato:** Uso obligatorio de herramientas de linting para mantener la consistencia en todo el repositorio.
+
+#### Estándares por Lenguaje
+
+| Lenguaje | Guía de Estilo | Convención de Naming | Indentación |
+| :--- | :--- | :--- | :--- |
+| **HTML** | W3C / Google | kebab-case (clases) | 2 espacios |
+| **CSS** | BEM / Airbnb | kebab-case | 2 espacios |
+| **JavaScript** | Airbnb Guide | camelCase | 2 espacios |
+| **Vue.js** | Vue Style Guide | PascalCase (Componentes) | 2 espacios |
+| **C#** | Microsoft Standard | PascalCase (Clases/Métodos) | 4 espacios |
+
+#### Lineamientos Específicos
+* **Vue.js:** Los nombres de componentes deben ser PascalCase y tener al menos dos palabras (ej. `SensorAlert.vue`, `ValveControl.vue`).
+* **C#:** Los métodos de monitoreo en tiempo real deben ser asíncronos y llevar el sufijo `Async` (ej. `ProcessTelemetryAsync`).
+* **Variables:** Se prohíbe el uso de `var` en JS; usar `const` para lecturas de sensores fijas y `let` solo si el valor cambia.
+* **Semántica HTML:** Uso obligatorio de etiquetas `<header>`, `<main>`, `<section>` y atributos `aria-label` para los tableros de control técnico.
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint n 
-#### 5.2.X.1. Sprint Planning n
-#### 5.2.X.2. Aspect Leaders and Collaborators
-#### 5.2.X.3. Sprint Backlog n. 
+### 5.2.1. Sprint 1 
+#### 5.2.1.1. Sprint Planning 1
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 1, la ejecución del proyecto se estructuró bajo un modelo de 
+responsabilidad compartida, dividiendo el trabajo en tres frentes críticos para 
+asegurar el cumplimiento de los objetivos iniciales del sistema de monitoreo IoT.
+Estos aspectos comprenden el desarrollo del **Landing Page** responsivo para la 
+presentación de los planes Hogar, Smart y Full Service; la elaboración de la **Documentación** 
+técnica y administrativa; y la definición de las **Epics** en el backlog, las cuales sientan 
+las bases funcionales de la detección de anomalías en tuberías. Cada aspecto fue encabezado 
+por un líder responsable de la calidad final del entregable, apoyado por la colaboración activa 
+del resto del equipo.
+
+A continuación, se presenta la Matriz LACX (Leader/Collaborator) que 
+detalla la distribución de roles para este primer ciclo:
+
+| Team Member (Last Name, First Name) | GitHub Username       | Aspect 1: Landing Page | Aspect 2: Documentación | Aspect 3: Epics |
+| :--- |:----------------------| :---: |:-----------------------:| :---: |
+| Condori Torres, Miguel Anibal | @Miguel1323z          | **L** |            **L**            | C |
+| Delgado Perez, James Caleb | @JAmsy06              | C |            C            | C |
+| Loa Rojas, Jean Franck | @JeanLoa              | C |            C            | **L** |
+| Montalvo Vasquez, Bruno Rodrigo | @TartaroZ              | C |            C            | C |
+| Quiliano Motta, Kirk Douglas | @Kirkcito             | C |            C            | C |
+
+#### 5.2.1.3. Sprint Backlog 1. 
 #### 5.2.X.4. Development Evidence for Sprint Review
 #### 5.2.X.5. Execution Evidence for Sprint Review
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
