@@ -2809,6 +2809,10 @@ El flujo inicia con el acceso del usuario a la plataforma, seguido de procesos c
 
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
+Event Storming es una técnica de modelado que nos permite identificar y organizar los eventos relevantes del dominio de negocio, es decir, aquellos hechos importantes que ocurren dentro del sistema. A través de este modelo analizamos procesos de negocio mediante eventos, comandos, políticas, paint poins, read models, aggregates y bounded contexts, lo que facilita comprender más clara la aquitectura del software
+![Event Storming](./assets/md-images-chapter4/EventS1.png)
+![Event Storming](./assets/md-images-chapter4/EventS2.png)
+![Event Storming](./assets/md-images-chapter4/EventS3.png)
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
 **Elementos:**
