@@ -2913,68 +2913,70 @@ The frontend class diagram represents the user interface structure and client-si
 
 ## 4.8. Database Design
 
-The LowCortisol application uses a relational database design focused on user account persistence and authentication. At the current stage of development, the system stores registered user information in a SQLite database through the `AppUser` entity. This design allows the application to persist essential account data such as name, email, phone number, encrypted password, and account type.
+La aplicación **LowCortisol** emplea un diseño de base de datos relacional orientado principalmente a la persistencia de cuentas de usuario y al proceso de autenticación. En la etapa actual del desarrollo, el sistema registra la información de los usuarios en una base de datos SQLite a través de la entidad `AppUser`. Esta estructura permite almacenar datos esenciales de cada cuenta, como el nombre, correo electrónico, número de teléfono, contraseña cifrada y tipo de usuario.
 
-The database design supports the registration and login processes, ensuring that user credentials are stored securely using password hashing instead of plain text passwords. In addition, the structure is simple and extensible, allowing future incorporation of other entities such as devices, valves, alerts, and reports if persistence for these modules is later required.
+Este diseño respalda las funcionalidades de registro e inicio de sesión, garantizando que las credenciales se almacenen de forma segura mediante técnicas de hash de contraseñas, en lugar de texto plano. Asimismo, la estructura actual fue planteada de manera simple pero escalable, de modo que en futuras etapas puedan añadirse nuevas entidades, como dispositivos, válvulas, alertas y reportes, en caso de que dichos módulos requieran persistencia de datos.
 
 ### 4.8.1. Database Diagrams
 
-The current database diagram of the system is centered on the `AppUser` table, which stores authentication and profile data for each registered user.
+El diagrama de base de datos actual del sistema se encuentra centrado en la tabla `AppUser`, la cual concentra la información relacionada con la autenticación y el perfil de cada usuario registrado.
 
 ![Database Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/database-diagram.puml)
 
-# Capitulo V: Product Implementation, Validation & Deployment
+# Chapter V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
 
-Software configuration management in the **LowCortisol** project was applied to ensure version control, environment consistency, traceability of changes, and collaborative development practices. This process made it possible to maintain the source code in an organized way, control modifications throughout the project lifecycle, and guarantee that the application could be built and executed under a defined development environment.
+La gestión de la configuración del software en el proyecto **LowCortisol** se aplicó con el propósito de asegurar el control de versiones, la consistencia del entorno de desarrollo, la trazabilidad de los cambios y la correcta colaboración entre los integrantes del equipo. Gracias a este proceso, fue posible mantener el código fuente de manera ordenada, supervisar las modificaciones realizadas durante el ciclo de vida del proyecto y garantizar que la aplicación pudiera compilarse y ejecutarse dentro de un entorno previamente definido.
 
 ### 5.1.1. Software Development Environment Configuration
 
-The development environment for **LowCortisol** was configured to support the implementation of a responsive web application based on **ASP.NET Core / Blazor**, following a layered structure with separate projects for domain, application, infrastructure, and web presentation.
+El entorno de desarrollo de **LowCortisol** fue preparado para soportar la construcción de una aplicación web responsiva basada en **ASP.NET Core / Blazor**, siguiendo una arquitectura por capas con proyectos independientes para dominio, aplicación, infraestructura y presentación web.
 
-The main tools and technologies used in the environment configuration were:
+Entre las principales herramientas y tecnologías utilizadas en esta configuración se encuentran:
 
-- **JetBrains Rider** as the main IDE for development and project management.
-- **.NET 9 SDK** as the framework and runtime for the application.
-- **ASP.NET Core Blazor** for the web user interface and interactive components.
-- **SQLite** for local data persistence, especially for authentication and account registration.
-- **Entity Framework Core** for database access and context management.
-- **Git** for local version control.
-- **GitHub** for remote repository hosting and source code synchronization.
-- **PlantUML** for generating software design diagrams such as class diagrams and database diagrams.
+- **JetBrains Rider** como entorno de desarrollo principal y herramienta de gestión del proyecto.
+- **.NET 9 SDK** como framework y entorno de ejecución de la aplicación.
+- **ASP.NET Core Blazor** para el desarrollo de la interfaz web y los componentes interactivos.
+- **SQLite** como sistema de persistencia local de datos, especialmente para el registro de usuarios y la autenticación.
+- **Entity Framework Core** para el acceso a la base de datos y la administración del contexto.
+- **Git** como sistema de control de versiones local.
+- **GitHub** como plataforma remota para alojar el repositorio y sincronizar el código fuente.
+- **PlantUML** para la elaboración de diagramas de diseño de software, como diagramas de clases y de base de datos.
 
-The project was structured as a multi-layer solution including the following main modules:
+El proyecto se organizó como una solución multicapa compuesta por los siguientes módulos principales:
 
 - `LowCortisol.Domain`
 - `LowCortisol.Application`
 - `LowCortisol.Infrastructure`
 - `LowCortisol.Web`
 
-This organization allowed the team to separate business entities, services, persistence concerns, and presentation logic, improving maintainability and scalability.
+Esta organización permitió separar claramente las entidades del negocio, los servicios de aplicación, las responsabilidades de persistencia y la lógica de presentación, favoreciendo así la mantenibilidad y la escalabilidad del sistema.
 
-In addition, the environment was configured with external packages and dependencies such as:
+Adicionalmente, el entorno incorporó paquetes y dependencias externas como:
 
 - `Microsoft.EntityFrameworkCore`
 - `Microsoft.EntityFrameworkCore.Sqlite`
 - `BCrypt.Net-Next`
 
-These dependencies were used to implement secure authentication, local database persistence, and password hashing.
+Estas dependencias fueron fundamentales para implementar mecanismos de autenticación segura, persistencia local de datos y cifrado de contraseñas mediante hashing.
 
 ### 5.1.2. Source Code Management
 
-Source code management for **LowCortisol** was carried out using **Git** as the distributed version control system and **GitHub** as the remote collaboration platform.
+La gestión del código fuente de **LowCortisol** se realizó mediante **Git** como sistema de control de versiones distribuido y **GitHub** como plataforma de colaboración remota.
 
-The repository was used to store and manage all project artifacts, including source code, documentation, diagrams, configuration files, and static resources. Git operations such as branch creation, commits, merges, fetch, pull, and push were used to maintain version traceability and support iterative development.
+El repositorio se utilizó para almacenar y administrar los distintos artefactos del proyecto, incluyendo código fuente, documentación, diagramas, archivos de configuración y recursos estáticos. A lo largo del desarrollo se emplearon operaciones de Git como creación de ramas, commits, merges, fetch, pull y push, con el fin de conservar la trazabilidad de los cambios y facilitar un proceso de desarrollo iterativo.
 
-The main repository workflow included:
+El flujo principal de trabajo del repositorio consideró las siguientes prácticas:
 
-- Creating branches for specific features or fixes.
-- Committing meaningful changes with descriptive messages.
-- Synchronizing the local repository with the remote repository in GitHub.
-- Maintaining the main branch as the stable integration branch.
-- Tracking project evolution through version history.
+- Crear ramas para nuevas funcionalidades o correcciones específicas.
+- Registrar cambios mediante commits con mensajes claros y descriptivos.
+- Mantener sincronizado el repositorio local con el repositorio remoto en GitHub.
+- Utilizar la rama principal como rama estable de integración.
+- Dar seguimiento a la evolución del proyecto a través del historial de versiones.
 
-This strategy allowed the team to preserve a clear history of changes, recover previous versions when necessary, and maintain a controlled evolution of the application throughout development.
+Esta estrategia permitió conservar un registro ordenado de los cambios realizados, recuperar versiones anteriores cuando fuera necesario y asegurar una evolución controlada del sistema durante todo el proceso de desarrollo.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 Se definen los estándares de codificación para garantizar la fiabilidad del sistema de monitoreo de agua y gas. La claridad en el código es fundamental para la gestión de alertas críticas y el control de dispositivos IoT.
