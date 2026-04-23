@@ -2859,6 +2859,16 @@ El flujo inicia con el acceso del usuario a la plataforma, seguido de procesos c
 
 ## 4.5. Web Applications Prototyping
 
+La fase de prototipado de la aplicación web LowCortisol se centró en definir la estructura visual, el flujo de navegación y la lógica de interacción del sistema antes de completar todas las funcionalidades y características de persistencia. El prototipo fue diseñado como una aplicación web responsive con enfoque mobile-first, simulando la experiencia de una plataforma de monitoreo y control de válvulas inteligentes.
+
+Durante esta fase, se diseñaron y refinaron las principales interfaces de usuario del sistema, incluyendo las pantallas de autenticación, el panel principal, la vista de alertas, la gestión de válvulas, la gestión de dispositivos, los reportes y las páginas de perfil. El prototipo permitió al equipo validar la consistencia de la interfaz de usuario, el soporte multilenguaje, la usabilidad de la barra de navegación y la interacción de componentes como los indicadores circulares, las tarjetas de estado de dispositivos y los gráficos de reportes.
+
+El proceso de prototipado también ayudó a identificar ajustes visuales, problemas de alineación y mejoras de diseño responsive en varias pantallas. Además, proporcionó una base funcional para integrar servicios de autenticación, internacionalización y gestión del estado de la aplicación. Como resultado, el prototipo evolucionó de un mockup visual estático a una aplicación web interactiva con navegación e interacción real del usuario.
+
+Las siguientes figuras presentan las principales pantallas del prototipo de la aplicación web LowCortisol.
+
+Link de presentación: https://1drv.ms/v/c/0e85bddd31a5a6b2/IQCgw5EGwS0wRoInGuRjHuy6AWZzj81eh2iPlIBeVCZmFHE?e=TuLRn4
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
