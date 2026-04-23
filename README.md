@@ -2925,8 +2925,56 @@ The current database diagram of the system is centered on the `AppUser` table, w
 
 # Capitulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
+
+Software configuration management in the **LowCortisol** project was applied to ensure version control, environment consistency, traceability of changes, and collaborative development practices. This process made it possible to maintain the source code in an organized way, control modifications throughout the project lifecycle, and guarantee that the application could be built and executed under a defined development environment.
+
 ### 5.1.1. Software Development Environment Configuration
+
+The development environment for **LowCortisol** was configured to support the implementation of a responsive web application based on **ASP.NET Core / Blazor**, following a layered structure with separate projects for domain, application, infrastructure, and web presentation.
+
+The main tools and technologies used in the environment configuration were:
+
+- **JetBrains Rider** as the main IDE for development and project management.
+- **.NET 9 SDK** as the framework and runtime for the application.
+- **ASP.NET Core Blazor** for the web user interface and interactive components.
+- **SQLite** for local data persistence, especially for authentication and account registration.
+- **Entity Framework Core** for database access and context management.
+- **Git** for local version control.
+- **GitHub** for remote repository hosting and source code synchronization.
+- **PlantUML** for generating software design diagrams such as class diagrams and database diagrams.
+
+The project was structured as a multi-layer solution including the following main modules:
+
+- `LowCortisol.Domain`
+- `LowCortisol.Application`
+- `LowCortisol.Infrastructure`
+- `LowCortisol.Web`
+
+This organization allowed the team to separate business entities, services, persistence concerns, and presentation logic, improving maintainability and scalability.
+
+In addition, the environment was configured with external packages and dependencies such as:
+
+- `Microsoft.EntityFrameworkCore`
+- `Microsoft.EntityFrameworkCore.Sqlite`
+- `BCrypt.Net-Next`
+
+These dependencies were used to implement secure authentication, local database persistence, and password hashing.
+
 ### 5.1.2. Source Code Management
+
+Source code management for **LowCortisol** was carried out using **Git** as the distributed version control system and **GitHub** as the remote collaboration platform.
+
+The repository was used to store and manage all project artifacts, including source code, documentation, diagrams, configuration files, and static resources. Git operations such as branch creation, commits, merges, fetch, pull, and push were used to maintain version traceability and support iterative development.
+
+The main repository workflow included:
+
+- Creating branches for specific features or fixes.
+- Committing meaningful changes with descriptive messages.
+- Synchronizing the local repository with the remote repository in GitHub.
+- Maintaining the main branch as the stable integration branch.
+- Tracking project evolution through version history.
+
+This strategy allowed the team to preserve a clear history of changes, recover previous versions when necessary, and maintain a controlled evolution of the application throughout development.
 ### 5.1.3. Source Code Style Guide & Conventions
 
 Se definen los estándares de codificación para garantizar la fiabilidad del sistema de monitoreo de agua y gas. La claridad en el código es fundamental para la gestión de alertas críticas y el control de dispositivos IoT.
