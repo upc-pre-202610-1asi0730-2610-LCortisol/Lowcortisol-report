@@ -2949,7 +2949,48 @@ detalla la distribución de roles para este primer ciclo:
 
 #### 5.2.1.3. Sprint Backlog 1. 
 #### 5.2.X.4. Development Evidence for Sprint Review
-#### 5.2.X.5. Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Completando el primer Sprint 1, logramos implementar todas las secciones correspondientes 
+de nuestra Landing Page implementando responsive dentro de esta. A continuación veremos cuales
+fueron nuestros avances atravez de capturas de pantalla.
+
+1. Sección Header: Aquí mostramos la barra de navegación de nuestro sitio
+   web.
+
+![Header-IMG](assets/md-images-chapter5/Header-Sección.png)
+
+2. Sección Inicio: Demostramos los planes que tiene nuestro proyecto
+
+![Inicio-IMG](assets/md-images-chapter5/Inicio-Sección.png)
+
+3. Sección Beneficio: Mostramos los beneficios respecto a otros competidores
+
+![Beneficio-IMG](assets/md-images-chapter5/Beneficio-Sección.png)
+
+4. Sección Funcionalidades: Se mustran las funcionalidades que posee nuestro proyecto
+
+![Funcionalidades-IMG](assets/md-images-chapter5/Funcionalidades-Sección.png)
+
+5. Sección Quien Somos: Figura la visión, mision y por que se deberia elegir a nuestro proyecto
+
+![QuienSomos-IMG](assets/md-images-chapter5/Quien_Somos-Sección.png)
+
+6. Sección Planes: Se muestran todos los planes disponibles
+
+![Planes1-IMG](assets/md-images-chapter5/Planes_1-Sección.png)
+
+![Planes2-IMG](assets/md-images-chapter5/Planes_2-Sección.png)
+
+7. Sección Contacto: Las opcciones de contacto que tiene el usuario para poder 
+acceder a mas información
+
+![Contacto-IMG](assets/md-images-chapter5/Contacto-Sección.png)
+
+8. Footer : El footer con mas información 
+
+![Footer-IMG](assets/md-images-chapter5/Footer-Sección.png)
+
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
