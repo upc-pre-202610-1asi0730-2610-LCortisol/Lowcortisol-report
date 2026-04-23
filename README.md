@@ -2880,6 +2880,10 @@ Las siguientes figuras presentan las principales pantallas del prototipo de la a
 Link de presentación: https://1drv.ms/v/c/0e85bddd31a5a6b2/IQCgw5EGwS0wRoInGuRjHuy6AWZzj81eh2iPlIBeVCZmFHE?e=TuLRn4
 
 ## 4.6. Domain-Driven Software Architecture
+Event Storming es una técnica de modelado que nos permite identificar y organizar los eventos relevantes del dominio de negocio, es decir, aquellos hechos importantes que ocurren dentro del sistema. A través de este modelo analizamos procesos de negocio mediante eventos, comandos, políticas, paint poins, read models, aggregates y bounded contexts, lo que facilita comprender más clara la aquitectura del software
+![Event Storming](./assets/md-images-chapter4/EventS1.png)
+![Event Storming](./assets/md-images-chapter4/EventS2.png)
+![Event Storming](./assets/md-images-chapter4/EventS3.png)
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
 **Elementos:**
@@ -2900,7 +2904,7 @@ Link de presentación: https://1drv.ms/v/c/0e85bddd31a5a6b2/IQCgw5EGwS0wRoInGuRj
 ![Diagrama Contexto](./assets/md-images-chapter4/DiagramaContexto.png)
 ### 4.6.3. Software Architecture Container Diagrams
 El Container Diagram presenta la descomposición del sistema en contenedores principales, mostrando cómo las  aplicaciones cliente, La API, los servicios de monitoreo, gestión de incidencias, administración de dispositivos y notificaciones colaboran o travian en conjunto para soportar el funcionamiento de la plataforma, integrando también los servicios externos de autenticación, notificación IoT, así como las bases de datos que almacena información de los distintos servicios.Cabe recalcar que la arquitectura propuesta prioriza una aplicación web, dejando la posibilidad de incorporar un cliente movile en futuras iteraciones.
-![Diagrama Contenedores](./assets/md-images-chapter4/DiagramaContenedores.png)
+![Diagrama Contenedores](./assets/md-images-chapter4/ContainersDiagram.png)
 ### 4.6.4. Software Architecture Components Diagrams
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES111.png)
 ![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES2.png)
