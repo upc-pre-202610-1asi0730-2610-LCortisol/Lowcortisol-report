@@ -2793,7 +2793,7 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Register.png.png" alt="Register-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Register.png" alt="Register-Application-MockUp">
 </p>
 
 
@@ -3045,8 +3045,37 @@ https://github.com/upc-pre-202610-1asi0730-12144-LCortisol/Lowcortisol-LadingPag
 https://upc-pre-202610-1asi0730-12144-lcortisol.github.io/Lowcortisol-LadingPage/  
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
+En esta sección se describe el proceso de implementación, pruebas, documentación y despliegue de los productos digitales desarrollados durante los Sprints. Para el presente avance, el Sprint 1 se enfoca en el desarrollo de la Landing Page, evidenciando tanto el progreso técnico como el trabajo colaborativo del equipo.
+
+
 ### 5.2.1. Sprint 1 
+
+Durante el Sprint 1, el equipo se enfocó en la implementación de la Landing Page del proyecto, desarrollando la estructura base, diseño visual y organización del contenido, alineados a la arquitectura de información definida previamente.
+
 #### 5.2.1.1. Sprint Planning 1
+
+El Sprint Planning permitió definir el alcance del Sprint, asignar responsabilidades y organizar las tareas necesarias para el desarrollo de la Landing Page. 
+
+A continuación, se presenta la tabla resumen del Sprint Planning 1:
+
+| Campo | Descripción |
+|:-----:|:-----------:|
+| Sprint # | Sprint 1 |
+| Sprint Planning Background | Desarrollo de la Landing Page |
+| Date | 2026-04-17 |
+| Time | 17:00 |
+| Location | Reunión virtual (Google Meet) |
+| Prepared By | Condori Torres, Miguel Anibal |
+| Attendees | Condori Torres, Miguel Anibal / Delgado Perez, James Caleb / Loa Rojas, Jean Franck / Montalvo Vasquez, Bruno Rodrigo / Quiliano Motta, Kirk Douglas |
+| Sprint 0 Review Summary | Durante inicio del desarrollo del proyecto se organizó el repositorio en GitHub y se establecieron las actividades para cada integrante, definiendo los requisitos iniciales de la Landing Page. |
+| Sprint 0 Retrospective Summary | Durante la fase inicial del proyecto, el equipo logró organizarse adecuadamente y establecer herramientas de trabajo colaborativo como Git y GitHub. Como aspecto positivo, se destaca la buena comunicación inicial y la correcta comprensión del alcance del proyecto. Como oportunidad de mejora, se identificó la necesidad de mejorar la planificación del tiempo y la asignación de responsabilidades para optimizar el desarrollo en los siguientes sprints.
+|  | Sprint Goal & User Stories |
+| Sprint 1 Goal | Desarrollar y desplegar una Landing Page funcional que presente la propuesta de valor del proyecto, incluyendo sus secciones principales y un diseño estructurado. Este objetivo se considerará cumplido cuando la página sea accesible mediante un metodo de despliegue que permita la navegación entre secciones sin errores y comunique claramente los beneficios del producto.
+| Sprint 1 Velocity | 10 Story Points |
+| Sum of Story Points | 5 Story Points |
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 Durante el Sprint 1, la ejecución del proyecto se estructuró bajo un modelo de 
