@@ -3017,6 +3017,33 @@ Se definen los estándares de codificación para garantizar la fiabilidad del si
 * **Semántica HTML:** Uso obligatorio de etiquetas `<header>`, `<main>`, `<section>` y atributos `aria-label` para los tableros de control técnico.
 
 ### 5.1.4. Software Deployment Configuration
+
+Para la configuración del despliegue de la solución, se utilizó Git, un sistema de control de versiones distribuido que permite gestionar y rastrear los cambios en el código fuente, facilitando el trabajo colaborativo entre los miembros del equipo.
+
+Asimismo, se empleó GitHub, una plataforma que permite alojar repositorios en la nube, mantener el historial de versiones y gestionar la integración de cambios mediante herramientas como los pull requests.
+
+De esta manera, cada integrante puede trabajar de forma independiente mediante el uso de ramas, integrando posteriormente sus avances al repositorio principal.
+
+#### Despliegue de Landing Page
+
+La Landing Page fue desarrollada utilizando tecnologías web estándar como HTML, CSS y JavaScript, y su despliegue se realizó mediante GitHub Pages, un servicio de hosting gratuito para sitios web estáticos.
+
+##### Pasos de despliegue:
+
+1. Se creó el repositorio del proyecto en GitHub.  
+2. Se subió el código fuente de la Landing Page (HTML, CSS, JavaScript y recursos multimedia).  
+3. Se realizaron commits y se sincronizó el repositorio mediante Git (*add, commit, push*).  
+4. Se habilitó la opción GitHub Pages desde la configuración del repositorio, seleccionando la rama `main` porque es la versión estable del proyecto y la carpeta raíz (`/`).
+5. GitHub generó automáticamente una URL pública donde la Landing Page quedó desplegada.
+
+**Repositorio**
+
+https://github.com/upc-pre-202610-1asi0730-12144-LCortisol/Lowcortisol-LadingPage
+
+**URL desplegada**
+
+https://upc-pre-202610-1asi0730-12144-lcortisol.github.io/Lowcortisol-LadingPage/  
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1 
 #### 5.2.1.1. Sprint Planning 1
