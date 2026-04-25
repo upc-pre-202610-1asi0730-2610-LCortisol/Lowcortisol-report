@@ -228,17 +228,9 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 | Criterio Especifico | Acciones realizadas | Conclusiones |
 |--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br> 
-Kirk Quiliano <br> TB1:En esta primera entrega se desarrollo nuestro proyecto definiedo nuestros
-segmentos, usuarios y posibles competidos, para esto realize entrevistas y basandome en las
-entrevistas diseñe nuestra landing page.<br> 
-TP1: <br> TB2: <br> TF1:
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br>Kirk Quiliano <br> TB1:En esta primera entrega se desarrollo nuestro proyecto definiedo nuestros segmentos, usuarios y posibles competidos, para esto realize entrevistas y basandome en las entrevistas diseñe nuestra landing page.<br> TP1: <br> TB2: <br> TF1:
 |	 |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br> 
-Kirk Quiliano <br> TB1: Trabaje la comunicación escrita realizando el informe en markdown,
-ademas de la realización de los informes de style guidelines, ubiqutous langueage, etc. Ayudando
-a mantener un lenguaje no tan tecnico y mas entendible.<br> 
-TP1: <br> TB2: <br> TF1:|	 |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br>Kirk Quiliano <br> TB1: Trabaje la comunicación escrita realizando el informe en markdown, ademas de la realización de los informes de style guidelines, ubiqutous langueage, etc. Ayudando a mantener un lenguaje no tan tecnico y mas entendible.<br> TP1: <br> TB2: <br> TF1:|	 |
 
 
 # Capitulo I: Introducción
