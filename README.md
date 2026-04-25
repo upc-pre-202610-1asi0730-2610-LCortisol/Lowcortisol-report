@@ -1826,7 +1826,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <tr>
 <td>EP01</td>
 <td>Gestión de usuarios</td>
-<td>Epic orientado al registro, acceso, recuperación y administración de cuentas de usuario.</td>
+<td>Epic orientado al registro, acceso y gestión de cuentas de usuario.</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -1834,8 +1834,8 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <tr>
 <td>US01</td>
 <td>Registro de usuario</td>
-<td>Como visitante, quiero crear una cuenta para acceder a la plataforma.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero registrarme en la plataforma para acceder a sus funcionalidades.</td>
+<td>Given que el usuario accede al formulario de registro<br>When ingresa sus datos correctamente<br>Then el sistema crea una cuenta de usuario</td>
 <td>EP01</td>
 </tr>
 
@@ -1843,158 +1843,150 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US02</td>
 <td>Inicio de sesión</td>
 <td>Como usuario registrado, quiero iniciar sesión para acceder a mis funciones.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Given que el usuario ingresa sus credenciales<br>When son válidas<br>Then el sistema permite el acceso</td>
 <td>EP01</td>
 </tr>
 
 <tr>
 <td>US03</td>
 <td>Recuperar contraseña</td>
-<td>Como usuario, quiero recuperar mi contraseña para volver a ingresar a mi cuenta.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero recuperar mi contraseña para volver a acceder a mi cuenta.</td>
+<td>Given que el usuario solicita recuperación<br>When ingresa su correo<br>Then el sistema envía instrucciones de recuperación</td>
 <td>EP01</td>
 </tr>
 
 <tr>
 <td>US04</td>
 <td>Cerrar sesión</td>
-<td>Como usuario, quiero cerrar sesión para proteger mi cuenta en dispositivos compartidos.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero cerrar sesión para proteger mi cuenta.</td>
+<td>Given que el usuario está autenticado<br>When selecciona cerrar sesión<br>Then el sistema finaliza su sesión</td>
 <td>EP01</td>
 </tr>
 
 <tr>
 <td>US05</td>
 <td>Actualizar perfil</td>
-<td>Como usuario, quiero editar mis datos personales para mantener mi información actualizada.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero editar mis datos personales para mantenerlos actualizados.</td>
+<td>Given que el usuario accede a su perfil<br>When modifica sus datos<br>Then el sistema guarda los cambios</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US06</td>
+<td>Cambiar idioma de la plataforma</td>
+<td>Como usuario, quiero cambiar el idioma del sistema para entender el contenido en mi idioma preferido.</td>
+<td>Given que el usuario visualiza la opción de idioma<br>When selecciona un idioma<br>Then el sistema actualiza el contenido al idioma seleccionado</td>
 <td>EP01</td>
 </tr>
 
 <tr>
 <td>EP02</td>
 <td>Monitoreo inteligente</td>
-<td>Epic orientado a supervisión de sensores, consumo y estado de instalaciones.</td>
+<td>Epic orientado a supervisión de sensores y consumo.</td>
 <td>-</td>
 <td>-</td>
-</tr>
-
-<tr>
-<td>US06</td>
-<td>Visualizar estado en tiempo real</td>
-<td>Como usuario, quiero ver el estado actual de agua y gas para detectar anomalías rápidamente.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP02</td>
 </tr>
 
 <tr>
 <td>US07</td>
-<td>Recibir alertas automáticas</td>
-<td>Como usuario, quiero recibir alertas inmediatas ante fugas o riesgos.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Visualizar estado en tiempo real</td>
+<td>Como usuario, quiero ver el estado actual de agua y gas para detectar anomalías.</td>
+<td>Given que el usuario accede al sistema<br>When consulta el panel<br>Then el sistema muestra datos en tiempo real</td>
 <td>EP02</td>
 </tr>
 
 <tr>
 <td>US08</td>
+<td>Recibir alertas automáticas</td>
+<td>Como usuario, quiero recibir alertas ante riesgos.</td>
+<td>Given que ocurre una anomalía<br>When se detecta<br>Then el sistema envía una alerta</td>
+<td>EP02</td>
+</tr>
+
+<tr>
+<td>US09</td>
 <td>Historial de consumo</td>
-<td>Como usuario, quiero revisar consumos anteriores para identificar excesos o patrones anormales.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero revisar consumos anteriores.</td>
+<td>Given que el usuario solicita historial<br>When selecciona un periodo<br>Then el sistema muestra los datos</td>
 <td>EP02</td>
 </tr>
 
 <tr>
 <td>EP03</td>
-<td>Control y respuesta</td>
-<td>Epic orientado a acciones correctivas y soporte ante incidentes.</td>
+<td>Control y soporte</td>
+<td>Epic orientado a acciones correctivas y comunicación con soporte.</td>
 <td>-</td>
 <td>-</td>
-</tr>
-
-<tr>
-<td>US09</td>
-<td>Cerrar válvula remotamente</td>
-<td>Como usuario con plan compatible, quiero cerrar una válvula remotamente para reducir riesgos.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP03</td>
 </tr>
 
 <tr>
 <td>US10</td>
-<td>Solicitar soporte técnico</td>
-<td>Como usuario, quiero solicitar ayuda técnica para resolver incidencias complejas.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Cerrar válvula remotamente</td>
+<td>Como usuario, quiero cerrar una válvula para reducir riesgos.</td>
+<td>Given que el usuario accede al control<br>When ejecuta la acción<br>Then el sistema cierra la válvula</td>
+<td>EP03</td>
+</tr>
+
+<tr>
+<td>US11</td>
+<td>Contactar con el equipo de soporte</td>
+<td>Como usuario, quiero contactar con los responsables de la plataforma para resolver dudas o solicitar información.</td>
+<td>Given que el usuario accede a la sección de contacto<br>When completa y envía el formulario<br>Then el sistema registra la solicitud<br>And muestra medios de contacto disponibles</td>
 <td>EP03</td>
 </tr>
 
 <tr>
 <td>EP04</td>
-<td>Gestión de Suscripciones y Planes</td>
-<td>Epic orientado a planes comerciales, beneficios y suscripciones.</td>
+<td>Planes y suscripciones</td>
+<td>Epic orientado a la gestión de planes.</td>
 <td>-</td>
 <td>-</td>
-</tr>
-
-<tr>
-<td>US11</td>
-<td>Visualizar planes disponibles</td>
-<td>Como visitante, quiero visualizar los planes disponibles para comparar beneficios y elegir el más adecuado.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP04</td>
 </tr>
 
 <tr>
 <td>US12</td>
-<td>Suscribirse a un plan</td>
-<td>Como usuario registrado, quiero contratar un plan para acceder a funciones premium.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Visualizar planes disponibles</td>
+<td>Como usuario, quiero ver los planes para elegir uno.</td>
+<td>Given que el usuario accede a la sección de planes<br>When visualiza opciones<br>Then el sistema muestra los planes con sus características y precios</td>
 <td>EP04</td>
 </tr>
 
 <tr>
 <td>US13</td>
+<td>Suscribirse a un plan</td>
+<td>Como usuario, quiero suscribirme a un plan para acceder a funciones premium.</td>
+<td>Given que el usuario selecciona un plan<br>When confirma la suscripción<br>Then el sistema registra el plan</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US14</td>
 <td>Cambiar de plan</td>
-<td>Como usuario suscrito, quiero cambiar de plan para adaptar el servicio a mis nuevas necesidades.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero cambiar de plan según mis necesidades.</td>
+<td>Given que el usuario tiene un plan activo<br>When selecciona otro<br>Then el sistema actualiza la suscripción</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US15</td>
+<td>Solicitar demostración del servicio</td>
+<td>Como usuario, quiero probar el servicio antes de suscribirme.</td>
+<td>Given que el usuario solicita una demo<br>When registra sus datos<br>Then el sistema guarda la solicitud</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US16</td>
+<td>Visualizar soluciones según perfil</td>
+<td>Como usuario, quiero ver soluciones adaptadas a mi tipo de uso.</td>
+<td>Given que el usuario accede a soluciones<br>When revisa opciones<br>Then el sistema muestra opciones residenciales y empresariales</td>
 <td>EP04</td>
 </tr>
 
 <tr>
 <td>EP05</td>
-<td>Landing Page y Conversión</td>
-<td>Epic orientado al sitio público de captación de clientes.</td>
-<td>-</td>
-<td>-</td>
-</tr>
-
-<tr>
-<td>US14</td>
-<td>Ver propuesta de valor</td>
-<td>Como visitante, quiero entender rápidamente el beneficio principal del producto para decidir si me interesa.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP05</td>
-</tr>
-
-<tr>
-<td>US15</td>
-<td>Navegar por secciones informativas</td>
-<td>Como visitante, quiero revisar información del producto para conocer funcionalidades y beneficios.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP05</td>
-</tr>
-
-<tr>
-<td>US16</td>
-<td>Redirección a registro</td>
-<td>Como visitante, quiero registrarme desde la Landing Page para comenzar a usar la plataforma.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP05</td>
-</tr>
-
-<tr>
-<td>EP06</td>
-<td>Gestión Operativa Multiubicación</td>
-<td>Epic orientado a organizaciones con múltiples sedes, zonas o instalaciones.</td>
+<td>Gestión multi-sede</td>
+<td>Epic orientado a múltiples ubicaciones.</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -2002,24 +1994,60 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <tr>
 <td>US17</td>
 <td>Registrar múltiples sedes</td>
-<td>Como administrador de organización, quiero registrar varias sedes para monitorear diferentes instalaciones.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP06</td>
+<td>Como usuario, quiero registrar varias sedes.</td>
+<td>
+Given que el usuario registra una sede<br>
+When ingresa datos<br>
+Then el sistema la almacena
+</td>
+<td>EP05</td>
 </tr>
 
 <tr>
 <td>US18</td>
-<td>Filtrar datos por sede</td>
-<td>Como gestor operativo, quiero filtrar información por sede para analizar incidencias específicas.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP06</td>
+<td>Filtrar por sede</td>
+<td>Como usuario, quiero ver datos por sede.</td>
+<td>
+Given que el usuario selecciona una sede<br>
+When consulta datos<br>
+Then el sistema muestra información filtrada
+</td>
+<td>EP05</td>
 </tr>
 
 <tr>
 <td>US19</td>
-<td>Ver resumen general</td>
-<td>Como gestor operativo, quiero visualizar un resumen consolidado para tomar decisiones rápidas.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Resumen general</td>
+<td>Como usuario, quiero ver un resumen consolidado.</td>
+<td>
+Given que el usuario accede al dashboard<br>
+When consulta métricas<br>
+Then el sistema muestra un resumen general
+</td>
+<td>EP05</td>
+</tr>
+
+<tr>
+<td>EP06</td>
+<td>Experiencia Web</td>
+<td>Epic orientado a navegación y accesibilidad.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US20</td>
+<td>Acceder desde múltiples dispositivos</td>
+<td>Como usuario, quiero usar la plataforma desde cualquier dispositivo.</td>
+<td>Given que el usuario accede desde cualquier dispositivo<br>When navega<br>Then el sistema adapta la interfaz correctamente</td>
+<td>EP06</td>
+</tr>
+
+<tr>
+<td>US21</td>
+<td>Navegar entre secciones</td>
+<td>Como usuario, quiero moverse entre secciones fácilmente.</td>
+<td>Given que el usuario selecciona una sección<br>When hace clic<br>Then el sistema muestra la sección correspondiente</td>
 <td>EP06</td>
 </tr>
 
@@ -2031,205 +2059,45 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>-</td>
 </tr>
 
-<tr>
-<td>TS01</td>
-<td>API registrar usuario</td>
-<td>Como Developer, quiero consumir un endpoint de registro para crear cuentas desde clientes externos.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS01</td><td>API registrar usuario</td><td>Como Developer, quiero registrar usuarios mediante API.</td><td>Given que se envían datos válidos<br>When se procesa la solicitud<br>Then el sistema crea el usuario</td><td>EP07</td></tr>
 
-<tr>
-<td>TS02</td>
-<td>API obtener sensores</td>
-<td>Como Developer, quiero consultar lecturas de sensores mediante la API.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS02</td><td>API obtener sensores</td><td>Como Developer, quiero consultar sensores.</td><td>Given que se solicita información<br>When se procesa<br>Then el sistema retorna sensores</td><td>EP07</td></tr>
 
-<tr>
-<td>TS03</td>
-<td>API obtener sensores por usuario</td>
-<td>Como Developer, quiero obtener todos los sensores asociados a un usuario para que el frontend muestre los dispositivos conectados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS03</td><td>API sensores por usuario</td><td>Como Developer, quiero obtener sensores de un usuario.</td><td>Given que se envía ID usuario<br>When se consulta<br>Then retorna sensores asociados</td><td>EP07</td></tr>
 
-<tr>
-<td>TS04</td>
-<td>API generar alerta</td>
-<td>Como Developer, quiero registrar alertas mediante la API para almacenar incidentes y notificar eventos detectados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS04</td><td>API generar alerta</td><td>Como Developer, quiero registrar alertas.</td><td>Given que ocurre evento<br>When se envía alerta<br>Then el sistema la almacena</td><td>EP07</td></tr>
 
-<tr>
-<td>TS05</td>
-<td>API consultar historial</td>
-<td>Como Developer, quiero obtener el historial de consumo para que el frontend genere gráficas y reportes.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS05</td><td>API historial</td><td>Como Developer, quiero consultar historial.</td><td>Given que se solicita historial<br>When se procesa<br>Then retorna datos</td><td>EP07</td></tr>
 
-<tr>
-<td>TS06</td>
-<td>API iniciar sesión</td>
-<td>Como Developer, quiero autenticar usuarios mediante la API para permitir acceso seguro desde clientes web.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS06</td><td>API login</td><td>Como Developer, quiero autenticar usuarios.</td><td>Given credenciales<br>When son válidas<br>Then retorna acceso</td><td>EP07</td></tr>
 
-<tr>
-<td>TS07</td>
-<td>API cerrar sesión</td>
-<td>Como Developer, quiero invalidar la sesión actual mediante la API para cerrar acceso del usuario.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS07</td><td>API logout</td><td>Como Developer, quiero cerrar sesión.</td><td>Given sesión activa<br>When se solicita cierre<br>Then se invalida</td><td>EP07</td></tr>
 
-<tr>
-<td>TS08</td>
-<td>API recuperar contraseña</td>
-<td>Como Developer, quiero solicitar recuperación de contraseña mediante la API para restablecer acceso.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS08</td><td>API recuperar contraseña</td><td>Como Developer, quiero recuperación.</td><td>Given solicitud<br>When se procesa<br>Then envía recuperación</td><td>EP07</td></tr>
 
-<tr>
-<td>TS09</td>
-<td>API registrar sensor</td>
-<td>Como Developer, quiero registrar sensores nuevos mediante la API para integrarlos al sistema.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS09</td><td>API registrar sensor</td><td>Como Developer, quiero registrar sensores.</td><td>Given datos sensor<br>When se envía<br>Then se almacena</td><td>EP07</td></tr>
 
-<tr>
-<td>TS10</td>
-<td>API vincular sensor a usuario</td>
-<td>Como Developer, quiero asociar sensores a un usuario mediante la API para mostrar dispositivos asignados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS10</td><td>API vincular sensor</td><td>Como Developer, quiero vincular sensor.</td><td>Given IDs<br>When se procesa<br>Then se vincula</td><td>EP07</td></tr>
 
-<tr>
-<td>TS11</td>
-<td>API actualizar lectura de sensor</td>
-<td>Como Developer, quiero enviar nuevas lecturas mediante la API para mantener información en tiempo real.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS11</td><td>API actualizar lectura</td><td>Como Developer, quiero actualizar lecturas.</td><td>Given nueva lectura<br>When se envía<br>Then se guarda</td><td>EP07</td></tr>
 
-<tr>
-<td>TS12</td>
-<td>API desvincular sensor</td>
-<td>Como Developer, quiero quitar la relación entre un sensor y un usuario para reorganizar dispositivos.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS12</td><td>API desvincular sensor</td><td>Como Developer, quiero desvincular sensor.</td><td>Given solicitud<br>When se procesa<br>Then se elimina relación</td><td>EP07</td></tr>
 
-<tr>
-<td>TS13</td>
-<td>API listar alertas</td>
-<td>Como Developer, quiero consultar alertas registradas mediante la API para mostrarlas en el panel.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS13</td><td>API listar alertas</td><td>Como Developer, quiero listar alertas.</td><td>Given consulta<br>When se procesa<br>Then retorna alertas</td><td>EP07</td></tr>
 
-<tr>
-<td>TS14</td>
-<td>API marcar alerta como atendida</td>
-<td>Como Developer, quiero actualizar el estado de una alerta para reflejar su atención.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS14</td><td>API actualizar alerta</td><td>Como Developer, quiero actualizar alertas.</td><td>Given alerta<br>When se modifica<br>Then se actualiza</td><td>EP07</td></tr>
 
-<tr>
-<td>TS15</td>
-<td>API configurar umbrales</td>
-<td>Como Developer, quiero guardar límites de consumo o riesgo para personalizar detección de anomalías.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS15</td><td>API configurar umbrales</td><td>Como Developer, quiero configurar límites.</td><td>Given datos<br>When se envían<br>Then se guardan</td><td>EP07</td></tr>
 
-<tr>
-<td>TS16</td>
-<td>API reporte por fechas</td>
-<td>Como Developer, quiero consultar consumos por rango de fechas para generar reportes detallados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS16</td><td>API reporte por fechas</td><td>Como Developer, quiero reportes.</td><td>Given rango<br>When se consulta<br>Then retorna datos</td><td>EP07</td></tr>
 
-<tr>
-<td>TS17</td>
-<td>API resumen de consumo</td>
-<td>Como Developer, quiero obtener métricas resumidas para mostrar indicadores rápidos en el panel.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS17</td><td>API resumen consumo</td><td>Como Developer, quiero resumen.</td><td>Given solicitud<br>When se procesa<br>Then retorna métricas</td><td>EP07</td></tr>
 
-<tr>
-<td>TS18</td>
-<td>API consultar planes</td>
-<td>Como Developer, quiero obtener los planes disponibles para mostrarlos en la aplicación y Landing Page.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS18</td><td>API consultar planes</td><td>Como Developer, quiero obtener planes.</td><td>Given solicitud<br>When se consulta<br>Then retorna planes</td><td>EP07</td></tr>
 
-<tr>
-<td>TS19</td>
-<td>API activar suscripción</td>
-<td>Como Developer, quiero registrar una suscripción para habilitar beneficios premium al usuario.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS19</td><td>API activar suscripción</td><td>Como Developer, quiero activar suscripción.</td><td>Given datos<br>When se procesa<br>Then se activa</td><td>EP07</td></tr>
 
-<tr>
-<td>TS20</td>
-<td>API cambiar suscripción</td>
-<td>Como Developer, quiero modificar el plan activo del usuario para actualizar beneficios contratados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS21</td>
-<td>API registrar sede</td>
-<td>Como Developer, quiero crear sedes mediante la API para organizaciones con múltiples ubicaciones.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS22</td>
-<td>API sensores por sede</td>
-<td>Como Developer, quiero consultar sensores asociados a una sede para mostrar información segmentada.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS23</td>
-<td>API dashboard general</td>
-<td>Como Developer, quiero obtener métricas consolidadas de varias sedes para paneles ejecutivos.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS24</td>
-<td>API registrar bitácora de eventos</td>
-<td>Como Developer, quiero guardar eventos importantes del sistema para auditoría y seguimiento.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS25</td>
-<td>API validar permisos</td>
-<td>Como Developer, quiero verificar permisos del usuario antes de ejecutar acciones restringidas.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS20</td><td>API cambiar suscripción</td><td>Como Developer, quiero cambiar plan.</td><td>Given solicitud<br>When se procesa<br>Then se actualiza</td><td>EP07</td></tr>
 
 </table>
 
