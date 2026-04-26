@@ -2646,84 +2646,71 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 ### 4.4.3. Web Applications Mock-ups
 
 ## 1. Pantalla de Inicio de Sesión
-* **Propósito:** Interfaz de acceso para usuarios registrados.
-* **Elementos clave:** Campos para correo electrónico (`you@example.com`) y contraseña, botón de "Sign in" y enlace de acceso a la pantalla de creación de cuenta.
+* **Propósito:** Permitir que los usuarios registrados accedan a la plataforma.
+* **Elementos clave:** Selector de idioma (ES, EN, PT), campos de correo y contraseña, botón de inicio de sesión y enlace para crear una nueva cuenta.
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Inicio.png" alt="Inicio-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Login.png" alt="Login-Application-MockUp">
 </p>
-
 
 ---
 
 ## 2. Registro de Usuario
-* **Propósito:** Formulario de alta para nuevos usuarios en la plataforma.
-* **Elementos clave:** Campos de entrada para nombre, correo, teléfono y contraseña, selector de "Account type" y botones de acción para crear cuenta o volver al inicio.
-
+* **Propósito:** Permitir el registro de nuevos usuarios dentro de la plataforma.
+* **Elementos clave:** Campos para nombre, correo electrónico, teléfono y contraseña, selector de tipo de cuenta, botón para crear la cuenta y enlace para volver al inicio de sesión.
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Register.png" alt="Register-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Register.png" alt="Register-Application-MockUp">
 </p>
-
 
 ---
 
 ## 3. Dashboard Principal (Home)
-* **Propósito:** Visualización en tiempo real del estado de los sistemas del hogar.
-* **Elementos clave:** Indicadores de estado de agua y gas (porcentaje de apertura), controles táctiles para alternar válvulas y botón de emergencia "Emergency shut-off".
+* **Propósito:** Presentar una vista general del estado del sistema y la actividad reciente del usuario.
+* **Elementos clave:** Tarjetas informativas de consumo de agua y gas, indicador de incidentes activos, resumen del sistema, acciones rápidas, lista de incidentes recientes y notificaciones recientes.
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Dashboard.png" alt="Dashboard-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Home.png" alt="Home-Application-MockUp">
 </p>
 
 ---
 
-## 4. Centro de Alertas
-* **Propósito:** Gestión y visualización de incidencias detectadas en el sistema.
-* **Elementos clave:** Registro cronológico de alertas (fugas, presión, batería baja, estado de conexión) con indicación de antigüedad.
+## 4. Gestión de Dispositivos
+* **Propósito:** Administrar los dispositivos registrados dentro de la red de monitoreo inteligente.
+* **Elementos clave:** Listado de dispositivos, estado operativo (online/offline), cantidad de sensores, umbral configurado, acciones de control y botón para agregar nuevos dispositivos.
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Alerts.png" alt="Alerts-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Devices.png" alt="Devices-Application-MockUp">
 </p>
 
 ---
 
-## 5. Gestión de Válvulas
-* **Propósito:** Configuración personalizada y control manual o automático de los dispositivos.
-* **Elementos clave:** Interruptores de activación por dispositivo y control deslizante para ajustar el umbral de auto-apagado ("Auto-shut threshold") de cada válvula.
+## 5. Reportes de Consumo
+* **Propósito:** Visualizar el historial y análisis del consumo registrado en la plataforma.
+* **Elementos clave:** Resumen de reportes generados, totales de agua y gas, gráfico de tendencia de consumo, selector de rango temporal (7D, 30D, 90D), tabla de reportes generados y botón para generar nuevos reportes.
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Controls.png" alt="Controls-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-MockUp-Reports.png" alt="Reports-Application-MockUp">
 </p>
 
 ---
 
-## 6. Perfil de Usuario
-* **Propósito:** Gestión de la información personal y ajustes de la cuenta.
-* **Elementos clave:** Visualización de los datos del usuario (Jean Franck Loa Rojas), acceso a secciones de dispositivos, reportes y configuración, además del botón de cierre de sesión.
+## 6. Centro de Alertas
+* **Propósito:** Gestionar incidentes detectados por el sistema y dar seguimiento a su estado.
+* **Elementos clave:** Formulario para crear incidentes, selección de dispositivo y severidad, campo de descripción, botones de acción, resumen de incidentes e historial o tablero de incidencias.
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Profile.png" alt="Profile-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Alerts.png" alt="Alerts-Application-MockUp">
 </p>
 
 ---
 
-## 7. Gestión de Dispositivos
-* **Propósito:** Administración y verificación del hardware conectado.
-* **Elementos clave:** Listado detallado de dispositivos (válvulas, sensores, hub) indicando si están en línea o fuera de línea, con opción para añadir nuevos dispositivos.
+## 7. Perfil de Usuario
+* **Propósito:** Mostrar la información personal del usuario y los datos principales de su cuenta.
+* **Elementos clave:** Avatar o iniciales del usuario, nombre completo, correo electrónico, rol, resumen de la cuenta y opción para cerrar sesión.
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Devices.png" alt="Devices-Application-MockUp">
-</p>
-
----
-
-## 8. Reportes de Consumo
-* **Propósito:** Análisis del historial de uso de recursos.
-* **Elementos clave:** Totales acumulados de agua y gas, visualización gráfica de consumo, selectores de rango temporal (7D, 30D, 90D) y opciones para filtrar y exportar los reportes.
-
-<p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Reports.png" alt="Reports-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Profile.png" alt="Profile-Application-MockUp">
 </p>
 
 ---
@@ -2746,7 +2733,7 @@ El proceso de prototipado también ayudó a identificar ajustes visuales, proble
 
 Las siguientes figuras presentan las principales pantallas del prototipo de la aplicación web LowCortisol.
 
-Link de presentación: https://1drv.ms/v/c/0e85bddd31a5a6b2/IQCgw5EGwS0wRoInGuRjHuy6AWZzj81eh2iPlIBeVCZmFHE?e=TuLRn4
+Link de presentación: https://1drv.ms/v/c/0e85bddd31a5a6b2/IQCF4TkZJDJxTLkw5gIh7853AY5YWyX1nN6-ppv8TWMIhMU?e=YtgnhZ
 
 ## 4.6. Domain-Driven Software Architecture
 Event Storming es una técnica de modelado que nos permite identificar y organizar los eventos relevantes del dominio de negocio, es decir, aquellos hechos importantes que ocurren dentro del sistema. A través de este modelo analizamos procesos de negocio mediante eventos, comandos, políticas, paint poins, read models, aggregates y bounded contexts, lo que facilita comprender más clara la aquitectura del software
@@ -2791,19 +2778,19 @@ El diagrama de clases del backend muestra la estructura principal del sistema, i
 
 Además, el diagrama permite visualizar cómo se relacionan las distintas capas de la arquitectura, separando la lógica de negocio, la coordinación de casos de uso y el acceso a datos mediante componentes como **AppDbContext** y los repositorios concretos. En conjunto, refleja una organización modular, mantenible y alineada con una arquitectura orientada al dominio.
 
-![Backend Class Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/backend-class-diagram.puml)
+![Backend Class Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-12144-LCortisol/Lowcortisol-app/main/docs/backend-class-diagram.puml)
 
 El diagrama de clases del frontend muestra la estructura principal de la capa de presentación, incluyendo las páginas, los servicios de interfaz y los modelos que permiten la interacción con el usuario. Entre los elementos más importantes se encuentran **LoginPage**, **RegisterPage**, **HomePage**, **DevicesPage**, **ReportsPage**, **AlertsPage** y **ProfilePage**, además de servicios como **I18nService**, **BrowserSessionService** y **UiSessionService**.
 
 Asimismo, el diagrama permite comprender cómo el frontend organiza la navegación, la gestión de sesión, el cambio de idioma y la comunicación con los servicios de aplicación. En conjunto, refleja una interfaz modular, interactiva y alineada con la arquitectura general del sistema.
 
-![Frontend Class Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/frontend-class-diagram.puml)
+![Frontend Class Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-12144-LCortisol/Lowcortisol-app/main/docs/frontend-class-diagram.puml)
 
 ## 4.8. Database Design
 
-La aplicación **LowCortisol** emplea un diseño de base de datos relacional orientado principalmente a la persistencia de cuentas de usuario y al proceso de autenticación. En la etapa actual del desarrollo, el sistema registra la información de los usuarios en una base de datos SQLite a través de la entidad `AppUser`. Esta estructura permite almacenar datos esenciales de cada cuenta, como el nombre, correo electrónico, número de teléfono, contraseña cifrada y tipo de usuario.
+La aplicación **LowCortisol** emplea un diseño de base de datos relacional orientado a la persistencia de usuarios, dispositivos, monitoreo, incidentes, notificaciones y reportes de consumo. En la etapa actual del desarrollo, el sistema registra la información en una base de datos SQLite mediante una estructura compuesta por entidades como **user_accounts**, **devices**, **sensors**, **incidents**, **notifications**, **monitoring_sessions**, **sensor_readings**, **consumption_reports** y **report_lines**.
 
-Este diseño respalda las funcionalidades de registro e inicio de sesión, garantizando que las credenciales se almacenen de forma segura mediante técnicas de hash de contraseñas, en lugar de texto plano. Asimismo, la estructura actual fue planteada de manera simple pero escalable, de modo que en futuras etapas puedan añadirse nuevas entidades, como dispositivos, válvulas, alertas y reportes, en caso de que dichos módulos requieran persistencia de datos.
+Este diseño respalda funcionalidades como el registro e inicio de sesión, la gestión de dispositivos, el monitoreo de sensores, la administración de alertas y la generación de reportes. Asimismo, permite almacenar la información de forma estructurada, asegurando integridad relacional mediante claves primarias y foráneas. La base de datos fue diseñada de manera modular y escalable, de modo que pueda ampliarse fácilmente en futuras iteraciones del sistema.
 
 ### 4.8.1. Database Diagrams
 
@@ -2811,7 +2798,7 @@ El diagrama de base de datos representa la estructura de almacenamiento del sist
 
 Además, el diagrama muestra cómo se conectan estas tablas mediante claves primarias y foráneas, reflejando la organización de los datos y la integridad relacional del sistema. En conjunto, esta estructura permite almacenar de forma consistente la información necesaria para el funcionamiento del backend y facilita la escalabilidad y mantenibilidad de la aplicación.
 
-![Database Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/database-diagram.puml)
+![Database Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-12144-LCortisol/Lowcortisol-app/main/docs/database-diagram.puml)
 
 # Chapter V: Product Implementation, Validation & Deployment
 
