@@ -2786,11 +2786,16 @@ El Container Diagram presenta la descomposición del sistema en contenedores pri
 The object-oriented design of the LowCortisol system is represented through two class diagrams: one for the backend and another for the frontend. This separation allows a clearer view of the responsibilities of each layer of the application.
 
 ### 4.7.1. Class Diagrams
-The backend class diagram describes the main domain entities, authentication components, persistence context, and application services. It includes elements such as `AppUser`, `AppDbContext`, `AuthService`, `DeviceService`, `Device`, `SmartValve`, `DeviceDetail`, `Report`, and `IDeviceRepository`. This diagram represents the business logic, data access, and authentication flow of the system.
+
+El diagrama de clases del backend muestra la estructura principal del sistema, incluyendo las entidades del dominio, los servicios de aplicación, los repositorios y los componentes de persistencia. Entre los elementos más importantes se encuentran **UserAccount**, **Device**, **Incident**, **Notification** y **ConsumptionReport**, así como servicios como **IdentityAccessService**, **DeviceManagementService** y **ReportingService**.
+
+Además, el diagrama permite visualizar cómo se relacionan las distintas capas de la arquitectura, separando la lógica de negocio, la coordinación de casos de uso y el acceso a datos mediante componentes como **AppDbContext** y los repositorios concretos. En conjunto, refleja una organización modular, mantenible y alineada con una arquitectura orientada al dominio.
 
 ![Backend Class Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/backend-class-diagram.puml)
 
-The frontend class diagram represents the user interface structure and client-side services. It includes components such as `MainLayout`, `Home`, `Alerts`, `Devices`, `Valves`, `Reports`, `Profile`, `Login`, `Register`, `CircularRing`, as well as support services like `AppStateService`, `I18nService`, and `AuthService`. This diagram shows how the interface components interact with the application state and authentication features.
+El diagrama de clases del frontend muestra la estructura principal de la capa de presentación, incluyendo las páginas, los servicios de interfaz y los modelos que permiten la interacción con el usuario. Entre los elementos más importantes se encuentran **LoginPage**, **RegisterPage**, **HomePage**, **DevicesPage**, **ReportsPage**, **AlertsPage** y **ProfilePage**, además de servicios como **I18nService**, **BrowserSessionService** y **UiSessionService**.
+
+Asimismo, el diagrama permite comprender cómo el frontend organiza la navegación, la gestión de sesión, el cambio de idioma y la comunicación con los servicios de aplicación. En conjunto, refleja una interfaz modular, interactiva y alineada con la arquitectura general del sistema.
 
 ![Frontend Class Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/frontend-class-diagram.puml)
 
@@ -2802,7 +2807,9 @@ Este diseño respalda las funcionalidades de registro e inicio de sesión, garan
 
 ### 4.8.1. Database Diagrams
 
-El diagrama de base de datos actual del sistema se encuentra centrado en la tabla `AppUser`, la cual concentra la información relacionada con la autenticación y el perfil de cada usuario registrado.
+El diagrama de base de datos representa la estructura de almacenamiento del sistema y las relaciones existentes entre las principales tablas que soportan la lógica de la aplicación. Entre las entidades más relevantes se encuentran **user_accounts**, **devices**, **sensors**, **incidents**, **notifications**, **monitoring_sessions**, **sensor_readings**, **consumption_reports** y **report_lines**, las cuales permiten gestionar usuarios, dispositivos, monitoreo, incidentes, notificaciones y reportes de consumo.
+
+Además, el diagrama muestra cómo se conectan estas tablas mediante claves primarias y foráneas, reflejando la organización de los datos y la integridad relacional del sistema. En conjunto, esta estructura permite almacenar de forma consistente la información necesaria para el funcionamiento del backend y facilita la escalabilidad y mantenibilidad de la aplicación.
 
 ![Database Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/database-diagram.puml)
 
