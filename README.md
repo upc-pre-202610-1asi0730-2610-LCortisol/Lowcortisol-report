@@ -2727,72 +2727,114 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 
 ### 4.4.3. Web Applications Mock-ups
 
-## 1. Pantalla de Inicio de Sesión
+#### 1. Pantalla de Inicio de Sesión
 * **Propósito:** Permitir que los usuarios registrados accedan a la plataforma.
 * **Elementos clave:** Selector de idioma (ES, EN, PT), campos de correo y contraseña, botón de inicio de sesión y enlace para crear una nueva cuenta.
 
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Mock-up-Login.png" alt="Login-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Login.png" alt="Login-Web-Application-MockUp" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Mock-up-Login.png" alt="Login-Mobile-Application-MockUp" width="260">
 </p>
 
 ---
 
-## 2. Registro de Usuario
+#### 2. Registro de Usuario
 * **Propósito:** Permitir el registro de nuevos usuarios dentro de la plataforma.
 * **Elementos clave:** Campos para nombre, correo electrónico, teléfono y contraseña, selector de tipo de cuenta, botón para crear la cuenta y enlace para volver al inicio de sesión.
 
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Mock-up-Register.png" alt="Register-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Register.png" alt="Register-Web-Application-MockUp" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Mock-up-Register.png" alt="Register-Mobile-Application-MockUp" width="260">
 </p>
 
 ---
 
-## 3. Dashboard Principal (Home)
+#### 3. Dashboard Principal (Home)
 * **Propósito:** Presentar una vista general del estado del sistema y la actividad reciente del usuario.
 * **Elementos clave:** Tarjetas informativas de consumo de agua y gas, indicador de incidentes activos, resumen del sistema, acciones rápidas, lista de incidentes recientes y notificaciones recientes.
 
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Mock-up-Home.png" alt="Home-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Home.png" alt="Home-Web-Application-MockUp" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Mock-up-Home.png" alt="Home-Mobile-Application-MockUp" width="260">
 </p>
 
 ---
 
-## 4. Gestión de Dispositivos
+#### 4. Gestión de Dispositivos
 * **Propósito:** Administrar los dispositivos registrados dentro de la red de monitoreo inteligente.
 * **Elementos clave:** Listado de dispositivos, estado operativo (online/offline), cantidad de sensores, umbral configurado, acciones de control y botón para agregar nuevos dispositivos.
 
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Mock-up-Devices.png" alt="Devices-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Devices.png" alt="Devices-Web-Application-MockUp" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Mock-up-Devices.png" alt="Devices-Mobile-Application-MockUp" width="260">
 </p>
 
 ---
 
-## 5. Reportes de Consumo
+#### 5. Reportes de Consumo
 * **Propósito:** Visualizar el historial y análisis del consumo registrado en la plataforma.
 * **Elementos clave:** Resumen de reportes generados, totales de agua y gas, gráfico de tendencia de consumo, selector de rango temporal (7D, 30D, 90D), tabla de reportes generados y botón para generar nuevos reportes.
 
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Mock-up-Reports.png" alt="Reports-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Reports.png" alt="Reports-Web-Application-MockUp" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Mock-up-Reports.png" alt="Reports-Mobile-Application-MockUp" width="260">
 </p>
 
 ---
 
-## 6. Centro de Alertas
+#### 6. Centro de Alertas
 * **Propósito:** Gestionar incidentes detectados por el sistema y dar seguimiento a su estado.
 * **Elementos clave:** Formulario para crear incidentes, selección de dispositivo y severidad, campo de descripción, botones de acción, resumen de incidentes e historial o tablero de incidencias.
 
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Mock-up-Alerts.png" alt="Alerts-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Alerts.png" alt="Alerts-Web-Application-MockUp" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Mock-up-Alerts.png" alt="Alerts-Mobile-Application-MockUp" width="260">
 </p>
 
 ---
 
-## 7. Perfil de Usuario
+#### 7. Perfil de Usuario
 * **Propósito:** Mostrar la información personal del usuario y los datos principales de su cuenta.
 * **Elementos clave:** Avatar o iniciales del usuario, nombre completo, correo electrónico, rol, resumen de la cuenta y opción para cerrar sesión.
 
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Mock-up-Profile.png" alt="Profile-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Profile.png" alt="Profile-Web-Application-MockUp" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Mock-up-Profile.png" alt="Profile-Mobile-Application-MockUp" width="260">
 </p>
 
 ---
