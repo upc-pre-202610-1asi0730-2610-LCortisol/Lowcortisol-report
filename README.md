@@ -3080,8 +3080,25 @@ Hasta el momento, el poryecto LowCortisol ha logrado consolidar una base sólida
 
 # Bibliografía 
 
-# Anexos
+Fuentes, H., & Mauricio, D. (2020). Smart water consumption measurement system for houses using IoT and cloud computing. *Environmental Monitoring and Assessment*. https://link.springer.com/article/10.1007/s10661-020-08535-4  
 
+Kiran, A. R., Tharuni, E., Krishna, G. H., & Vaishnavi, G. (2025). Smart IoT-Based Water Leakage and Quality Monitoring System with Automated Pump Control and Alert Mechanism. *International Journal of Engineering Research and Science & Technology*. https://ijerst.org/index.php/ijerst/article/view/1924  
+
+Singh, Y., & Walingo, T. (2024). Smart Water Quality Monitoring with IoT Wireless Sensor Networks. *Sensors, 24*(9), 2871. https://www.mdpi.com/1424-8220/24/9/2871  
+
+Mohabuth, A. Q., Pal, T., & Sobrun, M. (2021). Development of an IoT-Based Smart Home Water Leak Detection System. *International Journal of Computer Sciences and Engineering*. https://www.researchgate.net/publication/360801282  
+
+Akkara, S., & Singh, T. M. (2020). Water Leakage Detection and Management System Using IoT. *International Journal of Advanced Science and Technology*. https://www.researchgate.net/publication/341549454  
+
+A solution for water management and leakage detection problems using IoTs based approach. (2022). *Internet of Things Journal*. https://www.sciencedirect.com/science/article/pii/S2542660522000105  
+
+IoT based smart water management systems: A systematic review. (2021). *Materials Today: Proceedings*. https://www.sciencedirect.com/science/article/abs/pii/S2214785320364701  
+
+Abai, N. H. Z., Shabli, A. H. M., Rejab, M. M., & Rahman, H. A. (2019). IoT based Smart Water Reticulation Monitoring System for Leak Detection. *Journal of Advanced Research in Dynamical and Control Systems*. https://www.researchgate.net/publication/392808314  
+
+Balamurugan, G., Harish, V. M., Giridharan, G., Stalin, C. V., & Rajarathnam, D. R. P. (2025). IoT Based Smart Water Distribution and Leakage Detection Network. *International Research Journal on Advanced Engineering Hub*. https://www.researchgate.net/publication/397038655  
+
+# Anexos
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
