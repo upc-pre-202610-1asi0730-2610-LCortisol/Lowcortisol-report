@@ -2749,11 +2749,14 @@ Las siguientes figuras presentan las principales pantallas del prototipo de la a
 Link de presentación: https://1drv.ms/v/c/0e85bddd31a5a6b2/IQCgw5EGwS0wRoInGuRjHuy6AWZzj81eh2iPlIBeVCZmFHE?e=TuLRn4
 
 ## 4.6. Domain-Driven Software Architecture
-Event Storming es una técnica de modelado que nos permite identificar y organizar los eventos relevantes del dominio de negocio, es decir, aquellos hechos importantes que ocurren dentro del sistema. A través de este modelo analizamos procesos de negocio mediante eventos, comandos, políticas, paint poins, read models, aggregates y bounded contexts, lo que facilita comprender más clara la aquitectura del software
-![Event Storming](./assets/md-images-chapter4/EventS1.png)
-![Event Storming](./assets/md-images-chapter4/EventS2.png)
-![Event Storming](./assets/md-images-chapter4/EventS3.png)
 ### 4.6.1. Design-Level Event Storming
+Event Storming es una técnica de modelado que nos permite identificar y organizar los eventos relevantes del dominio de negocio, es decir, aquellos hechos importantes que ocurren dentro del sistema. A través de este modelo analizamos procesos de negocio mediante eventos, comandos, políticas, paint poins, read models, aggregates y bounded contexts, lo que facilita comprender más clara la aquitectura del software
+![Event Storming](./assets/md-images-chapter4/Cap1.png)
+![Event Storming](./assets/md-images-chapter4/Cap2.png)
+![Event Storming](./assets/md-images-chapter4/Cap3.png)
+![Event Storming](./assets/md-images-chapter4/Cap4.png)
+![Event Storming](./assets/md-images-chapter4/Cap5.png)
+Link de modelo: https://lucid.app/lucidspark/83c9509f-24aa-47a0-acb8-d565dad1216c/edit?view_items=F0GQ8.VouW7A&page=0_0&invitationId=inv_3993ba91-db9e-419d-8bd7-f08a3754f9ab
 ### 4.6.2. Software Architecture Context Diagram
 **Elementos:**
 
@@ -2770,19 +2773,36 @@ Event Storming es una técnica de modelado que nos permite identificar y organiz
 * Servicio de Notificaciones
 * Sistema de Autenticación
 
-![Diagrama Contexto](./assets/md-images-chapter4/DiagramaContexto.png)
+![Diagrama Contexto](./assets/md-images-chapter4/DContexto.png)
+
 ### 4.6.3. Software Architecture Container Diagrams
-El Container Diagram presenta la descomposición del sistema en contenedores principales, mostrando cómo las  aplicaciones cliente, La API, los servicios de monitoreo, gestión de incidencias, administración de dispositivos y notificaciones colaboran o travian en conjunto para soportar el funcionamiento de la plataforma, integrando también los servicios externos de autenticación, notificación IoT, así como las bases de datos que almacena información de los distintos servicios.Cabe recalcar que la arquitectura propuesta prioriza una aplicación web, dejando la posibilidad de incorporar un cliente movile en futuras iteraciones.
-![Diagrama Contenedores](./assets/md-images-chapter4/ContainersDiagram.png)
+Los diagramas de contenedores presentan la descomposición del sistema en sus principales unidades de ejecución y almacenamiento, permitiendo visualizar cómo se contribuyen las responsabilidades entre el frontend y el backend.
+![Diagrama Contenedores](./assets/md-images-chapter4/DContenedores.png)
+
 ### 4.6.4. Software Architecture Components Diagrams
-![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES111.png)
-![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES2.png)
-![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES3.png)
-![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES4.png)
-![Diagrama Componentes](./assets/md-images-chapter4/DCOMPONENTES5.png)
+
+**Backend:**
+![Diagrama Componentes](./assets/md-images-chapter4/DComponentes.png)
+
+A continuación las especificaciones de cada Bounded Context, los cuales definen la organización interna de cada módulo tanto en el backend como en la SPA del Frontend
+![Diagrama Componentes](./assets/md-images-chapter4/Componente1.png)
+![Diagrama Componentes](./assets/md-images-chapter4/Componente2.png)
+![Diagrama Componentes](./assets/md-images-chapter4/Componente3.png)
+![Diagrama Componentes](./assets/md-images-chapter4/Componente4.png)
+![Diagrama Componentes](./assets/md-images-chapter4/Componente5.png)
+
+**Frontend:**
+Aqui cada módulo comparte una misma arquitectura frontend al fin de mantener consistencia, modularidad y facilidad de mantenimiento, pero cada capa cambia su resonsabilidad según su módulo
+![Diagrama Componentes](./assets/md-images-chapter4/CFronted.png)
+
+A continuación las especificaciones de cada Módulo
+![Diagrama Componentes](./assets/md-images-chapter4/C11.png)
+![Diagrama Componentes](./assets/md-images-chapter4/D22.png)
+![Diagrama Componentes](./assets/md-images-chapter4/C33.png)
+![Diagrama Componentes](./assets/md-images-chapter4/D44.png)
+![Diagrama Componentes](./assets/md-images-chapter4/D55.png)
 
 ## 4.7. Software Object-Oriented Design
-
 The object-oriented design of the LowCortisol system is represented through two class diagrams: one for the backend and another for the frontend. This separation allows a clearer view of the responsibilities of each layer of the application.
 
 ### 4.7.1. Class Diagrams
@@ -3058,6 +3078,7 @@ Durante el Sprint, se evidenció una participación activa de todos los integran
 ### 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product.
 # Conclusiones
+Hasta el momento, el poryecto LowCortisol ha logrado consolidar una base sólida de investigación, diseño, arquitectura e implementación inicial. El equipo partió de una problemática real relacionada con la detección tardía de fugas de agua y gas en hogares, hoteles, municipalidades y otras infraestructuras, identificando que la falta de monitoreo en tiempo real genera pérdidas económicas, riesgos de inseguridad, desperdicio de recursos y una respuesta de valor clara, por ello nace una plataforma basada en tecnología IoT capaz de monitorear sistemas de agua y gas, emitir alertas inmediatas, permitir acciones remotas y facilitar una gestión preventiva. En los primeros capítulos el equipo desarrolló la base del proyecto mediante el perfil de la startup, misión, valores, objetivos, análisis competitivo, Lean UX, entrevistas entre otros puntos importantes, permitiendo de esta forma validar que los usuarios necesitan una herramienta tecnológica preventiva como la ya planteada anteriormente. Tambien se organizaron los requerimientos mediantes epics, user stories, technical stories, product backlog e impact mapping, definiendo funcionalidades importantes para nuestro poryecto. Finalmente se logró implementar y desplegar la Lnading Page mediante GitHub Pages, evidenciando el uso del Git, GitHub, trabajo colaborativo y organización por Sprint. En conclusión LowCortisol cueta como una base completa de investigación, diseño, arquitectura e implementación inicial, quedando como siguiente paso desarrollar la Web Application, integrar la API y ampliar la presistencia de datos para nuestros diferentes servicios.
 ## Conclusiones y recomendaciones
 ## Video About-the-Team.
 # Bibliografía 
