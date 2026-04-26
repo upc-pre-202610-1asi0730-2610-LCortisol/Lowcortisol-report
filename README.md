@@ -90,7 +90,7 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 - 
 
-### Entrega TB1:
+### Entrega AV1:
 
 #### Participación por integrante:
 
@@ -265,12 +265,11 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 ## Student Outcome
 
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
+
 | Criterio Especifico | Acciones realizadas | Conclusiones |
 |--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1: En esta primera entrega se desarrollo nuestro proyecto definiendo nuestros segmento objetivos, diseño de entrevistas, usuarios y posibles competidores, permitiendome así poder realizar todo el Needfinding(UserPersona, User Task Matrix, Journey Mapping, Emphaty Mapping) , para si luego poder hacer el diagrama C4 de nuestro proyecto tanto el backed como el frontend, además de contruibuir con dos secciones de nuestra landing page(Header, Home y Contact y Footer), añadiendo que hicimos el Event Storming<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br>Kirk Quiliano <br> TB1:En esta primera entrega se desarrollo nuestro proyecto definiedo nuestros segmentos, usuarios y posibles competidos, para esto realize entrevistas y basandome en las entrevistas diseñe nuestra landing page.<br> TP1: <br> TB2: <br> TF1:
-|	 |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1: Trabaje la comunicación escrita realizanod el informe en markdown, además de la realización de los informes para el Needfinding, Parte del Landing Page, conclsuiones del trabajo hecho, el modelo C4, el event storming, etc. Ayudando a amantener un lenguaje comprensible<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br>Kirk Quiliano <br> TB1: Trabaje la comunicación escrita realizando el informe en markdown, ademas de la realización de los informes de style guidelines, ubiqutous langueage, etc. Ayudando a mantener un lenguaje no tan tecnico y mas entendible.<br> TP1: <br> TB2: <br> TF1:|	 |
-
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>AV1:<br> TP1: <br> TB2: <br> TF1: <br><br> James Delgado <br>AV1: En esta primera entrega se desarrollo nuestro proyecto definiendo nuestros segmento objetivos, diseño de entrevistas, usuarios y posibles competidores, permitiendome así poder realizar todo el Needfinding (User Persona, User Task Matrix, Journey Mapping, Empathy Mapping), para luego hacer el diagrama C4 del proyecto tanto backend como frontend, además de contribuir con secciones de la landing page (Header, Home, Contact y Footer) y el Event Storming.<br> TP1: <br> TB2: <br> TF1: <br><br> Jean Loa <br> AV1: <br> TP1: <br> TB2: <br> TF1: <br><br> Bruno Montalvo <br> AV1: Participé en la explicación de los segmentos objetivo y en la discusión de las user stories, ayudando a que el equipo entienda claramente los requerimientos. También apoyé en la presentación de los beneficios del producto con un enfoque entendible para usuarios no técnicos.<br> TP1: <br> TB2: <br> TF1:<br><br> Kirk Quiliano <br> AV1: En esta primera entrega se desarrollo nuestro proyecto definiendo segmentos, usuarios y competidores; además realicé entrevistas y, en base a ellas, diseñé la landing page.<br> TP1: <br> TB2: <br> TF1: | AV1: En esta primera entrega (AV1), el equipo logró comunicar las ideas principales del proyecto de manera clara, especialmente al explicar la problemática, los segmentos de usuarios y la propuesta de valor. Se notó preparación previa y un buen entendimiento general del tema, lo que permitió que la presentación sea coherente. Sin embargo, aún hay aspectos por mejorar, como la fluidez al exponer, evitar pausas o repeticiones y mejorar la distribución del tiempo entre los integrantes. Para las siguientes entregas, será importante practicar más como equipo para lograr una comunicación más natural y segura frente a distintos tipos de audiencia. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>AV1:<br> TP1: <br> TB2: <br> TF1: <br><br> James Delgado <br>AV1: Trabajé la comunicación escrita realizando el informe en markdown, además de los documentos de Needfinding, partes del Landing Page, conclusiones, modelo C4 y Event Storming, manteniendo un lenguaje comprensible.<br> TP1: <br> TB2: <br> TF1: <br><br> Jean Loa <br> AV1: <br> TP1: <br> TB2: <br> TF1: <br><br> Bruno Montalvo <br> AV1: Desarrollé gran parte del Capítulo 1 (excepto la sección 1.3), incluyendo segmentos objetivo y contexto. Redacté user stories y technical stories, y mejoré el formato de user persona y otros artefactos UX. Además, apoyé en el sprint backlog, la sección de beneficios de la landing page y el Event Storming.<br> TP1: <br> TB2: <br> TF1:<br><br> Kirk Quiliano <br> AV1: Trabajé la comunicación escrita realizando el informe en markdown, además de los style guidelines y ubiquitous language, manteniendo un lenguaje entendible.<br> TP1: <br> TB2: <br> TF1: | AV1: Durante el AV1, el equipo desarrolló una documentación bastante completa y bien organizada, logrando transmitir tanto ideas técnicas como conceptos más generales de forma entendible. Se hizo un buen esfuerzo por mantener un lenguaje claro, especialmente en user stories, UX artifacts y la landing page. Sin embargo, aún se pueden mejorar aspectos como la concisión, evitar redundancias y mantener mayor consistencia en la redacción. En general, es un buen avance inicial y una base sólida para las siguientes entregas. |
 
 # Capitulo I: Introducción
 
@@ -3112,7 +3111,6 @@ detalla la distribución de roles para este primer ciclo:
 En esta sección se presentan los avances de implementación correspondientes al Sprint Review. A continuación, se detallan los commits realizados por el equipo.
 
 
-
 ### Commits del Proyecto
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -3133,6 +3131,7 @@ En esta sección se presentan los avances de implementación correspondientes al
 | Lowcortisol-LadingPage | section-about | 8486712 | feat: about section | Se desarrolló la sección "About" de la landing page. | 20/04/2026 |
 | Lowcortisol-LadingPage | main | e2b28de | init: project setup | Se realizó el commit inicial del proyecto con la configuración base. | 19/04/2026 |
 
+LINK URL TRELLO: https://trello.com/invite/b/69eac1f8457512a2f55d9699/ATTI0db4f1b2fac4ca47db5b72f302c1b7e9FDE35BBF/sprint-backlog-1-lowcortisol 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -3240,13 +3239,6 @@ Balamurugan, G., Harish, V. M., Giridharan, G., Stalin, C. V., & Rajarathnam, D.
 
 # Anexos
 
-## 5.3. Validation Interviews
-### 5.3.1. Diseño de Entrevistas
-### 5.3.2. Registro de Entrevistas
-### 5.3.3. Evaluaciones según heurísticas
-## 5.4. Video About-the-Product.
 
-## Conclusiones y recomendaciones
-## Video About-the-Team.
 
  
