@@ -267,8 +267,8 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 | Criterio Especifico | Acciones realizadas | Conclusiones |
 |--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br><br> James Delgado <br>TB1: En esta primera entrega se desarrollo nuestro proyecto definiendo nuestros segmento objetivos, diseño de entrevistas, usuarios y posibles competidores, permitiendome así poder realizar todo el Needfinding(UserPersona, User Task Matrix, Journey Mapping, Emphaty Mapping), para luego hacer el diagrama C4 del proyecto tanto backend como frontend, además de contribuir con secciones de la landing page (Header, Home, Contact y Footer) y el Event Storming.<br> TP1: <br> TB2: <br> TF1: <br><br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br><br> Bruno Montalvo <br> TB1: Participé en la explicación de los segmentos objetivo y en la discusión de las user stories, ayudando a que el equipo entienda claramente los requerimientos. También apoyé en la presentación de los beneficios del producto con un enfoque entendible para usuarios no técnicos.<br> TP1: <br> TB2: <br> TF1:<br><br> Kirk Quiliano <br> TB1: En esta primera entrega se desarrollo nuestro proyecto definiendo segmentos, usuarios y competidores; además realicé entrevistas y, en base a ellas, diseñé la landing page.<br> TP1: <br> TB2: <br> TF1: | TB1: En esta primera entrega (TB1), el equipo logró comunicar las ideas principales del proyecto de manera clara, especialmente al explicar la problemática, los segmentos de usuarios y la propuesta de valor. Se notó preparación previa y un buen entendimiento general del tema, lo que permitió que la presentación sea coherente. Sin embargo, aún hay aspectos por mejorar, como la fluidez al exponer, evitar pausas o repeticiones y mejorar la distribución del tiempo entre los integrantes. Para las siguientes entregas, será importante practicar más como equipo para lograr una comunicación más natural y segura frente a distintos tipos de audiencia. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br><br> James Delgado <br>TB1: Trabajé la comunicación escrita realizando el informe en markdown, además de los documentos de Needfinding, partes del Landing Page, conclusiones, modelo C4 y Event Storming, manteniendo un lenguaje comprensible.<br> TP1: <br> TB2: <br> TF1: <br><br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br><br> Bruno Montalvo <br> TB1: Desarrollé gran parte del Capítulo 1 (excepto la sección 1.3), incluyendo segmentos objetivo y contexto. Redacté user stories y technical stories, y mejoré el formato de user persona y otros artefactos UX. Además, apoyé en el sprint backlog, la sección de beneficios de la landing page y el Event Storming.<br> TP1: <br> TB2: <br> TF1:<br><br> Kirk Quiliano <br> TB1: Trabajé la comunicación escrita realizando el informe en markdown, además de los style guidelines y ubiquitous language, manteniendo un lenguaje entendible.<br> TP1: <br> TB2: <br> TF1: | TB1: Durante el TB1, el equipo desarrolló una documentación bastante completa y bien organizada, logrando transmitir tanto ideas técnicas como conceptos más generales de forma entendible. Se hizo un buen esfuerzo por mantener un lenguaje claro, especialmente en user stories, UX artifacts y la landing page. Sin embargo, aún se pueden mejorar aspectos como la concisión, evitar redundancias y mantener mayor consistencia en la redacción. En general, es un buen avance inicial y una base sólida para las siguientes entregas. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1: Durante el proyecto, participé en el análisis competitivo y en la definición de estrategias frente a competidores. Además, desarrollé el registro de entrevistas del segmento profesional y la arquitectura de información de la Landing Page, incluyendo organization, labeling, searching y navigation systems. También contribuí en el diseño de la Landing Page (wireframe y mockup) y en las secciones de despliegue, planificación del sprint y evidencias de colaboración. <br> TP1: <br> TB2: <br> TF1: <br><br> James Delgado <br>TB1: En esta primera entrega se desarrollo nuestro proyecto definiendo nuestros segmento objetivos, diseño de entrevistas, usuarios y posibles competidores, permitiendome así poder realizar todo el Needfinding(UserPersona, User Task Matrix, Journey Mapping, Emphaty Mapping), para luego hacer el diagrama C4 del proyecto tanto backend como frontend, además de contribuir con secciones de la landing page (Header, Home, Contact y Footer) y el Event Storming.<br> TP1: <br> TB2: <br> TF1: <br><br> Jean Loa <br> TB1: Durante el desarrollo del proyecto, participé en la elaboración del Product Backlog y en el diseño de la Application Web, incluyendo wireframes, mockups, wireflow y userflow. Asimismo, contribuí en la creación de prototipos, diagramas de clases y de base de datos, además de apoyar en la gestión de la configuración y del código fuente.  <br> TP1: <br> TB2: <br> TF1: <br><br> Bruno Montalvo <br> TB1: Participé en la explicación de los segmentos objetivo y en la discusión de las user stories, ayudando a que el equipo entienda claramente los requerimientos. También apoyé en la presentación de los beneficios del producto con un enfoque entendible para usuarios no técnicos.<br> TP1: <br> TB2: <br> TF1:<br><br> Kirk Quiliano <br> TB1: En esta primera entrega se desarrollo nuestro proyecto definiendo segmentos, usuarios y competidores; además realicé entrevistas y, en base a ellas, diseñé la landing page.<br> TP1: <br> TB2: <br> TF1: | TB1: En esta primera entrega (TB1), el equipo logró comunicar las ideas principales del proyecto de manera clara, especialmente al explicar la problemática, los segmentos de usuarios y la propuesta de valor. Se notó preparación previa y un buen entendimiento general del tema, lo que permitió que la presentación sea coherente. Sin embargo, aún hay aspectos por mejorar, como la fluidez al exponer, evitar pausas o repeticiones y mejorar la distribución del tiempo entre los integrantes. Para las siguientes entregas, será importante practicar más como equipo para lograr una comunicación más natural y segura frente a distintos tipos de audiencia. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1: Me comunico por escrito de forma clara y estructurada, adaptando el lenguaje según el público, lo que me permitió desarrollar el análisis competitivo, la arquitectura de información y la documentación de la Landing Page de manera comprensible. <br> TP1: <br> TB2: <br> TF1: <br><br> James Delgado <br>TB1: Trabajé la comunicación escrita realizando el informe en markdown, además de los documentos de Needfinding, partes del Landing Page, conclusiones, modelo C4 y Event Storming, manteniendo un lenguaje comprensible.<br> TP1: <br> TB2: <br> TF1: <br><br> Jean Loa <br> TB1: Me comunico por escrito de manera clara y efectiva, adaptando el contenido y el lenguaje según la audiencia, lo que me permitió documentar correctamente el Product Backlog, los diseños de la aplicación web y los diagramas técnicos del sistema.  <br> TP1: <br> TB2: <br> TF1: <br><br> Bruno Montalvo <br> TB1: Desarrollé gran parte del Capítulo 1 (excepto la sección 1.3), incluyendo segmentos objetivo y contexto. Redacté user stories y technical stories, y mejoré el formato de user persona y otros artefactos UX. Además, apoyé en el sprint backlog, la sección de beneficios de la landing page y el Event Storming.<br> TP1: <br> TB2: <br> TF1:<br><br> Kirk Quiliano <br> TB1: Trabajé la comunicación escrita realizando el informe en markdown, además de los style guidelines y ubiquitous language, manteniendo un lenguaje entendible.<br> TP1: <br> TB2: <br> TF1: | TB1: Durante el TB1, el equipo desarrolló una documentación bastante completa y bien organizada, logrando transmitir tanto ideas técnicas como conceptos más generales de forma entendible. Se hizo un buen esfuerzo por mantener un lenguaje claro, especialmente en user stories, UX artifacts y la landing page. Sin embargo, aún se pueden mejorar aspectos como la concisión, evitar redundancias y mantener mayor consistencia en la redacción. En general, es un buen avance inicial y una base sólida para las siguientes entregas. |
 
 # Capitulo I: Introducción
 
@@ -313,10 +313,10 @@ En la actualidad, tanto en hogares como en negocios e instituciones, el uso de t
 A nivel mundial, se han desarrollado soluciones basadas en tecnología IoT para el monitoreo de recursos, pero su adopción aún es limitada en muchos contextos debido a costos, falta de conocimiento o baja accesibilidad tecnológica.
 En el contexto local, es común que los usuarios detecten fugas de agua o gas de forma tardía, cuando ya existen consecuencias como:
 
--Incremento excesivo en los recibos de servicios.  
--Daños en infraestructura (paredes, pisos, tuberías).  
--Riesgos para la salud (intoxicación por gas).  
--Posibles accidentes graves como explosiones.
+- Incremento excesivo en los recibos de servicios.  
+- Daños en infraestructura (paredes, pisos, tuberías).  
+- Riesgos para la salud (intoxicación por gas).  
+- Posibles accidentes graves como explosiones.
 
 Además, la dificultad para encontrar técnicos confiables de forma inmediata agrava la situación, incrementando el tiempo de respuesta ante emergencias.
 Por ello, se identifica la necesidad de una solución tecnológica que permita el monitoreo continuo, la detección temprana de anomalías y la respuesta rápida ante incidentes.
@@ -345,37 +345,37 @@ El impacto puede ser económico por altos costos en recibos y reparaciones, oper
 
 ## Objetivos
 ### Corto Plazo
--Desarrollar un producto mínimo viable con las funciones principales del sistema.  
--Implementar registro e inicio de sesión de usuarios.  
--Integrar el monitoreo básico de agua y gas mediante sensores IoT.  
--Configurar alertas iniciales ante fugas o anomalías detectadas.  
--Realizar pruebas con usuarios para validar la usabilidad y funcionamiento del sistema.  
--Recoger retroalimentación para identificar mejoras.
+- Desarrollar un producto mínimo viable con las funciones principales del sistema.  
+- Implementar registro e inicio de sesión de usuarios.  
+- Integrar el monitoreo básico de agua y gas mediante sensores IoT.  
+- Configurar alertas iniciales ante fugas o anomalías detectadas.  
+- Realizar pruebas con usuarios para validar la usabilidad y funcionamiento del sistema.  
+- Recoger retroalimentación para identificar mejoras.
 ### Medio Plazo
--Mejorar la plataforma con nuevas funcionalidades según las necesidades detectadas.  
--Implementar historial de consumo y reportes detallados.
+- Mejorar la plataforma con nuevas funcionalidades según las necesidades detectadas.  
+- Implementar historial de consumo y reportes detallados.
 ### Largo Plazo
--Expandir el servicio a más ciudades del país.  
--Establecer alianzas con municipalidades, negocios y empresas de servicios.  
--Posicionar la marca como referente en monitoreo y prevención de fugas de agua y gas.  
--Desarrollar nuevas soluciones relacionadas con automatización y seguridad inteligente.
+- Expandir el servicio a más ciudades del país.  
+- Establecer alianzas con municipalidades, negocios y empresas de servicios.  
+- Posicionar la marca como referente en monitoreo y prevención de fugas de agua y gas.  
+- Desarrollar nuevas soluciones relacionadas con automatización y seguridad inteligente.
 
 ## Restricciones
--La solución debe desarrollarse como una plataforma web compuesta por una Landing Page, una Web Application y una RESTful API propia integrada entre sí.  
--La interfaz debe ser adaptable a distintos dispositivos, como computadoras, tablets y celulares.  
--El sistema debe mantener una experiencia visual y funcional consistente entre la Landing Page y la Web Application.  
--Los botones de llamada a la acción (Call To Action) de la Landing Page deben redirigir correctamente a las vistas correspondientes dentro de la Web Application.  
--La solución debe integrar al menos un servicio externo de terceros, como mapas, correo, notificaciones o autenticación.  
--El desarrollo debe utilizar tecnologías open-source y herramientas alineadas con lo aprendido en el curso.  
--La lógica del lado servidor debe ser compatible con el enfoque solicitado en el curso, utilizando C# cuando corresponda.  
--El proyecto debe gestionarse en un repositorio público de GitHub con evidencias de colaboración mediante commits.  
--El equipo debe aplicar GitFlow y conventional commits durante el desarrollo del proyecto.  
--El sistema dependerá de conexión a internet para funciones en tiempo real como monitoreo, alertas y sincronización de datos.  
--La instalación de sensores IoT puede representar un costo inicial para los usuarios.  
--Algunas instalaciones antiguas podrían presentar dificultades de compatibilidad con los sensores.  
--El alcance inicial del proyecto estará enfocado en segmentos priorizados y funcionalidades principales del producto mínimo viable.  
--El tiempo disponible del ciclo académico limita la implementación de funcionalidades avanzadas en la primera versión.  
--Será necesario aplicar medidas de seguridad para proteger la información de usuarios y dispositivos conectados.
+- La solución debe desarrollarse como una plataforma web compuesta por una Landing Page, una Web Application y una RESTful API propia integrada entre sí.  
+- La interfaz debe ser adaptable a distintos dispositivos, como computadoras, tablets y celulares.  
+- El sistema debe mantener una experiencia visual y funcional consistente entre la Landing Page y la Web Application.  
+- Los botones de llamada a la acción (Call To Action) de la Landing Page deben redirigir correctamente a las vistas correspondientes dentro de la Web Application.  
+- La solución debe integrar al menos un servicio externo de terceros, como mapas, correo, notificaciones o autenticación.  
+- El desarrollo debe utilizar tecnologías open-source y herramientas alineadas con lo aprendido en el curso.  
+- La lógica del lado servidor debe ser compatible con el enfoque solicitado en el curso, utilizando C# cuando corresponda.  
+- El proyecto debe gestionarse en un repositorio público de GitHub con evidencias de colaboración mediante commits.  
+- El equipo debe aplicar GitFlow y conventional commits durante el desarrollo del proyecto.  
+- El sistema dependerá de conexión a internet para funciones en tiempo real como monitoreo, alertas y sincronización de datos.  
+- La instalación de sensores IoT puede representar un costo inicial para los usuarios.  
+- Algunas instalaciones antiguas podrían presentar dificultades de compatibilidad con los sensores.  
+- El alcance inicial del proyecto estará enfocado en segmentos priorizados y funcionalidades principales del producto mínimo viable.  
+- El tiempo disponible del ciclo académico limita la implementación de funcionalidades avanzadas en la primera versión.  
+- Será necesario aplicar medidas de seguridad para proteger la información de usuarios y dispositivos conectados.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
@@ -866,7 +866,7 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 
 #### Segmento 1: Usuarios residenciales con interés con tecnología y seguridad del hogar
 
-##### Entrevista 1 - Segmento: Hogares
+##### Entrevista 1 
 
 **Datos del Entrevistado:**
 - Edad: 19
@@ -875,17 +875,18 @@ En esta sección se presenta el análisis del entorno competitivo del proyecto, 
 - Distrito: Molina
 
 **Evidencia:**
-- URL: [Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQD7BHUGgfX-R6Oz1emzH8bFAQ5R1r1xMT7iyeOb6NyvI0c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TAg39Z)
-- Duración video: 4:24
-- Screenshot:
-  ![Entrevistado-1](assets/md-images-chapter2/Interview-Yazid.png)
+- URL: [Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQD4XfNDAkWJSamHpgQ0kIYYAX48PL4HmML8Mk_SDS7EYy4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mFIjw8)
+- Inicio: 0:00
+- Duración video: 4:24 
+- Screenshot: <br> <br>
+ ![Entrevistado-1](assets/md-images-chapter2/Interview-Yazid.png)
 
 
 **<u>Resumen de la entrevista:</u>**
 Yazid es un estudiante de Ingeniería Mecatrónica que habita en una vivienda con más de 40 años de antigüedad, factor que vuelve las fugas de agua un problema crónico debido al desgaste natural de la red. Describe que la detección actual es tardía y depende de señales visuales como hongos, caída de pintura, baja presión en los grifos o el impacto económico en los recibos mensuales. Para él, el impacto más fuerte es el desperdicio de recursos y el riesgo de seguridad que implican las fugas de gas. Su perfil académico lo hace especialmente receptivo a soluciones tecnológicas avanzadas; espera una herramienta que no solo envíe alertas al móvil e identifique la zona exacta del fallo, sino que también ofrezca la capacidad de cortar el suministro de forma remota (válvulas inteligentes). Yazid valora la eficiencia y la innovación, considerando que una solución así mejoraría drásticamente la seguridad del hogar y reduciría el gasto innecesario de agua.
 
 
-##### Entrevista 2 - Segmento 1: Usuarios residenciales con interés con tecnología y seguridad del hogar
+##### Entrevista 2
 
 **Datos del Entrevistado:**
 - Edad: 19
@@ -894,14 +895,16 @@ Yazid es un estudiante de Ingeniería Mecatrónica que habita en una vivienda co
 - Distrito: Ate
 
 **Evidencia:**
-- URL: [Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQDbk1DYJMu7TqQ7YVonCc7kAfORlvBeEqx0ePXhcOI9QBs?e=UhgedF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- URL: [Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQD4XfNDAkWJSamHpgQ0kIYYAfD06awjxwPxaAQY5k7riA8?e=Rx14th&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY0LjgzfX0%3D)
+- Inicio: 4:24
 - Duración video: 8:41
-- Screenshot: ![Entrevistado-2](assets/md-images-chapter2/Interview-Jose.png)
+- Screenshot: <br> <br> 
+  ![Entrevistado-2](assets/md-images-chapter2/Interview-Jose.png)
 
 **<u>Resumen de la entrevista:</u>**
 Jesús es un estudiante con conocimientos técnicos previos que vive en un entorno familiar donde se presentan fugas tanto de agua como de gas, estas últimas generalmente por el uso de mangueras de baja calidad. Explica que mientras la detección de gas es casi inmediata gracias al olfato (menos de 5 minutos), las fugas de agua son más engañosas y pueden tardar hasta una semana en manifestarse mediante salitre o manchas en las paredes. Dado su perfil técnico, él mismo asume el rol de mantenimiento en el hogar para evitar gastos externos. Sin embargo, reconoce las limitaciones de la inspección manual y se muestra muy a favor de implementar sistemas basados en sensores (IoT) que alerten sobre roturas internas no visibles. Propone que este tipo de tecnología debería comercializarse bajo un modelo de suscripción atractivo y destaca que su principal valor sería la tranquilidad y la respuesta inmediata ante emergencias que podrían escalar a desastres.
 
-##### Entrevista 3 - Segmento 1: Usuarios residenciales con interés con tecnología y seguridad del hogar
+##### Entrevista 3 
 
 **Datos del Entrevistado:**
 - Edad: 20
@@ -910,15 +913,17 @@ Jesús es un estudiante con conocimientos técnicos previos que vive en un entor
 - Distrito: Santiago de Surco
 
 **Evidencia:**
-- URL: [Entrevista - 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411378_upc_edu_pe/IQCzx8x7QA6FSruSB6l-3xysAbDrym3Es1cHPQIuMX99_28?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NNWf3P)
+- URL: [Entrevista - 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQD4XfNDAkWJSamHpgQ0kIYYAfD06awjxwPxaAQY5k7riA8?e=2cNP0B&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjcwNi4wNH19)
+- Inicio: 45:06 
 - Duración video: 6:56
 - Screenshot: ![Entrevistado - 3](assets/md-images-chapter2/Interview-Frank.png)
 
 **<u>Resumen de la entrevista:</u>**
 El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, que reside en un hogar donde las fugas de agua ocurren con una frecuencia de cada tres o cuatro meses. Durante la charla, menciona que suele notar el problema de manera reactiva, muchas veces ignorando las primeras señales hasta que el daño es evidente a través de charcos o humedad excesiva. Su gestión actual es mixta: intenta realizar reparaciones menores por cuenta propia, pero debe recurrir a técnicos especializados cuando el problema afecta la estructura interna, lo que ha derivado en costos elevados como el cambio de tuberías o pisos dañados. En cuanto a la tecnología, Frank se muestra muy interesado en una solución de monitoreo en tiempo real, siempre que el costo sea accesible y la interfaz permita personalizar o modelar el plano de su hogar para una mejor ubicación de las averías. Su actitud es pragmática, priorizando la prevención económica y la facilidad de uso de una aplicación móvil.
 
+#### Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
 
-##### Entrevista 1 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+##### Entrevista 1 
 
 **Datos del Entrevistado:**
 - Edad: 22
@@ -927,16 +932,18 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 - Distrito: La Molina
 
 **Evidencia:**
-- URL: [Entrevista_Leonardo_Daniel](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQAACV_KLKrVQ4mW-fkDJBhjAdEzO8O66oc0hGDoY-FjbTI?e=cEBinc)
+- URL: [Entrevista_Leonardo_Daniel](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQD4XfNDAkWJSamHpgQ0kIYYAfD06awjxwPxaAQY5k7riA8?e=irdbcO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Nzg2LjV9fQ%3D%3D)
+
+- Inicio: 13:06
 - Duración video: 7:44
-- Screenshot: 
+- Screenshot:  <br> <br>
   ![Entrevistado-1](assets/md-images-chapter2/Interview-Leonardo.png)
 
 
 **<u>Resumen de la entrevista:</u>**
   Leonardo, practicante en el área de infraestructura de una municipalidad de la Molina, explica que el monitoreo de redes de agua se realiza principalmente de forma reactiva, basándose en inspecciones programadas y reportes de los ciudadanos. Señala que las fugas son frecuentes, especialmente en zonas con tuberías antiguas, y muchas veces no se detectan de inmediato, lo que genera pérdidas acumulativas de agua. Además, menciona que los tiempos de respuesta pueden variar considerablemente debido a la coordinación con otras entidades responsables. Indica que el uso de tecnología es limitado y que no cuentan con sistemas de monitoreo en tiempo real. Sin embargo, considera que la implementación de soluciones IoT permitiría mejorar la detección temprana de fallas, optimizar recursos y facilitar la toma de decisiones. También reconoce que existen barreras como el presupuesto, la capacitación del personal y la integración con sistemas ya existentes.
 
-###### Entrevista 2 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+###### Entrevista 2 
 
 **Datos del Entrevistado:**
 - Edad: 22
@@ -945,16 +952,17 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 - Distrito: ATE
 
 **Evidencia:**
-- URL: [Entrevista_Pool_Enrique](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDfxdo8pQ9SQJk2KH4ElHBpASUK09i9Wp0YcqIypn83PuY?e=GPSgeU)
+- URL: [Entrevista_Pool_Enrique](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQD4XfNDAkWJSamHpgQ0kIYYAfD06awjxwPxaAQY5k7riA8?e=BY8ShX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTI2OC41OX19)
+- Inicio: 20:50 
 - Duración video: 7:12
-- Screenshot:
+- Screenshot: <br> <br>
   ![Entrevistado-2](assets/md-images-chapter2/Interview-Pool.png)
 
 
 **<u>Resumen de la entrevista:</u>**
   Pool, practicante en la Municipalidad de Ate, comenta que la supervisión de redes de agua se realiza principalmente mediante inspecciones y reportes ciudadanos, debido a la ausencia de sistemas de monitoreo continuo. Indica que las fugas son un problema recurrente, sobre todo en infraestructuras antiguas o intervenidas sin una adecuada planificación. Muchas de estas fallas no se detectan a tiempo, lo que incrementa las pérdidas y afecta la eficiencia del sistema. La identificación suele basarse en señales visibles, como humedad o disminución de presión, lo que retrasa la intervención. Además, menciona que el uso de herramientas tecnológicas es limitado. No obstante, muestra una actitud positiva hacia la implementación de soluciones IoT, ya que permitirían un monitoreo constante, una detección más rápida de fallas y una mejor gestión de los recursos.
 
-######  Entrevista 3 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+######  Entrevista 3 
 
 **Datos del Entrevistado:**
 - Edad: 22
@@ -963,15 +971,16 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 - Distrito: San Isidro
 
 **Evidencia:**
-- URL del video: [Entrevista-Eduardo-Rojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDh1SBPb7DSQ73erb_Z8gX_AW--6ocemaj16SMFlCVYJkg?e=BovAyo)
+- URL del video: [Entrevista-Eduardo-Rojas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQD4XfNDAkWJSamHpgQ0kIYYAfD06awjxwPxaAQY5k7riA8?e=tccYlV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTY4My4yNH19)
+- Inicio: 28:03
 - Duración: 05:06
-- Screenshot:
+- Screenshot: <br><br>
   ![Entrevistado-3](assets/md-images-chapter2/Interview-Edward.png)
 
 **<u>Resumen de la entrevista:</u>**
   Edward, trabajador del área de mantenimiento en un hotel, señala que las fugas de agua son los problemas más frecuentes en las instalaciones, principalmente en tuberías internas, mientras que las fugas de gas, aunque menos comunes, representan un mayor riesgo. Indica que el monitoreo se realiza de manera manual y depende en gran parte de reportes del personal o de los huéspedes, lo que evidencia un enfoque reactivo. Estas fallas pueden afectar directamente la experiencia del cliente, generando incomodidades y posibles costos adicionales para el hotel. Por ello, destaca la importancia de contar con soluciones tecnológicas que permitan una detección temprana de fugas. Considera que la implementación de sistemas IoT ayudaría a mejorar la eficiencia del mantenimiento, reducir riesgos y optimizar la operación del servicio.
 
-###### Entrevista 4 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+###### Entrevista 4 
 
 **Datos del Entrevistado:**
 - Nombre: Fabián Raimundo
@@ -980,16 +989,17 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 - Ocupación: Practicante del área de Gestión y Servicios – Hotel Sheraton
 
 **Evidencia:**
-- URL: [Entrevista_Fabián_Raimundo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDawspRWjtiR5y7UR6qjti4AcwNYWIz-ajJLLVrggxK-cQ?e=8IlNqo)
+- URL: [Entrevista_Fabián_Raimundo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQD4XfNDAkWJSamHpgQ0kIYYAfD06awjxwPxaAQY5k7riA8?e=hlpMrb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTk5MC40M319)
+- Inicio: 33:10
 - Duración video: 07:26
-- Screenshot:
+- Screenshot: <br> <br>
   ![Entrevistado-4](assets/md-images-chapter2/Interview-Fabian.png)
 
 
 **<u>Resumen de la entrevista:</u>**
   Fabián, practicante en el área de gestión y servicios de un hotel, menciona que los problemas relacionados con fugas de agua y gas ocurren de manera ocasional, siendo las fugas de agua más comunes debido al desgaste de las instalaciones. Señala que la detección de estos problemas se realiza principalmente de forma manual, mediante la observación del personal de mantenimiento o limpieza, así como por reportes de los huéspedes. Aunque el hotel cuenta con un plan de mantenimiento preventivo, reconoce que este no siempre permite anticipar las fallas, por lo que el sistema sigue siendo en gran parte reactivo. Además, indica que la falta de automatización limita la capacidad de respuesta. Sin embargo, muestra interés en la implementación de soluciones IoT con alertas en tiempo real, ya que permitirían mejorar la eficiencia operativa, reducir tiempos de respuesta y optimizar la experiencia del cliente.
 
-###### Entrevista 5 – Segmento 2: Profesionales de Infraestructura, Mantenimiento y Gestión Operativa
+###### Entrevista 5 
 
 **Datos del Entrevistado:**
 - Edad: 21
@@ -998,9 +1008,10 @@ El entrevistado es un joven de 20 años, estudiante de Ingeniería de Software, 
 - Distrito: Santiago de Surco
 
 **Evidencia:**
-- URL: [Entrevista_Álvaro_Jordán_Villa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413930_upc_edu_pe/IQDCfKgvsJeSQ5iSLTGtwZuBAdD3tSG00wgIiM6258CkGV0?e=g4vMv6)
+- URL: [Entrevista_Álvaro_Jordán_Villa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQD4XfNDAkWJSamHpgQ0kIYYAfD06awjxwPxaAQY5k7riA8?e=FzYf1n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjQzNy4xNn19)
+- Inicio: 40:37
 - Duración video: 4:29
-- Screenshot:
+- Screenshot: <br><br>
   ![Entrevistado-5](assets/md-images-chapter2/Interview-Alvaro.png)
 
 
