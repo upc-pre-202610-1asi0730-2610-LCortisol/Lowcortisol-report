@@ -2772,7 +2772,7 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 * **Elementos clave:** Resumen de reportes generados, totales de agua y gas, gráfico de tendencia de consumo, selector de rango temporal (7D, 30D, 90D), tabla de reportes generados y botón para generar nuevos reportes.
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-MockUp-Reports.png" alt="Reports-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Mock-up-Reports.png" alt="Reports-Application-MockUp">
 </p>
 
 ---
