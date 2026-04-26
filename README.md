@@ -3119,7 +3119,7 @@ fueron nuestros avances atravez de capturas de pantalla.
 3. Sección Beneficio: Mostramos los beneficios respecto a otros competidores
 
 ![Beneficio-IMG](assets/md-images-chapter5/Beneficio-Sección.png)
-
+git diff README.md
 4. Sección Funcionalidades: Se mustran las funcionalidades que posee nuestro proyecto
 
 ![Funcionalidades-IMG](assets/md-images-chapter5/Funcionalidades-Sección.png)
@@ -3143,9 +3143,46 @@ acceder a mas información
 
 ![Footer-IMG](assets/md-images-chapter5/Footer-Sección.png)
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Se ha excluido la sección correspondiente a la aplicación web, ya que únicamente se ha desarrollado la Landing Page. La información sobre la aplicación será presentada en una fase posterior del proyecto.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 1, se realizaron las actividades necesarias para el despliegue de la Landing Page del proyecto. Se utilizó GitHub como plataforma de control de versiones y GitHub Pages como servicio de hosting para la publicación del sitio web.
+
+En primer lugar, se creó el repositorio del proyecto en GitHub, donde se almacenó el código fuente de la Landing Page, desarrollado en HTML, CSS y JavaScript. Posteriormente, se organizó la estructura del proyecto incluyendo los archivos principales y recursos estáticos como imágenes e íconos.
+
+Luego, se realizaron commits periódicos mediante Git, permitiendo el seguimiento de los cambios y el trabajo colaborativo del equipo. Una vez finalizado el desarrollo inicial, se procedió a configurar el despliegue mediante GitHub Pages.
+
+Para ello, se accedió a la configuración del repositorio, se habilitó la opción GitHub Pages y se seleccionó la rama `main` junto con la carpeta raíz (`/`) como fuente del despliegue. Como resultado, la plataforma generó automáticamente una URL pública que permite acceder a la Landing Page.
+
+Finalmente, se verificó el correcto funcionamiento del sitio desplegado, comprobando la navegación entre secciones, la correcta carga de recursos y la adaptabilidad del diseño en distintos dispositivos.
+
+
+<p align="center">
+  <img src="assets/md-images-chapter5/Deployment Evidence.PNG" alt="Deployment Evidence using Git Pages">
+</p>
+
+#### URL del Deployment
+https://upc-pre-202610-1asi0730-12144-lcortisol.github.io/Lowcortisol-LadingPage/  
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 1, el equipo trabajó de manera colaborativa en el desarrollo e implementación de la Landing Page del proyecto. Para ello, se utilizó Git y GitHub como herramientas principales de control de versiones y coordinación del trabajo.
+
+Cada integrante del equipo participó activamente en el desarrollo mediante la creación de commits, lo que permitió llevar un seguimiento claro de las contribuciones individuales. Se empleó una estrategia de trabajo basada en ramas, donde cada miembro desarrolló funcionalidades específicas de manera independiente y posteriormente se integraron los cambios en la rama principal (`main`).
+
+El uso de GitHub facilitó la organización del trabajo, permitiendo visualizar el historial de cambios, identificar responsables por tarea y mantener la coherencia del código. Asimismo, se realizaron integraciones periódicas para evitar conflictos y asegurar la estabilidad del proyecto.
+
+Durante el Sprint, se evidenció una participación activa de todos los integrantes en la implementación de la Landing Page, incluyendo el desarrollo de la estructura HTML, estilos CSS, funcionalidades en JavaScript y la integración de contenido.
+
+<p align="center">
+  <img src="assets/md-images-chapter5/Team Collaboration Insights.PNG" alt="Team Collaboration Insights">
+</p>
+
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
