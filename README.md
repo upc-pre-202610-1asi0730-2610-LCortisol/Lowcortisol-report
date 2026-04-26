@@ -3326,6 +3326,19 @@ Balamurugan, G., Harish, V. M., Giridharan, G., Stalin, C. V., & Rajarathnam, D.
 
 # Anexos
 
+## Anexo A. Videos de Exposiciones
+
+| Entrega | Características del video | Sobre el contenido | Integración y entrega |
+|---------|----------------------------|-------------------|----------------------|
+| AV1 | **Cantidad de videos:** 1 <br> **Enlace:** No aplica (presentación interna del curso) <br><br> **Nomenclatura:** upc-pre-202610-1asi0730-12144-lowcortisol-av1 <br><br> **Formato:** .mp4 | Video de exposición grupal que resume el avance integral del proyecto LowCortisol desarrollado hasta la presente entrega. Incluye la presentación estructurada de los capítulos trabajados: Startup Profile, Solution Profile, Segmentos objetivo, Requirements Elicitation & Analysis, entrevistas, Needfinding, User Stories, Product Backlog, Product Design, arquitectura del sistema IoT, implementación inicial del Landing Page y evidencias del Sprint 1. Cada integrante participa explicando sus aportes en el diseño del sistema de monitoreo de agua y gas, así como los principales resultados obtenidos. | Subir el video en la plataforma indicada por el docente. Incluir en el informe screenshot del video con enlace correspondiente. El material debe evidenciar dominio del proyecto LowCortisol, organización grupal, comunicación clara y sustento técnico de los avances presentados. |
+
+---
+
+## Anexo B. Evidencia de Videos entrevistas del Proyecto
+
+| Sección | Características del video | Sobre el contenido | Integración y entrega |
+|---------|----------------------------|-------------------|----------------------|
+| Needfinding Interviews | **Cantidad de videos:** 1 <br> **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQD4XfNDAkWJSamHpgQ0kIYYAX48PL4HmML8Mk_SDS7EYy4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mFIjw8 <br><br> **Nomenclatura:** upc-pre-202610-1asi0730-12144-lowcortisol-needfinding-sprint-1 <br><br> **Formato:** .mp4 | Consolida todas las entrevistas realizadas a los segmentos objetivo del sistema LowCortisol (usuarios residenciales y profesionales de infraestructura). Cada entrevista incluye información del entrevistado, segmento objetivo y fecha de realización. El contenido evidencia necesidades reales relacionadas con seguridad en tuberías de agua y gas, prevención de fugas, monitoreo en tiempo real y automatización de válvulas mediante IoT. Este material sirvió como base para la creación de User Personas, User Journey Mapping, Empathy Mapping y la definición de requerimientos del sistema. | Subir el video en Microsoft Stream o plataforma indicada por el docente. Incluir en el informe screenshot del video con enlace correspondiente. Añadir introducción a la sección, registro individual de entrevistas y análisis general de hallazgos cualitativos y cuantitativos obtenidos durante el proceso de investigación. |
 
 
  
