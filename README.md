@@ -3068,7 +3068,6 @@ detalla la distribución de roles para este primer ciclo:
 En esta sección se presentan los avances de implementación correspondientes al Sprint Review. A continuación, se detallan los commits realizados por el equipo.
 
 
-
 ### Commits del Proyecto
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -3089,6 +3088,7 @@ En esta sección se presentan los avances de implementación correspondientes al
 | Lowcortisol-LadingPage | section-about | 8486712 | feat: about section | Se desarrolló la sección "About" de la landing page. | 20/04/2026 |
 | Lowcortisol-LadingPage | main | e2b28de | init: project setup | Se realizó el commit inicial del proyecto con la configuración base. | 19/04/2026 |
 
+LINK URL TRELLO: https://trello.com/invite/b/69eac1f8457512a2f55d9699/ATTI0db4f1b2fac4ca47db5b72f302c1b7e9FDE35BBF/sprint-backlog-1-lowcortisol 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
