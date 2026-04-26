@@ -90,12 +90,51 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 
 - 
 
-### **Entrega TB1:**
-[text]
+### Entrega TB1:
 
-##### Participación por integrante:
+#### Participación por integrante:
 
-- 
+
+##### Commits en el project reportCommits en el project report de la TB1:
+
+<p align="center">
+  <img src="assets/md-images-members/Commits en el project report 1.jpeg" alt="Commits en el project report">
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/md-images-members/Commits en el project report 2.jpeg" alt="Commits en el project report">
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/md-images-members/Commits en el project report 3.jpeg" alt="Commits en el project report">
+</p>
+
+
+---
+
+<p align="center">
+  <img src="assets/md-images-members/Commits en el project report 4.jpeg" alt="Commits en el project report">
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/md-images-members/Commits en el project report 5.jpeg" alt="Commits en el project report">
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/md-images-members/Commits en el project report 6.jpeg" alt="Commits en el project report">
+</p>
+
+---
+
+
 
 # Contenido
 
@@ -228,8 +267,11 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 | Criterio Especifico | Acciones realizadas | Conclusiones |
 |--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br><br> James Delgado <br>TB1: En esta primera entrega se desarrollo nuestro proyecto definiendo nuestros segmento objetivos, diseño de entrevistas, usuarios y posibles competidores, permitiendome así poder realizar todo el Needfinding(UserPersona, User Task Matrix, Journey Mapping, Emphaty Mapping), para luego hacer el diagrama C4 del proyecto tanto backend como frontend, además de contribuir con secciones de la landing page (Header, Home, Contact y Footer) y el Event Storming.<br> TP1: <br> TB2: <br> TF1: <br><br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br><br> Bruno Montalvo <br> TB1: Participé en la explicación de los segmentos objetivo y en la discusión de las user stories, ayudando a que el equipo entienda claramente los requerimientos. También apoyé en la presentación de los beneficios del producto con un enfoque entendible para usuarios no técnicos.<br> TP1: <br> TB2: <br> TF1:<br><br> Kirk Quiliano <br> TB1: En esta primera entrega se desarrollo nuestro proyecto definiendo segmentos, usuarios y competidores; además realicé entrevistas y, en base a ellas, diseñé la landing page.<br> TP1: <br> TB2: <br> TF1: | TB1: En esta primera entrega (TB1), el equipo logró comunicar las ideas principales del proyecto de manera clara, especialmente al explicar la problemática, los segmentos de usuarios y la propuesta de valor. Se notó preparación previa y un buen entendimiento general del tema, lo que permitió que la presentación sea coherente. Sin embargo, aún hay aspectos por mejorar, como la fluidez al exponer, evitar pausas o repeticiones y mejorar la distribución del tiempo entre los integrantes. Para las siguientes entregas, será importante practicar más como equipo para lograr una comunicación más natural y segura frente a distintos tipos de audiencia. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br><br> James Delgado <br>TB1: Trabajé la comunicación escrita realizando el informe en markdown, además de los documentos de Needfinding, partes del Landing Page, conclusiones, modelo C4 y Event Storming, manteniendo un lenguaje comprensible.<br> TP1: <br> TB2: <br> TF1: <br><br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br><br> Bruno Montalvo <br> TB1: Desarrollé gran parte del Capítulo 1 (excepto la sección 1.3), incluyendo segmentos objetivo y contexto. Redacté user stories y technical stories, y mejoré el formato de user persona y otros artefactos UX. Además, apoyé en el sprint backlog, la sección de beneficios de la landing page y el Event Storming.<br> TP1: <br> TB2: <br> TF1:<br><br> Kirk Quiliano <br> TB1: Trabajé la comunicación escrita realizando el informe en markdown, además de los style guidelines y ubiquitous language, manteniendo un lenguaje entendible.<br> TP1: <br> TB2: <br> TF1: | TB1: Durante el TB1, el equipo desarrolló una documentación bastante completa y bien organizada, logrando transmitir tanto ideas técnicas como conceptos más generales de forma entendible. Se hizo un buen esfuerzo por mantener un lenguaje claro, especialmente en user stories, UX artifacts y la landing page. Sin embargo, aún se pueden mejorar aspectos como la concisión, evitar redundancias y mantener mayor consistencia en la redacción. En general, es un buen avance inicial y una base sólida para las siguientes entregas. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1: En esta primera entrega se desarrollo nuestro proyecto definiendo nuestros segmento objetivos, diseño de entrevistas, usuarios y posibles competidores, permitiendome así poder realizar todo el Needfinding(UserPersona, User Task Matrix, Journey Mapping, Emphaty Mapping) , para si luego poder hacer el diagrama C4 de nuestro proyecto tanto el backed como el frontend, además de contruibuir con dos secciones de nuestra landing page(Header, Home y Contact y Footer), añadiendo que hicimos el Event Storming<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br>Kirk Quiliano <br> TB1:En esta primera entrega se desarrollo nuestro proyecto definiedo nuestros segmentos, usuarios y posibles competidos, para esto realize entrevistas y basandome en las entrevistas diseñe nuestra landing page.<br> TP1: <br> TB2: <br> TF1:
+|	 |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1: Trabaje la comunicación escrita realizanod el informe en markdown, además de la realización de los informes para el Needfinding, Parte del Landing Page, conclsuiones del trabajo hecho, el modelo C4, el event storming, etc. Ayudando a amantener un lenguaje comprensible<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br>Kirk Quiliano <br> TB1: Trabaje la comunicación escrita realizando el informe en markdown, ademas de la realización de los informes de style guidelines, ubiqutous langueage, etc. Ayudando a mantener un lenguaje no tan tecnico y mas entendible.<br> TP1: <br> TB2: <br> TF1:|	 |
+
+
 # Capitulo I: Introducción
 
 ## 1.1. StartUp Profile
@@ -252,16 +294,16 @@ Buscamos brindar mayor seguridad, eficiencia y tranquilidad a las personas y neg
 
 ## Valores
 Nuestros valores principales son los siguientes:  
--Innovación: Uso de tecnología moderna para resolver problemas cotidianos de forma eficiente.  
--Seguridad: Priorizamos la protección de las personas, propiedades y negocios.  
--Responsabilidad: Promovemos el uso adecuado de recursos como el agua y el gas.  
--Colaboración: Valoramos el trabajo en equipo y la relación con usuarios y aliados estratégicos.  
--Calidad: Buscamos ofrecer un servicio confiable, estable y fácil de utilizar.
+- Innovación: Uso de tecnología moderna para resolver problemas cotidianos de forma eficiente.  
+- Seguridad: Priorizamos la protección de las personas, propiedades y negocios.  
+- Responsabilidad: Promovemos el uso adecuado de recursos como el agua y el gas.  
+- Colaboración: Valoramos el trabajo en equipo y la relación con usuarios y aliados estratégicos.  
+- Calidad: Buscamos ofrecer un servicio confiable, estable y fácil de utilizar.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 | **Nombre Completo del integrante** | 	**Descripcion de la carrera**                                    | **Fotografia**                                                | **Conocimientos y habilidades**
 |:-----------------------------------|:------------------------------------------------------------------|:--------------------------------------------------------------|:------------------------------------ |
-| Condori Torres, Miguel Anibal      | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="">                                                  | text
+| Condori Torres, Miguel Anibal      | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="assets/md-images-members/Miguel.PNG">                                                  | Soy Miguel Condori, estudiante de la carrera de ingeniería de software. Con conocimiento sólido en programación C ++ y conocimiento Intermedio en Java, Python, HTML, CSS y JS. Me considero creativo, cooperativo y responsable. Mi objetivo es crear una aplicación que pueda ayudar con la coyuntura del país.
 | Delgado Perez, James Caleb         | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="assets/md-images-members/James.jpeg">               | Soy estudiante de Ingeniería de Software y me apasiona la creación de productos digitales que simplifiquen procesos y ayuden a las personas a ahorrar tiempo para enfocarse en lo que realmente importa. Me motiva transformar problemas en soluciones prácticas, eficientes y con impacto real. Actualmente estoy fortaleciendo mis conocimientos en C#, y tengo experiencia con C++, HTML, CSS, JavaScript y Java, este último desarrollado durante el curso de Diseño y Patrones de Software. Me interesa especialmente el área de frontend, bases de datos y aplicativos web. Lo que más me motiva de este proyecto es que representa una gran oportunidad para incorporarme al mundo laboral, adquirir nuevos conocimientos y seguir fortaleciendo mi perfil profesional. Además, me considero una persona organizada, que aprende rápido y que trabaja bien en equipo. Fuera del ámbito académico y tecnológico, me gustan los deportes, y también encuentro en la programación y la música una forma de expresión y creatividad.
 | Loa Rojas, Jean Franck             | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="assets/md-images-members/Jean_Loa.jpg">             | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
 | Montalvo Vásquez, Bruno Rodrigo    | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="assets/md-images-members/bruno.png">       | Soy Bruno Rodrigo Montalvo Vásquez, estudiante de 5 ciclo de la carrera de Ingeniería de Software, estoy curioso y a la vez extasiado por aprender más sobre los temas futuros sobre mi carrera a su vez que también abierto a poder trabajar con profesionales de mi rubro académico para mejorar mis conocimientos.
@@ -2097,6 +2139,23 @@ Then el sistema muestra un resumen general
 
 <tr><td>TS20</td><td>API cambiar suscripción</td><td>Como Developer, quiero cambiar plan.</td><td>Given solicitud<br>When se procesa<br>Then se actualiza</td><td>EP07</td></tr>
 
+<tr><td>TS21</td><td>Configurar sistema de traducciones</td><td>Como Developer, quiero definir textos en múltiples idiomas.</td><td>Given que existen textos en la aplicación<br>When se configuran los archivos de idioma<br>Then el sistema puede mostrar contenido traducido</td><td>EP01</td></tr>
+
+<tr><td>TS22</td><td>Aplicar cambio dinámico de idioma</td><td>Como Developer, quiero actualizar el contenido sin recargar la página.</td><td>Given que el usuario cambia el idioma<br>When se ejecuta la acción<br>Then el sistema actualiza los textos dinámicamente</td><td>EP01</td></tr>
+
+<tr><td>TS23</td><td>Implementar sección de planes</td><td>Como Developer, quiero crear la estructura de la sección planes.</td><td>Given que el usuario accede a la landing<br>When navega a la sección planes<br>Then el sistema muestra la estructura correctamente</td><td>EP04</td></tr>
+
+<tr><td>TS24</td><td>Diseñar cards de planes</td><td>Como Developer, quiero mostrar planes con diseño visual.</td><td>Given que existen planes<br>When se renderiza la sección<br>Then el sistema muestra precios y beneficios</td><td>EP04</td></tr>
+
+<tr><td>TS25</td><td>Diseñar responsive layout</td><td>Como Developer, quiero adaptar la interfaz a distintos dispositivos.</td><td>Given diferentes tamaños de pantalla<br>When el usuario accede<br>Then el sistema ajusta el diseño correctamente</td><td>EP06</td></tr>
+
+<tr><td>TS26</td><td>Ajustar componentes responsive</td><td>Como Developer, quiero adaptar componentes a mobile.</td><td>Given que el usuario usa un dispositivo móvil<br>When visualiza la página<br>Then los componentes se adaptan correctamente</td><td>EP06</td></tr>
+
+<tr><td>TS27</td><td>Implementar navegación con anclas</td><td>Como Developer, quiero navegar entre secciones.</td><td>Given que existen secciones<br>When el usuario hace clic en el menú<br>Then el sistema navega a la sección correspondiente</td><td>EP06</td></tr>
+
+<tr><td>TS28</td><td>Implementar scroll suave</td><td>Como Developer, quiero mejorar la navegación.</td><td>Given que el usuario navega<br>When cambia de sección<br>Then el sistema aplica scroll suave</td><td>EP06</td></tr>
+
+<tr><td>TS29</td><td>Implementar menú responsive</td><td>Como Developer, quiero agregar menú hamburguesa.</td><td>Given que el usuario está en mobile<br>When abre el menú<br>Then el sistema muestra navegación adaptable</td><td>EP06</td></tr>
 </table>
 
 ## 3.2. Impact Mapping
@@ -2104,39 +2163,65 @@ Then el sistema muestra un resumen general
 ![Impact-Map-Image](assets/md-images-chapter3/Impact%20map-Aplicaciones_Web_2026(1).png)
 
 ## 3.3. Product Backlog
-| ID   | Tipo  | Título                         | Descripción                                                                 | Prioridad | Story Points | Epic |
-|------|------|--------------------------------|-----------------------------------------------------------------------------|----------|--------------|------|
-| EP01 | Epic | Gestión de usuarios            | Registro, acceso y administración de cuentas                               | Alta     | -            | -    |
-| US01 | US   | Registro de usuario            | Crear cuenta para acceder a la plataforma                                  | Alta     | 5            | EP01 |
-| US02 | US   | Inicio de sesión               | Acceder con credenciales                                                   | Alta     | 3            | EP01 |
-| US03 | US   | Recuperar contraseña           | Recuperar acceso mediante correo                                           | Media    | 5            | EP01 |
-| US04 | US   | Cerrar sesión                  | Finalizar sesión activa                                                    | Baja     | 1            | EP01 |
-| US05 | US   | Actualizar perfil              | Editar datos personales                                                    | Media    | 3            | EP01 |
-| EP02 | Epic | Monitoreo inteligente          | Supervisión de sensores y consumo                                          | Alta     | -            | -    |
-| US06 | US   | Visualizar estado en tiempo real | Ver consumo y estado de dispositivos                                      | Alta     | 8            | EP02 |
-| US07 | US   | Recibir alertas automáticas    | Notificaciones ante anomalías                                              | Alta     | 5            | EP02 |
-| US08 | US   | Historial de consumo           | Consultar registros históricos                                             | Media    | 5            | EP02 |
-| EP03 | Epic | Control y respuesta            | Acciones correctivas ante incidentes                                       | Alta     | -            | -    |
-| US09 | US   | Cerrar válvula remotamente     | Ejecutar acciones remotas en dispositivos                                  | Alta     | 8            | EP03 |
-| US10 | US   | Solicitar soporte técnico      | Generar solicitudes de ayuda                                               | Media    | 3            | EP03 |
-| EP04 | Epic | Gestión de Suscripciones       | Administración de planes y beneficios                                      | Alta     | -            | -    |
-| US11 | US   | Visualizar planes              | Consultar planes disponibles                                               | Alta     | 3            | EP04 |
-| US12 | US   | Suscribirse a un plan          | Contratar servicios premium                                                | Alta     | 8            | EP04 |
-| US13 | US   | Cambiar de plan               | Modificar suscripción                                                      | Media    | 5            | EP04 |
-| EP05 | Epic | Landing Page                   | Captación de usuarios                                                      | Media    | -            | -    |
-| US14 | US   | Ver propuesta de valor         | Entender beneficios del producto                                           | Alta     | 2            | EP05 |
-| US15 | US   | Navegar por secciones          | Explorar contenido informativo                                             | Media    | 2            | EP05 |
-| US16 | US   | Redirección a registro         | Ir al formulario desde landing                                             | Alta     | 1            | EP05 |
-| EP06 | Epic | Gestión Multiubicación         | Manejo de múltiples sedes                                                  | Media    | -            | -    |
-| US17 | US   | Registrar múltiples sedes      | Crear diferentes ubicaciones                                               | Media    | 5            | EP06 |
-| US18 | US   | Filtrar datos por sede         | Visualizar información específica                                          | Media    | 3            | EP06 |
-| US19 | US   | Ver resumen general            | Dashboard consolidado                                                      | Alta     | 5            | EP06 |
-| EP07 | Epic | API y Backend                 | Servicios RESTful                                                         | Alta     | -            | -    |
-| TS01 | TS   | API registrar usuario         | Endpoint para crear cuentas                                                | Alta     | 5            | EP07 |
-| TS02 | TS   | API obtener sensores          | Consultar estado de sensores                                               | Alta     | 5            | EP07 |
-| TS03 | TS   | API sensores por usuario      | Obtener sensores asociados                                                 | Alta     | 5            | EP07 |
-| TS04 | TS   | API generar alerta            | Registrar incidentes                                                       | Alta     | 3            | EP07 |
-| TS05 | TS   | API consultar historial       | Obtener datos históricos                                                   | Media    | 5            | EP07 |
+
+| ID | Tipo | Título | Descripción | Prioridad | Story Points | Epic |
+|----|------|--------|------------|----------|--------------|------|
+| EP01 | Epic | Gestión de usuarios | Registro, autenticación y gestión de cuentas de usuario | Alta | - | - |
+| US01 | US | Registro de usuario | Crear cuenta para acceder a la plataforma | Alta | 5 | EP01 |
+| US02 | US | Inicio de sesión | Acceder mediante credenciales | Alta | 3 | EP01 |
+| US03 | US | Recuperar contraseña | Recuperar acceso mediante correo electrónico | Media | 5 | EP01 |
+| US04 | US | Cerrar sesión | Finalizar sesión activa | Baja | 1 | EP01 |
+| US05 | US | Actualizar perfil | Editar información personal del usuario | Media | 3 | EP01 |
+| US06 | US | Cambiar idioma | Permitir cambio de idioma en la plataforma | Media | 2 | EP01 |
+| EP02 | Epic | Monitoreo inteligente | Supervisión en tiempo real de sensores y consumo | Alta | - | - |
+| US07 | US | Visualizar estado en tiempo real | Ver consumo y estado de dispositivos | Alta | 8 | EP02 |
+| US08 | US | Recibir alertas automáticas | Notificaciones ante anomalías | Alta | 5 | EP02 |
+| US09 | US | Historial de consumo | Consultar registros históricos | Media | 5 | EP02 |
+| EP03 | Epic | Control y soporte | Acciones correctivas y comunicación con soporte | Alta | - | - |
+| US10 | US | Cerrar válvula remotamente | Ejecutar acciones remotas en dispositivos | Alta | 8 | EP03 |
+| US11 | US | Contactar soporte | Enviar solicitudes o consultas al equipo técnico | Media | 3 | EP03 |
+| EP04 | Epic | Gestión de suscripciones | Administración de planes y servicios | Alta | - | - |
+| US12 | US | Visualizar planes | Consultar planes disponibles | Alta | 3 | EP04 |
+| US13 | US | Suscribirse a un plan | Contratar un plan premium | Alta | 8 | EP04 |
+| US14 | US | Cambiar de plan | Modificar suscripción activa | Media | 5 | EP04 |
+| US15 | US | Solicitar demo | Probar el servicio antes de suscribirse | Baja | 3 | EP04 |
+| EP05 | Epic | Gestión multiubicación | Manejo de múltiples ubicaciones o sedes | Media | - | - |
+| US17 | US | Registrar múltiples sedes | Crear diferentes ubicaciones | Media | 5 | EP05 |
+| US18 | US | Filtrar datos por sede | Visualizar información específica | Media | 3 | EP05 |
+| US19 | US | Ver resumen general | Dashboard consolidado de todas las sedes | Alta | 5 | EP05 |
+| EP06 | Epic | Experiencia Web | Navegación, accesibilidad y diseño responsive | Media | - | - |
+| US20 | US | Acceso multidispositivo | Uso desde distintos dispositivos | Media | 3 | EP06 |
+| US21 | US | Navegación entre secciones | Exploración intuitiva del sistema | Media | 2 | EP06 |
+| EP07 | Epic | API y Backend | Servicios RESTful y lógica del sistema | Alta | - | - |
+| TS01 | TS | API registrar usuario | Endpoint para creación de cuentas | Alta | 5 | EP07 |
+| TS02 | TS | API obtener sensores | Consultar estado de sensores | Alta | 5 | EP07 |
+| TS03 | TS | API sensores por usuario | Obtener sensores asociados | Alta | 5 | EP07 |
+| TS04 | TS | API generar alerta | Registrar incidentes | Alta | 3 | EP07 |
+| TS05 | TS | API historial | Obtener datos históricos | Media | 5 | EP07 |
+| TS06 | TS | API login | Autenticación de usuarios | Alta | 3 | EP07 |
+| TS07 | TS | API logout | Cierre de sesión | Media | 2 | EP07 |
+| TS08 | TS | API recuperar contraseña | Recuperación de acceso | Media | 3 | EP07 |
+| TS09 | TS | API registrar sensor | Registrar sensores en el sistema | Alta | 5 | EP07 |
+| TS10 | TS | API vincular sensor | Asociar sensor a usuario | Alta | 5 | EP07 |
+| TS11 | TS | API actualizar lectura | Actualizar datos de sensores | Alta | 3 | EP07 |
+| TS12 | TS | API desvincular sensor | Eliminar relación sensor-usuario | Media | 3 | EP07 |
+| TS13 | TS | API listar alertas | Consultar alertas generadas | Alta | 3 | EP07 |
+| TS14 | TS | API actualizar alerta | Modificar estado de alertas | Media | 3 | EP07 |
+| TS15 | TS | API configurar umbrales | Definir límites de sensores | Media | 3 | EP07 |
+| TS16 | TS | API reporte por fechas | Generar reportes filtrados | Media | 5 | EP07 |
+| TS17 | TS | API resumen consumo | Obtener métricas de consumo | Media | 5 | EP07 |
+| TS18 | TS | API consultar planes | Obtener planes disponibles | Alta | 3 | EP07 |
+| TS19 | TS | API activar suscripción | Activar plan de usuario | Alta | 5 | EP07 |
+| TS20 | TS | API cambiar suscripción | Modificar plan actual | Media | 5 | EP07 |
+| TS21 | TS | Sistema de traducciones | Definir textos en múltiples idiomas | Media | 3 | EP01 |
+| TS22 | TS | Cambio dinámico idioma | Actualizar contenido sin recarga | Media | 3 | EP01 |
+| TS23 | TS | Sección planes frontend | Crear estructura visual de planes | Media | 3 | EP04 |
+| TS24 | TS | Diseño de planes | Mostrar precios y beneficios | Media | 3 | EP04 |
+| TS25 | TS | Responsive layout | Adaptar interfaz a dispositivos | Media | 3 | EP06 |
+| TS26 | TS | Componentes responsive | Ajustar elementos visuales | Media | 3 | EP06 |
+| TS27 | TS | Navegación con anclas | Implementar navegación interna | Media | 2 | EP06 |
+| TS28 | TS | Scroll suave | Mejorar experiencia de navegación | Baja | 2 | EP06 |
+| TS29 | TS | Menú responsive | Implementar menú hamburguesa | Media | 3 | EP06 |
 
 # Capitulo IV: Product Design
 
@@ -2966,7 +3051,7 @@ A continuación, se presenta la tabla resumen del Sprint Planning 1:
 |  | Sprint Goal & User Stories |
 | Sprint 1 Goal | Desarrollar y desplegar una Landing Page funcional que presente la propuesta de valor del proyecto, incluyendo sus secciones principales y un diseño estructurado. Este objetivo se considerará cumplido cuando la página sea accesible mediante un metodo de despliegue que permita la navegación entre secciones sin errores y comunique claramente los beneficios del producto.
 | Sprint 1 Velocity | 10 Story Points |
-| Sum of Story Points | 5 Story Points |
+| Sum of Story Points | 10 Story Points |
 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
