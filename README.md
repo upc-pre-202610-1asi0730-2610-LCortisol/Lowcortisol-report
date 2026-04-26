@@ -2663,66 +2663,141 @@ IoT monitoring, gas leak detection, water safety sensors, smart pipeline monitor
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
-Los wireframes construidos para la web de LowCortisol representan 
-la arquitectura logica y funcional del sistema, priorizando la 
-accesibilidad de los controles de seguridad.
+Los wireframes de **LowCortisol** representan la estructura lógica y funcional de la aplicación, priorizando la organización de los elementos de interfaz, la claridad de navegación y la accesibilidad de las acciones principales del sistema. Estas vistas de baja fidelidad permiten identificar la distribución general de los componentes antes de su implementación visual definitiva, tanto en entorno web como móvil.
 
-Inicio: Pantalla de autenticacion diseñada para el acceso seguro de usuarios registrados mediante credenciales de correo y contraseña.
+#### 1. Pantalla de Inicio de Sesión
+* **Propósito:** Permitir el acceso seguro de usuarios registrados mediante credenciales de correo y contraseña.
+* **Elementos clave:** Selector de idioma, campos de correo y contraseña, botón de inicio de sesión y enlace para crear una nueva cuenta.
 
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Inicio.png" alt="Inicio-Aplication-Wireframe">
+  <img src="assets/md-images-chapter4/Application-Wireframe-Login.png" alt="Login-Web-Application-Wireframe" width="700">
 </p>
 
-Register: Formulario de captura de datos para nuevos usuarios que permite la segmentacion segun el tipo de cuenta (Hogar u Organizacion).
-
+<p align="center"><strong>Mobile version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Register.png" alt="Register-Aplication-Wireframe">
+  <img src="assets/md-images-chapter4/Mobile-Application-Wireframe-Login.png" alt="Login-Mobile-Application-Wireframe" width="260">
 </p>
 
-Dashboard: Panel principal que muestra el estado global de seguridad y las metricas en tiempo real de agua y gas con un boton de apagado de emergencia.
+---
 
+#### 2. Registro de Usuario
+* **Propósito:** Permitir el registro de nuevos usuarios dentro de la plataforma.
+* **Elementos clave:** Campos para nombre, correo electrónico, teléfono y contraseña, selector de tipo de cuenta, botón para crear la cuenta y enlace para volver al inicio de sesión.
+
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Dashboard.png" alt="Dashboard-Aplication-Wireframe">
+  <img src="assets/md-images-chapter4/Application-Wireframe-Register.png" alt="Register-Web-Application-Wireframe" width="700">
 </p>
 
-Alertas: Listado cronologico de notificaciones e incidentes detectados, permitiendo al usuario identificar rapidamente la ubicacion y severidad del evento.
-
+<p align="center"><strong>Mobile version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Alerts.png" alt="Alertas-Aplication-Wireframe">
+  <img src="assets/md-images-chapter4/Mobile-Application-Wireframe-Register.png" alt="Register-Mobile-Application-Wireframe" width="260">
 </p>
 
-Controls: Interfaz de gestion operativa para el accionamiento individual de valvulas y seleccion entre modo de control automatico o manual.
+---
 
+#### 3. Dashboard Principal (Home)
+* **Propósito:** Presentar una vista general del estado del sistema y de la actividad reciente del usuario.
+* **Elementos clave:** Tarjetas informativas de agua y gas, indicador de incidentes activos, resumen del sistema, acciones rápidas, incidentes recientes y notificaciones recientes.
+
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Controls.png" alt="Controls-Aplication-Wireframe">
+  <img src="assets/md-images-chapter4/Application-Wireframe-Home.png" alt="Home-Web-Application-Wireframe" width="700">
 </p>
 
-Profile: Seccion dedicada a la gestion de informacion personal del usuario, preferencias de la cuenta y opciones de cierre de sesion.
-
+<p align="center"><strong>Mobile version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Profile.png" alt="Profile-Aplication-Wireframe">
+  <img src="assets/md-images-chapter4/Mobile-Application-Wireframe-Home.png" alt="Home-Mobile-Application-Wireframe" width="260">
 </p>
 
-Devices: Modulo de administracion de hardware donde se monitorea el estado de bateria, señal y conectividad de cada sensor IoT vinculado.
+---
 
+#### 4. Gestión de Dispositivos
+* **Propósito:** Administrar los dispositivos registrados dentro de la red de monitoreo inteligente.
+* **Elementos clave:** Estado de los dispositivos, botón para agregar dispositivos y visualización del estado actual de la red o del contenido disponible.
+
+<p align="center"><strong>Web version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Devices.png" alt="Devices-Aplication-Wireframe">
+  <img src="assets/md-images-chapter4/Application-Wireframe-Devices.png" alt="Devices-Web-Application-Wireframe" width="700">
 </p>
 
-Reports: Visualizacion de datos historicos mediante graficas de consumo y herramientas para la exportacion de informes detallados en formato PDF.
-
+<p align="center"><strong>Mobile version</strong></p>
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-Wireframe-Reports.png" alt="History-Aplication-Wireframe">
+  <img src="assets/md-images-chapter4/Mobile-Application-Wireframe-Devices.png" alt="Devices-Mobile-Application-Wireframe" width="260">
 </p>
+
+---
+
+#### 5. Reportes de Consumo
+* **Propósito:** Visualizar el historial y análisis del consumo registrado en la plataforma.
+* **Elementos clave:** Resumen de reportes generados, totales de agua y gas, gráfico de tendencia de consumo, selector de rango temporal y sección de reportes generados.
+
+<p align="center"><strong>Web version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Wireframe-Reports.png" alt="Reports-Web-Application-Wireframe" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Wireframe-Reports.png" alt="Reports-Mobile-Application-Wireframe" width="260">
+</p>
+
+---
+
+#### 6. Centro de Alertas
+* **Propósito:** Gestionar incidentes detectados por el sistema y dar seguimiento a su estado operativo.
+* **Elementos clave:** Botón para crear incidentes, resumen de incidencias y tablero o historial de incidentes registrados.
+
+<p align="center"><strong>Web version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Wireframe-Alerts.png" alt="Alerts-Web-Application-Wireframe" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Wireframe-Alerts.png" alt="Alerts-Mobile-Application-Wireframe" width="260">
+</p>
+
+---
+
+#### 7. Perfil de Usuario
+* **Propósito:** Mostrar la información personal del usuario y los principales datos de su cuenta.
+* **Elementos clave:** Avatar o iniciales del usuario, nombre completo, correo electrónico, rol, resumen de la cuenta, accesos rápidos y opción de cierre de sesión.
+
+<p align="center"><strong>Web version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Application-Wireframe-Profile.png" alt="Profile-Web-Application-Wireframe" width="700">
+</p>
+
+<p align="center"><strong>Mobile version</strong></p>
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Wireframe-Profile.png" alt="Profile-Mobile-Application-Wireframe" width="260">
+</p>
+
+---
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (wireframes) necesarios para las esperadas expectativas de nuestros segmentos objetivo.
+En este apartado se presentan los wireflows de la aplicación **LowCortisol**, los cuales describen el flujo de navegación e interacción entre las principales pantallas del sistema. Estos diagramas permiten visualizar cómo el usuario recorre la aplicación desde el inicio de sesión hasta los módulos funcionales principales, tanto en la versión web de escritorio como en la versión móvil.
 
+#### Web Wireflow
+El wireflow de escritorio muestra la relación entre las pantallas principales de la aplicación web, incluyendo el acceso mediante **Login** y **Register**, y la navegación posterior hacia los módulos de **Home**, **Devices**, **Reports**, **Alerts** y **Profile**. Su propósito es representar de forma clara la estructura de navegación general del sistema y la continuidad entre las vistas principales.
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-Wireflow.png" alt="History-Aplication-Wireframe">
+  <img src="assets/md-images-chapter4/Application-Wireflow.png" alt="Application-Wireflow">
 </p>
+
+---
+
+#### Mobile Wireflow
+El wireflow móvil representa la lógica de navegación de la aplicación adaptada a dispositivos móviles. En este flujo se observa cómo el usuario puede acceder desde las pantallas de autenticación hacia las vistas principales del sistema, manteniendo una estructura coherente con la versión de escritorio, pero optimizada para una experiencia de uso en pantallas reducidas.
+
+<p align="center">
+  <img src="assets/md-images-chapter4/Mobile-Application-Wireflow.png" alt="Mobile-Application-Wireflow">
+</p>
+
+---
 
 ### 4.4.3. Web Applications Mock-ups
 
