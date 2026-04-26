@@ -228,8 +228,9 @@ A continuación, se detallan los repositorios utilizados a lo largo del proyecto
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 | Criterio Especifico | Acciones realizadas | Conclusiones |
 |--|--|--|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br> Kirk Quiliano <br> TB1: <br> TP1: <br> TB2: <br> TF1:|	 |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br> Kirk Quiliano <br> TB1: <br> TP1: <br> TB2: <br> TF1:|	 |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br>Kirk Quiliano <br> TB1:En esta primera entrega se desarrollo nuestro proyecto definiedo nuestros segmentos, usuarios y posibles competidos, para esto realize entrevistas y basandome en las entrevistas diseñe nuestra landing page.<br> TP1: <br> TB2: <br> TF1:
+|	 |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Miguel Condori <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> James Delgado <br>TB1:<br> TP1: <br> TB2: <br> TF1: <br> <br> Jean Loa <br> TB1: <br> TP1: <br> TB2: <br> TF1: <br> <br> Bruno Montalvo <br> TB1: <br> TP1: <br> TB2: <br> TF1:<br> <br>Kirk Quiliano <br> TB1: Trabaje la comunicación escrita realizando el informe en markdown, ademas de la realización de los informes de style guidelines, ubiqutous langueage, etc. Ayudando a mantener un lenguaje no tan tecnico y mas entendible.<br> TP1: <br> TB2: <br> TF1:|	 |
 
 
 # Capitulo I: Introducción
@@ -261,13 +262,13 @@ Nuestros valores principales son los siguientes:
 -Calidad: Buscamos ofrecer un servicio confiable, estable y fácil de utilizar.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| **Nombre Completo del integrante** |	**Descripcion de la carrera** | **Fotografia**                                          | **Conocimientos y habilidades**
-|:-----------------------------------|:------------------------------------ |:--------------------------------------------------------|:------------------------------------ |
-| Condori Torres, Miguel Anibal      |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="">                                            | text
-| Delgado Perez, James Caleb         |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas| <img src="assets/md-images-members/James.jpeg">         | Soy estudiante de Ingeniería de Software y me apasiona la creación de productos digitales que simplifiquen procesos y ayuden a las personas a ahorrar tiempo para enfocarse en lo que realmente importa. Me motiva transformar problemas en soluciones prácticas, eficientes y con impacto real. Actualmente estoy fortaleciendo mis conocimientos en C#, y tengo experiencia con C++, HTML, CSS, JavaScript y Java, este último desarrollado durante el curso de Diseño y Patrones de Software. Me interesa especialmente el área de frontend, bases de datos y aplicativos web. Lo que más me motiva de este proyecto es que representa una gran oportunidad para incorporarme al mundo laboral, adquirir nuevos conocimientos y seguir fortaleciendo mi perfil profesional. Además, me considero una persona organizada, que aprende rápido y que trabaja bien en equipo. Fuera del ámbito académico y tecnológico, me gustan los deportes, y también encuentro en la programación y la música una forma de expresión y creatividad.
-| Loa Rojas, Jean Franck             |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Jean_Loa.jpg">       | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
-| Montalvo Vásquez, Bruno Rodrigo    |Ingeniería de Software Universidad Peruana de Ciencias Aplicadas | <img src="assets/md-images-members/Bruno_Montalvo.jpg"> | Soy Bruno Rodrigo Montalvo Vásquez, estudiante de 5 ciclo de la carrera de Ingeniería de Software, estoy curioso y a la vez extasiado por aprender más sobre los temas futuros sobre mi carrera a su vez que también abierto a poder trabajar con profesionales de mi rubro académico para mejorar mis conocimientos.
-| Quiliano Motta, Kirk Douglas       |carrera| <img src="">                                            | text
+| **Nombre Completo del integrante** | 	**Descripcion de la carrera**                                    | **Fotografia**                                                | **Conocimientos y habilidades**
+|:-----------------------------------|:------------------------------------------------------------------|:--------------------------------------------------------------|:------------------------------------ |
+| Condori Torres, Miguel Anibal      | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="">                                                  | text
+| Delgado Perez, James Caleb         | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="assets/md-images-members/James.jpeg">               | Soy estudiante de Ingeniería de Software y me apasiona la creación de productos digitales que simplifiquen procesos y ayuden a las personas a ahorrar tiempo para enfocarse en lo que realmente importa. Me motiva transformar problemas en soluciones prácticas, eficientes y con impacto real. Actualmente estoy fortaleciendo mis conocimientos en C#, y tengo experiencia con C++, HTML, CSS, JavaScript y Java, este último desarrollado durante el curso de Diseño y Patrones de Software. Me interesa especialmente el área de frontend, bases de datos y aplicativos web. Lo que más me motiva de este proyecto es que representa una gran oportunidad para incorporarme al mundo laboral, adquirir nuevos conocimientos y seguir fortaleciendo mi perfil profesional. Además, me considero una persona organizada, que aprende rápido y que trabaja bien en equipo. Fuera del ámbito académico y tecnológico, me gustan los deportes, y también encuentro en la programación y la música una forma de expresión y creatividad.
+| Loa Rojas, Jean Franck             | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="assets/md-images-members/Jean_Loa.jpg">             | Soy Jean Franck Loa Rojas, estudiante de 5to ciclo de la carrera de Ingeniería de Software. Actualmente estoy abierto a oportunidades laborales para emplear mis conocimientos en programación y obtener experiencia trabajando de la mano con conocedores y profesionales de mi rubro académico. Estoy emocionado por todo lo que puede venir en el futuro, y las colaboraciones tecnológicas entre países para compartir conocimiento y prosperar una nación unida y pacífica.
+| Montalvo Vásquez, Bruno Rodrigo    | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="assets/md-images-members/Bruno_Montalvo.jpg">       | Soy Bruno Rodrigo Montalvo Vásquez, estudiante de 5 ciclo de la carrera de Ingeniería de Software, estoy curioso y a la vez extasiado por aprender más sobre los temas futuros sobre mi carrera a su vez que también abierto a poder trabajar con profesionales de mi rubro académico para mejorar mis conocimientos.
+| Quiliano Motta, Kirk Douglas       | Ingeniería de Software Universidad Peruana de Ciencias Aplicadas  | <img src="assets/md-images-members/Kirk.png">                 | Soy estudiante de quinto ciclo de Ingeniería de Software, apasionado por la evolución tecnológica y con un enfoque especializado en la Inteligencia Artificial. Mi formación se basa en el aprendizaje constante de nuevos frameworks, lenguajes de programación y el diseño de arquitecturas de software robustas. Me considero un perfil autodidacta, siempre en busca de implementar las últimas tendencias del sector para crear soluciones innovadoras y eficientes.
 
 ## 1.2 *Solution Profile*
 ### 1.2.1 Antecedentes y problemática
@@ -1826,7 +1827,7 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <tr>
 <td>EP01</td>
 <td>Gestión de usuarios</td>
-<td>Epic orientado al registro, acceso, recuperación y administración de cuentas de usuario.</td>
+<td>Epic orientado al registro, acceso y gestión de cuentas de usuario.</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -1834,8 +1835,8 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <tr>
 <td>US01</td>
 <td>Registro de usuario</td>
-<td>Como visitante, quiero crear una cuenta para acceder a la plataforma.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero registrarme en la plataforma para acceder a sus funcionalidades.</td>
+<td>Given que el usuario accede al formulario de registro<br>When ingresa sus datos correctamente<br>Then el sistema crea una cuenta de usuario</td>
 <td>EP01</td>
 </tr>
 
@@ -1843,158 +1844,150 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>US02</td>
 <td>Inicio de sesión</td>
 <td>Como usuario registrado, quiero iniciar sesión para acceder a mis funciones.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Given que el usuario ingresa sus credenciales<br>When son válidas<br>Then el sistema permite el acceso</td>
 <td>EP01</td>
 </tr>
 
 <tr>
 <td>US03</td>
 <td>Recuperar contraseña</td>
-<td>Como usuario, quiero recuperar mi contraseña para volver a ingresar a mi cuenta.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero recuperar mi contraseña para volver a acceder a mi cuenta.</td>
+<td>Given que el usuario solicita recuperación<br>When ingresa su correo<br>Then el sistema envía instrucciones de recuperación</td>
 <td>EP01</td>
 </tr>
 
 <tr>
 <td>US04</td>
 <td>Cerrar sesión</td>
-<td>Como usuario, quiero cerrar sesión para proteger mi cuenta en dispositivos compartidos.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero cerrar sesión para proteger mi cuenta.</td>
+<td>Given que el usuario está autenticado<br>When selecciona cerrar sesión<br>Then el sistema finaliza su sesión</td>
 <td>EP01</td>
 </tr>
 
 <tr>
 <td>US05</td>
 <td>Actualizar perfil</td>
-<td>Como usuario, quiero editar mis datos personales para mantener mi información actualizada.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero editar mis datos personales para mantenerlos actualizados.</td>
+<td>Given que el usuario accede a su perfil<br>When modifica sus datos<br>Then el sistema guarda los cambios</td>
+<td>EP01</td>
+</tr>
+
+<tr>
+<td>US06</td>
+<td>Cambiar idioma de la plataforma</td>
+<td>Como usuario, quiero cambiar el idioma del sistema para entender el contenido en mi idioma preferido.</td>
+<td>Given que el usuario visualiza la opción de idioma<br>When selecciona un idioma<br>Then el sistema actualiza el contenido al idioma seleccionado</td>
 <td>EP01</td>
 </tr>
 
 <tr>
 <td>EP02</td>
 <td>Monitoreo inteligente</td>
-<td>Epic orientado a supervisión de sensores, consumo y estado de instalaciones.</td>
+<td>Epic orientado a supervisión de sensores y consumo.</td>
 <td>-</td>
 <td>-</td>
-</tr>
-
-<tr>
-<td>US06</td>
-<td>Visualizar estado en tiempo real</td>
-<td>Como usuario, quiero ver el estado actual de agua y gas para detectar anomalías rápidamente.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP02</td>
 </tr>
 
 <tr>
 <td>US07</td>
-<td>Recibir alertas automáticas</td>
-<td>Como usuario, quiero recibir alertas inmediatas ante fugas o riesgos.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Visualizar estado en tiempo real</td>
+<td>Como usuario, quiero ver el estado actual de agua y gas para detectar anomalías.</td>
+<td>Given que el usuario accede al sistema<br>When consulta el panel<br>Then el sistema muestra datos en tiempo real</td>
 <td>EP02</td>
 </tr>
 
 <tr>
 <td>US08</td>
+<td>Recibir alertas automáticas</td>
+<td>Como usuario, quiero recibir alertas ante riesgos.</td>
+<td>Given que ocurre una anomalía<br>When se detecta<br>Then el sistema envía una alerta</td>
+<td>EP02</td>
+</tr>
+
+<tr>
+<td>US09</td>
 <td>Historial de consumo</td>
-<td>Como usuario, quiero revisar consumos anteriores para identificar excesos o patrones anormales.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero revisar consumos anteriores.</td>
+<td>Given que el usuario solicita historial<br>When selecciona un periodo<br>Then el sistema muestra los datos</td>
 <td>EP02</td>
 </tr>
 
 <tr>
 <td>EP03</td>
-<td>Control y respuesta</td>
-<td>Epic orientado a acciones correctivas y soporte ante incidentes.</td>
+<td>Control y soporte</td>
+<td>Epic orientado a acciones correctivas y comunicación con soporte.</td>
 <td>-</td>
 <td>-</td>
-</tr>
-
-<tr>
-<td>US09</td>
-<td>Cerrar válvula remotamente</td>
-<td>Como usuario con plan compatible, quiero cerrar una válvula remotamente para reducir riesgos.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP03</td>
 </tr>
 
 <tr>
 <td>US10</td>
-<td>Solicitar soporte técnico</td>
-<td>Como usuario, quiero solicitar ayuda técnica para resolver incidencias complejas.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Cerrar válvula remotamente</td>
+<td>Como usuario, quiero cerrar una válvula para reducir riesgos.</td>
+<td>Given que el usuario accede al control<br>When ejecuta la acción<br>Then el sistema cierra la válvula</td>
+<td>EP03</td>
+</tr>
+
+<tr>
+<td>US11</td>
+<td>Contactar con el equipo de soporte</td>
+<td>Como usuario, quiero contactar con los responsables de la plataforma para resolver dudas o solicitar información.</td>
+<td>Given que el usuario accede a la sección de contacto<br>When completa y envía el formulario<br>Then el sistema registra la solicitud<br>And muestra medios de contacto disponibles</td>
 <td>EP03</td>
 </tr>
 
 <tr>
 <td>EP04</td>
-<td>Gestión de Suscripciones y Planes</td>
-<td>Epic orientado a planes comerciales, beneficios y suscripciones.</td>
+<td>Planes y suscripciones</td>
+<td>Epic orientado a la gestión de planes.</td>
 <td>-</td>
 <td>-</td>
-</tr>
-
-<tr>
-<td>US11</td>
-<td>Visualizar planes disponibles</td>
-<td>Como visitante, quiero visualizar los planes disponibles para comparar beneficios y elegir el más adecuado.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP04</td>
 </tr>
 
 <tr>
 <td>US12</td>
-<td>Suscribirse a un plan</td>
-<td>Como usuario registrado, quiero contratar un plan para acceder a funciones premium.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Visualizar planes disponibles</td>
+<td>Como usuario, quiero ver los planes para elegir uno.</td>
+<td>Given que el usuario accede a la sección de planes<br>When visualiza opciones<br>Then el sistema muestra los planes con sus características y precios</td>
 <td>EP04</td>
 </tr>
 
 <tr>
 <td>US13</td>
+<td>Suscribirse a un plan</td>
+<td>Como usuario, quiero suscribirme a un plan para acceder a funciones premium.</td>
+<td>Given que el usuario selecciona un plan<br>When confirma la suscripción<br>Then el sistema registra el plan</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US14</td>
 <td>Cambiar de plan</td>
-<td>Como usuario suscrito, quiero cambiar de plan para adaptar el servicio a mis nuevas necesidades.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Como usuario, quiero cambiar de plan según mis necesidades.</td>
+<td>Given que el usuario tiene un plan activo<br>When selecciona otro<br>Then el sistema actualiza la suscripción</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US15</td>
+<td>Solicitar demostración del servicio</td>
+<td>Como usuario, quiero probar el servicio antes de suscribirme.</td>
+<td>Given que el usuario solicita una demo<br>When registra sus datos<br>Then el sistema guarda la solicitud</td>
+<td>EP04</td>
+</tr>
+
+<tr>
+<td>US16</td>
+<td>Visualizar soluciones según perfil</td>
+<td>Como usuario, quiero ver soluciones adaptadas a mi tipo de uso.</td>
+<td>Given que el usuario accede a soluciones<br>When revisa opciones<br>Then el sistema muestra opciones residenciales y empresariales</td>
 <td>EP04</td>
 </tr>
 
 <tr>
 <td>EP05</td>
-<td>Landing Page y Conversión</td>
-<td>Epic orientado al sitio público de captación de clientes.</td>
-<td>-</td>
-<td>-</td>
-</tr>
-
-<tr>
-<td>US14</td>
-<td>Ver propuesta de valor</td>
-<td>Como visitante, quiero entender rápidamente el beneficio principal del producto para decidir si me interesa.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP05</td>
-</tr>
-
-<tr>
-<td>US15</td>
-<td>Navegar por secciones informativas</td>
-<td>Como visitante, quiero revisar información del producto para conocer funcionalidades y beneficios.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP05</td>
-</tr>
-
-<tr>
-<td>US16</td>
-<td>Redirección a registro</td>
-<td>Como visitante, quiero registrarme desde la Landing Page para comenzar a usar la plataforma.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP05</td>
-</tr>
-
-<tr>
-<td>EP06</td>
-<td>Gestión Operativa Multiubicación</td>
-<td>Epic orientado a organizaciones con múltiples sedes, zonas o instalaciones.</td>
+<td>Gestión multi-sede</td>
+<td>Epic orientado a múltiples ubicaciones.</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -2002,24 +1995,60 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <tr>
 <td>US17</td>
 <td>Registrar múltiples sedes</td>
-<td>Como administrador de organización, quiero registrar varias sedes para monitorear diferentes instalaciones.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP06</td>
+<td>Como usuario, quiero registrar varias sedes.</td>
+<td>
+Given que el usuario registra una sede<br>
+When ingresa datos<br>
+Then el sistema la almacena
+</td>
+<td>EP05</td>
 </tr>
 
 <tr>
 <td>US18</td>
-<td>Filtrar datos por sede</td>
-<td>Como gestor operativo, quiero filtrar información por sede para analizar incidencias específicas.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP06</td>
+<td>Filtrar por sede</td>
+<td>Como usuario, quiero ver datos por sede.</td>
+<td>
+Given que el usuario selecciona una sede<br>
+When consulta datos<br>
+Then el sistema muestra información filtrada
+</td>
+<td>EP05</td>
 </tr>
 
 <tr>
 <td>US19</td>
-<td>Ver resumen general</td>
-<td>Como gestor operativo, quiero visualizar un resumen consolidado para tomar decisiones rápidas.</td>
-<td>Ver criterios definidos previamente.</td>
+<td>Resumen general</td>
+<td>Como usuario, quiero ver un resumen consolidado.</td>
+<td>
+Given que el usuario accede al dashboard<br>
+When consulta métricas<br>
+Then el sistema muestra un resumen general
+</td>
+<td>EP05</td>
+</tr>
+
+<tr>
+<td>EP06</td>
+<td>Experiencia Web</td>
+<td>Epic orientado a navegación y accesibilidad.</td>
+<td>-</td>
+<td>-</td>
+</tr>
+
+<tr>
+<td>US20</td>
+<td>Acceder desde múltiples dispositivos</td>
+<td>Como usuario, quiero usar la plataforma desde cualquier dispositivo.</td>
+<td>Given que el usuario accede desde cualquier dispositivo<br>When navega<br>Then el sistema adapta la interfaz correctamente</td>
+<td>EP06</td>
+</tr>
+
+<tr>
+<td>US21</td>
+<td>Navegar entre secciones</td>
+<td>Como usuario, quiero moverse entre secciones fácilmente.</td>
+<td>Given que el usuario selecciona una sección<br>When hace clic<br>Then el sistema muestra la sección correspondiente</td>
 <td>EP06</td>
 </tr>
 
@@ -2031,205 +2060,45 @@ del agua en hogares y negocios. Los términos están en inglés, con su equivale
 <td>-</td>
 </tr>
 
-<tr>
-<td>TS01</td>
-<td>API registrar usuario</td>
-<td>Como Developer, quiero consumir un endpoint de registro para crear cuentas desde clientes externos.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS01</td><td>API registrar usuario</td><td>Como Developer, quiero registrar usuarios mediante API.</td><td>Given que se envían datos válidos<br>When se procesa la solicitud<br>Then el sistema crea el usuario</td><td>EP07</td></tr>
 
-<tr>
-<td>TS02</td>
-<td>API obtener sensores</td>
-<td>Como Developer, quiero consultar lecturas de sensores mediante la API.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS02</td><td>API obtener sensores</td><td>Como Developer, quiero consultar sensores.</td><td>Given que se solicita información<br>When se procesa<br>Then el sistema retorna sensores</td><td>EP07</td></tr>
 
-<tr>
-<td>TS03</td>
-<td>API obtener sensores por usuario</td>
-<td>Como Developer, quiero obtener todos los sensores asociados a un usuario para que el frontend muestre los dispositivos conectados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS03</td><td>API sensores por usuario</td><td>Como Developer, quiero obtener sensores de un usuario.</td><td>Given que se envía ID usuario<br>When se consulta<br>Then retorna sensores asociados</td><td>EP07</td></tr>
 
-<tr>
-<td>TS04</td>
-<td>API generar alerta</td>
-<td>Como Developer, quiero registrar alertas mediante la API para almacenar incidentes y notificar eventos detectados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS04</td><td>API generar alerta</td><td>Como Developer, quiero registrar alertas.</td><td>Given que ocurre evento<br>When se envía alerta<br>Then el sistema la almacena</td><td>EP07</td></tr>
 
-<tr>
-<td>TS05</td>
-<td>API consultar historial</td>
-<td>Como Developer, quiero obtener el historial de consumo para que el frontend genere gráficas y reportes.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS05</td><td>API historial</td><td>Como Developer, quiero consultar historial.</td><td>Given que se solicita historial<br>When se procesa<br>Then retorna datos</td><td>EP07</td></tr>
 
-<tr>
-<td>TS06</td>
-<td>API iniciar sesión</td>
-<td>Como Developer, quiero autenticar usuarios mediante la API para permitir acceso seguro desde clientes web.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS06</td><td>API login</td><td>Como Developer, quiero autenticar usuarios.</td><td>Given credenciales<br>When son válidas<br>Then retorna acceso</td><td>EP07</td></tr>
 
-<tr>
-<td>TS07</td>
-<td>API cerrar sesión</td>
-<td>Como Developer, quiero invalidar la sesión actual mediante la API para cerrar acceso del usuario.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS07</td><td>API logout</td><td>Como Developer, quiero cerrar sesión.</td><td>Given sesión activa<br>When se solicita cierre<br>Then se invalida</td><td>EP07</td></tr>
 
-<tr>
-<td>TS08</td>
-<td>API recuperar contraseña</td>
-<td>Como Developer, quiero solicitar recuperación de contraseña mediante la API para restablecer acceso.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS08</td><td>API recuperar contraseña</td><td>Como Developer, quiero recuperación.</td><td>Given solicitud<br>When se procesa<br>Then envía recuperación</td><td>EP07</td></tr>
 
-<tr>
-<td>TS09</td>
-<td>API registrar sensor</td>
-<td>Como Developer, quiero registrar sensores nuevos mediante la API para integrarlos al sistema.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS09</td><td>API registrar sensor</td><td>Como Developer, quiero registrar sensores.</td><td>Given datos sensor<br>When se envía<br>Then se almacena</td><td>EP07</td></tr>
 
-<tr>
-<td>TS10</td>
-<td>API vincular sensor a usuario</td>
-<td>Como Developer, quiero asociar sensores a un usuario mediante la API para mostrar dispositivos asignados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS10</td><td>API vincular sensor</td><td>Como Developer, quiero vincular sensor.</td><td>Given IDs<br>When se procesa<br>Then se vincula</td><td>EP07</td></tr>
 
-<tr>
-<td>TS11</td>
-<td>API actualizar lectura de sensor</td>
-<td>Como Developer, quiero enviar nuevas lecturas mediante la API para mantener información en tiempo real.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS11</td><td>API actualizar lectura</td><td>Como Developer, quiero actualizar lecturas.</td><td>Given nueva lectura<br>When se envía<br>Then se guarda</td><td>EP07</td></tr>
 
-<tr>
-<td>TS12</td>
-<td>API desvincular sensor</td>
-<td>Como Developer, quiero quitar la relación entre un sensor y un usuario para reorganizar dispositivos.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS12</td><td>API desvincular sensor</td><td>Como Developer, quiero desvincular sensor.</td><td>Given solicitud<br>When se procesa<br>Then se elimina relación</td><td>EP07</td></tr>
 
-<tr>
-<td>TS13</td>
-<td>API listar alertas</td>
-<td>Como Developer, quiero consultar alertas registradas mediante la API para mostrarlas en el panel.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS13</td><td>API listar alertas</td><td>Como Developer, quiero listar alertas.</td><td>Given consulta<br>When se procesa<br>Then retorna alertas</td><td>EP07</td></tr>
 
-<tr>
-<td>TS14</td>
-<td>API marcar alerta como atendida</td>
-<td>Como Developer, quiero actualizar el estado de una alerta para reflejar su atención.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS14</td><td>API actualizar alerta</td><td>Como Developer, quiero actualizar alertas.</td><td>Given alerta<br>When se modifica<br>Then se actualiza</td><td>EP07</td></tr>
 
-<tr>
-<td>TS15</td>
-<td>API configurar umbrales</td>
-<td>Como Developer, quiero guardar límites de consumo o riesgo para personalizar detección de anomalías.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS15</td><td>API configurar umbrales</td><td>Como Developer, quiero configurar límites.</td><td>Given datos<br>When se envían<br>Then se guardan</td><td>EP07</td></tr>
 
-<tr>
-<td>TS16</td>
-<td>API reporte por fechas</td>
-<td>Como Developer, quiero consultar consumos por rango de fechas para generar reportes detallados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS16</td><td>API reporte por fechas</td><td>Como Developer, quiero reportes.</td><td>Given rango<br>When se consulta<br>Then retorna datos</td><td>EP07</td></tr>
 
-<tr>
-<td>TS17</td>
-<td>API resumen de consumo</td>
-<td>Como Developer, quiero obtener métricas resumidas para mostrar indicadores rápidos en el panel.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS17</td><td>API resumen consumo</td><td>Como Developer, quiero resumen.</td><td>Given solicitud<br>When se procesa<br>Then retorna métricas</td><td>EP07</td></tr>
 
-<tr>
-<td>TS18</td>
-<td>API consultar planes</td>
-<td>Como Developer, quiero obtener los planes disponibles para mostrarlos en la aplicación y Landing Page.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS18</td><td>API consultar planes</td><td>Como Developer, quiero obtener planes.</td><td>Given solicitud<br>When se consulta<br>Then retorna planes</td><td>EP07</td></tr>
 
-<tr>
-<td>TS19</td>
-<td>API activar suscripción</td>
-<td>Como Developer, quiero registrar una suscripción para habilitar beneficios premium al usuario.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS19</td><td>API activar suscripción</td><td>Como Developer, quiero activar suscripción.</td><td>Given datos<br>When se procesa<br>Then se activa</td><td>EP07</td></tr>
 
-<tr>
-<td>TS20</td>
-<td>API cambiar suscripción</td>
-<td>Como Developer, quiero modificar el plan activo del usuario para actualizar beneficios contratados.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS21</td>
-<td>API registrar sede</td>
-<td>Como Developer, quiero crear sedes mediante la API para organizaciones con múltiples ubicaciones.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS22</td>
-<td>API sensores por sede</td>
-<td>Como Developer, quiero consultar sensores asociados a una sede para mostrar información segmentada.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS23</td>
-<td>API dashboard general</td>
-<td>Como Developer, quiero obtener métricas consolidadas de varias sedes para paneles ejecutivos.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS24</td>
-<td>API registrar bitácora de eventos</td>
-<td>Como Developer, quiero guardar eventos importantes del sistema para auditoría y seguimiento.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
-
-<tr>
-<td>TS25</td>
-<td>API validar permisos</td>
-<td>Como Developer, quiero verificar permisos del usuario antes de ejecutar acciones restringidas.</td>
-<td>Ver criterios definidos previamente.</td>
-<td>EP07</td>
-</tr>
+<tr><td>TS20</td><td>API cambiar suscripción</td><td>Como Developer, quiero cambiar plan.</td><td>Given solicitud<br>When se procesa<br>Then se actualiza</td><td>EP07</td></tr>
 
 </table>
 
@@ -2793,7 +2662,7 @@ En este apartado mostramos el flujo operativo del prototipo de baja fidelidad (w
 
 
 <p align="center">
-  <img src="assets/md-images-chapter4/Application-Web-MockUp-Register.png.png" alt="Register-Application-MockUp">
+  <img src="assets/md-images-chapter4/Application-Web-MockUp-Register.png" alt="Register-Application-MockUp">
 </p>
 
 
@@ -2927,68 +2796,70 @@ The frontend class diagram represents the user interface structure and client-si
 
 ## 4.8. Database Design
 
-The LowCortisol application uses a relational database design focused on user account persistence and authentication. At the current stage of development, the system stores registered user information in a SQLite database through the `AppUser` entity. This design allows the application to persist essential account data such as name, email, phone number, encrypted password, and account type.
+La aplicación **LowCortisol** emplea un diseño de base de datos relacional orientado principalmente a la persistencia de cuentas de usuario y al proceso de autenticación. En la etapa actual del desarrollo, el sistema registra la información de los usuarios en una base de datos SQLite a través de la entidad `AppUser`. Esta estructura permite almacenar datos esenciales de cada cuenta, como el nombre, correo electrónico, número de teléfono, contraseña cifrada y tipo de usuario.
 
-The database design supports the registration and login processes, ensuring that user credentials are stored securely using password hashing instead of plain text passwords. In addition, the structure is simple and extensible, allowing future incorporation of other entities such as devices, valves, alerts, and reports if persistence for these modules is later required.
+Este diseño respalda las funcionalidades de registro e inicio de sesión, garantizando que las credenciales se almacenen de forma segura mediante técnicas de hash de contraseñas, en lugar de texto plano. Asimismo, la estructura actual fue planteada de manera simple pero escalable, de modo que en futuras etapas puedan añadirse nuevas entidades, como dispositivos, válvulas, alertas y reportes, en caso de que dichos módulos requieran persistencia de datos.
 
 ### 4.8.1. Database Diagrams
 
-The current database diagram of the system is centered on the `AppUser` table, which stores authentication and profile data for each registered user.
+El diagrama de base de datos actual del sistema se encuentra centrado en la tabla `AppUser`, la cual concentra la información relacionada con la autenticación y el perfil de cada usuario registrado.
 
 ![Database Diagram](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202610-1asi0730-2610-LCortisol/Lowcortisol-app/main/docs/database-diagram.puml)
 
-# Capitulo V: Product Implementation, Validation & Deployment
+# Chapter V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
 
-Software configuration management in the **LowCortisol** project was applied to ensure version control, environment consistency, traceability of changes, and collaborative development practices. This process made it possible to maintain the source code in an organized way, control modifications throughout the project lifecycle, and guarantee that the application could be built and executed under a defined development environment.
+La gestión de la configuración del software en el proyecto **LowCortisol** se aplicó con el propósito de asegurar el control de versiones, la consistencia del entorno de desarrollo, la trazabilidad de los cambios y la correcta colaboración entre los integrantes del equipo. Gracias a este proceso, fue posible mantener el código fuente de manera ordenada, supervisar las modificaciones realizadas durante el ciclo de vida del proyecto y garantizar que la aplicación pudiera compilarse y ejecutarse dentro de un entorno previamente definido.
 
 ### 5.1.1. Software Development Environment Configuration
 
-The development environment for **LowCortisol** was configured to support the implementation of a responsive web application based on **ASP.NET Core / Blazor**, following a layered structure with separate projects for domain, application, infrastructure, and web presentation.
+El entorno de desarrollo de **LowCortisol** fue preparado para soportar la construcción de una aplicación web responsiva basada en **ASP.NET Core / Blazor**, siguiendo una arquitectura por capas con proyectos independientes para dominio, aplicación, infraestructura y presentación web.
 
-The main tools and technologies used in the environment configuration were:
+Entre las principales herramientas y tecnologías utilizadas en esta configuración se encuentran:
 
-- **JetBrains Rider** as the main IDE for development and project management.
-- **.NET 9 SDK** as the framework and runtime for the application.
-- **ASP.NET Core Blazor** for the web user interface and interactive components.
-- **SQLite** for local data persistence, especially for authentication and account registration.
-- **Entity Framework Core** for database access and context management.
-- **Git** for local version control.
-- **GitHub** for remote repository hosting and source code synchronization.
-- **PlantUML** for generating software design diagrams such as class diagrams and database diagrams.
+- **JetBrains Rider** como entorno de desarrollo principal y herramienta de gestión del proyecto.
+- **.NET 9 SDK** como framework y entorno de ejecución de la aplicación.
+- **ASP.NET Core Blazor** para el desarrollo de la interfaz web y los componentes interactivos.
+- **SQLite** como sistema de persistencia local de datos, especialmente para el registro de usuarios y la autenticación.
+- **Entity Framework Core** para el acceso a la base de datos y la administración del contexto.
+- **Git** como sistema de control de versiones local.
+- **GitHub** como plataforma remota para alojar el repositorio y sincronizar el código fuente.
+- **PlantUML** para la elaboración de diagramas de diseño de software, como diagramas de clases y de base de datos.
 
-The project was structured as a multi-layer solution including the following main modules:
+El proyecto se organizó como una solución multicapa compuesta por los siguientes módulos principales:
 
 - `LowCortisol.Domain`
 - `LowCortisol.Application`
 - `LowCortisol.Infrastructure`
 - `LowCortisol.Web`
 
-This organization allowed the team to separate business entities, services, persistence concerns, and presentation logic, improving maintainability and scalability.
+Esta organización permitió separar claramente las entidades del negocio, los servicios de aplicación, las responsabilidades de persistencia y la lógica de presentación, favoreciendo así la mantenibilidad y la escalabilidad del sistema.
 
-In addition, the environment was configured with external packages and dependencies such as:
+Adicionalmente, el entorno incorporó paquetes y dependencias externas como:
 
 - `Microsoft.EntityFrameworkCore`
 - `Microsoft.EntityFrameworkCore.Sqlite`
 - `BCrypt.Net-Next`
 
-These dependencies were used to implement secure authentication, local database persistence, and password hashing.
+Estas dependencias fueron fundamentales para implementar mecanismos de autenticación segura, persistencia local de datos y cifrado de contraseñas mediante hashing.
 
 ### 5.1.2. Source Code Management
 
-Source code management for **LowCortisol** was carried out using **Git** as the distributed version control system and **GitHub** as the remote collaboration platform.
+La gestión del código fuente de **LowCortisol** se realizó mediante **Git** como sistema de control de versiones distribuido y **GitHub** como plataforma de colaboración remota.
 
-The repository was used to store and manage all project artifacts, including source code, documentation, diagrams, configuration files, and static resources. Git operations such as branch creation, commits, merges, fetch, pull, and push were used to maintain version traceability and support iterative development.
+El repositorio se utilizó para almacenar y administrar los distintos artefactos del proyecto, incluyendo código fuente, documentación, diagramas, archivos de configuración y recursos estáticos. A lo largo del desarrollo se emplearon operaciones de Git como creación de ramas, commits, merges, fetch, pull y push, con el fin de conservar la trazabilidad de los cambios y facilitar un proceso de desarrollo iterativo.
 
-The main repository workflow included:
+El flujo principal de trabajo del repositorio consideró las siguientes prácticas:
 
-- Creating branches for specific features or fixes.
-- Committing meaningful changes with descriptive messages.
-- Synchronizing the local repository with the remote repository in GitHub.
-- Maintaining the main branch as the stable integration branch.
-- Tracking project evolution through version history.
+- Crear ramas para nuevas funcionalidades o correcciones específicas.
+- Registrar cambios mediante commits con mensajes claros y descriptivos.
+- Mantener sincronizado el repositorio local con el repositorio remoto en GitHub.
+- Utilizar la rama principal como rama estable de integración.
+- Dar seguimiento a la evolución del proyecto a través del historial de versiones.
 
-This strategy allowed the team to preserve a clear history of changes, recover previous versions when necessary, and maintain a controlled evolution of the application throughout development.
+Esta estrategia permitió conservar un registro ordenado de los cambios realizados, recuperar versiones anteriores cuando fuera necesario y asegurar una evolución controlada del sistema durante todo el proceso de desarrollo.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 Se definen los estándares de codificación para garantizar la fiabilidad del sistema de monitoreo de agua y gas. La claridad en el código es fundamental para la gestión de alertas críticas y el control de dispositivos IoT.
@@ -3015,9 +2886,65 @@ Se definen los estándares de codificación para garantizar la fiabilidad del si
 * **Semántica HTML:** Uso obligatorio de etiquetas `<header>`, `<main>`, `<section>` y atributos `aria-label` para los tableros de control técnico.
 
 ### 5.1.4. Software Deployment Configuration
+
+Para la configuración del despliegue de la solución, se utilizó Git, un sistema de control de versiones distribuido que permite gestionar y rastrear los cambios en el código fuente, facilitando el trabajo colaborativo entre los miembros del equipo.
+
+Asimismo, se empleó GitHub, una plataforma que permite alojar repositorios en la nube, mantener el historial de versiones y gestionar la integración de cambios mediante herramientas como los pull requests.
+
+De esta manera, cada integrante puede trabajar de forma independiente mediante el uso de ramas, integrando posteriormente sus avances al repositorio principal.
+
+#### Despliegue de Landing Page
+
+La Landing Page fue desarrollada utilizando tecnologías web estándar como HTML, CSS y JavaScript, y su despliegue se realizó mediante GitHub Pages, un servicio de hosting gratuito para sitios web estáticos.
+
+##### Pasos de despliegue:
+
+1. Se creó el repositorio del proyecto en GitHub.  
+2. Se subió el código fuente de la Landing Page (HTML, CSS, JavaScript y recursos multimedia).  
+3. Se realizaron commits y se sincronizó el repositorio mediante Git (*add, commit, push*).  
+4. Se habilitó la opción GitHub Pages desde la configuración del repositorio, seleccionando la rama `main` porque es la versión estable del proyecto y la carpeta raíz (`/`).
+5. GitHub generó automáticamente una URL pública donde la Landing Page quedó desplegada.
+
+**Repositorio**
+
+https://github.com/upc-pre-202610-1asi0730-12144-LCortisol/Lowcortisol-LadingPage
+
+**URL desplegada**
+
+https://upc-pre-202610-1asi0730-12144-lcortisol.github.io/Lowcortisol-LadingPage/  
+
 ## 5.2. Landing Page, Services & Applications Implementation
+
+En esta sección se describe el proceso de implementación, pruebas, documentación y despliegue de los productos digitales desarrollados durante los Sprints. Para el presente avance, el Sprint 1 se enfoca en el desarrollo de la Landing Page, evidenciando tanto el progreso técnico como el trabajo colaborativo del equipo.
+
+
 ### 5.2.1. Sprint 1 
+
+Durante el Sprint 1, el equipo se enfocó en la implementación de la Landing Page del proyecto, desarrollando la estructura base, diseño visual y organización del contenido, alineados a la arquitectura de información definida previamente.
+
 #### 5.2.1.1. Sprint Planning 1
+
+El Sprint Planning permitió definir el alcance del Sprint, asignar responsabilidades y organizar las tareas necesarias para el desarrollo de la Landing Page. 
+
+A continuación, se presenta la tabla resumen del Sprint Planning 1:
+
+| Campo | Descripción |
+|:-----:|:-----------:|
+| Sprint # | Sprint 1 |
+| Sprint Planning Background | Desarrollo de la Landing Page |
+| Date | 2026-04-17 |
+| Time | 17:00 |
+| Location | Reunión virtual (Google Meet) |
+| Prepared By | Condori Torres, Miguel Anibal |
+| Attendees | Condori Torres, Miguel Anibal / Delgado Perez, James Caleb / Loa Rojas, Jean Franck / Montalvo Vasquez, Bruno Rodrigo / Quiliano Motta, Kirk Douglas |
+| Sprint 0 Review Summary | Durante inicio del desarrollo del proyecto se organizó el repositorio en GitHub y se establecieron las actividades para cada integrante, definiendo los requisitos iniciales de la Landing Page. |
+| Sprint 0 Retrospective Summary | Durante la fase inicial del proyecto, el equipo logró organizarse adecuadamente y establecer herramientas de trabajo colaborativo como Git y GitHub. Como aspecto positivo, se destaca la buena comunicación inicial y la correcta comprensión del alcance del proyecto. Como oportunidad de mejora, se identificó la necesidad de mejorar la planificación del tiempo y la asignación de responsabilidades para optimizar el desarrollo en los siguientes sprints.
+|  | Sprint Goal & User Stories |
+| Sprint 1 Goal | Desarrollar y desplegar una Landing Page funcional que presente la propuesta de valor del proyecto, incluyendo sus secciones principales y un diseño estructurado. Este objetivo se considerará cumplido cuando la página sea accesible mediante un metodo de despliegue que permita la navegación entre secciones sin errores y comunique claramente los beneficios del producto.
+| Sprint 1 Velocity | 10 Story Points |
+| Sum of Story Points | 5 Story Points |
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 Durante el Sprint 1, la ejecución del proyecto se estructuró bajo un modelo de 
@@ -3043,10 +2970,88 @@ detalla la distribución de roles para este primer ciclo:
 
 #### 5.2.1.3. Sprint Backlog 1. 
 #### 5.2.X.4. Development Evidence for Sprint Review
-#### 5.2.X.5. Execution Evidence for Sprint Review
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Completando el primer Sprint 1, logramos implementar todas las secciones correspondientes 
+de nuestra Landing Page implementando responsive dentro de esta. A continuación veremos cuales
+fueron nuestros avances atravez de capturas de pantalla.
+
+1. Sección Header: Aquí mostramos la barra de navegación de nuestro sitio
+   web.
+
+![Header-IMG](assets/md-images-chapter5/Header-Sección.png)
+
+2. Sección Inicio: Demostramos los planes que tiene nuestro proyecto
+
+![Inicio-IMG](assets/md-images-chapter5/Inicio-Sección.png)
+
+3. Sección Beneficio: Mostramos los beneficios respecto a otros competidores
+
+![Beneficio-IMG](assets/md-images-chapter5/Beneficio-Sección.png)
+git diff README.md
+4. Sección Funcionalidades: Se mustran las funcionalidades que posee nuestro proyecto
+
+![Funcionalidades-IMG](assets/md-images-chapter5/Funcionalidades-Sección.png)
+
+5. Sección Quien Somos: Figura la visión, mision y por que se deberia elegir a nuestro proyecto
+
+![QuienSomos-IMG](assets/md-images-chapter5/Quien_Somos-Sección.png)
+
+6. Sección Planes: Se muestran todos los planes disponibles
+
+![Planes1-IMG](assets/md-images-chapter5/Planes_1-Sección.png)
+
+![Planes2-IMG](assets/md-images-chapter5/Planes_2-Sección.png)
+
+7. Sección Contacto: Las opcciones de contacto que tiene el usuario para poder 
+acceder a mas información
+
+![Contacto-IMG](assets/md-images-chapter5/Contacto-Sección.png)
+
+8. Footer : El footer con mas información 
+
+![Footer-IMG](assets/md-images-chapter5/Footer-Sección.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Se ha excluido la sección correspondiente a la aplicación web, ya que únicamente se ha desarrollado la Landing Page. La información sobre la aplicación será presentada en una fase posterior del proyecto.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 1, se realizaron las actividades necesarias para el despliegue de la Landing Page del proyecto. Se utilizó GitHub como plataforma de control de versiones y GitHub Pages como servicio de hosting para la publicación del sitio web.
+
+En primer lugar, se creó el repositorio del proyecto en GitHub, donde se almacenó el código fuente de la Landing Page, desarrollado en HTML, CSS y JavaScript. Posteriormente, se organizó la estructura del proyecto incluyendo los archivos principales y recursos estáticos como imágenes e íconos.
+
+Luego, se realizaron commits periódicos mediante Git, permitiendo el seguimiento de los cambios y el trabajo colaborativo del equipo. Una vez finalizado el desarrollo inicial, se procedió a configurar el despliegue mediante GitHub Pages.
+
+Para ello, se accedió a la configuración del repositorio, se habilitó la opción GitHub Pages y se seleccionó la rama `main` junto con la carpeta raíz (`/`) como fuente del despliegue. Como resultado, la plataforma generó automáticamente una URL pública que permite acceder a la Landing Page.
+
+Finalmente, se verificó el correcto funcionamiento del sitio desplegado, comprobando la navegación entre secciones, la correcta carga de recursos y la adaptabilidad del diseño en distintos dispositivos.
+
+
+<p align="center">
+  <img src="assets/md-images-chapter5/Deployment Evidence.PNG" alt="Deployment Evidence using Git Pages">
+</p>
+
+#### URL del Deployment
+https://upc-pre-202610-1asi0730-12144-lcortisol.github.io/Lowcortisol-LadingPage/  
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 1, el equipo trabajó de manera colaborativa en el desarrollo e implementación de la Landing Page del proyecto. Para ello, se utilizó Git y GitHub como herramientas principales de control de versiones y coordinación del trabajo.
+
+Cada integrante del equipo participó activamente en el desarrollo mediante la creación de commits, lo que permitió llevar un seguimiento claro de las contribuciones individuales. Se empleó una estrategia de trabajo basada en ramas, donde cada miembro desarrolló funcionalidades específicas de manera independiente y posteriormente se integraron los cambios en la rama principal (`main`).
+
+El uso de GitHub facilitó la organización del trabajo, permitiendo visualizar el historial de cambios, identificar responsables por tarea y mantener la coherencia del código. Asimismo, se realizaron integraciones periódicas para evitar conflictos y asegurar la estabilidad del proyecto.
+
+Durante el Sprint, se evidenció una participación activa de todos los integrantes en la implementación de la Landing Page, incluyendo el desarrollo de la estructura HTML, estilos CSS, funcionalidades en JavaScript y la integración de contenido.
+
+<p align="center">
+  <img src="assets/md-images-chapter5/Team Collaboration Insights.PNG" alt="Team Collaboration Insights">
+</p>
+
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
